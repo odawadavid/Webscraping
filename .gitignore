@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter noise
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+
+# Data outputs (CRITICAL for your project)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
