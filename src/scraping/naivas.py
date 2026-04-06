@@ -16,7 +16,7 @@ def run_naivas():
         page = browser.new_page()
 
         page.goto('https://naivas.online/')
-        page.wait_for_selector("input[type='search']", timeout=15000)
+        page.wait_for_selector("input[type='search']", timeout=30000)
 
         for item in baskets:
             print(f"\n🔍 Searching for: {item}")
