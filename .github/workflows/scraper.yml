@@ -30,7 +30,7 @@ jobs:
 
       # 4. Create a directory to save files
       - name: Create data directories
-       run: mkdir -p data/raw
+        run: mkdir -p data/raw
 
       # 5. Run your scraper pipeline
       - name: Run scraper
