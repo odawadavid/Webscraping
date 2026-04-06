@@ -28,6 +28,10 @@ jobs:
           pip install playwright
           playwright install --with-deps
 
+     # 4. Create a directory to save files
+     - name: Create data directories
+       run: mkdir -p data/raw
+
       # 4. Run your scraper pipeline
       - name: Run scraper
         run: |
