@@ -13,7 +13,7 @@ def run_quickmart():
     all_products = []
 
     with sync_playwright() as playwright:
-        browser = playwright.chromium.launch(headless=False, slow_mo=500)
+        browser = playwright.chromium.launch(headless=True, slow_mo=500)
         context = browser.new_context(
             user_agent=(
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
