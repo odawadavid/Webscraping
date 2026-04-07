@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 import pandas as pd
 from pathlib import Path
 
-baskets = ['milk', 'sugar', 'bread', 'cooking oil', 'wheat flour', 'maize flour']
+baskets = ['milk', 'sugar', 'bread', 'rice', 'cooking oil', 'wheat flour', 'maize flour']
 
 def run_naivas():
 
@@ -12,7 +12,9 @@ def run_naivas():
     all_products = []
 
     with sync_playwright() as playwright:
-        browser = playwright.chromium.launch(headless=True, slow_mo=500)
+        browser = playwright.chromium.launch(headless=True, 
+                                            slow_mo=500,
+                                            args=["--no-sandbox", "--disable-dev-shm-usage"])
         page = browser.new_page()
 
         page.goto('https://naivas.online/')

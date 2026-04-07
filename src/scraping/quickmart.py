@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 import pandas as pd
 from pathlib import Path
 
-baskets = ['milk', 'sugar', 'bread', 'cooking oil', 'wheat flour', 'maize flour']
+baskets = ['milk', 'sugar', 'bread', 'rice', 'cooking oil', 'wheat flour', 'maize flour']
 
 
 def run_quickmart():
