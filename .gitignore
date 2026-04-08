@@ -19,3 +19,7 @@ Thumbs.db
 # png files
 debug_*.png
 *.png
+
+# html files
+debug_*.html
+naivas_debug.png
