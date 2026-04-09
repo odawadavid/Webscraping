@@ -1,25 +1,20 @@
 name: Daily Scraper
-
 on:
   schedule:
     - cron: "0 6 * * *"   # Runs daily at 6 AM UTC (9 AM Kenya time)
   workflow_dispatch:       # Allows manual trigger
-
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
-
     steps:
       # 1. Get your code
       - name: Checkout repository
         uses: actions/checkout@v4
-
       # 2. Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
-
       # 3. Install Python dependencies + Playwright
       - name: Install dependencies
         run: |
@@ -27,29 +22,41 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium
           playwright install-deps chromium
-
       # 4. Create data directories
       - name: Create data directories
-        run: mkdir -p data/raw
-
+        run: mkdir -p data/raw data/processed data/history data/analytics
       # 5. Run your scraper pipeline
       - name: Run scraper
         run: python main.py
-
-      # 6. Upload generated CSV files
+      # 6. Verify data was generated
+      - name: Check generated files
+        run: |
+          echo "=== Files in data/raw ==="
+          ls -lah data/raw/ || echo "No raw data"
+          echo "=== Files in data/processed ==="
+          ls -lah data/processed/ || echo "No processed data"
+          echo "=== Files in data/history ==="
+          ls -lah data/history/ || echo "No history data"
+          echo "=== Files in data/analytics ==="
+          ls -lah data/analytics/ || echo "No analytics data"
+      # 7. Upload generated CSV files (for backup)
       - name: Upload CSV results
         uses: actions/upload-artifact@v4
         with:
           name: scraped-data
-          path: |
-            *.csv
-            data/*.csv
-
-      # 7. Commit and push results
+          path: data/
+      # 8. Commit and push results
       - name: Commit and push results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.csv data/*.csv || true
-          git diff --quiet && git diff --staged --quiet || \
-            (git commit -m "chore: update scraped data $(date '+%Y-%m-%d')" && git push)
+          # Add all CSV files recursively from data directory
+          git add data/**/*.csv || true
+          # Check if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update scraped data $(date '+%Y-%m-%d %H:%M:%S UTC')"
+            git push
+            echo "✅ Data pushed successfully!"
+          
