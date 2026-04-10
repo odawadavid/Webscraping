@@ -9,8 +9,18 @@ __pycache__/
 .venv/
 env/
 
-# Data outputs (CRITICAL for your project)
-data/
+# # Ignore raw data folders, but track CSV files
+data/raw/*
+!data/raw/*.csv
+
+data/processed/*
+!data/processed/*.csv
+
+data/history/*
+!data/history/*.csv
+
+data/analytics/*
+!data/analytics/*.csv
 
 # OS files
 .DS_Store

@@ -50,13 +50,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # Add all CSV files recursively from data directory
-          git add data/**/*.csv || true
-          # Check if there are changes
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: update scraped data $(date '+%Y-%m-%d %H:%M:%S UTC')"
-            git push
-            echo "✅ Data pushed successfully!"
-          
+          git add data/**/*.csv || echo "No CSV files to add"
+          git commit -m "chore: update scraped data $(date '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          git push || echo "Push failed or no changes"
