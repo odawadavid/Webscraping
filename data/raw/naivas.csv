@@ -1,441 +1,510 @@
 date,search,name,current_price,old_price,link,source
-2026-04-10,milk,Brookside Dairybest Milk 500Ml,KES 57,KES 61,https://www.naivas.online/brookside-dairy-best-milk-500ml,Naivas
-2026-04-10,milk,Brookside Fresh Milk 500Ml Std,KES 68,No discount,https://www.naivas.online/brookside-fresh-milk-500ml-std,Naivas
-2026-04-10,milk,Daima Esl Bora 450Ml,KES 56,No discount,https://www.naivas.online/daima-esl-bora-500ml,Naivas
-2026-04-10,milk,Daima Esl Fresh Milk 500Ml,KES 59,No discount,https://www.naivas.online/daima-esl-fresh-milk-500ml,Naivas
-2026-04-10,milk,Ilara Fresh Milk 500Ml-Pouch,KES 60,No discount,https://www.naivas.online/ilara-fresh-milk-500ml-pouch,Naivas
-2026-04-10,milk,Lato Fino 500Ml Uht,KES 62,No discount,https://www.naivas.online/lato-fino-500ml-uht,Naivas
-2026-04-10,milk,Royal Esl Fresh Milk 500Ml,KES 54,No discount,https://www.naivas.online/royal-esl-fresh-milk-500ml,Naivas
-2026-04-10,milk,Fresha Whole Milk 5Ltr,KES 500,No discount,https://www.naivas.online/fresha-whole-milk-5ltr,Naivas
-2026-04-10,milk,Brookside Probiotic Strawberry 450 g,KES 167,No discount,https://www.naivas.online/brookside-probiotic-strawberry-yoghurt-450g,Naivas
-2026-04-10,milk,Brookside Probiotic Vanilla Yoghurt 250 g,KES 99,No discount,https://www.naivas.online/brookside-probiotic-vannila-yoghurt-250g,Naivas
-2026-04-10,milk,Brookside Probiotic Strawberry 250 g,KES 99,No discount,https://www.naivas.online/brookside-probiotic-strawberry-250g,Naivas
-2026-04-10,milk,Brookside Probiotic Vanilla Yoghurt 450 g,KES 167,No discount,https://www.naivas.online/brookside-probiotic-vannila-yoghurt-450g,Naivas
-2026-04-10,milk,Daima Uht Fino Bora 500Ml,KES 60,No discount,https://www.naivas.online/daima-uht-fino-bora-500-ml,Naivas
-2026-04-10,milk,Brookside Milk Powder 15G Satchet,KES 21,No discount,https://www.naivas.online/brookside-milk-powder-15g-satchet,Naivas
-2026-04-10,milk,Brookside Uht Milk 1 Ltr,KES 159,No discount,https://www.naivas.online/brookside-uht-milk-1-ltr,Naivas
-2026-04-10,milk,Brookside Uht Milk 250Ml,KES 42,No discount,https://www.naivas.online/brookside-uht-milk-250ml,Naivas
-2026-04-10,milk,Kara Uht Coconut Cream 65ml,KES 75,No discount,https://www.naivas.online/kara-uht-coconut-cream-65ml,Naivas
-2026-04-10,milk,Kara Uht Coconut Milk Classic 400ml,KES 350,No discount,https://www.naivas.online/kara-uht-coconut-milk-classic-400ml,Naivas
-2026-04-10,milk,Tuzo Uht Esl 450Ml,KES 52,No discount,https://www.naivas.online/tuzo-uht-esl-450ml,Naivas
-2026-04-10,milk,Tuzo Uht Whole 1Ltr,KES 149,No discount,https://www.naivas.online/tuzo-uht-whole-1ltr,Naivas
-2026-04-10,milk,Brookside Dairy Fresh Banana 250Ml 6 Pack,KES 420,No discount,https://www.naivas.online/brookside-banana-250ml-6pack,Naivas
-2026-04-10,milk,Brookside Dairy Fresh Bubble Gum 250Ml 6 Pack,KES 420,No discount,https://www.naivas.online/brookside-bubble-gum-250ml-6pk,Naivas
-2026-04-10,milk,Brookside Dairy Fresh Chocolate 250Ml 6 Pack,KES 420,No discount,https://www.naivas.online/brookside-chocolate-250ml-6pac,Naivas
-2026-04-10,milk,Brookside Dairy Fresh Coffee 250Ml 6Pack,KES 420,No discount,https://www.naivas.online/brookside-coffee-250ml-6pack,Naivas
-2026-04-10,milk,Brookside L/Life B/Gum 250Ml,KES 69,No discount,https://www.naivas.online/brookside-long-life-bubble-gum-250ml,Naivas
-2026-04-10,milk,Brookside L/Life Chocolate 250,KES 69,No discount,https://www.naivas.online/brookside-long-life-chocolate-250,Naivas
-2026-04-10,milk,Brookside L/Life Coffee 250Ml,KES 69,No discount,https://www.naivas.online/brookside-long-life-coffee-250ml,Naivas
-2026-04-10,milk,Brookside L/Life S/Berry 250Ml,KES 69,No discount,https://www.naivas.online/brookside-long-life-strawberry-250ml,Naivas
-2026-04-10,milk,Brookside L/Life Vanilla 250Ml,KES 69,No discount,https://www.naivas.online/brookside-long-life-vanilla-250ml,Naivas
-2026-04-10,milk,Brookside Milk Powder 250G Sachet,KES 329,No discount,https://www.naivas.online/brookside-milk-powder-250g-sachet,Naivas
-2026-04-10,milk,Brookside Milk Powder 450G Sachet,KES 550,No discount,https://www.naivas.online/brookside-milk-powder-450g-sachet,Naivas
-2026-04-10,milk,Brookside Dairy Fresh Vanilla 250Ml 6Pack,KES 420,No discount,https://www.naivas.online/brookside-vanilla-250ml-6pack,Naivas
-2026-04-10,milk,Miksi Milk Powder 240G Sachet,KES 330,No discount,https://www.naivas.online/miksi-milk-powder-240g-satch,Naivas
-2026-04-10,milk,Miksi Milk Powder 240G Tin,KES 400,No discount,https://www.naivas.online/miksi-milk-powder-240g-tin,Naivas
-2026-04-10,milk,Miksi Milk Powder 400Gm Tin,KES 630,No discount,https://www.naivas.online/miksi-milk-powder-400gm-tin,Naivas
-2026-04-10,milk,Miksi Milk Powder 450G Satchet,KES 610,No discount,https://www.naivas.online/miksi-milk-powder-450g-satchet,Naivas
-2026-04-10,milk,Miksi Milk Powder 90G Sachet,KES 120,No discount,https://www.naivas.online/miksi-milk-powder-90g-sachet,Naivas
-2026-04-10,milk,Tuzo Uht Whole 250Ml,KES 40,No discount,https://www.naivas.online/tuzo-uht-whole-250ml,Naivas
-2026-04-10,milk,Kara Uht Coconut Cream 200ml,KES 240,No discount,https://www.naivas.online/kara-uht-coconut-cream-200ml,Naivas
-2026-04-10,milk,Kara Uht Coconut Milk Classic 200ml,KES 200,No discount,https://www.naivas.online/kara-uht-coconut-milk-classic-200ml,Naivas
-2026-04-10,milk,Bio Uht Whole Milk Tetra Pack 1Ltr,KES 169,No discount,https://www.naivas.online/bio-uht-whole-milk-tetra-pack-1ltr,Naivas
-2026-04-10,milk,Vito Fino Milk 500Ml,KES 48,No discount,https://www.naivas.online/vito-fino-milk-500ml,Naivas
-2026-04-10,milk,Naivas Fino UHT Milk 500Ml,KES 49,KES 52,https://www.naivas.online/naivas-fino-uht-milk-500ml,Naivas
-2026-04-10,milk,Bio Fresh Semi Skimmed Milk 2 L,KES 299,No discount,https://www.naivas.online/-bio-fresh-semi-skimmed-milk-2-l,Naivas
-2026-04-10,milk,Mt. Kenya Fino 500Ml,KES 59,No discount,https://www.naivas.online/mt-kenya-fino-500ml,Naivas
-2026-04-10,milk,Brookside Lactose Free Milk 1Ltr,KES 159,No discount,https://www.naivas.online/brookside-lactose-free-milk-1ltr,Naivas
-2026-04-10,milk,Bio Fresh Whole Milk 2 L,KES 329,No discount,https://www.naivas.online/bio-fresh-whole-milk-2-l,Naivas
-2026-04-10,milk,Brookside Lactose Free 500Ml Fino,KES 77,No discount,https://www.naivas.online/brookside-lactose-free-500ml-fino,Naivas
-2026-04-10,milk,Brookside Low Fat Milk 250Ml,KES 42,No discount,https://www.naivas.online/brookside-low-fat-milk-250ml,Naivas
-2026-04-10,milk,Fresha Maisha L/Life Uht 250Ml,KES 30,No discount,https://www.naivas.online/fresha-maisha-long-life-uht-250ml,Naivas
-2026-04-10,milk,Fresha Maisha L/Life Uht 500Ml,KES 60,No discount,https://www.naivas.online/fresha-maisha-long-life-uht-500ml,Naivas
-2026-04-10,milk,Fresha Whole Milk Tca 200Ml,KES 28,No discount,https://www.naivas.online/fresha-whole-milk-tca-200ml,Naivas
-2026-04-10,milk,K.C.C Fresh W/Fino Milk 500Ml,KES 59,No discount,https://www.naivas.online/kcc-fresh-fino-milk-500ml,Naivas
-2026-04-10,milk,Kara Coconut Milk 400ml,KES 375,No discount,https://www.naivas.online/kara-coconut-milk-400ml,Naivas
-2026-04-10,milk,Mt.Kenya Prem Tfa/Fino Milk 500Ml,KES 59,No discount,https://www.naivas.online/mtkenya-prem-tfafino-milk-500ml,Naivas
-2026-04-10,milk,Mt.Kenya Uht Milk 500Ml Pouch,KES 57,No discount,https://www.naivas.online/mtkenya-uht-milk-500ml-pouch,Naivas
-2026-04-10,milk,Naivas F/Cream Milk 500Ml Pouch,KES 47,No discount,https://www.naivas.online/naivas-full-cream-milk-500ml-pouch,Naivas
-2026-04-10,milk,Royal Fresh Fino 500Ml,KES 55,No discount,https://www.naivas.online/royal-fresh-fino-500ml,Naivas
-2026-04-10,milk,Tuzo Fresh Milk 200Ml Tca,KES 32,No discount,https://www.naivas.online/tuzo-fresh-milk-200ml-tca,Naivas
-2026-04-10,milk,Tuzo Whole Milk 500Ml Fino,KES 60,No discount,https://www.naivas.online/tuzo-whole-milk-500ml-fino,Naivas
-2026-04-10,milk,Nu Ziwa Almond Unsweetened Milk 1LTR,KES 480,No discount,https://www.naivas.online/nu-ziwa-almond-unsweetened-milk-1ltr,Naivas
-2026-04-10,milk,Aptamil Growing Up Formula Milk 800G,"KES 3,900",No discount,https://www.naivas.online/aptamil-growing-up-formula-milk-800g,Naivas
-2026-04-10,milk,Nestle' Nan 3 Probiotic Milk 400g,"KES 1,960",No discount,https://www.naivas.online/nestle-nan-3-probiotic-milk-400g,Naivas
-2026-04-10,milk,Brookside Standard Fresh Milk 2Ltr,KES 259,No discount,https://www.naivas.online/brookside-fresh-milk-2ltr-std,Naivas
-2026-04-10,milk,Brookside Whole Milk 2Ltr,KES 259,No discount,https://www.naivas.online/brookside-whole-milk-2ltr,Naivas
-2026-04-10,milk,Bio Lactose Free Milk 500Ml,KES 145,No discount,https://www.naivas.online/bio-lactose-free-milk-500ml,Naivas
-2026-04-10,sugar,Economy Sugar White 5Kg,KES 699,No discount,https://www.naivas.online/economy-sugar-white-5kg,Naivas
-2026-04-10,sugar,Naivas Sugar White 5Kg,KES 699,No discount,https://www.naivas.online/naivas-sugar-white-5kg,Naivas
-2026-04-10,sugar,Mumias Sugar Packed 2 kg,KES 305,No discount,https://www.naivas.online/mumias-sugar-packed-2-kg,Naivas
-2026-04-10,sugar,Mumias Sugar Packed 1 kg,KES 155,No discount,https://www.naivas.online/mumias-sugar-packed-1-kg,Naivas
-2026-04-10,sugar,Clovers Brown Sugar With Molasses 500g,KES 145,No discount,https://www.naivas.online/clovers-brown-sugar-with-molasses-500g,Naivas
-2026-04-10,sugar,Kabras Packed Sugar White 1Kg,KES 155,No discount,https://www.naivas.online/kabras-packed-sugar-white-1kg,Naivas
-2026-04-10,sugar,Kabras Packed Sugar White 2Kg,KES 305,No discount,https://www.naivas.online/kabras-packed-sugar-white-2kg,Naivas
-2026-04-10,sugar,Naivas Local Sugar White 1Kg,KES 145,No discount,https://www.naivas.online/naivas-local-sugar-white-1kg,Naivas
-2026-04-10,sugar,Naivas Local Sugar White 2Kg,KES 289,No discount,https://www.naivas.online/naivas-local-sugar-white-2kg,Naivas
-2026-04-10,sugar,Nutrameal Packed Sugar White 2Kg,KES 305,No discount,https://www.naivas.online/nutrameal-packed-sugar-white-2kg,Naivas
-2026-04-10,sugar,Nutrameal Packed Sugar White 1Kg,KES 155,No discount,https://www.naivas.online/nutrameal-packed-sugar-white-1kg,Naivas
-2026-04-10,sugar,Nutrameal Packed Sugar 5Kg,KES 765,No discount,https://www.naivas.online/nutrameal-packed-sugar-5kg,Naivas
-2026-04-10,sugar,Economy White Sugar 2 Kg,KES 289,No discount,https://www.naivas.online/economy-white-sugar-2-kg,Naivas
-2026-04-10,sugar,Economy White Sugar 1 Kg,KES 145,No discount,https://www.naivas.online/Economy-White-Sugar-1-Kg,Naivas
-2026-04-10,sugar,Economy White Sugar 50'S,KES 129,No discount,https://www.naivas.online/economy-white-sugar-50s,Naivas
-2026-04-10,sugar,Economy White Sugar 25'S,KES 68,No discount,https://www.naivas.online/economy-white-sugar-25s,Naivas
-2026-04-10,sugar,Aspa Sweet Low-Calorie Sweetener 150 Pieces,KES 500,No discount,https://www.naivas.online/Aspa-Sweet-Low-Calorie-Sweetener-150-Pieces,Naivas
-2026-04-10,sugar,Aspa Sweet Low-Calorie Sweetener 450 Pieces,KES 846,No discount,https://www.naivas.online/aspa-sweet-low-calorie-sweetener-450-pieces,Naivas
-2026-04-10,sugar,Tropicana Stevia Diet Stick St,KES 785,No discount,https://www.naivas.online/Tropicana-Stevia-Diet-Stick-St,Naivas
-2026-04-10,bread,Fresh Wholemeal Bread 400G,KES 56,No discount,https://www.naivas.online/fm-wholemeal-bread-400g,Naivas
-2026-04-10,bread,Fm White Bread 600G,KES 88,No discount,https://www.naivas.online/fm-white-bread-600g,Naivas
-2026-04-10,bread,Festive Family Brown Bread 600g,KES 100,No discount,https://www.naivas.online/festive-family-brown-bread-600g,Naivas
-2026-04-10,bread,Festive Milky White Bread 800g,KES 130,No discount,https://www.naivas.online/festive-milky-white-bread-800g,Naivas
-2026-04-10,bread,Festive White Family Bread 600g,KES 100,No discount,https://www.naivas.online/festive-white-family-bread-600g,Naivas
-2026-04-10,bread,Fresh White Bread 400G,KES 56,No discount,https://www.naivas.online/fm-white-bread-400g,Naivas
-2026-04-10,bread,Fm White Bread 800Gm,KES 115,No discount,https://www.naivas.online/fm-white-bread-800gm,Naivas
-2026-04-10,bread,Fm Wholemeal Bread 600G,KES 88,No discount,https://www.naivas.online/fm-wholemeal-bread-600g,Naivas
-2026-04-10,bread,Fm Wholemeal Bread 800G,KES 115,No discount,https://www.naivas.online/fm-wholemeal-bread-800g,Naivas
-2026-04-10,bread,Broadways Brown Sliced Bread 400G,KES 65,No discount,https://www.naivas.online/broadways-brown-sliced-bread-400g,Naivas
-2026-04-10,bread,Broadway Brown Sandwich Sliced Bread 600G,KES 97,No discount,https://www.naivas.online/broadway-brown-sandwich-sliced-bread-600g,Naivas
-2026-04-10,bread,Broadways Premium Sliced Bread 400G,KES 65,No discount,https://www.naivas.online/broadways-premium-sliced-bread-400g,Naivas
-2026-04-10,bread,Broadways White Sliced Bread 400G,KES 65,No discount,https://www.naivas.online/broadways-white-sliced-bread-400g,Naivas
-2026-04-10,bread,Broadways White Sandwich Sliced Bread 600G,KES 97,No discount,https://www.naivas.online/broadways-white-sandwich-sliced-bread-600g,Naivas
-2026-04-10,bread,Festive Brown Bread 1.5Kg,KES 240,No discount,https://www.naivas.online/festive-brown-bread-1-5kg,Naivas
-2026-04-10,bread,Festive White Bread 400Gm,KES 63,No discount,https://www.naivas.online/festive-white-bread-400g,Naivas
-2026-04-10,bread,Festive Wholemeal Bread 400Gm,KES 65,No discount,https://www.naivas.online/festive-wholemeal-bread-400g,Naivas
-2026-04-10,bread,Supa Brown Barrel Bread 600g,KES 100,No discount,https://www.naivas.online/supa-brown-barrel-bread-600g,Naivas
-2026-04-10,bread,Supa Butter Toast Loaf 400Gm,KES 65,No discount,https://www.naivas.online/supa-loaf-butter-toast-bread-400g,Naivas
-2026-04-10,bread,Supa Loaf Family Bread 600g,KES 100,No discount,https://www.naivas.online/supa-loaf-family-bread-600g,Naivas
-2026-04-10,bread,Supa Loaf Sandwich Bread 1.5Kg,KES 240,No discount,https://www.naivas.online/supa-loaf-sandwich-bread-1-5kg,Naivas
-2026-04-10,bread,Supa Loaf White Bread 800g,KES 130,No discount,https://www.naivas.online/supa-loaf-white-bread-800g,Naivas
-2026-04-10,bread,Fresh Sweet Bread 400Gm,KES 54,No discount,https://www.naivas.online/fm-sweet-bread-400g,Naivas
-2026-04-10,bread,Broadways Four Square Bread 4Pcs 400G,KES 65,No discount,https://www.naivas.online/broadways-four-square-bread-4pcs-400g,Naivas
-2026-04-10,bread,Festive Tamu Tamu Bread 400Gm,KES 65,No discount,https://www.naivas.online/festive-tamu-tamu-bread-400gm,Naivas
-2026-04-10,bread,Supa Butter Toast Bread 1.5Kg,KES 240,No discount,https://www.naivas.online/supa-butter-toast-bread-1-5kg,Naivas
-2026-04-10,bread,Supa Butter Toast Bread 600G,KES 100,No discount,https://www.naivas.online/supa-butter-toast-bread-600g,Naivas
-2026-04-10,bread,Supa Loaf White Bread 400Gm Ct,KES 65,No discount,https://www.naivas.online/supa-loaf-white-bread-400gm-ct,Naivas
-2026-04-10,bread,Supa White Barrel Bread 400G,KES 65,No discount,https://www.naivas.online/supa-white-barrel-bread-400g,Naivas
-2026-04-10,bread,Festive Whole Bread 800G,KES 130,No discount,https://www.naivas.online/festive-whole-bread-800g,Naivas
-2026-04-10,rice,Cil Aromatic Blended Rice 2 Kg,KES 365,No discount,https://www.naivas.online/cil-aromatic-blended-rice-2-kg,Naivas
-2026-04-10,rice,Cil Aromatic Brown Rice 1Kg,KES 349,No discount,https://www.naivas.online/cil-aromatic-brown-rice-1kg,Naivas
-2026-04-10,rice,Cil Pishori Aromatic Rice 1Kg,KES 303,No discount,https://www.naivas.online/cil-pishori-aromatic-rice-1kg,Naivas
-2026-04-10,rice,Cil Pishori Aromatic Rice 2Kg,KES 604,No discount,https://www.naivas.online/cil-pishori-aromatic-rice-2kg,Naivas
-2026-04-10,rice,Cil Pishori Aromatic Rice 5Kg,"KES 1,499",No discount,https://www.naivas.online/cil-pishori-aromatic-rice-5kg,Naivas
-2026-04-10,rice,Daawat Aromatic Rice 1Kg,KES 299,No discount,https://www.naivas.online/daawat-aromatic-rice-1kg,Naivas
-2026-04-10,rice,Daawat Aromatic Rice 2Kg,KES 595,No discount,https://www.naivas.online/daawat-aromatic-rice-2kg,Naivas
-2026-04-10,rice,Daawat Aromatic Rice 5Kg,"KES 1,469",No discount,https://www.naivas.online/daawat-aromatic-rice-5kg,Naivas
-2026-04-10,rice,Daawat Basmati Rice 1Kg,KES 335,No discount,https://www.naivas.online/daawat-basmati-rice-1kg,Naivas
-2026-04-10,rice,Daawat Basmati Rice 2Kg,KES 665,No discount,https://www.naivas.online/daawat-basmati-rice-2kg,Naivas
-2026-04-10,rice,Daawat Basmati Rice 5Kg,"KES 1,649",No discount,https://www.naivas.online/daawat-basmati-rice-5kg,Naivas
-2026-04-10,rice,Daawat Basmatic Rice 25Kg,"KES 7,915",No discount,https://www.naivas.online/daawat-basmatic-rice-25kg,Naivas
-2026-04-10,rice,Daawat Biryani 5Kg,"KES 1,359",No discount,https://www.naivas.online/daawat-biryani-5kg,Naivas
-2026-04-10,rice,Daawat Biryani Rice 1Kg,KES 275,No discount,https://www.naivas.online/daawat-biryani-rice-1kg,Naivas
-2026-04-10,rice,Daawat Biryani Rice 2Kg,KES 549,No discount,https://www.naivas.online/daawat-biryani-rice-2kg,Naivas
-2026-04-10,rice,Daawat Brown Rice 1Kg,KES 360,No discount,https://www.naivas.online/daawat-brown-rice-1kg,Naivas
-2026-04-10,rice,Daawat Deli Basmati Rice 5 Kg,"KES 1,559",No discount,https://www.naivas.online/daawat-deli-basmati-rice-5-kg,Naivas
-2026-04-10,rice,Daawat Long Grain Rice 1 Kg,KES 175,No discount,https://www.naivas.online/daawat-long-grain-rice-1kg,Naivas
-2026-04-10,rice,Daawat Long Grain Rice 2Kg,KES 345,No discount,https://www.naivas.online/daawat-long-grain-rice-2kg,Naivas
-2026-04-10,rice,Daawat Long Grain Rice 5Kg,KES 855,No discount,https://www.naivas.online/daawat-long-grain-rice-5kg,Naivas
-2026-04-10,rice,Farmnaivas Pakistani Rice 1 Kg,KES 160,No discount,https://www.naivas.online/farmnaivas-pakistani-rice-1-kg,Naivas
-2026-04-10,rice,Farmnaivas Pishori Rice 2 Kg,KES 489,KES 530,https://www.naivas.online/farmnaivas-pishori-rice-2-kg,Naivas
-2026-04-10,rice,Farmnaivas Thailand Rice 1 Kg,KES 240,No discount,https://www.naivas.online/farmnaivas-thailand-rice-1-kg,Naivas
-2026-04-10,rice,Farmnaivas Thailand Rice 2 Kg,KES 399,KES 470,https://www.naivas.online/farmnaivas-thailand-rice-2-kg,Naivas
-2026-04-10,rice,Pearl Pishori Rice 10Kg,"KES 3,174",No discount,https://www.naivas.online/pearl-pishori-rice-10kg,Naivas
-2026-04-10,rice,Pearl Pishori Rice 1Kg,KES 323,No discount,https://www.naivas.online/pearl-pishori-rice-1kg,Naivas
-2026-04-10,rice,Pearl Pishori Rice 2Kg,KES 644,No discount,https://www.naivas.online/pearl-pishori-rice-2kg,Naivas
-2026-04-10,rice,Pearl Pishori Rice 5Kg,"KES 1,599",No discount,https://www.naivas.online/pearl-pishori-rice-5kg,Naivas
-2026-04-10,rice,Pearl Super Basmati Rice 1 Kg,KES 395,No discount,https://www.naivas.online/pearl-super-basmati-rice-1-kg,Naivas
-2026-04-10,rice,Pearl Super Basmati Rice 2 Kg,KES 785,No discount,https://www.naivas.online/pearl-super-basmati-rice-2kg,Naivas
-2026-04-10,rice,Pearl Super Basmati Rice 5 Kg,"KES 1,955",No discount,https://www.naivas.online/pearl-super-basmati-rice-5kg,Naivas
-2026-04-10,rice,Ranee Prem Basmati Rice 1 Kg,KES 375,No discount,https://www.naivas.online/ranee-prem-basmati-rice-1kg,Naivas
-2026-04-10,rice,Ranee Premium Basmati Rice 2Kg,KES 746,No discount,https://www.naivas.online/ranee-prem-basmati-rice-2kg,Naivas
-2026-04-10,rice,Ranee Premium Basmati Rice 5 Kg,"KES 1,855",No discount,https://www.naivas.online/ranee-premium-basmati-rice-5kg,Naivas
-2026-04-10,rice,Royal Umbrella Thai Jasmine Rice 2Kg,KES 999,No discount,https://www.naivas.online/royal-umbrella-thai-jasmine-rice-2kg,Naivas
-2026-04-10,rice,Priceless Biryani Rice 25 Kg,"KES 4,600",No discount,https://www.naivas.online/priceless-biryani-rice-25-kg,Naivas
-2026-04-10,rice,Sunrice Thai Jasmine Rice 2Kg,KES 684,KES 805,https://www.naivas.online/sunrice-thai-jasmine-rice-2kg,Naivas
-2026-04-10,rice,Sunrice Pishori Rice 5Kg,"KES 1,459",No discount,https://www.naivas.online/sunrice-mwea-pishori-5kg,Naivas
-2026-04-10,rice,Sunrice Pishori Rice 2Kg,KES 589,No discount,https://www.naivas.online/sunrice-mwea-pishori-2kg,Naivas
-2026-04-10,rice,Sunrice Long Grain Rice 5 Kg,KES 699,KES 920,https://www.naivas.online/sunrice-long-grain-rice-5-kg,Naivas
-2026-04-10,rice,Sunrice Long Grain Rice 2 Kg,KES 330,KES 375,https://www.naivas.online/sunrice-long-grain-rice-2-kg,Naivas
-2026-04-10,rice,Sunrice Long Grain Rice 1 Kg,KES 189,No discount,https://www.naivas.online/sunrice-long-grain-rice-1kg,Naivas
-2026-04-10,rice,Sunrice Biryani Rice 1Kg,KES 235,No discount,https://www.naivas.online/sunrice-biryani-rice-1kg,Naivas
-2026-04-10,rice,Sunrice Basmati Rice 5Kg,KES 999,"KES 1,825",https://www.naivas.online/sunrice-basmati-rice-5kg,Naivas
-2026-04-10,rice,Sunrice Basmati Rice 2Kg,KES 599,KES 699,https://www.naivas.online/sunrice-basmati-rice-2kg,Naivas
-2026-04-10,rice,Sunrice Basmati Rice 1Kg,KES 369,No discount,https://www.naivas.online/sunrice-basmati-rice-1kg,Naivas
-2026-04-10,rice,Sunrice Basmati Rice 10 Kg,"KES 3,220",No discount,https://www.naivas.online/sunrice-basmati-rice-10-kg,Naivas
-2026-04-10,rice,Sunrice All Day Basmati Rice 5 Kg,"KES 1,540",No discount,https://www.naivas.online/sunrice-all-day-basmati-rice-5-kg,Naivas
-2026-04-10,rice,Sunrice All Day Basmati Rice 2 Kg,KES 635,No discount,https://www.naivas.online/sunrice-all-day-basmati-rice-2-kg,Naivas
-2026-04-10,rice,Sunrice All Day Basmati Rice 1 Kg,KES 320,No discount,https://www.naivas.online/sunrice-all-day-basmati-rice-1-kg,Naivas
-2026-04-10,rice,S & S Pishori Rice 5Kg,"KES 1,479",No discount,https://www.naivas.online/s-s-pishori-rice-5kg,Naivas
-2026-04-10,rice,S & S Pishori Rice 2Kg,KES 595,No discount,https://www.naivas.online/s-s-pishori-rice-2kg,Naivas
-2026-04-10,rice,S & S Pishori Rice 1Kg,KES 305,No discount,https://www.naivas.online/s-s-pishori-rice-1kg,Naivas
-2026-04-10,rice,S & S Long Grain Rice 5Kg,KES 799,No discount,https://www.naivas.online/s-s-long-grain-rice-5kg,Naivas
-2026-04-10,rice,S & S Long Grain Rice 2Kg,KES 325,No discount,https://www.naivas.online/s-s-long-grain-rice-2kg,Naivas
-2026-04-10,rice,S & S Long Grain Rice 1Kg,KES 169,No discount,https://www.naivas.online/s-s-long-grain-rice-1kg,Naivas
-2026-04-10,rice,Royal Umbrella Thai Jasmine Rice 5Kg,"KES 2,450",No discount,https://www.naivas.online/royal-umbrella-thai-jasmine-rice-5kg,Naivas
-2026-04-10,rice,Naivas Pakistan Long Grain Rice 2Kg,KES 290,KES 320,https://www.naivas.online/naivas-pakistan-long-grain-rice-2kg,Naivas
-2026-04-10,rice,Naivas White Long Grain Rice 5Kg,KES 699,KES 800,https://www.naivas.online/naivas-white-long-grain-rice-5kg,Naivas
-2026-04-10,rice,Naivas Kenya Pishori Rice 1Kg,KES 265,No discount,https://www.naivas.online/naivas-kenya-pishori-rice-1kg,Naivas
-2026-04-10,rice,Naivas Biryani Rice 5Kg,KES 990,"KES 1,130",https://www.naivas.online/naivas-biryani-rice-5kg,Naivas
-2026-04-10,rice,Naivas Biryani Rice 2Kg,KES 399,KES 460,https://www.naivas.online/naivas-biryani-rice-2kg,Naivas
-2026-04-10,rice,Naivas Biryani Rice 1Kg,KES 230,No discount,https://www.naivas.online/naivas-biryani-rice-1kg,Naivas
-2026-04-10,rice,Kings Mps Long Grain Rice 2Kg,KES 369,No discount,https://www.naivas.online/kings-mps-long-grain-rice-2kg,Naivas
-2026-04-10,rice,Kcl Mwea Pishori Rice 5Kg,"KES 1,455",No discount,https://www.naivas.online/kcl-mwea-pishori-rice-5kg,Naivas
-2026-04-10,rice,Kcl Mwea Pishori Rice 2Kg,KES 585,No discount,https://www.naivas.online/kcl-mwea-pishori-rice-2kg,Naivas
-2026-04-10,rice,Kcl Mwea Pishori Rice 1Kg,KES 305,No discount,https://www.naivas.online/kcl-mwea-pishori-rice-1kg,Naivas
-2026-04-10,rice,Jamii Pure Mwea Pishori Rice 5Kg,KES 999,"KES 1,450",https://www.naivas.online/jamii-pure-mwea-pishori-rice-5kg,Naivas
-2026-04-10,rice,Jamii Pure Mwea Pishori Rice 2Kg,KES 489,KES 590,https://www.naivas.online/jamii-pure-mwea-pishori-rice-2kg,Naivas
-2026-04-10,rice,Jamii Pishori Rice 1Kg,KES 249,KES 300,https://www.naivas.online/jamii-pishori-rice-1kg,Naivas
-2026-04-10,rice,Farmnaivas Thailand Rice 5 Kg,KES 989,"KES 1,165",https://www.naivas.online/farmnaivas-thailand-rice-5-kg,Naivas
-2026-04-10,rice,Fit Choco Rice 100 gm,KES 155,No discount,https://www.naivas.online/fit-choco-rice-100-gm,Naivas
-2026-04-10,rice,Fit Choco Rice 400 gm,KES 435,No discount,https://www.naivas.online/fit-choco-rice-400-gm,Naivas
-2026-04-10,rice,Kellogg's Rice Krispies 375 g,"KES 1,030",No discount,https://www.naivas.online/kelloggs-rice-krispies-375-g,Naivas
-2026-04-10,rice,Morning Harvest Choco Rice 250g,KES 329,No discount,https://www.naivas.online/morning-harvest-choco-rice-250g,Naivas
-2026-04-10,rice,Morning Harvest Choco Rice Value 450g,KES 529,No discount,https://www.naivas.online/morning-harvest-choco-rice-value-450g,Naivas
-2026-04-10,rice,Morning Harvest Rice Crispies 250g,KES 399,No discount,https://www.naivas.online/morning-harvest-rice-crispies-250g,Naivas
-2026-04-10,rice,Morning Harvest Rice Crispies 450g,KES 599,No discount,https://www.naivas.online/morning-harvest-rice-crispies-450g,Naivas
-2026-04-10,rice,Temmy'S Choco Rice 250g,KES 420,No discount,https://www.naivas.online/temmys-choco-rice-250g,Naivas
-2026-04-10,rice,Tropical Heat Rice Cake Brown 100 g,KES 180,No discount,https://www.naivas.online/tropical-h-brown-rice-cake-100g,Naivas
-2026-04-10,rice,Tropical Heat Rice Cakes Cheese 165 g,KES 210,No discount,https://www.naivas.online/tropical-h-cheese-rice-cakes-165g,Naivas
-2026-04-10,rice,Tropical Heat Rice Cakes Salt & Vinegar Flavour 155g,KES 210,No discount,https://www.naivas.online/tropical-h-salt-vinegar-rice-cakes-155g,Naivas
-2026-04-10,rice,Daawat Long Grain Rice 25Kg,"KES 3,955",No discount,https://www.naivas.online/daawat-long-grain-rice-25kg,Naivas
-2026-04-10,rice,Falcon Himalayan Basmati Rice 5Kg,"KES 1,725",No discount,https://www.naivas.online/falcon-himalayan-basmati-rice-5kg,Naivas
-2026-04-10,rice,Jamii Brown Pishori Rice 1Kg,KES 300,No discount,https://www.naivas.online/jamii-brown-pishori-rice-1kg,Naivas
-2026-04-10,rice,Jamii Brown Rice 2Kg,KES 590,No discount,https://www.naivas.online/jamii-brown-rice-2kg,Naivas
-2026-04-10,rice,Kpl Long Grain Rice 5Kg,KES 675,No discount,https://www.naivas.online/kpl-long-grain-rice-5kg,Naivas
-2026-04-10,rice,Nice Brown Rice 2Kg,KES 520,No discount,https://www.naivas.online/nice-brown-rice-2kg,Naivas
-2026-04-10,rice,Nutrameal Kpl Long Grain Rice 1Kg,KES 165,No discount,https://www.naivas.online/nutrameal-kpl-long-grain-rice-1kg,Naivas
-2026-04-10,rice,Nutrameal Kpl Long Grain Rice 2Kg,KES 330,No discount,https://www.naivas.online/nutrameal-kpl-long-grain-rice-2kg,Naivas
-2026-04-10,rice,S&S Natural Brown Rice 1Kg,KES 339,No discount,https://www.naivas.online/s-s-natural-brown-rice-1kg,Naivas
-2026-04-10,rice,Morning Harvest Rice Crispes 250G,KES 479,No discount,https://www.naivas.online/morning-harvest-rice-crispes-250g-,Naivas
-2026-04-10,rice,Tango Long Grain Rice 1Kg,KES 175,No discount,https://www.naivas.online/tango-long-grain-rice-1kg,Naivas
-2026-04-10,rice,Tango Long Grain Rice 2Kg,KES 329,No discount,https://www.naivas.online/tango-long-grain-rice-2kg,Naivas
-2026-04-10,rice,Ranee Chef's Special Parboiled Basmati Rice 1 Kg,KES 355,No discount,https://www.naivas.online/ranee-chefs-special-parboiled-basmati-rice-1-kg,Naivas
-2026-04-10,rice,Ranee Chef's Special Parboiled Basmati Rice 2 Kg,KES 699,No discount,https://www.naivas.online/ranee-chef-s-special-parboiled-basmati-rice-2-kg,Naivas
-2026-04-10,rice,Ranee Chefs Special Parboiled Basmati Rice 5 Kg,"KES 1,725",No discount,https://www.naivas.online/ranee-chefs-special-parboiled-basmati-rice-5-kg,Naivas
-2026-04-10,rice,Winnie'S Pure Health Brown Rice 1Kg,KES 395,No discount,https://www.naivas.online/winnie-s-pure-health-brown-rice-1kg,Naivas
-2026-04-10,rice,Pearl Pulses Green Gram Polished 1Kg,KES 269,No discount,https://www.naivas.online/pearl-pulses-green-gram-polished-1kg,Naivas
-2026-04-10,rice,Sunrice Biryani 5Kg,KES 999,"KES 1,150",https://www.naivas.online/sunrice-biryani-5kg,Naivas
-2026-04-10,rice,Sunrice Biryani 2Kg,KES 399,KES 479,https://www.naivas.online/sunrice-biryani-2kg,Naivas
-2026-04-10,rice,Daawat Deli Basmati 1 Kg,KES 315,No discount,https://www.naivas.online/daawat-deli-basmati-1-kg,Naivas
-2026-04-10,rice,Daawat Deli Basmati 2 Kg,KES 630,No discount,https://www.naivas.online/daawat-deli-basmati-2-kg,Naivas
-2026-04-10,rice,Sunrice Mwea Pishori 1 Kg,KES 289,No discount,https://www.naivas.online/sunrice-mwea-pishori-1-kg,Naivas
-2026-04-10,rice,Kings M.P.S Mwea Super 5 Kg,KES 999,"KES 1,239",https://www.naivas.online/kings-m-p-s-mwea-super-5-kg,Naivas
-2026-04-10,rice,Kings M.P.S Mwea Super 2 Kg,KES 440,KES 499,https://www.naivas.online/kings-m-p-s-mwea-super-2-kg,Naivas
-2026-04-10,rice,Kings M.P.S Mwea Super 1 Kg,KES 249,No discount,https://www.naivas.online/kings-m-p-s-mwea-super-1-kg,Naivas
-2026-04-10,rice,Kings Daily Pishori 5 Kg,"KES 1,199",No discount,https://www.naivas.online/kings-daily-pishori-5-kg,Naivas
-2026-04-10,rice,Kings Daily Pishori 2 Kg,KES 489,No discount,https://www.naivas.online/kings-daily-pishori-2-kg,Naivas
-2026-04-10,rice,Kings Daily Pishori 1 Kg,KES 245,No discount,https://www.naivas.online/kings-daily-pishori-1-kg,Naivas
-2026-04-10,rice,Winnie'S Pure Health Pure Chamomile Tea 50g 25 Bags,KES 735,No discount,https://www.naivas.online/winnies-pure-health-pure-chamomile-tea-50g-25-bags,Naivas
-2026-04-10,rice,Elbbins Shapies Choco Cookies Hoops 350g,KES 520,No discount,https://www.naivas.online/elbbins-shapies-choco-cookies-hoops-350g,Naivas
-2026-04-10,rice,Falcon Himalaya Basmati 1Kg,KES 345,No discount,https://www.naivas.online/falcon-himalaya-basmati-1kg,Naivas
-2026-04-10,rice,Falcon Himalaya Basmati 2Kg,KES 690,No discount,https://www.naivas.online/falcon-himalaya-basmati-2kg,Naivas
-2026-04-10,cooking oil,Masterchef Cooking Oil 1Ltr,KES 319,No discount,https://www.naivas.online/masterchef-cooking-oil-1ltr,Naivas
-2026-04-10,cooking oil,Dola Cooking Oil 1Ltr,KES 319,No discount,https://www.naivas.online/dola-cooking-oil-1ltr,Naivas
-2026-04-10,cooking oil,Dola Cooking Oil 3Ltr,KES 899,No discount,https://www.naivas.online/dola-cooking-oil-3ltr,Naivas
-2026-04-10,cooking oil,Dola Cooking Oil 5Ltr,"KES 1,199","KES 1,419",https://www.naivas.online/dola-cooking-oil-5ltr,Naivas
-2026-04-10,cooking oil,Elianto Cooking Oil 20Ltr,"KES 10,150",No discount,https://www.naivas.online/elianto-cooking-oil-20ltr,Naivas
-2026-04-10,cooking oil,Masterchef Cooking Oil 5Ltr,"KES 1,419",No discount,https://www.naivas.online/masterchef-cooking-oil-5ltr,Naivas
-2026-04-10,cooking oil,Masterchef Cooking Oil 3Ltr,KES 799,KES 899,https://www.naivas.online/masterchef-cooking-oil-3ltr,Naivas
-2026-04-10,cooking oil,Flora Cooking Oil 3Ltr,"KES 1,067",No discount,https://www.naivas.online/flora-cooking-oil-3ltr,Naivas
-2026-04-10,cooking oil,Rina Vegetable Cooking Oil 10L,"KES 2,650",No discount,https://www.naivas.online/rina-vegetable-cooking-oil-10l,Naivas
-2026-04-10,cooking oil,Rina Vegetable Cooking Oil 20L,"KES 5,200",No discount,https://www.naivas.online/rina-vegetable-cooking-oil-20l,Naivas
-2026-04-10,cooking oil,Ufuta Vegetable Cooking Oil 20L,"KES 5,718",No discount,https://www.naivas.online/ufuta-vegetable-cooking-oil-20l,Naivas
-2026-04-10,cooking oil,Salit Vegetable Cooking Oil 3L,"KES 1,039",No discount,https://www.naivas.online/salit-vegetable-cooking-oil-3ltr,Naivas
-2026-04-10,cooking oil,Fresh Fri Vegetable Cooking Oil 20L,"KES 5,565",No discount,https://www.naivas.online/fresh-fri-vegetable-cooking-oil-20l,Naivas
-2026-04-10,cooking oil,Fresh Fri Vegetable Cooking Oil 10L,"KES 2,805",No discount,https://www.naivas.online/fresh-fri-vegetable-cooking-oil-10l,Naivas
-2026-04-10,cooking oil,Fresh Fri Cooking Oil 500Ml,KES 190,No discount,https://www.naivas.online/fresh-fri-cooking-oil-500ml,Naivas
-2026-04-10,cooking oil,Yello Gold Vegetable Cooking Fat 5Kg Carton,"KES 1,390",No discount,https://www.naivas.online/yello-gold-vegetable-cooking-fat-5kg-carton,Naivas
-2026-04-10,cooking oil,Yello Gold Vegetable Cooking Fat 10Kg Carton,"KES 2,750",No discount,https://www.naivas.online/yello-gold-vegetable-cooking-fat-10kg-carton,Naivas
-2026-04-10,cooking oil,Aidaou Cooking Oil Brush,KES 345,No discount,https://www.naivas.online/aidaou-cooking-oil-brush,Naivas
-2026-04-10,cooking oil,Mika 4G+2E Cooker Ff 10F Mst9042Wef10Hi-Mst90Pu42Hi-Hc,"KES 114,995",No discount,https://www.naivas.online/mika-4g+2e-cooker-ff-10f-mst9042wef10hi-mst90pu42hi-hc,Naivas
-2026-04-10,cooking oil,Kimbo Cooking Vegetable Fat 500g,KES 195,No discount,https://www.naivas.online/kimbo-cooking-vegetable-fat-500g,Naivas
-2026-04-10,cooking oil,Kimbo Cooking Vegetable Fat 2Kg,KES 740,No discount,https://www.naivas.online/kimbo-cooking-vegetable-fat-2kg,Naivas
-2026-04-10,cooking oil,Kimbo Cooking Vegetable Fat 1Kg,KES 380,No discount,https://www.naivas.online/kimbo-cooking-vegetable-fat-1kg,Naivas
-2026-04-10,cooking oil,Mallo Cooking Vegetable Fat 5Kg Carton,"KES 1,390",No discount,https://www.naivas.online/mallo-cooking-vegetable-fat-5kg-carton,Naivas
-2026-04-10,cooking oil,Mallo Cooking Vegetable Fat 10Kg Carton,"KES 2,750",No discount,https://www.naivas.online/mallo-cooking-vegetable-fat-10kg-carton,Naivas
-2026-04-10,cooking oil,Tily Pure White Cooking Fat 500g,KES 215,No discount,https://www.naivas.online/tily-pure-white-cooking-fat-500g,Naivas
-2026-04-10,cooking oil,Tily Pure White Cooking Fat 2Kg,KES 835,No discount,https://www.naivas.online/tily-pure-white-cooking-fat-2kg,Naivas
-2026-04-10,cooking oil,Tily Pure White Cooking Fat 1Kg,KES 425,No discount,https://www.naivas.online/tily-pure-white-cooking-fat-1kg,Naivas
-2026-04-10,cooking oil,Tily Pure White Cooking Fat 10Kg Carton,"KES 2,985",No discount,https://www.naivas.online/tily-pure-white-cooking-fat-10kg-carton,Naivas
-2026-04-10,cooking oil,Mpishi Poa Cooking Vegetable Fat 500g,KES 175,No discount,https://www.naivas.online/mpishi-poa-cooking-vegetable-fat-500g,Naivas
-2026-04-10,cooking oil,Mpishi Poa Cooking Vegetable Fat 2Kg,KES 700,No discount,https://www.naivas.online/mpishi-poa-cooking-vegetable-fat-2kg,Naivas
-2026-04-10,cooking oil,Mpishi Poa Cooking Vegetable Fat 1Kg,KES 350,No discount,https://www.naivas.online/mpishi-poa-cooking-vegetable-fat-1kg,Naivas
-2026-04-10,cooking oil,Kasuku Pure White Cooking Fat Cholesterol Free 500g,KES 220,No discount,https://www.naivas.online/kasuku-pure-white-cooking-fat-cholesterol-free-500g,Naivas
-2026-04-10,cooking oil,Kasuku Pure White Cooking Fat Cholesterol Free 2Kg,KES 845,No discount,https://www.naivas.online/kasuku-pure-white-cooking-fat-cholesterol-free-2kg,Naivas
-2026-04-10,cooking oil,Kasuku Pure White Cooking Fat Cholesterol Free 1Kg,KES 430,No discount,https://www.naivas.online/kasuku-pure-white-cooking-fat-cholesterol-free-1kg,Naivas
-2026-04-10,cooking oil,Fry Mate Cooking Fat 2Kg,KES 700,No discount,https://www.naivas.online/fry-mate-cooking-fat-2kg,Naivas
-2026-04-10,cooking oil,Fry Mate Cooking Fat 1Kg,KES 350,No discount,https://www.naivas.online/fry-mate-cooking-fat-1kg,Naivas
-2026-04-10,cooking oil,Chipsy Plus 3 Cooking Fat Pure Yellow 1Kg,KES 380,No discount,https://www.naivas.online/chipsy-plus-3-cooking-fat-pure-yellow-1kg,Naivas
-2026-04-10,cooking oil,Chipsy Plus 3 Cooking Fat Pure Yellow 2Kg,KES 740,No discount,https://www.naivas.online/chipsy-plus-3-cooking-fat-pure-yellow-2kg,Naivas
-2026-04-10,cooking oil,Chipsy Plus 3 Cooking Fat Pure Yellow 500g,KES 195,No discount,https://www.naivas.online/chipsy-plus-3-cooking-fat-pure-yellow-500g,Naivas
-2026-04-10,cooking oil,Cowboy Spesheli Cooking Fat 1Kg,KES 380,No discount,https://www.naivas.online/cowboy-spesheli-cooking-fat-1kg,Naivas
-2026-04-10,cooking oil,Cowboy Spesheli Cooking Fat 2Kg,KES 740,No discount,https://www.naivas.online/cowboy-spesheli-cooking-fat-2kg,Naivas
-2026-04-10,cooking oil,Cowboy Spesheli Cooking Fat 500g,KES 195,No discount,https://www.naivas.online/cowboy-spesheli-cooking-fat-500g,Naivas
-2026-04-10,cooking oil,Veebol Vegetable Cooking Fat 10Kg Carton,"KES 2,884",No discount,https://www.naivas.online/veebol-vegetable-cooking-fat-10kg-carton,Naivas
-2026-04-10,cooking oil,Pradip Lemon Oil 50Ml,KES 155,No discount,https://www.naivas.online/pradip-lemon-oil-50ml,Naivas
-2026-04-10,cooking oil,Pradip Orange Oil 50Ml,KES 245,No discount,https://www.naivas.online/pradip-orange-oil-50ml,Naivas
-2026-04-10,cooking oil,Pradip Peppermint Oil 50Ml,KES 275,No discount,https://www.naivas.online/pradip-peppermint-oil-50ml,Naivas
-2026-04-10,cooking oil,Mika 4G+1E Cooker Mst9041Weg6Bx,"KES 106,995",No discount,https://www.naivas.online/mika-4g+1e-cooker-mst9041weg6bx,Naivas
-2026-04-10,cooking oil,Midea 3Gas + 1 Electric Cooker 50X60 50E3G1H-Sl,"KES 39,995",No discount,https://www.naivas.online/midea-3g-1e-cooker-50-60-50e3g1h-sl,Naivas
-2026-04-10,cooking oil,Ramtons Digital Air Fryer 5.5 Litre RM/755,"KES 13,190",No discount,https://www.naivas.online/ramtons-digital-air-fryer-55-litre-rm755,Naivas
-2026-04-10,cooking oil,Rina Vegetable Oil 2L,KES 680,No discount,https://www.naivas.online/rina-vegetable-oil-2l,Naivas
-2026-04-10,cooking oil,Rina Vegetable Oil 3L,"KES 1,060",No discount,https://www.naivas.online/rina-vegetable-oil-3l,Naivas
-2026-04-10,cooking oil,Fresh Fri Vegetable Oil 1L,KES 350,No discount,https://www.naivas.online/fresh-fri-cooking-oil-1ltr,Naivas
-2026-04-10,cooking oil,Avena Vegetable Oil 10L,"KES 2,780",No discount,https://www.naivas.online/avena-vegetable-oil-10l,Naivas
-2026-04-10,cooking oil,Avena Vegetable Oil 1L,KES 355,No discount,https://www.naivas.online/avena-vegetable-cooking-oil-1ltr,Naivas
-2026-04-10,cooking oil,Avena Vegetable Oil 2L,KES 690,No discount,https://www.naivas.online/avena-vegetable-oil-2l,Naivas
-2026-04-10,cooking oil,Avena Vegetable Oil 3L,"KES 1,025",No discount,https://www.naivas.online/avena-vegetable-oil-3l,Naivas
-2026-04-10,cooking oil,Avena Vegetable Oil 5L,"KES 1,610",No discount,https://www.naivas.online/avena-vegetable-oil-5l,Naivas
-2026-04-10,cooking oil,Pika Vegetable Oil 10L,"KES 2,680",No discount,https://www.naivas.online/pika-vegetable-cooking-oil-10ltr,Naivas
-2026-04-10,cooking oil,Pika Vegetable Oil 20L,"KES 5,340",No discount,https://www.naivas.online/pika-vegetable-cooking-oil-20ltr,Naivas
-2026-04-10,cooking oil,Rina Vegetable Oil 1L,KES 350,No discount,https://www.naivas.online/rina-vegetable-cooking-oil-1ltr,Naivas
-2026-04-10,cooking oil,Rina Vegetable Oil 500Ml,KES 230,No discount,https://www.naivas.online/rina-vegetable-oil-500ml,Naivas
-2026-04-10,cooking oil,Rina Vegetable Oil 5L,"KES 1,499","KES 1,600",https://www.naivas.online/rina-vegetable-oil-5l,Naivas
-2026-04-10,cooking oil,Ufuta Vegetable Oil 5L,"KES 1,575",No discount,https://www.naivas.online/ufuta-vegetable-oil-5l,Naivas
-2026-04-10,cooking oil,Pika Pure Vegetable Oil 2L,KES 675,No discount,https://www.naivas.online/pika-pure-vegetable-oil-2l,Naivas
-2026-04-10,cooking oil,Pika Pure Vegetable Oil 3L,"KES 1,000",No discount,https://www.naivas.online/pika-pure-vegetable-oil-3l,Naivas
-2026-04-10,cooking oil,Pika Pure Vegetable Oil 5L,"KES 1,560",No discount,https://www.naivas.online/pika-pure-vegetable-oil-5l,Naivas
-2026-04-10,cooking oil,Kimbo Premium Vegetable Oil 5L,"KES 1,540",No discount,https://www.naivas.online/kimbo-premium-vegetable-oil-5l,Naivas
-2026-04-10,cooking oil,Kimbo Premium Vegetable Oil 3L,"KES 1,000",No discount,https://www.naivas.online/kimbo-premium-vegetable-oil-3l,Naivas
-2026-04-10,cooking oil,Kimbo Premium Vegetable Oil 2L,KES 715,No discount,https://www.naivas.online/kimbo-premium-vegetable-oil-2l,Naivas
-2026-04-10,cooking oil,Kimbo Premium Vegetable Oil 1L,KES 380,No discount,https://www.naivas.online/kimbo-premium-vegetable-oil-1l,Naivas
-2026-04-10,cooking oil,Golden Fry Vegetable Oil 3L,"KES 1,050",No discount,https://www.naivas.online/golden-fry-vegetable-oil-3l,Naivas
-2026-04-10,cooking oil,Golden Fry Vegetable Oil 20L,"KES 5,576",No discount,https://www.naivas.online/golden-fry-vegetable-oil-20l,Naivas
-2026-04-10,cooking oil,Golden Fry Vegetable Oil 1L,KES 360,No discount,https://www.naivas.online/golden-fry-vegetable-oil-1l,Naivas
-2026-04-10,cooking oil,Fresh Fri Vegetable Oil 5L,"KES 1,299","KES 1,600",https://www.naivas.online/fresh-fri-vegetable-oil-5l,Naivas
-2026-04-10,cooking oil,Fresh Fri Vegetable Oil 3L,KES 819,"KES 1,060",https://www.naivas.online/fresh-fri-vegetable-oil-3l,Naivas
-2026-04-10,cooking oil,Fresh Fri Vegetable Oil 2L,KES 549,KES 680,https://www.naivas.online/fresh-fri-cooking-oil-2ltr,Naivas
-2026-04-10,cooking oil,Golden Drop Vegetable Oil 1Ltr,KES 315,No discount,https://www.naivas.online/golden-drop-vegetable-oil-1ltr,Naivas
-2026-04-10,cooking oil,Golden Drop Vegetable Oil 5Ltr,"KES 1,399",No discount,https://www.naivas.online/golden-drop-vegetable-oil-5ltr,Naivas
-2026-04-10,cooking oil,Golden Fry 500Ml,KES 200,No discount,https://www.naivas.online/golden-fry-500ml,Naivas
-2026-04-10,cooking oil,Kentaste Coconut Oil 400ml,KES 704,No discount,https://www.naivas.online/kentaste-coconut-oil-400ml,Naivas
-2026-04-10,cooking oil,Parachute Coconut Oil 500Ml,KES 775,No discount,https://www.naivas.online/parachute-coconut-oil-500ml,Naivas
-2026-04-10,cooking oil,Sea Korus Sardines In Vegetable Oil 155g,KES 200,No discount,https://www.naivas.online/sea-korus-sardines-in-vegetable-oil-155g,Naivas
-2026-04-10,cooking oil,Brookside Cooking Cream 400Ml,KES 345,No discount,https://www.naivas.online/brookside-cooking-cream-400ml,Naivas
-2026-04-10,cooking oil,Bio Sterilised Cooking Crm 500,KES 359,No discount,https://www.naivas.online/bio-sterilised-cooking-crm-500,Naivas
-2026-04-10,cooking oil,First Choice Uht Cooking Cream 1L,KES 875,No discount,https://www.naivas.online/first-choice-uht-cooking-cream-1l,Naivas
-2026-04-10,cooking oil,Vitafla Atta Mark 1 Flour 2Kg,KES 223,No discount,https://www.naivas.online/vitafla-atta-mark-1-flour-2kg,Naivas
-2026-04-10,cooking oil,Brookside Double Cream 150Ml,KES 255,No discount,https://www.naivas.online/brookside-double-cream-150ml,Naivas
-2026-04-10,cooking oil,Brookside Whipping Cream 200Ml,KES 285,No discount,https://www.naivas.online/brookside-whipping-cream-200ml,Naivas
-2026-04-10,wheat flour,Lotus Wheat Flour 2Kg,KES 158,No discount,https://www.naivas.online/lotus-wheat-flour-2kg,Naivas
-2026-04-10,wheat flour,Elliots Atta Mark 1 2Kg,KES 172,No discount,https://www.naivas.online/elliots-atta-mark-1-2kg,Naivas
-2026-04-10,wheat flour,Exe Brown Bread Wheat Flour 2Kg,KES 188,No discount,https://www.naivas.online/exe-brown-bread-wheat-flour-2kg,Naivas
-2026-04-10,wheat flour,Ndovu Home Baking Wheat Flour 2Kg,KES 160,No discount,https://www.naivas.online/ndovu-home-baking-wheat-flour-2kg,Naivas
-2026-04-10,wheat flour,210 Home Baking Wheat Flour 2Kg,KES 156,No discount,https://www.naivas.online/210-home-baking-wheat-flour-2kg,Naivas
-2026-04-10,wheat flour,Exe Chapati Flour 1Kg,KES 90,No discount,https://www.naivas.online/exe-chapati-flour-1kg,Naivas
-2026-04-10,wheat flour,Exe Chapati Flour 2Kg,KES 178,No discount,https://www.naivas.online/exe-chapati-flour-2kg,Naivas
-2026-04-10,wheat flour,Exe Mandazi Flour 2Kg,KES 186,No discount,https://www.naivas.online/exe-mandazi-flour-2kg,Naivas
-2026-04-10,wheat flour,Exe Self Raising Flour 2Kg,KES 187,No discount,https://www.naivas.online/exe-self-raising-flour-2kg,Naivas
-2026-04-10,wheat flour,Exe All Purpose Flour 1Kg,KES 90,No discount,https://www.naivas.online/exe-all-purpose-flour-1kg,Naivas
-2026-04-10,wheat flour,Exe All Purpose Flour 2Kg,KES 149,KES 172,https://www.naivas.online/exe-all-purpose-flour-2kg,Naivas
-2026-04-10,wheat flour,Exe Atta Mark 1 Flour 2Kg,KES 187,No discount,https://www.naivas.online/exe-atta-mark-1-flour-2kg,Naivas
-2026-04-10,wheat flour,Exe Self Raising Flour 1Kg,KES 95,No discount,https://www.naivas.online/exe-self-raising-flour-1kg,Naivas
-2026-04-10,wheat flour,Umix Mandazi Flour 2 Kg,KES 260,No discount,https://www.naivas.online/umix-mandazi-flour-2-kg,Naivas
-2026-04-10,wheat flour,Ajab Home Baking Flour 1Kg,KES 87,No discount,https://www.naivas.online/ajab-home-baking-flour-1kg,Naivas
-2026-04-10,wheat flour,Ajab Home Baking Flour 2Kg,KES 172,No discount,https://www.naivas.online/ajab-home-baking-flour-2kg,Naivas
-2026-04-10,wheat flour,Dola All Purpose Flour 2Kg,KES 166,No discount,https://www.naivas.online/dola-all-purpose-flour-2kg,Naivas
-2026-04-10,wheat flour,Kamal Atta Mark 2Kg,KES 242,No discount,https://www.naivas.online/kamal-atta-mark-2kg,Naivas
-2026-04-10,wheat flour,Ready Bake Mandazi Mix Flour 1Kg,KES 295,No discount,https://www.naivas.online/ready-bake-mandazi-mix-flour-1kg,Naivas
-2026-04-10,wheat flour,Phulka Atta Mark 1 Chapati Flour 5Kg,KES 475,No discount,https://www.naivas.online/phulka-atta-mark-1-chapati-flour-5kg,Naivas
-2026-04-10,wheat flour,Phulka Atta Mark 1 Chapati Flour 2Kg,KES 165,No discount,https://www.naivas.online/phulka-atta-mark-1-chapati-flour-2kg,Naivas
-2026-04-10,wheat flour,Pembe Self Raising Flour 2 Kg,KES 182,No discount,https://www.naivas.online/pembe-self-raising-flour-2-kg,Naivas
-2026-04-10,wheat flour,Pembe Home Baking All Purpose Flour 2Kg,KES 173,No discount,https://www.naivas.online/pembe-home-baking-all-purpose-flour-2kg,Naivas
-2026-04-10,wheat flour,Pembe Home Baking All Purpose Flour 1Kg,KES 88,No discount,https://www.naivas.online/pembe-home-baking-all-purpose-flour-1kg,Naivas
-2026-04-10,wheat flour,Ajab Fortified Mandazi Flour 2 Kg,KES 172,No discount,https://www.naivas.online/ajab-fortified-mandazi-flour-2-kg,Naivas
-2026-04-10,wheat flour,Masterchef All Purpose Flour 2Kg,KES 151,KES 160,https://www.naivas.online/masterchef-all-purpose-flour-2kg,Naivas
-2026-04-10,wheat flour,Umoja Home Baking Flour 2Kg,KES 157,No discount,https://www.naivas.online/umoja-home-baking-flour-2kg,Naivas
-2026-04-10,wheat flour,Winnie'S Pure Health Chapati Afya Flour 2Kg,KES 281,No discount,https://www.naivas.online/winnies-pure-health-chapati-afya-flour-2kg,Naivas
-2026-04-10,wheat flour,Soko Home Baking 2Kg,KES 165,No discount,https://www.naivas.online/soko-home-baking-2kg,Naivas
-2026-04-10,wheat flour,Elliots Home Baking 2Kg,KES 166,No discount,https://www.naivas.online/elliots-home-baking-2kg,Naivas
-2026-04-10,wheat flour,Butterfly Atta Mark Stone Ground 2Kg,KES 279,No discount,https://www.naivas.online/butterfly-atta-mark-stone-ground-2kg,Naivas
-2026-04-10,wheat flour,Butterfly Atta Mark Stone Ground 1Kg,KES 140,No discount,https://www.naivas.online/butterfly-atta-mark-stone-ground-1kg,Naivas
-2026-04-10,wheat flour,Winnie'S Pure Health Atta Mark 2Kg,KES 266,No discount,https://www.naivas.online/winnies-pure-health-atta-mark-2kg,Naivas
-2026-04-10,wheat flour,Soko Atta Mark 1 2 Kg,KES 171,No discount,https://www.naivas.online/soko-atta-mark-1-2-kg,Naivas
-2026-04-10,wheat flour,Pembe Atta Mark 2Kg,KES 178,No discount,https://www.naivas.online/pembe-atta-mark-2kg,Naivas
-2026-04-10,wheat flour,Ajab Fortified Self Raising 2 Kg,KES 172,No discount,https://www.naivas.online/ajab-fortified-self-raising-2-kg,Naivas
-2026-04-10,wheat flour,Ajab Fortified Atta Mark 1 2 Kg,KES 172,No discount,https://www.naivas.online/ajab-fortified-atta-mark-1-2-kg,Naivas
-2026-04-10,wheat flour,Lea Premium Wheat Flour 2Kg,KES 166,No discount,https://www.naivas.online/lea-premium-wheat-flour-2kg,Naivas
-2026-04-10,wheat flour,Soko Maize Meal 10Kg,KES 860,No discount,https://www.naivas.online/soko-maize-meal-10kg,Naivas
-2026-04-10,wheat flour,Soko Maize Meal 1Kg,KES 87,No discount,https://www.naivas.online/soko-maize-meal-1kg,Naivas
-2026-04-10,wheat flour,Soko Maize Meal 2Kg,KES 167,No discount,https://www.naivas.online/soko-maize-meal-2kg,Naivas
-2026-04-10,wheat flour,Soko Maize Meal 5Kg,KES 435,No discount,https://www.naivas.online/soko-maize-meal-5kg,Naivas
-2026-04-10,wheat flour,Amaize Premium Maize Meal 2Kg,KES 208,No discount,https://www.naivas.online/amaize-premium-maize-meal-2kg,Naivas
-2026-04-10,wheat flour,Kamili Nutrameal Rice Flour 1Kg,KES 202,No discount,https://www.naivas.online/kamili-nutrameal-rice-flour-1kg,Naivas
-2026-04-10,wheat flour,Soko Pure Wimbi 1Kg,KES 176,No discount,https://www.naivas.online/soko-pure-wimbi-1kg,Naivas
-2026-04-10,wheat flour,Soko Wimbi Mix 1Kg,KES 161,No discount,https://www.naivas.online/soko-wimbi-mix-1kg,Naivas
-2026-04-10,wheat flour,Vitafla Atta Mark 1 Flour 2Kg,KES 223,No discount,https://www.naivas.online/vitafla-atta-mark-1-flour-2kg,Naivas
-2026-04-10,wheat flour,Zesta Corn Flour 400g,KES 99,No discount,https://www.naivas.online/zesta-corn-flour-400g,Naivas
-2026-04-10,wheat flour,Broadways Brown Sliced Bread 400G,KES 65,No discount,https://www.naivas.online/broadways-brown-sliced-bread-400g,Naivas
-2026-04-10,wheat flour,Broadway Brown Sandwich Sliced Bread 600G,KES 97,No discount,https://www.naivas.online/broadway-brown-sandwich-sliced-bread-600g,Naivas
-2026-04-10,wheat flour,Kamal Gram Flour 1Kg,KES 269,No discount,https://www.naivas.online/kamal-gram-flour-1kg,Naivas
-2026-04-10,wheat flour,LG Oled55A26La 55 Inch4K Oled Tv,"KES 216,995",No discount,https://www.naivas.online/lg-oled55a26la-55-4k-oled-tv,Naivas
-2026-04-10,wheat flour,Cerelac Wheat Sachet 25G,KES 40,No discount,https://www.naivas.online/nestle-ceregrow-multigrain-50g,Naivas
-2026-04-10,wheat flour,Cerelac Wheat 50G Satchet,KES 70,No discount,https://www.naivas.online/nestle-cerelac-wheat-6-month-50g,Naivas
-2026-04-10,wheat flour,Alison Wheat Germ Oil 100Gm,KES 168,No discount,https://www.naivas.online/alison-wheat-germ-oil-100gm,Naivas
-2026-04-10,maize flour,Ajab Premium Maize Meal 2Kg,KES 175,No discount,https://www.naivas.online/ajab-premium-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Soko Maize Meal 10Kg,KES 860,No discount,https://www.naivas.online/soko-maize-meal-10kg,Naivas
-2026-04-10,maize flour,Soko Maize Meal 1Kg,KES 87,No discount,https://www.naivas.online/soko-maize-meal-1kg,Naivas
-2026-04-10,maize flour,Soko Maize Meal 2Kg,KES 167,No discount,https://www.naivas.online/soko-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Soko Maize Meal 5Kg,KES 435,No discount,https://www.naivas.online/soko-maize-meal-5kg,Naivas
-2026-04-10,maize flour,Jogoo Maize Meal 2Kg,KES 167,No discount,https://www.naivas.online/jogoo-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Mama Maize Meal 2Kg,KES 146,No discount,https://www.naivas.online/mama-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Tupike Maize Meal 2Kg,KES 144,No discount,https://www.naivas.online/tupike-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Pembe Maize Meal 2Kg,KES 169,No discount,https://www.naivas.online/pembe-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Ndovu Maize Meal 2Kg,KES 135,KES 139,https://www.naivas.online/ndovu-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Jogoo Maize Meal 5Kg,KES 450,No discount,https://www.naivas.online/jogoo-maize-meal-5kg,Naivas
-2026-04-10,maize flour,Jogoo Maize Meal 10Kg,KES 880,No discount,https://www.naivas.online/jogoo-maize-meal-10kg,Naivas
-2026-04-10,maize flour,210 Maize Meal Flour 2 Kg,KES 158,No discount,https://www.naivas.online/210-maize-meal-flour-2-kg,Naivas
-2026-04-10,maize flour,Pembe Maize Meal 5 Kg,KES 425,No discount,https://www.naivas.online/pembe-maize-meal-5-kg,Naivas
-2026-04-10,maize flour,Pembe Maize Meal 10 Kg,KES 845,No discount,https://www.naivas.online/pembe-maize-meal-10-kg,Naivas
-2026-04-10,maize flour,Ndovu Maize Meal 1 Kg,KES 71,No discount,https://www.naivas.online/ndovu-maize-meal-1-kg,Naivas
-2026-04-10,maize flour,Amaize Premium Maize Meal 2Kg,KES 208,No discount,https://www.naivas.online/amaize-premium-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Raha Premium Maize Meal 2Kg,KES 198,No discount,https://www.naivas.online/raha-premium-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Lea Premium Maize Meal 2Kg,KES 193,No discount,https://www.naivas.online/lea-premium-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Lea Premium Maize Meal 1Kg,KES 97,No discount,https://www.naivas.online/lea-premium-maize-meal-1kg,Naivas
-2026-04-10,maize flour,Spenza Premium Maize Meal 1Kg,KES 88,KES 95,https://www.naivas.online/spenza-premium-maize-meal-1kg,Naivas
-2026-04-10,maize flour,Spenza Premium Maize Meal 2Kg,KES 175,KES 188,https://www.naivas.online/spenza-premium-maize-meal-2kg,Naivas
-2026-04-10,maize flour,Soko Nutri Wholegrain Maize Meal 2 Kg,KES 294,No discount,https://www.naivas.online/soko-nutri-wholegrain-maize-meal-2-kg,Naivas
-2026-04-10,maize flour,Dola Gold Superior Maize Flour 2 Kg,KES 172,No discount,https://www.naivas.online/dola-gold-superior-maize-flour-2-kg,Naivas
-2026-04-10,maize flour,Nice Extra Premium Maize Flour 2Kgs,KES 180,No discount,https://www.naivas.online/nice-extra-premium-maize-flour-2kgs,Naivas
-2026-04-10,maize flour,Jogoo Wimbi Flour 2Kg,KES 288,No discount,https://www.naivas.online/jogoo-wimbi-flour-2kg,Naivas
-2026-04-10,maize flour,Natures Equatorial Ugali Afya 2 Kg,KES 275,No discount,https://www.naivas.online/natures-equatorial-ugali-afya-2-kg,Naivas
-2026-04-10,maize flour,Winnie'S Pure Health Ugali Afya 2Kg,KES 305,No discount,https://www.naivas.online/winnie-s-pure-health-ugali-afya-2kg,Naivas
-2026-04-10,maize flour,Winnie'S Pure Health Ugali Afya 1Kg,KES 155,No discount,https://www.naivas.online/winnies-pure-health-ugali-afya-1kg,Naivas
-2026-04-10,maize flour,Lea Premium Wheat Flour 2Kg,KES 166,No discount,https://www.naivas.online/lea-premium-wheat-flour-2kg,Naivas
-2026-04-10,maize flour,Raha Premium Home Baking Flour 2Kg,KES 167,No discount,https://www.naivas.online/raha-premium-h/baking-flour-2kg,Naivas
-2026-04-10,maize flour,Umoja Home Baking Flour 1Kg,KES 81,No discount,https://www.naivas.online/umoja-home-baking-flour-1kg,Naivas
-2026-04-10,maize flour,Soko Pure Wimbi 1Kg,KES 176,No discount,https://www.naivas.online/soko-pure-wimbi-1kg,Naivas
-2026-04-10,maize flour,Soko Wimbi Mix 1Kg,KES 161,No discount,https://www.naivas.online/soko-wimbi-mix-1kg,Naivas
-2026-04-10,maize flour,Pembe Pure Wimbi 1Kg,KES 179,No discount,https://www.naivas.online/pembe-pure-wimbi-1kg,Naivas
-2026-04-10,maize flour,Famila Uji Mix 1Kg,KES 159,No discount,https://www.naivas.online/famila-uji-mix-1kg,Naivas
-2026-04-10,maize flour,Famila Baby Weaning Porridge Mix 1Kg,KES 169,No discount,https://www.naivas.online/famila-baby-weaning-porridge-mix-1kg,Naivas
-2026-04-10,maize flour,Elliots Atta Mark 1 2Kg,KES 172,No discount,https://www.naivas.online/elliots-atta-mark-1-2kg,Naivas
-2026-04-10,maize flour,Ajab Home Baking Flour 1Kg,KES 87,No discount,https://www.naivas.online/ajab-home-baking-flour-1kg,Naivas
-2026-04-10,maize flour,Ajab Home Baking Flour 2Kg,KES 172,No discount,https://www.naivas.online/ajab-home-baking-flour-2kg,Naivas
-2026-04-10,maize flour,Dola All Purpose Flour 2Kg,KES 166,No discount,https://www.naivas.online/dola-all-purpose-flour-2kg,Naivas
-2026-04-10,maize flour,Exe All Purpose Flour 1Kg,KES 90,No discount,https://www.naivas.online/exe-all-purpose-flour-1kg,Naivas
-2026-04-10,maize flour,Exe All Purpose Flour 2Kg,KES 149,KES 172,https://www.naivas.online/exe-all-purpose-flour-2kg,Naivas
-2026-04-10,maize flour,Exe Brown Bread Wheat Flour 2Kg,KES 188,No discount,https://www.naivas.online/exe-brown-bread-wheat-flour-2kg,Naivas
-2026-04-10,maize flour,Exe Chapati Flour 1Kg,KES 90,No discount,https://www.naivas.online/exe-chapati-flour-1kg,Naivas
-2026-04-10,maize flour,Exe Chapati Flour 2Kg,KES 178,No discount,https://www.naivas.online/exe-chapati-flour-2kg,Naivas
-2026-04-10,maize flour,Exe Mandazi Flour 2Kg,KES 186,No discount,https://www.naivas.online/exe-mandazi-flour-2kg,Naivas
-2026-04-10,maize flour,Exe Self Raising Flour 1Kg,KES 95,No discount,https://www.naivas.online/exe-self-raising-flour-1kg,Naivas
-2026-04-10,maize flour,Exe Self Raising Flour 2Kg,KES 187,No discount,https://www.naivas.online/exe-self-raising-flour-2kg,Naivas
-2026-04-10,maize flour,Kamal Gram Flour 1Kg,KES 269,No discount,https://www.naivas.online/kamal-gram-flour-1kg,Naivas
-2026-04-10,maize flour,Kamili Nutrameal Rice Flour 1Kg,KES 202,No discount,https://www.naivas.online/kamili-nutrameal-rice-flour-1kg,Naivas
-2026-04-10,maize flour,Umix Mandazi Flour 2 Kg,KES 260,No discount,https://www.naivas.online/umix-mandazi-flour-2-kg,Naivas
-2026-04-10,maize flour,Kentaste Coconut Flour 500 g,KES 190,No discount,https://www.naivas.online/kentaste-coconut-flour-500-g,Naivas
-2026-04-10,maize flour,Grainmill Oat Flour 500 g,KES 285,No discount,https://www.naivas.online/grainmill-oat-flour-500-g,Naivas
-2026-04-10,maize flour,Butterfly Kamal Gram Flour 2 Kg,KES 535,No discount,https://www.naivas.online/butterfly-kamal-gram-flour-2-kg,Naivas
-2026-04-10,maize flour,Butterfly Gram Flour 2 Kg,KES 915,No discount,https://www.naivas.online/butterfly-gram-flour-2-kg,Naivas
-2026-04-10,maize flour,Butterfly Gram Flour 1 Kg,KES 467,No discount,https://www.naivas.online/butterfly-gram-flour-1-kg,Naivas
-2026-04-10,maize flour,Pembe Self Raising Flour 2 Kg,KES 182,No discount,https://www.naivas.online/pembe-self-raising-flour-2-kg,Naivas
-2026-04-10,maize flour,Ajab Fortified Mandazi Flour 2 Kg,KES 172,No discount,https://www.naivas.online/ajab-fortified-mandazi-flour-2-kg,Naivas
-2026-04-10,maize flour,Masterchef All Purpose Flour 2Kg,KES 151,KES 160,https://www.naivas.online/masterchef-all-purpose-flour-2kg,Naivas
-2026-04-10,maize flour,Umoja Home Baking Flour 2Kg,KES 157,No discount,https://www.naivas.online/umoja-home-baking-flour-2kg,Naivas
-2026-04-10,maize flour,Lotus Wheat Flour 2Kg,KES 158,No discount,https://www.naivas.online/lotus-wheat-flour-2kg,Naivas
-2026-04-10,maize flour,Exe Atta Mark 1 Flour 2Kg,KES 187,No discount,https://www.naivas.online/exe-atta-mark-1-flour-2kg,Naivas
-2026-04-10,maize flour,Rimwabi Omena Uji Mix Flour 1KG,KES 207,No discount,https://www.naivas.online/rimwabi-omena-uji-mix-flour-1kg,Naivas
-2026-04-10,maize flour,Ready Bake Mandazi Mix Flour 1Kg,KES 295,No discount,https://www.naivas.online/ready-bake-mandazi-mix-flour-1kg,Naivas
-2026-04-10,maize flour,Live Life W Cassava Flour 750 g,KES 349,No discount,https://www.naivas.online/live-life-w-cassava-flour-750-g,Naivas
-2026-04-10,maize flour,Ndovu Home Baking Wheat Flour 2Kg,KES 160,No discount,https://www.naivas.online/ndovu-home-baking-wheat-flour-2kg,Naivas
-2026-04-10,maize flour,210 Home Baking Wheat Flour 2Kg,KES 156,No discount,https://www.naivas.online/210-home-baking-wheat-flour-2kg,Naivas
+2026-04-11,milk,Brookside Dairybest Milk 500Ml,KES 57,KES 61,https://www.naivas.online/brookside-dairy-best-milk-500ml,Naivas
+2026-04-11,milk,Brookside Fresh Milk 500Ml Std,KES 68,No discount,https://www.naivas.online/brookside-fresh-milk-500ml-std,Naivas
+2026-04-11,milk,Daima Esl Bora 450Ml,KES 56,No discount,https://www.naivas.online/daima-esl-bora-500ml,Naivas
+2026-04-11,milk,Daima Esl Fresh Milk 500Ml,KES 59,No discount,https://www.naivas.online/daima-esl-fresh-milk-500ml,Naivas
+2026-04-11,milk,Ilara Fresh Milk 500Ml-Pouch,KES 60,No discount,https://www.naivas.online/ilara-fresh-milk-500ml-pouch,Naivas
+2026-04-11,milk,Lato Fino 500Ml Uht,KES 62,No discount,https://www.naivas.online/lato-fino-500ml-uht,Naivas
+2026-04-11,milk,Royal Esl Fresh Milk 500Ml,KES 54,No discount,https://www.naivas.online/royal-esl-fresh-milk-500ml,Naivas
+2026-04-11,milk,Fresha Whole Milk 5Ltr,KES 500,No discount,https://www.naivas.online/fresha-whole-milk-5ltr,Naivas
+2026-04-11,milk,Brookside Probiotic Strawberry 450 g,KES 167,No discount,https://www.naivas.online/brookside-probiotic-strawberry-yoghurt-450g,Naivas
+2026-04-11,milk,Brookside Probiotic Vanilla Yoghurt 250 g,KES 99,No discount,https://www.naivas.online/brookside-probiotic-vannila-yoghurt-250g,Naivas
+2026-04-11,milk,Brookside Probiotic Strawberry 250 g,KES 99,No discount,https://www.naivas.online/brookside-probiotic-strawberry-250g,Naivas
+2026-04-11,milk,Brookside Probiotic Vanilla Yoghurt 450 g,KES 167,No discount,https://www.naivas.online/brookside-probiotic-vannila-yoghurt-450g,Naivas
+2026-04-11,milk,Daima Uht Fino Bora 500Ml,KES 60,No discount,https://www.naivas.online/daima-uht-fino-bora-500-ml,Naivas
+2026-04-11,milk,Brookside Milk Powder 15G Satchet,KES 21,No discount,https://www.naivas.online/brookside-milk-powder-15g-satchet,Naivas
+2026-04-11,milk,Brookside Uht Milk 1 Ltr,KES 159,No discount,https://www.naivas.online/brookside-uht-milk-1-ltr,Naivas
+2026-04-11,milk,Brookside Uht Milk 250Ml,KES 42,No discount,https://www.naivas.online/brookside-uht-milk-250ml,Naivas
+2026-04-11,milk,Kara Uht Coconut Cream 65ml,KES 75,No discount,https://www.naivas.online/kara-uht-coconut-cream-65ml,Naivas
+2026-04-11,milk,Kara Uht Coconut Milk Classic 400ml,KES 350,No discount,https://www.naivas.online/kara-uht-coconut-milk-classic-400ml,Naivas
+2026-04-11,milk,Tuzo Uht Esl 450Ml,KES 52,No discount,https://www.naivas.online/tuzo-uht-esl-450ml,Naivas
+2026-04-11,milk,Tuzo Uht Whole 1Ltr,KES 149,No discount,https://www.naivas.online/tuzo-uht-whole-1ltr,Naivas
+2026-04-11,milk,Brookside Dairy Fresh Banana 250Ml 6 Pack,KES 420,No discount,https://www.naivas.online/brookside-banana-250ml-6pack,Naivas
+2026-04-11,milk,Brookside Dairy Fresh Bubble Gum 250Ml 6 Pack,KES 420,No discount,https://www.naivas.online/brookside-bubble-gum-250ml-6pk,Naivas
+2026-04-11,milk,Brookside Dairy Fresh Chocolate 250Ml 6 Pack,KES 420,No discount,https://www.naivas.online/brookside-chocolate-250ml-6pac,Naivas
+2026-04-11,milk,Brookside Dairy Fresh Coffee 250Ml 6Pack,KES 420,No discount,https://www.naivas.online/brookside-coffee-250ml-6pack,Naivas
+2026-04-11,milk,Brookside L/Life B/Gum 250Ml,KES 69,No discount,https://www.naivas.online/brookside-long-life-bubble-gum-250ml,Naivas
+2026-04-11,milk,Brookside L/Life Chocolate 250,KES 69,No discount,https://www.naivas.online/brookside-long-life-chocolate-250,Naivas
+2026-04-11,milk,Brookside L/Life Coffee 250Ml,KES 69,No discount,https://www.naivas.online/brookside-long-life-coffee-250ml,Naivas
+2026-04-11,milk,Brookside L/Life S/Berry 250Ml,KES 69,No discount,https://www.naivas.online/brookside-long-life-strawberry-250ml,Naivas
+2026-04-11,milk,Brookside L/Life Vanilla 250Ml,KES 69,No discount,https://www.naivas.online/brookside-long-life-vanilla-250ml,Naivas
+2026-04-11,milk,Brookside Milk Powder 250G Sachet,KES 329,No discount,https://www.naivas.online/brookside-milk-powder-250g-sachet,Naivas
+2026-04-11,milk,Brookside Milk Powder 450G Sachet,KES 550,No discount,https://www.naivas.online/brookside-milk-powder-450g-sachet,Naivas
+2026-04-11,milk,Brookside Dairy Fresh Vanilla 250Ml 6Pack,KES 420,No discount,https://www.naivas.online/brookside-vanilla-250ml-6pack,Naivas
+2026-04-11,milk,Miksi Milk Powder 240G Sachet,KES 330,No discount,https://www.naivas.online/miksi-milk-powder-240g-satch,Naivas
+2026-04-11,milk,Miksi Milk Powder 240G Tin,KES 400,No discount,https://www.naivas.online/miksi-milk-powder-240g-tin,Naivas
+2026-04-11,milk,Miksi Milk Powder 400Gm Tin,KES 630,No discount,https://www.naivas.online/miksi-milk-powder-400gm-tin,Naivas
+2026-04-11,milk,Miksi Milk Powder 450G Satchet,KES 610,No discount,https://www.naivas.online/miksi-milk-powder-450g-satchet,Naivas
+2026-04-11,milk,Miksi Milk Powder 90G Sachet,KES 120,No discount,https://www.naivas.online/miksi-milk-powder-90g-sachet,Naivas
+2026-04-11,milk,Tuzo Uht Whole 250Ml,KES 40,No discount,https://www.naivas.online/tuzo-uht-whole-250ml,Naivas
+2026-04-11,milk,Kara Uht Coconut Cream 200ml,KES 240,No discount,https://www.naivas.online/kara-uht-coconut-cream-200ml,Naivas
+2026-04-11,milk,Kara Uht Coconut Milk Classic 200ml,KES 200,No discount,https://www.naivas.online/kara-uht-coconut-milk-classic-200ml,Naivas
+2026-04-11,milk,Bio Uht Whole Milk Tetra Pack 1Ltr,KES 169,No discount,https://www.naivas.online/bio-uht-whole-milk-tetra-pack-1ltr,Naivas
+2026-04-11,milk,Vito Fino Milk 500Ml,KES 48,No discount,https://www.naivas.online/vito-fino-milk-500ml,Naivas
+2026-04-11,milk,Naivas Fino UHT Milk 500Ml,KES 49,KES 52,https://www.naivas.online/naivas-fino-uht-milk-500ml,Naivas
+2026-04-11,milk,Bio Fresh Semi Skimmed Milk 2 L,KES 299,No discount,https://www.naivas.online/-bio-fresh-semi-skimmed-milk-2-l,Naivas
+2026-04-11,milk,Mt. Kenya Fino 500Ml,KES 59,No discount,https://www.naivas.online/mt-kenya-fino-500ml,Naivas
+2026-04-11,milk,Brookside Lactose Free Milk 1Ltr,KES 159,No discount,https://www.naivas.online/brookside-lactose-free-milk-1ltr,Naivas
+2026-04-11,milk,Bio Fresh Whole Milk 2 L,KES 329,No discount,https://www.naivas.online/bio-fresh-whole-milk-2-l,Naivas
+2026-04-11,milk,Brookside Lactose Free 500Ml Fino,KES 77,No discount,https://www.naivas.online/brookside-lactose-free-500ml-fino,Naivas
+2026-04-11,milk,Brookside Low Fat Milk 250Ml,KES 42,No discount,https://www.naivas.online/brookside-low-fat-milk-250ml,Naivas
+2026-04-11,milk,Fresha Maisha L/Life Uht 250Ml,KES 30,No discount,https://www.naivas.online/fresha-maisha-long-life-uht-250ml,Naivas
+2026-04-11,milk,Fresha Maisha L/Life Uht 500Ml,KES 60,No discount,https://www.naivas.online/fresha-maisha-long-life-uht-500ml,Naivas
+2026-04-11,milk,Fresha Whole Milk Tca 200Ml,KES 28,No discount,https://www.naivas.online/fresha-whole-milk-tca-200ml,Naivas
+2026-04-11,milk,K.C.C Fresh W/Fino Milk 500Ml,KES 59,No discount,https://www.naivas.online/kcc-fresh-fino-milk-500ml,Naivas
+2026-04-11,milk,Kara Coconut Milk 400ml,KES 375,No discount,https://www.naivas.online/kara-coconut-milk-400ml,Naivas
+2026-04-11,milk,Mt.Kenya Prem Tfa/Fino Milk 500Ml,KES 59,No discount,https://www.naivas.online/mtkenya-prem-tfafino-milk-500ml,Naivas
+2026-04-11,milk,Mt.Kenya Uht Milk 500Ml Pouch,KES 57,No discount,https://www.naivas.online/mtkenya-uht-milk-500ml-pouch,Naivas
+2026-04-11,milk,Naivas F/Cream Milk 500Ml Pouch,KES 47,No discount,https://www.naivas.online/naivas-full-cream-milk-500ml-pouch,Naivas
+2026-04-11,milk,Royal Fresh Fino 500Ml,KES 55,No discount,https://www.naivas.online/royal-fresh-fino-500ml,Naivas
+2026-04-11,milk,Tuzo Fresh Milk 200Ml Tca,KES 32,No discount,https://www.naivas.online/tuzo-fresh-milk-200ml-tca,Naivas
+2026-04-11,milk,Tuzo Whole Milk 500Ml Fino,KES 60,No discount,https://www.naivas.online/tuzo-whole-milk-500ml-fino,Naivas
+2026-04-11,milk,Nu Ziwa Almond Unsweetened Milk 1LTR,KES 480,No discount,https://www.naivas.online/nu-ziwa-almond-unsweetened-milk-1ltr,Naivas
+2026-04-11,milk,Aptamil Growing Up Formula Milk 800G,"KES 3,900",No discount,https://www.naivas.online/aptamil-growing-up-formula-milk-800g,Naivas
+2026-04-11,milk,Nestle' Nan 3 Probiotic Milk 400g,"KES 1,960",No discount,https://www.naivas.online/nestle-nan-3-probiotic-milk-400g,Naivas
+2026-04-11,milk,Brookside Standard Fresh Milk 2Ltr,KES 259,No discount,https://www.naivas.online/brookside-fresh-milk-2ltr-std,Naivas
+2026-04-11,milk,Brookside Whole Milk 2Ltr,KES 259,No discount,https://www.naivas.online/brookside-whole-milk-2ltr,Naivas
+2026-04-11,milk,Bio Lactose Free Milk 500Ml,KES 145,No discount,https://www.naivas.online/bio-lactose-free-milk-500ml,Naivas
+2026-04-11,sugar,Economy Sugar White 5Kg,KES 699,No discount,https://www.naivas.online/economy-sugar-white-5kg,Naivas
+2026-04-11,sugar,Naivas Sugar White 5Kg,KES 699,No discount,https://www.naivas.online/naivas-sugar-white-5kg,Naivas
+2026-04-11,sugar,Mumias Sugar Packed 2 kg,KES 305,No discount,https://www.naivas.online/mumias-sugar-packed-2-kg,Naivas
+2026-04-11,sugar,Mumias Sugar Packed 1 kg,KES 155,No discount,https://www.naivas.online/mumias-sugar-packed-1-kg,Naivas
+2026-04-11,sugar,Clovers Brown Sugar With Molasses 500g,KES 145,No discount,https://www.naivas.online/clovers-brown-sugar-with-molasses-500g,Naivas
+2026-04-11,sugar,Kabras Packed Sugar White 1Kg,KES 155,No discount,https://www.naivas.online/kabras-packed-sugar-white-1kg,Naivas
+2026-04-11,sugar,Kabras Packed Sugar White 2Kg,KES 305,No discount,https://www.naivas.online/kabras-packed-sugar-white-2kg,Naivas
+2026-04-11,sugar,Naivas Local Sugar White 1Kg,KES 145,No discount,https://www.naivas.online/naivas-local-sugar-white-1kg,Naivas
+2026-04-11,sugar,Naivas Local Sugar White 2Kg,KES 289,No discount,https://www.naivas.online/naivas-local-sugar-white-2kg,Naivas
+2026-04-11,sugar,Nutrameal Packed Sugar White 2Kg,KES 305,No discount,https://www.naivas.online/nutrameal-packed-sugar-white-2kg,Naivas
+2026-04-11,sugar,Nutrameal Packed Sugar White 1Kg,KES 155,No discount,https://www.naivas.online/nutrameal-packed-sugar-white-1kg,Naivas
+2026-04-11,sugar,Nutrameal Packed Sugar 5Kg,KES 765,No discount,https://www.naivas.online/nutrameal-packed-sugar-5kg,Naivas
+2026-04-11,sugar,Economy White Sugar 2 Kg,KES 289,No discount,https://www.naivas.online/economy-white-sugar-2-kg,Naivas
+2026-04-11,sugar,Economy White Sugar 1 Kg,KES 145,No discount,https://www.naivas.online/Economy-White-Sugar-1-Kg,Naivas
+2026-04-11,sugar,Economy White Sugar 50'S,KES 129,No discount,https://www.naivas.online/economy-white-sugar-50s,Naivas
+2026-04-11,sugar,Economy White Sugar 25'S,KES 68,No discount,https://www.naivas.online/economy-white-sugar-25s,Naivas
+2026-04-11,sugar,Aspa Sweet Low-Calorie Sweetener 150 Pieces,KES 500,No discount,https://www.naivas.online/Aspa-Sweet-Low-Calorie-Sweetener-150-Pieces,Naivas
+2026-04-11,sugar,Aspa Sweet Low-Calorie Sweetener 450 Pieces,KES 846,No discount,https://www.naivas.online/aspa-sweet-low-calorie-sweetener-450-pieces,Naivas
+2026-04-11,sugar,Tropicana Stevia Diet Stick St,KES 785,No discount,https://www.naivas.online/Tropicana-Stevia-Diet-Stick-St,Naivas
+2026-04-11,sugar,Tropicana Slim Low-Calorie Sweetener 50 Sachets,KES 565,No discount,https://www.naivas.online/Tropicana-Slim-Low-Calorie-Sweetener-50-Sachets,Naivas
+2026-04-11,sugar,Lakanto Monk Fruit Classic Sweetener 200G,KES 720,No discount,https://www.naivas.online/lakanto-monk-fruit-classic-sweetener-200g,Naivas
+2026-04-11,sugar,Lakanto Monk Fruit Classic Sweetener 235G,KES 765,No discount,https://www.naivas.online/lakanto-monk-fruit-classic-sweetener-235g,Naivas
+2026-04-11,sugar,Lakanto Monk Fruit Golden Sweetener 800G,"KES 2,050",No discount,https://www.naivas.online/lakanto-monk-fruit-golden-sweetener-800g,Naivas
+2026-04-11,sugar,Lakanto Monk Kfruit Golden Sweetener 235G,KES 765,No discount,https://www.naivas.online/lakanto-monk-kfruit-golden-sweetener-235g,Naivas
+2026-04-11,sugar,Nuvita Sugar Free Digestive 200g,KES 225,No discount,https://www.naivas.online/nuvita-sugar-free-digestive-200g,Naivas
+2026-04-11,sugar,Orbit Sugarfree S/Berry 14G,KES 70,No discount,https://www.naivas.online/orbit-strawberry-sugar-free-gum-10-pieces,Naivas
+2026-04-11,sugar,CR Sugar Free Chevdo 250Gm,KES 297,No discount,https://www.naivas.online/cr-sugar-free-chevdo-250gm,Naivas
+2026-04-11,sugar,CR Sugar Free Chevdo 500Gm,KES 587,No discount,https://www.naivas.online/cr-sugar-free-chevdo-500gm,Naivas
+2026-04-11,sugar,Hannings Sugar Jar,KES 480,No discount,https://www.naivas.online/hannings-sugar-jar,Naivas
+2026-04-11,sugar,Naara Sugar Free Granola 100Gm,KES 188,No discount,https://www.naivas.online/naara-sugar-free-granola-100gm,Naivas
+2026-04-11,sugar,Wow Sugared 100g,KES 72,No discount,https://www.naivas.online/wow-sugared-100g,Naivas
+2026-04-11,sugar,Wow Sugared 15G,KES 15,No discount,https://www.naivas.online/wow-sugared-20g,Naivas
+2026-04-11,sugar,Wow Sugared 500g,KES 210,No discount,https://www.naivas.online/wow-sugared-500g,Naivas
+2026-04-11,sugar,Fresh Sugarsnaps 250G,KES 135,No discount,https://www.naivas.online/sugarsnaps-250g,Naivas
+2026-04-11,sugar,Naara Sugarfree Granola 500 g,KES 735,No discount,https://www.naivas.online/naara-sugarfree-granola-500-g,Naivas
+2026-04-11,sugar,Wow Sugared Snack 200G,KES 120,No discount,https://www.naivas.online/wow-sugared-snack-200g,Naivas
+2026-04-11,sugar,Wow Sugared Snack 50G,KES 45,No discount,https://www.naivas.online/wow-sugared-snack-50g,Naivas
+2026-04-11,sugar,Coke Zero Sugar 2Ltr Pet,KES 179,KES 190,https://www.naivas.online/coke-zero-2ltr-pet,Naivas
+2026-04-11,sugar,Stoney Tangawizi Zero Sugar 350Ml Pet,KES 50,No discount,https://www.naivas.online/stoney-tangawizi-350ml,Naivas
+2026-04-11,sugar,Orbit Berry Blast Sugar-Free Gum 14.5g 14 Pieces,KES 175,KES 220,https://www.naivas.online/orbit-berry-blast-sugar-free-gum-145g-14-pieces,Naivas
+2026-04-11,sugar,Orbit Peppermint Sugar-Free Gum 14.5g 14 Pieces,KES 175,KES 220,https://www.naivas.online/orbit-peppermint-sugar-free-gum-145g-14-pieces,Naivas
+2026-04-11,sugar,Alpen Muesli No Added Sugar 560g,KES 995,No discount,https://www.naivas.online/alpen-muesli-no-added-sugar-560g,Naivas
+2026-04-11,sugar,Zesta Caster Sugar 500G,KES 139,No discount,https://www.naivas.online/zesta-caster-sugar-500g,Naivas
+2026-04-11,sugar,Zesta Icing Sugar Packet 500g,KES 145,No discount,https://www.naivas.online/zesta-icing-sugar-packet-500g,Naivas
+2026-04-11,sugar,Zesta Icing Sugar Sachet 500g,KES 139,No discount,https://www.naivas.online/zesta-icing-sugar-sachet-500g,Naivas
+2026-04-11,sugar,Clovers Icing Sugar 500g,KES 140,No discount,https://www.naivas.online/clovers-icing-sugar-500g,Naivas
+2026-04-11,sugar,Jomu Sachrine Sugar 10Gm,KES 36,No discount,https://www.naivas.online/jomu-sacchrine-sugar-10g,Naivas
+2026-04-11,sugar,Jomu Sodium Saccharin Sugar 50g,KES 171,No discount,https://www.naivas.online/jomu-sodium-saccharin-sugar-50g,Naivas
+2026-04-11,bread,Fresh Wholemeal Bread 400G,KES 56,No discount,https://www.naivas.online/fm-wholemeal-bread-400g,Naivas
+2026-04-11,bread,Fm White Bread 600G,KES 88,No discount,https://www.naivas.online/fm-white-bread-600g,Naivas
+2026-04-11,bread,Festive Family Brown Bread 600g,KES 100,No discount,https://www.naivas.online/festive-family-brown-bread-600g,Naivas
+2026-04-11,bread,Festive Milky White Bread 800g,KES 130,No discount,https://www.naivas.online/festive-milky-white-bread-800g,Naivas
+2026-04-11,bread,Festive White Family Bread 600g,KES 100,No discount,https://www.naivas.online/festive-white-family-bread-600g,Naivas
+2026-04-11,bread,Fresh White Bread 400G,KES 56,No discount,https://www.naivas.online/fm-white-bread-400g,Naivas
+2026-04-11,bread,Fm White Bread 800Gm,KES 115,No discount,https://www.naivas.online/fm-white-bread-800gm,Naivas
+2026-04-11,bread,Fm Wholemeal Bread 600G,KES 88,No discount,https://www.naivas.online/fm-wholemeal-bread-600g,Naivas
+2026-04-11,bread,Fm Wholemeal Bread 800G,KES 115,No discount,https://www.naivas.online/fm-wholemeal-bread-800g,Naivas
+2026-04-11,bread,Broadways Brown Sliced Bread 400G,KES 65,No discount,https://www.naivas.online/broadways-brown-sliced-bread-400g,Naivas
+2026-04-11,bread,Broadway Brown Sandwich Sliced Bread 600G,KES 97,No discount,https://www.naivas.online/broadway-brown-sandwich-sliced-bread-600g,Naivas
+2026-04-11,bread,Broadways Premium Sliced Bread 400G,KES 65,No discount,https://www.naivas.online/broadways-premium-sliced-bread-400g,Naivas
+2026-04-11,bread,Broadways White Sliced Bread 400G,KES 65,No discount,https://www.naivas.online/broadways-white-sliced-bread-400g,Naivas
+2026-04-11,bread,Broadways White Sandwich Sliced Bread 600G,KES 97,No discount,https://www.naivas.online/broadways-white-sandwich-sliced-bread-600g,Naivas
+2026-04-11,bread,Festive Brown Bread 1.5Kg,KES 240,No discount,https://www.naivas.online/festive-brown-bread-1-5kg,Naivas
+2026-04-11,bread,Festive White Bread 400Gm,KES 63,No discount,https://www.naivas.online/festive-white-bread-400g,Naivas
+2026-04-11,bread,Festive Wholemeal Bread 400Gm,KES 65,No discount,https://www.naivas.online/festive-wholemeal-bread-400g,Naivas
+2026-04-11,bread,Supa Brown Barrel Bread 600g,KES 100,No discount,https://www.naivas.online/supa-brown-barrel-bread-600g,Naivas
+2026-04-11,bread,Supa Butter Toast Loaf 400Gm,KES 65,No discount,https://www.naivas.online/supa-loaf-butter-toast-bread-400g,Naivas
+2026-04-11,bread,Supa Loaf Family Bread 600g,KES 100,No discount,https://www.naivas.online/supa-loaf-family-bread-600g,Naivas
+2026-04-11,bread,Supa Loaf Sandwich Bread 1.5Kg,KES 240,No discount,https://www.naivas.online/supa-loaf-sandwich-bread-1-5kg,Naivas
+2026-04-11,bread,Supa Loaf White Bread 800g,KES 130,No discount,https://www.naivas.online/supa-loaf-white-bread-800g,Naivas
+2026-04-11,bread,Fresh Sweet Bread 400Gm,KES 54,No discount,https://www.naivas.online/fm-sweet-bread-400g,Naivas
+2026-04-11,bread,Broadways Four Square Bread 4Pcs 400G,KES 65,No discount,https://www.naivas.online/broadways-four-square-bread-4pcs-400g,Naivas
+2026-04-11,bread,Festive Tamu Tamu Bread 400Gm,KES 65,No discount,https://www.naivas.online/festive-tamu-tamu-bread-400gm,Naivas
+2026-04-11,bread,Supa Butter Toast Bread 1.5Kg,KES 240,No discount,https://www.naivas.online/supa-butter-toast-bread-1-5kg,Naivas
+2026-04-11,bread,Supa Butter Toast Bread 600G,KES 100,No discount,https://www.naivas.online/supa-butter-toast-bread-600g,Naivas
+2026-04-11,bread,Supa Loaf White Bread 400Gm Ct,KES 65,No discount,https://www.naivas.online/supa-loaf-white-bread-400gm-ct,Naivas
+2026-04-11,bread,Supa White Barrel Bread 400G,KES 65,No discount,https://www.naivas.online/supa-white-barrel-bread-400g,Naivas
+2026-04-11,bread,Festive Whole Bread 800G,KES 130,No discount,https://www.naivas.online/festive-whole-bread-800g,Naivas
+2026-04-11,rice,Cil Aromatic Blended Rice 2 Kg,KES 365,No discount,https://www.naivas.online/cil-aromatic-blended-rice-2-kg,Naivas
+2026-04-11,rice,Cil Aromatic Brown Rice 1Kg,KES 349,No discount,https://www.naivas.online/cil-aromatic-brown-rice-1kg,Naivas
+2026-04-11,rice,Cil Pishori Aromatic Rice 1Kg,KES 303,No discount,https://www.naivas.online/cil-pishori-aromatic-rice-1kg,Naivas
+2026-04-11,rice,Cil Pishori Aromatic Rice 2Kg,KES 604,No discount,https://www.naivas.online/cil-pishori-aromatic-rice-2kg,Naivas
+2026-04-11,rice,Cil Pishori Aromatic Rice 5Kg,"KES 1,499",No discount,https://www.naivas.online/cil-pishori-aromatic-rice-5kg,Naivas
+2026-04-11,rice,Daawat Aromatic Rice 1Kg,KES 299,No discount,https://www.naivas.online/daawat-aromatic-rice-1kg,Naivas
+2026-04-11,rice,Daawat Aromatic Rice 2Kg,KES 595,No discount,https://www.naivas.online/daawat-aromatic-rice-2kg,Naivas
+2026-04-11,rice,Daawat Aromatic Rice 5Kg,"KES 1,469",No discount,https://www.naivas.online/daawat-aromatic-rice-5kg,Naivas
+2026-04-11,rice,Daawat Basmati Rice 1Kg,KES 335,No discount,https://www.naivas.online/daawat-basmati-rice-1kg,Naivas
+2026-04-11,rice,Daawat Basmati Rice 2Kg,KES 665,No discount,https://www.naivas.online/daawat-basmati-rice-2kg,Naivas
+2026-04-11,rice,Daawat Basmati Rice 5Kg,"KES 1,649",No discount,https://www.naivas.online/daawat-basmati-rice-5kg,Naivas
+2026-04-11,rice,Daawat Basmatic Rice 25Kg,"KES 7,915",No discount,https://www.naivas.online/daawat-basmatic-rice-25kg,Naivas
+2026-04-11,rice,Daawat Biryani 5Kg,"KES 1,359",No discount,https://www.naivas.online/daawat-biryani-5kg,Naivas
+2026-04-11,rice,Daawat Biryani Rice 1Kg,KES 275,No discount,https://www.naivas.online/daawat-biryani-rice-1kg,Naivas
+2026-04-11,rice,Daawat Biryani Rice 2Kg,KES 549,No discount,https://www.naivas.online/daawat-biryani-rice-2kg,Naivas
+2026-04-11,rice,Daawat Brown Rice 1Kg,KES 360,No discount,https://www.naivas.online/daawat-brown-rice-1kg,Naivas
+2026-04-11,rice,Daawat Deli Basmati Rice 5 Kg,"KES 1,559",No discount,https://www.naivas.online/daawat-deli-basmati-rice-5-kg,Naivas
+2026-04-11,rice,Daawat Long Grain Rice 1 Kg,KES 175,No discount,https://www.naivas.online/daawat-long-grain-rice-1kg,Naivas
+2026-04-11,rice,Daawat Long Grain Rice 2Kg,KES 345,No discount,https://www.naivas.online/daawat-long-grain-rice-2kg,Naivas
+2026-04-11,rice,Daawat Long Grain Rice 5Kg,KES 855,No discount,https://www.naivas.online/daawat-long-grain-rice-5kg,Naivas
+2026-04-11,rice,Farmnaivas Pakistani Rice 1 Kg,KES 160,No discount,https://www.naivas.online/farmnaivas-pakistani-rice-1-kg,Naivas
+2026-04-11,rice,Farmnaivas Pishori Rice 2 Kg,KES 489,KES 530,https://www.naivas.online/farmnaivas-pishori-rice-2-kg,Naivas
+2026-04-11,rice,Farmnaivas Thailand Rice 1 Kg,KES 240,No discount,https://www.naivas.online/farmnaivas-thailand-rice-1-kg,Naivas
+2026-04-11,rice,Farmnaivas Thailand Rice 2 Kg,KES 399,KES 470,https://www.naivas.online/farmnaivas-thailand-rice-2-kg,Naivas
+2026-04-11,rice,Pearl Pishori Rice 10Kg,"KES 3,174",No discount,https://www.naivas.online/pearl-pishori-rice-10kg,Naivas
+2026-04-11,rice,Pearl Pishori Rice 1Kg,KES 323,No discount,https://www.naivas.online/pearl-pishori-rice-1kg,Naivas
+2026-04-11,rice,Pearl Pishori Rice 2Kg,KES 644,No discount,https://www.naivas.online/pearl-pishori-rice-2kg,Naivas
+2026-04-11,rice,Pearl Pishori Rice 5Kg,"KES 1,599",No discount,https://www.naivas.online/pearl-pishori-rice-5kg,Naivas
+2026-04-11,rice,Pearl Super Basmati Rice 1 Kg,KES 395,No discount,https://www.naivas.online/pearl-super-basmati-rice-1-kg,Naivas
+2026-04-11,rice,Pearl Super Basmati Rice 2 Kg,KES 785,No discount,https://www.naivas.online/pearl-super-basmati-rice-2kg,Naivas
+2026-04-11,rice,Pearl Super Basmati Rice 5 Kg,"KES 1,955",No discount,https://www.naivas.online/pearl-super-basmati-rice-5kg,Naivas
+2026-04-11,rice,Ranee Prem Basmati Rice 1 Kg,KES 375,No discount,https://www.naivas.online/ranee-prem-basmati-rice-1kg,Naivas
+2026-04-11,rice,Ranee Premium Basmati Rice 2Kg,KES 746,No discount,https://www.naivas.online/ranee-prem-basmati-rice-2kg,Naivas
+2026-04-11,rice,Ranee Premium Basmati Rice 5 Kg,"KES 1,855",No discount,https://www.naivas.online/ranee-premium-basmati-rice-5kg,Naivas
+2026-04-11,rice,Royal Umbrella Thai Jasmine Rice 2Kg,KES 999,No discount,https://www.naivas.online/royal-umbrella-thai-jasmine-rice-2kg,Naivas
+2026-04-11,rice,Priceless Biryani Rice 25 Kg,"KES 4,600",No discount,https://www.naivas.online/priceless-biryani-rice-25-kg,Naivas
+2026-04-11,rice,Sunrice Thai Jasmine Rice 2Kg,KES 684,KES 805,https://www.naivas.online/sunrice-thai-jasmine-rice-2kg,Naivas
+2026-04-11,rice,Sunrice Pishori Rice 5Kg,"KES 1,459",No discount,https://www.naivas.online/sunrice-mwea-pishori-5kg,Naivas
+2026-04-11,rice,Sunrice Pishori Rice 2Kg,KES 589,No discount,https://www.naivas.online/sunrice-mwea-pishori-2kg,Naivas
+2026-04-11,rice,Sunrice Long Grain Rice 5 Kg,KES 699,KES 920,https://www.naivas.online/sunrice-long-grain-rice-5-kg,Naivas
+2026-04-11,rice,Sunrice Long Grain Rice 2 Kg,KES 330,KES 375,https://www.naivas.online/sunrice-long-grain-rice-2-kg,Naivas
+2026-04-11,rice,Sunrice Long Grain Rice 1 Kg,KES 189,No discount,https://www.naivas.online/sunrice-long-grain-rice-1kg,Naivas
+2026-04-11,rice,Sunrice Biryani Rice 1Kg,KES 235,No discount,https://www.naivas.online/sunrice-biryani-rice-1kg,Naivas
+2026-04-11,rice,Sunrice Basmati Rice 5Kg,KES 999,"KES 1,825",https://www.naivas.online/sunrice-basmati-rice-5kg,Naivas
+2026-04-11,rice,Sunrice Basmati Rice 2Kg,KES 599,KES 699,https://www.naivas.online/sunrice-basmati-rice-2kg,Naivas
+2026-04-11,rice,Sunrice Basmati Rice 1Kg,KES 369,No discount,https://www.naivas.online/sunrice-basmati-rice-1kg,Naivas
+2026-04-11,rice,Sunrice Basmati Rice 10 Kg,"KES 3,220",No discount,https://www.naivas.online/sunrice-basmati-rice-10-kg,Naivas
+2026-04-11,rice,Sunrice All Day Basmati Rice 5 Kg,"KES 1,540",No discount,https://www.naivas.online/sunrice-all-day-basmati-rice-5-kg,Naivas
+2026-04-11,rice,Sunrice All Day Basmati Rice 2 Kg,KES 635,No discount,https://www.naivas.online/sunrice-all-day-basmati-rice-2-kg,Naivas
+2026-04-11,rice,Sunrice All Day Basmati Rice 1 Kg,KES 320,No discount,https://www.naivas.online/sunrice-all-day-basmati-rice-1-kg,Naivas
+2026-04-11,rice,S & S Pishori Rice 5Kg,"KES 1,479",No discount,https://www.naivas.online/s-s-pishori-rice-5kg,Naivas
+2026-04-11,rice,S & S Pishori Rice 2Kg,KES 595,No discount,https://www.naivas.online/s-s-pishori-rice-2kg,Naivas
+2026-04-11,rice,S & S Pishori Rice 1Kg,KES 305,No discount,https://www.naivas.online/s-s-pishori-rice-1kg,Naivas
+2026-04-11,rice,S & S Long Grain Rice 5Kg,KES 799,No discount,https://www.naivas.online/s-s-long-grain-rice-5kg,Naivas
+2026-04-11,rice,S & S Long Grain Rice 2Kg,KES 325,No discount,https://www.naivas.online/s-s-long-grain-rice-2kg,Naivas
+2026-04-11,rice,S & S Long Grain Rice 1Kg,KES 169,No discount,https://www.naivas.online/s-s-long-grain-rice-1kg,Naivas
+2026-04-11,rice,Royal Umbrella Thai Jasmine Rice 5Kg,"KES 2,450",No discount,https://www.naivas.online/royal-umbrella-thai-jasmine-rice-5kg,Naivas
+2026-04-11,rice,Naivas Pakistan Long Grain Rice 2Kg,KES 290,KES 320,https://www.naivas.online/naivas-pakistan-long-grain-rice-2kg,Naivas
+2026-04-11,rice,Naivas White Long Grain Rice 5Kg,KES 699,KES 800,https://www.naivas.online/naivas-white-long-grain-rice-5kg,Naivas
+2026-04-11,rice,Naivas Kenya Pishori Rice 1Kg,KES 265,No discount,https://www.naivas.online/naivas-kenya-pishori-rice-1kg,Naivas
+2026-04-11,rice,Naivas Biryani Rice 5Kg,KES 990,"KES 1,130",https://www.naivas.online/naivas-biryani-rice-5kg,Naivas
+2026-04-11,rice,Naivas Biryani Rice 2Kg,KES 399,KES 460,https://www.naivas.online/naivas-biryani-rice-2kg,Naivas
+2026-04-11,rice,Naivas Biryani Rice 1Kg,KES 230,No discount,https://www.naivas.online/naivas-biryani-rice-1kg,Naivas
+2026-04-11,rice,Kings Mps Long Grain Rice 2Kg,KES 369,No discount,https://www.naivas.online/kings-mps-long-grain-rice-2kg,Naivas
+2026-04-11,rice,Kcl Mwea Pishori Rice 5Kg,"KES 1,455",No discount,https://www.naivas.online/kcl-mwea-pishori-rice-5kg,Naivas
+2026-04-11,rice,Kcl Mwea Pishori Rice 2Kg,KES 585,No discount,https://www.naivas.online/kcl-mwea-pishori-rice-2kg,Naivas
+2026-04-11,rice,Kcl Mwea Pishori Rice 1Kg,KES 305,No discount,https://www.naivas.online/kcl-mwea-pishori-rice-1kg,Naivas
+2026-04-11,rice,Jamii Pure Mwea Pishori Rice 5Kg,KES 999,"KES 1,450",https://www.naivas.online/jamii-pure-mwea-pishori-rice-5kg,Naivas
+2026-04-11,rice,Jamii Pure Mwea Pishori Rice 2Kg,KES 489,KES 590,https://www.naivas.online/jamii-pure-mwea-pishori-rice-2kg,Naivas
+2026-04-11,rice,Jamii Pishori Rice 1Kg,KES 249,KES 300,https://www.naivas.online/jamii-pishori-rice-1kg,Naivas
+2026-04-11,rice,Farmnaivas Thailand Rice 5 Kg,KES 989,"KES 1,165",https://www.naivas.online/farmnaivas-thailand-rice-5-kg,Naivas
+2026-04-11,rice,Fit Choco Rice 100 gm,KES 155,No discount,https://www.naivas.online/fit-choco-rice-100-gm,Naivas
+2026-04-11,rice,Fit Choco Rice 400 gm,KES 435,No discount,https://www.naivas.online/fit-choco-rice-400-gm,Naivas
+2026-04-11,rice,Kellogg's Rice Krispies 375 g,"KES 1,030",No discount,https://www.naivas.online/kelloggs-rice-krispies-375-g,Naivas
+2026-04-11,rice,Morning Harvest Choco Rice 250g,KES 329,No discount,https://www.naivas.online/morning-harvest-choco-rice-250g,Naivas
+2026-04-11,rice,Morning Harvest Choco Rice Value 450g,KES 529,No discount,https://www.naivas.online/morning-harvest-choco-rice-value-450g,Naivas
+2026-04-11,rice,Morning Harvest Rice Crispies 250g,KES 399,No discount,https://www.naivas.online/morning-harvest-rice-crispies-250g,Naivas
+2026-04-11,rice,Morning Harvest Rice Crispies 450g,KES 599,No discount,https://www.naivas.online/morning-harvest-rice-crispies-450g,Naivas
+2026-04-11,rice,Temmy'S Choco Rice 250g,KES 420,No discount,https://www.naivas.online/temmys-choco-rice-250g,Naivas
+2026-04-11,rice,Tropical Heat Rice Cake Brown 100 g,KES 180,No discount,https://www.naivas.online/tropical-h-brown-rice-cake-100g,Naivas
+2026-04-11,rice,Tropical Heat Rice Cakes Cheese 165 g,KES 210,No discount,https://www.naivas.online/tropical-h-cheese-rice-cakes-165g,Naivas
+2026-04-11,rice,Tropical Heat Rice Cakes Salt & Vinegar Flavour 155g,KES 210,No discount,https://www.naivas.online/tropical-h-salt-vinegar-rice-cakes-155g,Naivas
+2026-04-11,rice,Daawat Long Grain Rice 25Kg,"KES 3,955",No discount,https://www.naivas.online/daawat-long-grain-rice-25kg,Naivas
+2026-04-11,rice,Falcon Himalayan Basmati Rice 5Kg,"KES 1,725",No discount,https://www.naivas.online/falcon-himalayan-basmati-rice-5kg,Naivas
+2026-04-11,rice,Jamii Brown Pishori Rice 1Kg,KES 300,No discount,https://www.naivas.online/jamii-brown-pishori-rice-1kg,Naivas
+2026-04-11,rice,Jamii Brown Rice 2Kg,KES 590,No discount,https://www.naivas.online/jamii-brown-rice-2kg,Naivas
+2026-04-11,rice,Kpl Long Grain Rice 5Kg,KES 675,No discount,https://www.naivas.online/kpl-long-grain-rice-5kg,Naivas
+2026-04-11,rice,Nice Brown Rice 2Kg,KES 520,No discount,https://www.naivas.online/nice-brown-rice-2kg,Naivas
+2026-04-11,rice,Nutrameal Kpl Long Grain Rice 1Kg,KES 165,No discount,https://www.naivas.online/nutrameal-kpl-long-grain-rice-1kg,Naivas
+2026-04-11,rice,Nutrameal Kpl Long Grain Rice 2Kg,KES 330,No discount,https://www.naivas.online/nutrameal-kpl-long-grain-rice-2kg,Naivas
+2026-04-11,rice,S&S Natural Brown Rice 1Kg,KES 339,No discount,https://www.naivas.online/s-s-natural-brown-rice-1kg,Naivas
+2026-04-11,rice,Morning Harvest Rice Crispes 250G,KES 479,No discount,https://www.naivas.online/morning-harvest-rice-crispes-250g-,Naivas
+2026-04-11,rice,Tango Long Grain Rice 1Kg,KES 175,No discount,https://www.naivas.online/tango-long-grain-rice-1kg,Naivas
+2026-04-11,rice,Tango Long Grain Rice 2Kg,KES 329,No discount,https://www.naivas.online/tango-long-grain-rice-2kg,Naivas
+2026-04-11,rice,Ranee Chef's Special Parboiled Basmati Rice 1 Kg,KES 355,No discount,https://www.naivas.online/ranee-chefs-special-parboiled-basmati-rice-1-kg,Naivas
+2026-04-11,rice,Ranee Chef's Special Parboiled Basmati Rice 2 Kg,KES 699,No discount,https://www.naivas.online/ranee-chef-s-special-parboiled-basmati-rice-2-kg,Naivas
+2026-04-11,rice,Ranee Chefs Special Parboiled Basmati Rice 5 Kg,"KES 1,725",No discount,https://www.naivas.online/ranee-chefs-special-parboiled-basmati-rice-5-kg,Naivas
+2026-04-11,rice,Winnie'S Pure Health Brown Rice 1Kg,KES 395,No discount,https://www.naivas.online/winnie-s-pure-health-brown-rice-1kg,Naivas
+2026-04-11,rice,Pearl Pulses Green Gram Polished 1Kg,KES 269,No discount,https://www.naivas.online/pearl-pulses-green-gram-polished-1kg,Naivas
+2026-04-11,rice,Sunrice Biryani 5Kg,KES 999,"KES 1,150",https://www.naivas.online/sunrice-biryani-5kg,Naivas
+2026-04-11,rice,Sunrice Biryani 2Kg,KES 399,KES 479,https://www.naivas.online/sunrice-biryani-2kg,Naivas
+2026-04-11,rice,Daawat Deli Basmati 1 Kg,KES 315,No discount,https://www.naivas.online/daawat-deli-basmati-1-kg,Naivas
+2026-04-11,rice,Daawat Deli Basmati 2 Kg,KES 630,No discount,https://www.naivas.online/daawat-deli-basmati-2-kg,Naivas
+2026-04-11,rice,Sunrice Mwea Pishori 1 Kg,KES 289,No discount,https://www.naivas.online/sunrice-mwea-pishori-1-kg,Naivas
+2026-04-11,rice,Kings M.P.S Mwea Super 5 Kg,KES 999,"KES 1,239",https://www.naivas.online/kings-m-p-s-mwea-super-5-kg,Naivas
+2026-04-11,rice,Kings M.P.S Mwea Super 2 Kg,KES 440,KES 499,https://www.naivas.online/kings-m-p-s-mwea-super-2-kg,Naivas
+2026-04-11,rice,Kings M.P.S Mwea Super 1 Kg,KES 249,No discount,https://www.naivas.online/kings-m-p-s-mwea-super-1-kg,Naivas
+2026-04-11,rice,Kings Daily Pishori 5 Kg,"KES 1,199",No discount,https://www.naivas.online/kings-daily-pishori-5-kg,Naivas
+2026-04-11,rice,Kings Daily Pishori 2 Kg,KES 489,No discount,https://www.naivas.online/kings-daily-pishori-2-kg,Naivas
+2026-04-11,rice,Kings Daily Pishori 1 Kg,KES 245,No discount,https://www.naivas.online/kings-daily-pishori-1-kg,Naivas
+2026-04-11,rice,Winnie'S Pure Health Pure Chamomile Tea 50g 25 Bags,KES 735,No discount,https://www.naivas.online/winnies-pure-health-pure-chamomile-tea-50g-25-bags,Naivas
+2026-04-11,rice,Elbbins Shapies Choco Cookies Hoops 350g,KES 520,No discount,https://www.naivas.online/elbbins-shapies-choco-cookies-hoops-350g,Naivas
+2026-04-11,rice,Falcon Himalaya Basmati 1Kg,KES 345,No discount,https://www.naivas.online/falcon-himalaya-basmati-1kg,Naivas
+2026-04-11,rice,Falcon Himalaya Basmati 2Kg,KES 690,No discount,https://www.naivas.online/falcon-himalaya-basmati-2kg,Naivas
+2026-04-11,rice,Sunrice Basmati 25Kg,"KES 8,050",No discount,https://www.naivas.online/sunrice-basmati-25kg,Naivas
+2026-04-11,rice,Fillows Oat & Wheat Bran 210 g,KES 220,No discount,https://www.naivas.online/fillows-oat-wheat-bran-210-g,Naivas
+2026-04-11,rice,Fillows Oat & Wheat Bran 350G,KES 360,No discount,https://www.naivas.online/fillows-oat-wheat-bran-350g,Naivas
+2026-04-11,rice,Fillows Oat & Wheat Bran 500 g,KES 485,No discount,https://www.naivas.online/fillows-oat-wheat-bran-500-g,Naivas
+2026-04-11,rice,Fit Honey Balls 100 gm,KES 155,No discount,https://www.naivas.online/fit-honey-balls-100-gm,Naivas
+2026-04-11,rice,Fit Honey Wheat 100 gm,KES 155,No discount,https://www.naivas.online/fit-honey-wheat-100-gm,Naivas
+2026-04-11,rice,Fit Honey Balls 400 gm,KES 435,No discount,https://www.naivas.online/fit-honey-balls-400-gm,Naivas
+2026-04-11,rice,Fit Honey Wheat 400 gm,KES 435,No discount,https://www.naivas.online/fit-honey-wheat-400-gm,Naivas
+2026-04-11,rice,Kelloggs Coco Pops 375g,KES 530,No discount,https://www.naivas.online/kelloggs-coco-pops-375g,Naivas
+2026-04-11,rice,Kelloggs Coco Pops 500g,KES 745,No discount,https://www.naivas.online/kelloggs-coco-pops-500g,Naivas
+2026-04-11,rice,Lonat Amaranth 125Gms,KES 110,No discount,https://www.naivas.online/lonat-amaranth-125gms,Naivas
+2026-04-11,rice,Lonat Amaranth 250 gms,KES 235,No discount,https://www.naivas.online/lonat-amaranth-250-gms,Naivas
+2026-04-11,rice,Morning Harvest Choco Shells 250g,KES 329,No discount,https://www.naivas.online/morning-harvest-choco-shells-250g,Naivas
+2026-04-11,rice,Morning Harvest Choco Shells Value Pack 450g,KES 529,No discount,https://www.naivas.online/morning-harvest-choco-shells-value-pack-450g,Naivas
+2026-04-11,rice,Temmy'S Choco Pops 250g,KES 300,KES 405,https://www.naivas.online/temmys-choco-pops-250g,Naivas
+2026-04-11,rice,Temmy'S Choco Pops 500g,KES 755,No discount,https://www.naivas.online/temmys-choco-pops-500g,Naivas
+2026-04-11,rice,Temmy'S Choco Scoops 250g,KES 420,No discount,https://www.naivas.online/temmys-choco-scoops-250g,Naivas
+2026-04-11,rice,Temmy'S Fruit Rings 250g,KES 445,No discount,https://www.naivas.online/temmys-fruit-rings-250g,Naivas
+2026-04-11,rice,Temmys Honey Pops 250 g,KES 320,KES 425,https://www.naivas.online/temmys-honey-pops-250-g,Naivas
+2026-04-11,rice,Temmy's Kids Variety Pack,KES 445,No discount,https://www.naivas.online/temmys-kids-variety-pack,Naivas
+2026-04-11,rice,Shapies Choco Hoops 350 g,KES 400,No discount,https://www.naivas.online/shapies-choco-hoops-350-g,Naivas
+2026-04-11,rice,Shapies Choco Hoops 500 g,KES 510,No discount,https://www.naivas.online/shapies-choco-hoops-500-g,Naivas
+2026-04-11,rice,Shapies Chocolate Pillows 350G,KES 420,No discount,https://www.naivas.online/shapies-chocolate-pillows-350g,Naivas
+2026-04-11,rice,Shapies Chocolate Pillows 500 g,KES 580,No discount,https://www.naivas.online/shapies-chocolate-pillows-500-g,Naivas
+2026-04-11,rice,Elbbin Shapies Choco Hoops 210G,KES 260,No discount,https://www.naivas.online/elbbin-shapies-choco-hoops-210g,Naivas
+2026-04-11,rice,Elbbin Shapies Chocolate Pillows 210G,KES 270,No discount,https://www.naivas.online/elbbin-shapies-chocolate-pillows-210g,Naivas
+2026-04-11,rice,Elbbin Shapies Multigrain Honey Hoops 350G,KES 480,No discount,https://www.naivas.online/elbbin-shapies-multigrain-honey-hoops-350g,Naivas
+2026-04-11,rice,Nestle Cereal Cheerios Honey 370G,"KES 1,685",No discount,https://www.naivas.online/nestle-cereal-cheerios-honey-370g,Naivas
+2026-04-11,rice,Nestle Curiously Cinnamon 375G,"KES 1,685",No discount,https://www.naivas.online/nestle-curiously-cinnamon-375g,Naivas
+2026-04-11,rice,Temmy'S Fruit Ring 500Gm Value Pack,KES 525,KES 750,https://www.naivas.online/temmy-s-fruit-ring-500gm-value-pack,Naivas
+2026-04-11,rice,Temmy'S Honey Pops 500Gm Value Pack,KES 525,KES 750,https://www.naivas.online/temmy-s-honey-pops-500gm-value-pack,Naivas
+2026-04-11,rice,Temmys Raisin Bran 250G,KES 460,No discount,https://www.naivas.online/temmys-raisin-bran-250g,Naivas
+2026-04-11,rice,Suree Rice Vermicelli 400 gm Pk,KES 500,No discount,https://www.naivas.online/suree-rice-vermicelli-400-gm-pk,Naivas
+2026-04-11,rice,Storesome Rice Spoon,KES 120,No discount,https://www.naivas.online/storesome-rice-spoon,Naivas
+2026-04-11,rice,Carrific Rice Spoon,KES 145,No discount,https://www.naivas.online/carrific-rice-spoon,Naivas
+2026-04-11,rice,Dove Rice Milk Body Scrub 225Ml,"KES 2,240",No discount,https://www.naivas.online/dove-rice-milk-body-scrub-225ml,Naivas
+2026-04-11,rice,Kamili Nutrameal Rice Flour 1Kg,KES 202,No discount,https://www.naivas.online/kamili-nutrameal-rice-flour-1kg,Naivas
+2026-04-11,rice,Imperial Leather Japanese Jasmine & Rice Soap 125G,KES 90,No discount,https://www.naivas.online/imperial-leather-soap-extra-care-125-g,Naivas
+2026-04-11,rice,Imperial Leather Japanese Jasmine & Rice Soap 4x125G V/Pack,KES 299,No discount,https://www.naivas.online/imperial-leather-soap-extra-care-125-g-buy-3-get-1-free,Naivas
+2026-04-11,rice,Imperial Leather Japanese Jasmine & Rice Soap 175G,KES 150,No discount,https://www.naivas.online/imperial-leather-soap-extra-care-175-g,Naivas
+2026-04-11,cooking oil,Masterchef Cooking Oil 1Ltr,KES 319,No discount,https://www.naivas.online/masterchef-cooking-oil-1ltr,Naivas
+2026-04-11,cooking oil,Dola Cooking Oil 1Ltr,KES 319,No discount,https://www.naivas.online/dola-cooking-oil-1ltr,Naivas
+2026-04-11,cooking oil,Dola Cooking Oil 3Ltr,KES 899,No discount,https://www.naivas.online/dola-cooking-oil-3ltr,Naivas
+2026-04-11,cooking oil,Dola Cooking Oil 5Ltr,"KES 1,199","KES 1,419",https://www.naivas.online/dola-cooking-oil-5ltr,Naivas
+2026-04-11,cooking oil,Elianto Cooking Oil 20Ltr,"KES 10,150",No discount,https://www.naivas.online/elianto-cooking-oil-20ltr,Naivas
+2026-04-11,cooking oil,Masterchef Cooking Oil 5Ltr,"KES 1,419",No discount,https://www.naivas.online/masterchef-cooking-oil-5ltr,Naivas
+2026-04-11,cooking oil,Masterchef Cooking Oil 3Ltr,KES 799,KES 899,https://www.naivas.online/masterchef-cooking-oil-3ltr,Naivas
+2026-04-11,cooking oil,Flora Cooking Oil 3Ltr,"KES 1,067",No discount,https://www.naivas.online/flora-cooking-oil-3ltr,Naivas
+2026-04-11,cooking oil,Rina Vegetable Cooking Oil 10L,"KES 2,650",No discount,https://www.naivas.online/rina-vegetable-cooking-oil-10l,Naivas
+2026-04-11,cooking oil,Rina Vegetable Cooking Oil 20L,"KES 5,200",No discount,https://www.naivas.online/rina-vegetable-cooking-oil-20l,Naivas
+2026-04-11,cooking oil,Ufuta Vegetable Cooking Oil 20L,"KES 5,718",No discount,https://www.naivas.online/ufuta-vegetable-cooking-oil-20l,Naivas
+2026-04-11,cooking oil,Salit Vegetable Cooking Oil 3L,"KES 1,039",No discount,https://www.naivas.online/salit-vegetable-cooking-oil-3ltr,Naivas
+2026-04-11,cooking oil,Fresh Fri Vegetable Cooking Oil 20L,"KES 5,565",No discount,https://www.naivas.online/fresh-fri-vegetable-cooking-oil-20l,Naivas
+2026-04-11,cooking oil,Fresh Fri Vegetable Cooking Oil 10L,"KES 2,805",No discount,https://www.naivas.online/fresh-fri-vegetable-cooking-oil-10l,Naivas
+2026-04-11,cooking oil,Fresh Fri Cooking Oil 500Ml,KES 190,No discount,https://www.naivas.online/fresh-fri-cooking-oil-500ml,Naivas
+2026-04-11,cooking oil,Yello Gold Vegetable Cooking Fat 5Kg Carton,"KES 1,390",No discount,https://www.naivas.online/yello-gold-vegetable-cooking-fat-5kg-carton,Naivas
+2026-04-11,cooking oil,Yello Gold Vegetable Cooking Fat 10Kg Carton,"KES 2,750",No discount,https://www.naivas.online/yello-gold-vegetable-cooking-fat-10kg-carton,Naivas
+2026-04-11,cooking oil,Aidaou Cooking Oil Brush,KES 345,No discount,https://www.naivas.online/aidaou-cooking-oil-brush,Naivas
+2026-04-11,cooking oil,Mika 4G+2E Cooker Ff 10F Mst9042Wef10Hi-Mst90Pu42Hi-Hc,"KES 114,995",No discount,https://www.naivas.online/mika-4g+2e-cooker-ff-10f-mst9042wef10hi-mst90pu42hi-hc,Naivas
+2026-04-11,cooking oil,Kimbo Cooking Vegetable Fat 500g,KES 195,No discount,https://www.naivas.online/kimbo-cooking-vegetable-fat-500g,Naivas
+2026-04-11,cooking oil,Kimbo Cooking Vegetable Fat 2Kg,KES 740,No discount,https://www.naivas.online/kimbo-cooking-vegetable-fat-2kg,Naivas
+2026-04-11,cooking oil,Kimbo Cooking Vegetable Fat 1Kg,KES 380,No discount,https://www.naivas.online/kimbo-cooking-vegetable-fat-1kg,Naivas
+2026-04-11,cooking oil,Mallo Cooking Vegetable Fat 5Kg Carton,"KES 1,390",No discount,https://www.naivas.online/mallo-cooking-vegetable-fat-5kg-carton,Naivas
+2026-04-11,cooking oil,Mallo Cooking Vegetable Fat 10Kg Carton,"KES 2,750",No discount,https://www.naivas.online/mallo-cooking-vegetable-fat-10kg-carton,Naivas
+2026-04-11,cooking oil,Tily Pure White Cooking Fat 500g,KES 215,No discount,https://www.naivas.online/tily-pure-white-cooking-fat-500g,Naivas
+2026-04-11,cooking oil,Tily Pure White Cooking Fat 2Kg,KES 835,No discount,https://www.naivas.online/tily-pure-white-cooking-fat-2kg,Naivas
+2026-04-11,cooking oil,Tily Pure White Cooking Fat 1Kg,KES 425,No discount,https://www.naivas.online/tily-pure-white-cooking-fat-1kg,Naivas
+2026-04-11,cooking oil,Tily Pure White Cooking Fat 10Kg Carton,"KES 2,985",No discount,https://www.naivas.online/tily-pure-white-cooking-fat-10kg-carton,Naivas
+2026-04-11,cooking oil,Mpishi Poa Cooking Vegetable Fat 500g,KES 175,No discount,https://www.naivas.online/mpishi-poa-cooking-vegetable-fat-500g,Naivas
+2026-04-11,cooking oil,Mpishi Poa Cooking Vegetable Fat 2Kg,KES 700,No discount,https://www.naivas.online/mpishi-poa-cooking-vegetable-fat-2kg,Naivas
+2026-04-11,cooking oil,Mpishi Poa Cooking Vegetable Fat 1Kg,KES 350,No discount,https://www.naivas.online/mpishi-poa-cooking-vegetable-fat-1kg,Naivas
+2026-04-11,cooking oil,Kasuku Pure White Cooking Fat Cholesterol Free 500g,KES 220,No discount,https://www.naivas.online/kasuku-pure-white-cooking-fat-cholesterol-free-500g,Naivas
+2026-04-11,cooking oil,Kasuku Pure White Cooking Fat Cholesterol Free 2Kg,KES 845,No discount,https://www.naivas.online/kasuku-pure-white-cooking-fat-cholesterol-free-2kg,Naivas
+2026-04-11,cooking oil,Kasuku Pure White Cooking Fat Cholesterol Free 1Kg,KES 430,No discount,https://www.naivas.online/kasuku-pure-white-cooking-fat-cholesterol-free-1kg,Naivas
+2026-04-11,cooking oil,Fry Mate Cooking Fat 2Kg,KES 700,No discount,https://www.naivas.online/fry-mate-cooking-fat-2kg,Naivas
+2026-04-11,cooking oil,Fry Mate Cooking Fat 1Kg,KES 350,No discount,https://www.naivas.online/fry-mate-cooking-fat-1kg,Naivas
+2026-04-11,cooking oil,Chipsy Plus 3 Cooking Fat Pure Yellow 1Kg,KES 380,No discount,https://www.naivas.online/chipsy-plus-3-cooking-fat-pure-yellow-1kg,Naivas
+2026-04-11,cooking oil,Chipsy Plus 3 Cooking Fat Pure Yellow 2Kg,KES 740,No discount,https://www.naivas.online/chipsy-plus-3-cooking-fat-pure-yellow-2kg,Naivas
+2026-04-11,cooking oil,Chipsy Plus 3 Cooking Fat Pure Yellow 500g,KES 195,No discount,https://www.naivas.online/chipsy-plus-3-cooking-fat-pure-yellow-500g,Naivas
+2026-04-11,cooking oil,Cowboy Spesheli Cooking Fat 1Kg,KES 380,No discount,https://www.naivas.online/cowboy-spesheli-cooking-fat-1kg,Naivas
+2026-04-11,cooking oil,Cowboy Spesheli Cooking Fat 2Kg,KES 740,No discount,https://www.naivas.online/cowboy-spesheli-cooking-fat-2kg,Naivas
+2026-04-11,cooking oil,Cowboy Spesheli Cooking Fat 500g,KES 195,No discount,https://www.naivas.online/cowboy-spesheli-cooking-fat-500g,Naivas
+2026-04-11,cooking oil,Veebol Vegetable Cooking Fat 10Kg Carton,"KES 2,884",No discount,https://www.naivas.online/veebol-vegetable-cooking-fat-10kg-carton,Naivas
+2026-04-11,cooking oil,Pradip Lemon Oil 50Ml,KES 155,No discount,https://www.naivas.online/pradip-lemon-oil-50ml,Naivas
+2026-04-11,cooking oil,Pradip Orange Oil 50Ml,KES 245,No discount,https://www.naivas.online/pradip-orange-oil-50ml,Naivas
+2026-04-11,cooking oil,Pradip Peppermint Oil 50Ml,KES 275,No discount,https://www.naivas.online/pradip-peppermint-oil-50ml,Naivas
+2026-04-11,cooking oil,Mika 4G+1E Cooker Mst9041Weg6Bx,"KES 106,995",No discount,https://www.naivas.online/mika-4g+1e-cooker-mst9041weg6bx,Naivas
+2026-04-11,cooking oil,Midea 3Gas + 1 Electric Cooker 50X60 50E3G1H-Sl,"KES 39,995",No discount,https://www.naivas.online/midea-3g-1e-cooker-50-60-50e3g1h-sl,Naivas
+2026-04-11,cooking oil,Ramtons Digital Air Fryer 5.5 Litre RM/755,"KES 13,190",No discount,https://www.naivas.online/ramtons-digital-air-fryer-55-litre-rm755,Naivas
+2026-04-11,cooking oil,Rina Vegetable Oil 2L,KES 680,No discount,https://www.naivas.online/rina-vegetable-oil-2l,Naivas
+2026-04-11,cooking oil,Rina Vegetable Oil 3L,"KES 1,060",No discount,https://www.naivas.online/rina-vegetable-oil-3l,Naivas
+2026-04-11,cooking oil,Fresh Fri Vegetable Oil 1L,KES 350,No discount,https://www.naivas.online/fresh-fri-cooking-oil-1ltr,Naivas
+2026-04-11,cooking oil,Avena Vegetable Oil 10L,"KES 2,780",No discount,https://www.naivas.online/avena-vegetable-oil-10l,Naivas
+2026-04-11,cooking oil,Avena Vegetable Oil 1L,KES 355,No discount,https://www.naivas.online/avena-vegetable-cooking-oil-1ltr,Naivas
+2026-04-11,cooking oil,Avena Vegetable Oil 2L,KES 690,No discount,https://www.naivas.online/avena-vegetable-oil-2l,Naivas
+2026-04-11,cooking oil,Avena Vegetable Oil 3L,"KES 1,025",No discount,https://www.naivas.online/avena-vegetable-oil-3l,Naivas
+2026-04-11,cooking oil,Avena Vegetable Oil 5L,"KES 1,610",No discount,https://www.naivas.online/avena-vegetable-oil-5l,Naivas
+2026-04-11,cooking oil,Pika Vegetable Oil 10L,"KES 2,680",No discount,https://www.naivas.online/pika-vegetable-cooking-oil-10ltr,Naivas
+2026-04-11,cooking oil,Pika Vegetable Oil 20L,"KES 5,340",No discount,https://www.naivas.online/pika-vegetable-cooking-oil-20ltr,Naivas
+2026-04-11,cooking oil,Rina Vegetable Oil 1L,KES 350,No discount,https://www.naivas.online/rina-vegetable-cooking-oil-1ltr,Naivas
+2026-04-11,cooking oil,Rina Vegetable Oil 500Ml,KES 230,No discount,https://www.naivas.online/rina-vegetable-oil-500ml,Naivas
+2026-04-11,cooking oil,Rina Vegetable Oil 5L,"KES 1,499","KES 1,600",https://www.naivas.online/rina-vegetable-oil-5l,Naivas
+2026-04-11,cooking oil,Ufuta Vegetable Oil 5L,"KES 1,575",No discount,https://www.naivas.online/ufuta-vegetable-oil-5l,Naivas
+2026-04-11,cooking oil,Pika Pure Vegetable Oil 2L,KES 675,No discount,https://www.naivas.online/pika-pure-vegetable-oil-2l,Naivas
+2026-04-11,cooking oil,Pika Pure Vegetable Oil 3L,"KES 1,000",No discount,https://www.naivas.online/pika-pure-vegetable-oil-3l,Naivas
+2026-04-11,cooking oil,Pika Pure Vegetable Oil 5L,"KES 1,560",No discount,https://www.naivas.online/pika-pure-vegetable-oil-5l,Naivas
+2026-04-11,cooking oil,Kimbo Premium Vegetable Oil 5L,"KES 1,540",No discount,https://www.naivas.online/kimbo-premium-vegetable-oil-5l,Naivas
+2026-04-11,cooking oil,Kimbo Premium Vegetable Oil 3L,"KES 1,000",No discount,https://www.naivas.online/kimbo-premium-vegetable-oil-3l,Naivas
+2026-04-11,cooking oil,Kimbo Premium Vegetable Oil 2L,KES 715,No discount,https://www.naivas.online/kimbo-premium-vegetable-oil-2l,Naivas
+2026-04-11,cooking oil,Kimbo Premium Vegetable Oil 1L,KES 380,No discount,https://www.naivas.online/kimbo-premium-vegetable-oil-1l,Naivas
+2026-04-11,cooking oil,Golden Fry Vegetable Oil 3L,"KES 1,050",No discount,https://www.naivas.online/golden-fry-vegetable-oil-3l,Naivas
+2026-04-11,cooking oil,Golden Fry Vegetable Oil 20L,"KES 5,576",No discount,https://www.naivas.online/golden-fry-vegetable-oil-20l,Naivas
+2026-04-11,cooking oil,Golden Fry Vegetable Oil 1L,KES 360,No discount,https://www.naivas.online/golden-fry-vegetable-oil-1l,Naivas
+2026-04-11,cooking oil,Fresh Fri Vegetable Oil 5L,"KES 1,299","KES 1,600",https://www.naivas.online/fresh-fri-vegetable-oil-5l,Naivas
+2026-04-11,cooking oil,Fresh Fri Vegetable Oil 3L,KES 819,"KES 1,060",https://www.naivas.online/fresh-fri-vegetable-oil-3l,Naivas
+2026-04-11,cooking oil,Fresh Fri Vegetable Oil 2L,KES 549,KES 680,https://www.naivas.online/fresh-fri-cooking-oil-2ltr,Naivas
+2026-04-11,cooking oil,Golden Drop Vegetable Oil 1Ltr,KES 315,No discount,https://www.naivas.online/golden-drop-vegetable-oil-1ltr,Naivas
+2026-04-11,cooking oil,Golden Drop Vegetable Oil 5Ltr,"KES 1,399",No discount,https://www.naivas.online/golden-drop-vegetable-oil-5ltr,Naivas
+2026-04-11,cooking oil,Golden Fry 500Ml,KES 200,No discount,https://www.naivas.online/golden-fry-500ml,Naivas
+2026-04-11,cooking oil,Kentaste Coconut Oil 400ml,KES 704,No discount,https://www.naivas.online/kentaste-coconut-oil-400ml,Naivas
+2026-04-11,cooking oil,Parachute Coconut Oil 500Ml,KES 775,No discount,https://www.naivas.online/parachute-coconut-oil-500ml,Naivas
+2026-04-11,cooking oil,Sea Korus Sardines In Vegetable Oil 155g,KES 200,No discount,https://www.naivas.online/sea-korus-sardines-in-vegetable-oil-155g,Naivas
+2026-04-11,cooking oil,Brookside Cooking Cream 400Ml,KES 345,No discount,https://www.naivas.online/brookside-cooking-cream-400ml,Naivas
+2026-04-11,cooking oil,Bio Sterilised Cooking Crm 500,KES 359,No discount,https://www.naivas.online/bio-sterilised-cooking-crm-500,Naivas
+2026-04-11,cooking oil,First Choice Uht Cooking Cream 1L,KES 875,No discount,https://www.naivas.online/first-choice-uht-cooking-cream-1l,Naivas
+2026-04-11,cooking oil,Vitafla Atta Mark 1 Flour 2Kg,KES 223,No discount,https://www.naivas.online/vitafla-atta-mark-1-flour-2kg,Naivas
+2026-04-11,cooking oil,Brookside Double Cream 150Ml,KES 255,No discount,https://www.naivas.online/brookside-double-cream-150ml,Naivas
+2026-04-11,cooking oil,Brookside Whipping Cream 200Ml,KES 285,No discount,https://www.naivas.online/brookside-whipping-cream-200ml,Naivas
+2026-04-11,wheat flour,Lotus Wheat Flour 2Kg,KES 158,No discount,https://www.naivas.online/lotus-wheat-flour-2kg,Naivas
+2026-04-11,wheat flour,Elliots Atta Mark 1 2Kg,KES 172,No discount,https://www.naivas.online/elliots-atta-mark-1-2kg,Naivas
+2026-04-11,wheat flour,Exe Brown Bread Wheat Flour 2Kg,KES 188,No discount,https://www.naivas.online/exe-brown-bread-wheat-flour-2kg,Naivas
+2026-04-11,wheat flour,Ndovu Home Baking Wheat Flour 2Kg,KES 160,No discount,https://www.naivas.online/ndovu-home-baking-wheat-flour-2kg,Naivas
+2026-04-11,wheat flour,210 Home Baking Wheat Flour 2Kg,KES 156,No discount,https://www.naivas.online/210-home-baking-wheat-flour-2kg,Naivas
+2026-04-11,wheat flour,Exe Chapati Flour 1Kg,KES 90,No discount,https://www.naivas.online/exe-chapati-flour-1kg,Naivas
+2026-04-11,wheat flour,Exe Chapati Flour 2Kg,KES 178,No discount,https://www.naivas.online/exe-chapati-flour-2kg,Naivas
+2026-04-11,wheat flour,Exe Mandazi Flour 2Kg,KES 186,No discount,https://www.naivas.online/exe-mandazi-flour-2kg,Naivas
+2026-04-11,wheat flour,Exe Self Raising Flour 2Kg,KES 187,No discount,https://www.naivas.online/exe-self-raising-flour-2kg,Naivas
+2026-04-11,wheat flour,Exe All Purpose Flour 1Kg,KES 90,No discount,https://www.naivas.online/exe-all-purpose-flour-1kg,Naivas
+2026-04-11,wheat flour,Exe All Purpose Flour 2Kg,KES 149,KES 172,https://www.naivas.online/exe-all-purpose-flour-2kg,Naivas
+2026-04-11,wheat flour,Exe Atta Mark 1 Flour 2Kg,KES 187,No discount,https://www.naivas.online/exe-atta-mark-1-flour-2kg,Naivas
+2026-04-11,wheat flour,Exe Self Raising Flour 1Kg,KES 95,No discount,https://www.naivas.online/exe-self-raising-flour-1kg,Naivas
+2026-04-11,wheat flour,Umix Mandazi Flour 2 Kg,KES 260,No discount,https://www.naivas.online/umix-mandazi-flour-2-kg,Naivas
+2026-04-11,wheat flour,Ajab Home Baking Flour 1Kg,KES 87,No discount,https://www.naivas.online/ajab-home-baking-flour-1kg,Naivas
+2026-04-11,wheat flour,Ajab Home Baking Flour 2Kg,KES 172,No discount,https://www.naivas.online/ajab-home-baking-flour-2kg,Naivas
+2026-04-11,wheat flour,Dola All Purpose Flour 2Kg,KES 166,No discount,https://www.naivas.online/dola-all-purpose-flour-2kg,Naivas
+2026-04-11,wheat flour,Kamal Atta Mark 2Kg,KES 242,No discount,https://www.naivas.online/kamal-atta-mark-2kg,Naivas
+2026-04-11,wheat flour,Ready Bake Mandazi Mix Flour 1Kg,KES 295,No discount,https://www.naivas.online/ready-bake-mandazi-mix-flour-1kg,Naivas
+2026-04-11,wheat flour,Phulka Atta Mark 1 Chapati Flour 5Kg,KES 475,No discount,https://www.naivas.online/phulka-atta-mark-1-chapati-flour-5kg,Naivas
+2026-04-11,wheat flour,Phulka Atta Mark 1 Chapati Flour 2Kg,KES 165,No discount,https://www.naivas.online/phulka-atta-mark-1-chapati-flour-2kg,Naivas
+2026-04-11,wheat flour,Pembe Self Raising Flour 2 Kg,KES 182,No discount,https://www.naivas.online/pembe-self-raising-flour-2-kg,Naivas
+2026-04-11,wheat flour,Pembe Home Baking All Purpose Flour 2Kg,KES 173,No discount,https://www.naivas.online/pembe-home-baking-all-purpose-flour-2kg,Naivas
+2026-04-11,wheat flour,Pembe Home Baking All Purpose Flour 1Kg,KES 88,No discount,https://www.naivas.online/pembe-home-baking-all-purpose-flour-1kg,Naivas
+2026-04-11,wheat flour,Ajab Fortified Mandazi Flour 2 Kg,KES 172,No discount,https://www.naivas.online/ajab-fortified-mandazi-flour-2-kg,Naivas
+2026-04-11,wheat flour,Masterchef All Purpose Flour 2Kg,KES 151,KES 160,https://www.naivas.online/masterchef-all-purpose-flour-2kg,Naivas
+2026-04-11,wheat flour,Umoja Home Baking Flour 2Kg,KES 157,No discount,https://www.naivas.online/umoja-home-baking-flour-2kg,Naivas
+2026-04-11,wheat flour,Winnie'S Pure Health Chapati Afya Flour 2Kg,KES 281,No discount,https://www.naivas.online/winnies-pure-health-chapati-afya-flour-2kg,Naivas
+2026-04-11,wheat flour,Soko Home Baking 2Kg,KES 165,No discount,https://www.naivas.online/soko-home-baking-2kg,Naivas
+2026-04-11,wheat flour,Elliots Home Baking 2Kg,KES 166,No discount,https://www.naivas.online/elliots-home-baking-2kg,Naivas
+2026-04-11,wheat flour,Butterfly Atta Mark Stone Ground 2Kg,KES 279,No discount,https://www.naivas.online/butterfly-atta-mark-stone-ground-2kg,Naivas
+2026-04-11,wheat flour,Butterfly Atta Mark Stone Ground 1Kg,KES 140,No discount,https://www.naivas.online/butterfly-atta-mark-stone-ground-1kg,Naivas
+2026-04-11,wheat flour,Winnie'S Pure Health Atta Mark 2Kg,KES 266,No discount,https://www.naivas.online/winnies-pure-health-atta-mark-2kg,Naivas
+2026-04-11,wheat flour,Soko Atta Mark 1 2 Kg,KES 171,No discount,https://www.naivas.online/soko-atta-mark-1-2-kg,Naivas
+2026-04-11,wheat flour,Pembe Atta Mark 2Kg,KES 178,No discount,https://www.naivas.online/pembe-atta-mark-2kg,Naivas
+2026-04-11,wheat flour,Ajab Fortified Self Raising 2 Kg,KES 172,No discount,https://www.naivas.online/ajab-fortified-self-raising-2-kg,Naivas
+2026-04-11,wheat flour,Ajab Fortified Atta Mark 1 2 Kg,KES 172,No discount,https://www.naivas.online/ajab-fortified-atta-mark-1-2-kg,Naivas
+2026-04-11,wheat flour,Lea Premium Wheat Flour 2Kg,KES 166,No discount,https://www.naivas.online/lea-premium-wheat-flour-2kg,Naivas
+2026-04-11,wheat flour,Soko Maize Meal 10Kg,KES 860,No discount,https://www.naivas.online/soko-maize-meal-10kg,Naivas
+2026-04-11,wheat flour,Soko Maize Meal 1Kg,KES 87,No discount,https://www.naivas.online/soko-maize-meal-1kg,Naivas
+2026-04-11,wheat flour,Soko Maize Meal 2Kg,KES 167,No discount,https://www.naivas.online/soko-maize-meal-2kg,Naivas
+2026-04-11,wheat flour,Soko Maize Meal 5Kg,KES 435,No discount,https://www.naivas.online/soko-maize-meal-5kg,Naivas
+2026-04-11,wheat flour,Amaize Premium Maize Meal 2Kg,KES 208,No discount,https://www.naivas.online/amaize-premium-maize-meal-2kg,Naivas
+2026-04-11,wheat flour,Kamili Nutrameal Rice Flour 1Kg,KES 202,No discount,https://www.naivas.online/kamili-nutrameal-rice-flour-1kg,Naivas
+2026-04-11,wheat flour,Soko Pure Wimbi 1Kg,KES 176,No discount,https://www.naivas.online/soko-pure-wimbi-1kg,Naivas
+2026-04-11,wheat flour,Soko Wimbi Mix 1Kg,KES 161,No discount,https://www.naivas.online/soko-wimbi-mix-1kg,Naivas
+2026-04-11,wheat flour,Vitafla Atta Mark 1 Flour 2Kg,KES 223,No discount,https://www.naivas.online/vitafla-atta-mark-1-flour-2kg,Naivas
+2026-04-11,wheat flour,Zesta Corn Flour 400g,KES 99,No discount,https://www.naivas.online/zesta-corn-flour-400g,Naivas
+2026-04-11,wheat flour,Broadways Brown Sliced Bread 400G,KES 65,No discount,https://www.naivas.online/broadways-brown-sliced-bread-400g,Naivas
+2026-04-11,wheat flour,Broadway Brown Sandwich Sliced Bread 600G,KES 97,No discount,https://www.naivas.online/broadway-brown-sandwich-sliced-bread-600g,Naivas
+2026-04-11,wheat flour,Kamal Gram Flour 1Kg,KES 269,No discount,https://www.naivas.online/kamal-gram-flour-1kg,Naivas
+2026-04-11,wheat flour,LG Oled55A26La 55 Inch4K Oled Tv,"KES 216,995",No discount,https://www.naivas.online/lg-oled55a26la-55-4k-oled-tv,Naivas
+2026-04-11,wheat flour,Cerelac Wheat Sachet 25G,KES 40,No discount,https://www.naivas.online/nestle-ceregrow-multigrain-50g,Naivas
+2026-04-11,wheat flour,Cerelac Wheat 50G Satchet,KES 70,No discount,https://www.naivas.online/nestle-cerelac-wheat-6-month-50g,Naivas
+2026-04-11,wheat flour,Alison Wheat Germ Oil 100Gm,KES 168,No discount,https://www.naivas.online/alison-wheat-germ-oil-100gm,Naivas
+2026-04-11,maize flour,Ajab Premium Maize Meal 2Kg,KES 175,No discount,https://www.naivas.online/ajab-premium-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Soko Maize Meal 10Kg,KES 860,No discount,https://www.naivas.online/soko-maize-meal-10kg,Naivas
+2026-04-11,maize flour,Soko Maize Meal 1Kg,KES 87,No discount,https://www.naivas.online/soko-maize-meal-1kg,Naivas
+2026-04-11,maize flour,Soko Maize Meal 2Kg,KES 167,No discount,https://www.naivas.online/soko-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Soko Maize Meal 5Kg,KES 435,No discount,https://www.naivas.online/soko-maize-meal-5kg,Naivas
+2026-04-11,maize flour,Jogoo Maize Meal 2Kg,KES 167,No discount,https://www.naivas.online/jogoo-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Mama Maize Meal 2Kg,KES 146,No discount,https://www.naivas.online/mama-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Tupike Maize Meal 2Kg,KES 144,No discount,https://www.naivas.online/tupike-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Pembe Maize Meal 2Kg,KES 169,No discount,https://www.naivas.online/pembe-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Ndovu Maize Meal 2Kg,KES 135,KES 139,https://www.naivas.online/ndovu-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Jogoo Maize Meal 5Kg,KES 450,No discount,https://www.naivas.online/jogoo-maize-meal-5kg,Naivas
+2026-04-11,maize flour,Jogoo Maize Meal 10Kg,KES 880,No discount,https://www.naivas.online/jogoo-maize-meal-10kg,Naivas
+2026-04-11,maize flour,210 Maize Meal Flour 2 Kg,KES 158,No discount,https://www.naivas.online/210-maize-meal-flour-2-kg,Naivas
+2026-04-11,maize flour,Pembe Maize Meal 5 Kg,KES 425,No discount,https://www.naivas.online/pembe-maize-meal-5-kg,Naivas
+2026-04-11,maize flour,Pembe Maize Meal 10 Kg,KES 845,No discount,https://www.naivas.online/pembe-maize-meal-10-kg,Naivas
+2026-04-11,maize flour,Ndovu Maize Meal 1 Kg,KES 71,No discount,https://www.naivas.online/ndovu-maize-meal-1-kg,Naivas
+2026-04-11,maize flour,Amaize Premium Maize Meal 2Kg,KES 208,No discount,https://www.naivas.online/amaize-premium-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Raha Premium Maize Meal 2Kg,KES 198,No discount,https://www.naivas.online/raha-premium-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Lea Premium Maize Meal 2Kg,KES 193,No discount,https://www.naivas.online/lea-premium-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Lea Premium Maize Meal 1Kg,KES 97,No discount,https://www.naivas.online/lea-premium-maize-meal-1kg,Naivas
+2026-04-11,maize flour,Spenza Premium Maize Meal 1Kg,KES 88,KES 95,https://www.naivas.online/spenza-premium-maize-meal-1kg,Naivas
+2026-04-11,maize flour,Spenza Premium Maize Meal 2Kg,KES 175,KES 188,https://www.naivas.online/spenza-premium-maize-meal-2kg,Naivas
+2026-04-11,maize flour,Soko Nutri Wholegrain Maize Meal 2 Kg,KES 294,No discount,https://www.naivas.online/soko-nutri-wholegrain-maize-meal-2-kg,Naivas
+2026-04-11,maize flour,Dola Gold Superior Maize Flour 2 Kg,KES 172,No discount,https://www.naivas.online/dola-gold-superior-maize-flour-2-kg,Naivas
+2026-04-11,maize flour,Nice Extra Premium Maize Flour 2Kgs,KES 180,No discount,https://www.naivas.online/nice-extra-premium-maize-flour-2kgs,Naivas
+2026-04-11,maize flour,Jogoo Wimbi Flour 2Kg,KES 288,No discount,https://www.naivas.online/jogoo-wimbi-flour-2kg,Naivas
+2026-04-11,maize flour,Natures Equatorial Ugali Afya 2 Kg,KES 275,No discount,https://www.naivas.online/natures-equatorial-ugali-afya-2-kg,Naivas
+2026-04-11,maize flour,Winnie'S Pure Health Ugali Afya 2Kg,KES 305,No discount,https://www.naivas.online/winnie-s-pure-health-ugali-afya-2kg,Naivas
+2026-04-11,maize flour,Winnie'S Pure Health Ugali Afya 1Kg,KES 155,No discount,https://www.naivas.online/winnies-pure-health-ugali-afya-1kg,Naivas
+2026-04-11,maize flour,Lea Premium Wheat Flour 2Kg,KES 166,No discount,https://www.naivas.online/lea-premium-wheat-flour-2kg,Naivas
+2026-04-11,maize flour,Raha Premium Home Baking Flour 2Kg,KES 167,No discount,https://www.naivas.online/raha-premium-h/baking-flour-2kg,Naivas
+2026-04-11,maize flour,Umoja Home Baking Flour 1Kg,KES 81,No discount,https://www.naivas.online/umoja-home-baking-flour-1kg,Naivas
+2026-04-11,maize flour,Soko Pure Wimbi 1Kg,KES 176,No discount,https://www.naivas.online/soko-pure-wimbi-1kg,Naivas
+2026-04-11,maize flour,Soko Wimbi Mix 1Kg,KES 161,No discount,https://www.naivas.online/soko-wimbi-mix-1kg,Naivas
+2026-04-11,maize flour,Pembe Pure Wimbi 1Kg,KES 179,No discount,https://www.naivas.online/pembe-pure-wimbi-1kg,Naivas
+2026-04-11,maize flour,Famila Uji Mix 1Kg,KES 159,No discount,https://www.naivas.online/famila-uji-mix-1kg,Naivas
+2026-04-11,maize flour,Famila Baby Weaning Porridge Mix 1Kg,KES 169,No discount,https://www.naivas.online/famila-baby-weaning-porridge-mix-1kg,Naivas
+2026-04-11,maize flour,Elliots Atta Mark 1 2Kg,KES 172,No discount,https://www.naivas.online/elliots-atta-mark-1-2kg,Naivas
+2026-04-11,maize flour,Ajab Home Baking Flour 1Kg,KES 87,No discount,https://www.naivas.online/ajab-home-baking-flour-1kg,Naivas
+2026-04-11,maize flour,Ajab Home Baking Flour 2Kg,KES 172,No discount,https://www.naivas.online/ajab-home-baking-flour-2kg,Naivas
+2026-04-11,maize flour,Dola All Purpose Flour 2Kg,KES 166,No discount,https://www.naivas.online/dola-all-purpose-flour-2kg,Naivas
+2026-04-11,maize flour,Exe All Purpose Flour 1Kg,KES 90,No discount,https://www.naivas.online/exe-all-purpose-flour-1kg,Naivas
+2026-04-11,maize flour,Exe All Purpose Flour 2Kg,KES 149,KES 172,https://www.naivas.online/exe-all-purpose-flour-2kg,Naivas
+2026-04-11,maize flour,Exe Brown Bread Wheat Flour 2Kg,KES 188,No discount,https://www.naivas.online/exe-brown-bread-wheat-flour-2kg,Naivas
+2026-04-11,maize flour,Exe Chapati Flour 1Kg,KES 90,No discount,https://www.naivas.online/exe-chapati-flour-1kg,Naivas
+2026-04-11,maize flour,Exe Chapati Flour 2Kg,KES 178,No discount,https://www.naivas.online/exe-chapati-flour-2kg,Naivas
+2026-04-11,maize flour,Exe Mandazi Flour 2Kg,KES 186,No discount,https://www.naivas.online/exe-mandazi-flour-2kg,Naivas
+2026-04-11,maize flour,Exe Self Raising Flour 1Kg,KES 95,No discount,https://www.naivas.online/exe-self-raising-flour-1kg,Naivas
+2026-04-11,maize flour,Exe Self Raising Flour 2Kg,KES 187,No discount,https://www.naivas.online/exe-self-raising-flour-2kg,Naivas
+2026-04-11,maize flour,Kamal Gram Flour 1Kg,KES 269,No discount,https://www.naivas.online/kamal-gram-flour-1kg,Naivas
+2026-04-11,maize flour,Kamili Nutrameal Rice Flour 1Kg,KES 202,No discount,https://www.naivas.online/kamili-nutrameal-rice-flour-1kg,Naivas
+2026-04-11,maize flour,Umix Mandazi Flour 2 Kg,KES 260,No discount,https://www.naivas.online/umix-mandazi-flour-2-kg,Naivas
+2026-04-11,maize flour,Kentaste Coconut Flour 500 g,KES 190,No discount,https://www.naivas.online/kentaste-coconut-flour-500-g,Naivas
+2026-04-11,maize flour,Grainmill Oat Flour 500 g,KES 285,No discount,https://www.naivas.online/grainmill-oat-flour-500-g,Naivas
+2026-04-11,maize flour,Butterfly Kamal Gram Flour 2 Kg,KES 535,No discount,https://www.naivas.online/butterfly-kamal-gram-flour-2-kg,Naivas
+2026-04-11,maize flour,Butterfly Gram Flour 2 Kg,KES 915,No discount,https://www.naivas.online/butterfly-gram-flour-2-kg,Naivas
+2026-04-11,maize flour,Butterfly Gram Flour 1 Kg,KES 467,No discount,https://www.naivas.online/butterfly-gram-flour-1-kg,Naivas
+2026-04-11,maize flour,Pembe Self Raising Flour 2 Kg,KES 182,No discount,https://www.naivas.online/pembe-self-raising-flour-2-kg,Naivas
+2026-04-11,maize flour,Ajab Fortified Mandazi Flour 2 Kg,KES 172,No discount,https://www.naivas.online/ajab-fortified-mandazi-flour-2-kg,Naivas
+2026-04-11,maize flour,Masterchef All Purpose Flour 2Kg,KES 151,KES 160,https://www.naivas.online/masterchef-all-purpose-flour-2kg,Naivas
+2026-04-11,maize flour,Umoja Home Baking Flour 2Kg,KES 157,No discount,https://www.naivas.online/umoja-home-baking-flour-2kg,Naivas
+2026-04-11,maize flour,Lotus Wheat Flour 2Kg,KES 158,No discount,https://www.naivas.online/lotus-wheat-flour-2kg,Naivas
+2026-04-11,maize flour,Exe Atta Mark 1 Flour 2Kg,KES 187,No discount,https://www.naivas.online/exe-atta-mark-1-flour-2kg,Naivas
+2026-04-11,maize flour,Rimwabi Omena Uji Mix Flour 1KG,KES 207,No discount,https://www.naivas.online/rimwabi-omena-uji-mix-flour-1kg,Naivas
+2026-04-11,maize flour,Ready Bake Mandazi Mix Flour 1Kg,KES 295,No discount,https://www.naivas.online/ready-bake-mandazi-mix-flour-1kg,Naivas
+2026-04-11,maize flour,Live Life W Cassava Flour 750 g,KES 349,No discount,https://www.naivas.online/live-life-w-cassava-flour-750-g,Naivas
+2026-04-11,maize flour,Ndovu Home Baking Wheat Flour 2Kg,KES 160,No discount,https://www.naivas.online/ndovu-home-baking-wheat-flour-2kg,Naivas
+2026-04-11,maize flour,210 Home Baking Wheat Flour 2Kg,KES 156,No discount,https://www.naivas.online/210-home-baking-wheat-flour-2kg,Naivas
