@@ -3,18 +3,27 @@ on:
   schedule:
     - cron: "0 6 * * *"   # Runs daily at 6 AM UTC (9 AM Kenya time)
   workflow_dispatch:       # Allows manual trigger
+
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write      # Explicitly allow writing to the repo
+
     steps:
       # 1. Get your code
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0   # Full history to avoid push conflicts
+
       # 2. Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
+
       # 3. Install Python dependencies + Playwright
       - name: Install dependencies
         run: |
@@ -22,12 +31,15 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium
           playwright install-deps chromium
+
       # 4. Create data directories
       - name: Create data directories
         run: mkdir -p data/raw data/processed data/history data/analytics
+
       # 5. Run your scraper pipeline
       - name: Run scraper
         run: python main.py
+
       # 6. Verify data was generated
       - name: Check generated files
         run: |
@@ -39,17 +51,30 @@ jobs:
           ls -lah data/history/ || echo "No history data"
           echo "=== Files in data/analytics ==="
           ls -lah data/analytics/ || echo "No analytics data"
+
       # 7. Upload generated CSV files (for backup)
       - name: Upload CSV results
         uses: actions/upload-artifact@v4
         with:
           name: scraped-data
           path: data/
+
       # 8. Commit and push results
       - name: Commit and push results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/**/*.csv || echo "No CSV files to add"
-          git commit -m "chore: update scraped data $(date '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
-          git push || echo "Push failed or no changes"
+
+          # Stage the entire data directory (all files, all subdirectories)
+          git add data/
+
+          # Only commit and push if there are actual file changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit — scraper produced identical output."
+          else
+            echo "Changes detected, committing the following files:"
+            git diff --staged --name-only
+            git commit -m "chore: update scraped data $(date '+%Y-%m-%d %H:%M:%S UTC')"
+            git push
+            echo "Push successful."
+          fi
