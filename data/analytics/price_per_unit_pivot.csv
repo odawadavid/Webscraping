@@ -1,22 +1,23 @@
 sku,E-Mart,Naivas,Quickmart
 BreadBroadways400g,162.5,162.5,162.5
 BreadBroadways600g,166.66666666666669,160.0,161.66666666666669
-BreadFestive400g,162.5,157.5,162.5
+BreadFestive5kg,49.3,48.0,48.0
 BreadFestive600g,170.83333333333334,160.0,166.66666666666669
+BreadSupa400g,162.5,162.5,162.5
 Cooking OilAvena2l,375.0,297.5,345.0
 Cooking OilAvena5l,325.0,289.8,268.0
 Cooking OilFresh1l,370.0,309.0,350.0
+Cooking OilFresh2l,349.5,299.5,340.0
 Cooking OilFresh3l,350.0,299.6666666666667,273.0
-Cooking OilFresh5l,330.0,259.8,312.0
+Cooking OilFresh5l,330.0,279.8,312.0
 Cooking OilGolden3l,350.0,350.0,276.3333333333333
-Cooking OilGolden5l,328.0,259.8,239.8
 Cooking OilKimbo2l,370.0,357.5,395.0
 Cooking OilPika10l,268.0,268.0,283.5
 Cooking OilPika20l,272.5,267.0,282.5
 Cooking OilRina10l,339.9,265.0,295.0
 Cooking OilRina2l,395.0,299.5,299.5
 Cooking OilRina3l,400.0,273.0,328.6666666666667
-Cooking OilRina5l,374.0,239.8,299.8
+Cooking OilRina5l,374.0,299.8,299.8
 Maize MealAjab2kg,90.0,80.0,81.0
 Maize MealAmaize2kg,107.5,96.5,98.5
 Maize MealDola2kg,102.5,90.5,82.0
@@ -37,7 +38,7 @@ MilkBrookside500ml,132.0,125.0,135.0
 MilkDaima500ml,120.0,101.0,98.0
 RiceCil2kg,325.0,242.25,233.25
 RiceCil5kg,300.0,299.8,230.9
-RiceDaawat2kg,280.0,286.0,285.75
+RiceDaawat2kg,280.0,286.0,297.0
 RiceDaawat5kg,330.0,286.8,199.8
 SugarClovers500g,300.0,285.0,284.0
 SugarKabras2kg,182.5,152.5,152.5
