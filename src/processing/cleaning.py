@@ -4,7 +4,7 @@ from datetime import datetime
 from urllib.parse import urlparse
 from pathlib import Path
 
-from brands import KNOWN_BRANDS, COMMODITY_CATEGORIES
+from .brands import KNOWN_BRANDS, COMMODITY_CATEGORIES
 
 pd.set_option('display.max_colwidth', None)
 
