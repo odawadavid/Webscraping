@@ -3,7 +3,6 @@ from src.scraping.naivas import run_naivas
 from src.scraping.quickmart import run_quickmart
 
 from src.processing.cleaning import run_cleaning
-from brands import KNOWN_BRANDS, COMMODITY_CATEGORIES
 from src.analysis.analysis import run_analysis
 
 
