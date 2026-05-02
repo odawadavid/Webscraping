@@ -239,7 +239,7 @@ dola cooking oil 1ltr,Cooking Oil,Generic,Cooking Oil1l,Naivas,1l,1.0,litres,1.0
 dola cooking oil 3ltr,Cooking Oil,Generic,Cooking Oil3l,Naivas,3l,3.0,litres,3.0,985.0,869.0,116.0,289.6666666666667,2026-05-02,https://www.naivas.online/dola-cooking-oil-3ltr
 dola cooking oil 5ltr,Cooking Oil,Generic,Cooking Oil5l,Naivas,5l,5.0,litres,5.0,1550.0,1399.0,151.0,279.8,2026-05-02,https://www.naivas.online/dola-cooking-oil-5ltr
 elianto cooking oil 20ltr,Cooking Oil,Generic,Cooking Oil20l,Naivas,20l,20.0,litres,20.0,0.0,10150.0,0.0,507.5,2026-05-02,https://www.naivas.online/elianto-cooking-oil-20ltr
-masterchef cooking oil 5ltr,Cooking Oil,Generic,Cooking Oil5l,Naivas,5l,5.0,litres,5.0,0.0,1499.0,0.0,299.8,2026-05-02,https://www.naivas.online/masterchef-cooking-oil-5ltr
+masterchef cooking oil 5ltr,Cooking Oil,Generic,Cooking Oil5l,Naivas,5l,5.0,litres,5.0,1550.0,1399.0,151.0,279.8,2026-05-02,https://www.naivas.online/masterchef-cooking-oil-5ltr
 masterchef cooking oil 3ltr,Cooking Oil,Generic,Cooking Oil3l,Naivas,3l,3.0,litres,3.0,985.0,869.0,116.0,289.6666666666667,2026-05-02,https://www.naivas.online/masterchef-cooking-oil-3ltr
 rina vegetable cooking oil 10l,Cooking Oil,Generic,Cooking Oil10l,Naivas,10l,10.0,litres,10.0,0.0,2650.0,0.0,265.0,2026-05-02,https://www.naivas.online/rina-vegetable-cooking-oil-10l
 ufuta vegetable cooking oil 20l,Cooking Oil,Generic,Cooking Oil20l,Naivas,20l,20.0,litres,20.0,0.0,5718.0,0.0,285.9,2026-05-02,https://www.naivas.online/ufuta-vegetable-cooking-oil-20l
@@ -388,69 +388,66 @@ kcc gold crown fino milk 500ml tfa,Milk,KCC,MilkKCC500ml,Quickmart,500ml,500.0,l
 brookside lactose free uht milk fino 500ml,Milk,Brookside,MilkBrookside500ml,Quickmart,500ml,500.0,litres,0.5,0.0,77.0,0.0,154.0,2026-05-02,https://www.quickmart.co.ke/brookside-lactose-free-uht-milk-fino-500ml-52
 molo esl uht pouch milk 500ml,Milk,Molo,MilkMolo500ml,Quickmart,500ml,500.0,litres,0.5,56.0,49.0,7.0,98.0,2026-05-02,https://www.quickmart.co.ke/molo-esl-uht-pouch-milk-500ml-40
 kcc fresh milk 200ml tca,Milk,KCC,MilkKCC200ml,Quickmart,200ml,200.0,litres,0.2,0.0,31.0,0.0,155.0,2026-05-02,https://www.quickmart.co.ke/kcc-fresh-milk-200ml-tca-40
-festive milky white bread 400g,Milk,Festive,MilkFestive400g,Quickmart,400g,400.0,kg,0.4,0.0,65.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/festive-milky-white-bread-400g-52
 fresha whole milk pouch 500ml,Milk,Fresha,MilkFresha500ml,Quickmart,500ml,500.0,litres,0.5,0.0,58.0,0.0,116.0,2026-05-02,https://www.quickmart.co.ke/fresha-whole-milk-pouch-500ml-40
+festive milky white bread 400g,Milk,Festive,MilkFestive400g,Quickmart,400g,400.0,kg,0.4,0.0,65.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/festive-milky-white-bread-400g-52
 mt kenya milk esl 90dys 500ml,Milk,Mt. Kenya,MilkMt. Kenya500ml,Quickmart,500ml,500.0,litres,0.5,0.0,59.0,0.0,118.0,2026-05-02,https://www.quickmart.co.ke/mt-kenya-milk-esl-90dys-500ml-40
+arimis milking jelly 200g,Milk,Arimis,MilkArimis200g,Quickmart,200g,200.0,kg,0.2,0.0,139.0,0.0,695.0,2026-05-02,https://www.quickmart.co.ke/arimis-milking-jelly-200g-50
 festive milk bread 800gms,Milk,Festive,MilkFestive800g,Quickmart,800g,800.0,kg,0.8,0.0,130.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/festive-milk-bread-800gms-51
 brookide disney strawberry flavoured milk 200ml,Milk,Brookide,MilkBrookide200ml,Quickmart,200ml,200.0,litres,0.2,0.0,60.0,0.0,300.0,2026-05-02,https://www.quickmart.co.ke/brookide-disney-strawberry-flavoured-milk-200ml-40
-arimis milking jelly 200g,Milk,Arimis,MilkArimis200g,Quickmart,200g,200.0,kg,0.2,0.0,139.0,0.0,695.0,2026-05-02,https://www.quickmart.co.ke/arimis-milking-jelly-200g-50
 tuzo uht whole milk 250ml,Milk,Tuzo,MilkTuzo250ml,Quickmart,250ml,250.0,litres,0.25,0.0,40.0,0.0,160.0,2026-05-02,https://www.quickmart.co.ke/tuzo-uht-whole-milk-250ml-40
+mill bakers daz milk flavour 200gms,Milk,Mill,MilkMill200g,Quickmart,200g,200.0,kg,0.2,0.0,52.0,0.0,260.0,2026-05-02,https://www.quickmart.co.ke/mill-bakers-daz-milk-flavour-200gms-49
 mt kenya premium tfa milk 500ml,Milk,Mt. Kenya,MilkMt. Kenya500ml,Quickmart,500ml,500.0,litres,0.5,0.0,61.0,0.0,122.0,2026-05-02,https://www.quickmart.co.ke/mt-kenya-premium-tfa-milk-500ml-9
 kcc fino whole milk 500ml green tfa,Milk,KCC,MilkKCC500ml,Quickmart,500ml,500.0,litres,0.5,0.0,59.0,0.0,118.0,2026-05-02,https://www.quickmart.co.ke/kcc-fino-whole-milk-500ml-green-tfa-40
-mill bakers daz milk flavour 200gms,Milk,Mill,MilkMill200g,Quickmart,200g,200.0,kg,0.2,0.0,52.0,0.0,260.0,2026-05-02,https://www.quickmart.co.ke/mill-bakers-daz-milk-flavour-200gms-49
 kinangop milk pouch 500ml,Milk,Kinangop,MilkKinangop500ml,Quickmart,500ml,500.0,litres,0.5,0.0,53.0,0.0,106.0,2026-05-02,https://www.quickmart.co.ke/kinangop-milk-pouch-500ml-40
 brookside tca whole milk 200ml,Milk,Brookside,MilkBrookside200ml,Quickmart,200ml,200.0,litres,0.2,0.0,32.0,0.0,160.0,2026-05-02,https://www.quickmart.co.ke/brookside-tca-whole-milk-200ml-40
+nivea cocoa butter body milk 200ml,Milk,Nivea,MilkNivea200ml,Quickmart,200ml,200.0,litres,0.2,0.0,360.0,0.0,1800.0,2026-05-02,https://www.quickmart.co.ke/nivea-cocoa-butter-body-milk-200ml-13
 festive milky white 600gms,Milk,Festive,MilkFestive600g,Quickmart,600g,600.0,kg,0.6,0.0,100.0,0.0,166.66666666666669,2026-05-02,https://www.quickmart.co.ke/festive-milky-white-600gms-50
 arimis milking jelly 100ml/90ml,Milk,Arimis,MilkArimis100ml,Quickmart,100ml,100.0,litres,0.1,0.0,70.0,0.0,700.0,2026-05-02,https://www.quickmart.co.ke/arimis-milking-jelly-100ml/90ml-39
-nivea cocoa butter body milk 200ml,Milk,Nivea,MilkNivea200ml,Quickmart,200ml,200.0,litres,0.2,0.0,360.0,0.0,1800.0,2026-05-02,https://www.quickmart.co.ke/nivea-cocoa-butter-body-milk-200ml-13
-brookside flavoured coffee milk 250ml,Milk,Brookside,MilkBrookside250ml,Quickmart,250ml,250.0,litres,0.25,0.0,69.0,0.0,276.0,2026-05-02,https://www.quickmart.co.ke/brookside-flavoured-coffee-milk-250ml-40
-sawa milking jelly 200ml,Milk,Sawa,MilkSawa200ml,Quickmart,200ml,200.0,litres,0.2,0.0,120.0,0.0,600.0,2026-05-02,https://www.quickmart.co.ke/sawa-milking-jelly-200ml-39
-brookside disney vanilla flavoured milk 200ml,Milk,Brookside,MilkBrookside200ml,Quickmart,200ml,200.0,litres,0.2,0.0,60.0,0.0,300.0,2026-05-02,https://www.quickmart.co.ke/brookside-disney-vanilla-flavoured-milk-200ml-40
-brookside uht whole milk 1ltr,Milk,Brookside,MilkBrookside1l,Quickmart,1l,1.0,litres,1.0,0.0,159.0,0.0,159.0,2026-05-02,https://www.quickmart.co.ke/brookside-uht-whole-milk-1ltr-40
+brookside vanilla 250ml flavoured milk,Milk,Brookside,MilkBrookside250ml,Quickmart,250ml,250.0,litres,0.25,0.0,69.0,0.0,276.0,2026-05-02,https://www.quickmart.co.ke/brookside-vanilla-250ml-flavoured-milk-40
+kentaste coconut milk 400ml,Milk,Kentaste,MilkKentaste400ml,Quickmart,400ml,400.0,litres,0.4,0.0,297.0,0.0,742.5,2026-05-02,https://www.quickmart.co.ke/kentaste-coconut-milk-400ml-40
 cadbury dairymilk 80g,Milk,Cadbury,MilkCadbury80g,Quickmart,80g,80.0,kg,0.08,290.0,229.0,61.0,2862.5,2026-05-02,https://www.quickmart.co.ke/cadbury-dairymilk-80g-40
 zoe body milk 400ml dry,Milk,Zoe,MilkZoe400ml,Quickmart,400ml,400.0,litres,0.4,0.0,265.0,0.0,662.5,2026-05-02,https://www.quickmart.co.ke/zoe-body-milk-400ml-dry-35
+brookside disney vanilla flavoured milk 200ml,Milk,Brookside,MilkBrookside200ml,Quickmart,200ml,200.0,litres,0.2,0.0,60.0,0.0,300.0,2026-05-02,https://www.quickmart.co.ke/brookside-disney-vanilla-flavoured-milk-200ml-40
 brookside chocolate milk 250ml,Milk,Brookside,MilkBrookside250ml,Quickmart,250ml,250.0,litres,0.25,0.0,69.0,0.0,276.0,2026-05-02,https://www.quickmart.co.ke/brookside-chocolate-milk-250ml-40
-dairy milk oreo 95g,Milk,Dairy,MilkDairy95g,Quickmart,95g,95.0,kg,0.095,0.0,299.0,0.0,3147.3684210526317,2026-05-02,https://www.quickmart.co.ke/dairy-milk-oreo-95g-40
-brookside vanilla 250ml flavoured milk,Milk,Brookside,MilkBrookside250ml,Quickmart,250ml,250.0,litres,0.25,0.0,69.0,0.0,276.0,2026-05-02,https://www.quickmart.co.ke/brookside-vanilla-250ml-flavoured-milk-40
 fresha maisha long life milk 500ml,Milk,Fresha,MilkFresha500ml,Quickmart,500ml,500.0,litres,0.5,0.0,60.0,0.0,120.0,2026-05-02,https://www.quickmart.co.ke/fresha-maisha-long-life-milk-500ml-40
-dairymilk 35g/37g,Milk,Dairymilk,MilkDairymilk35g,Quickmart,35g,35.0,kg,0.035,0.0,140.0,0.0,3999.9999999999995,2026-05-02,https://www.quickmart.co.ke/dairymilk-35g/37g-40
-dairymilk fruit&nut 37g/35g,Milk,Dairymilk,MilkDairymilk37g,Quickmart,37g,37.0,kg,0.037,0.0,140.0,0.0,3783.7837837837837,2026-05-02,https://www.quickmart.co.ke/dairymilk-fruit-nut-37g/35g-40
-daima assorted - 6pack flavoured milk 250ml,Milk,Daima,MilkDaima250ml,Quickmart,250ml,250.0,litres,0.25,400.0,382.0,18.0,1528.0,2026-05-02,https://www.quickmart.co.ke/daima-assorted-6pack-flavoured-milk-250ml-16
-daima strawberry -6pack flavour milk 250ml,Milk,Daima,MilkDaima250ml,Quickmart,250ml,250.0,litres,0.25,400.0,382.0,18.0,1528.0,2026-05-02,https://www.quickmart.co.ke/daima-strawberry-6pack-flavour-milk-250ml-8
+dairy milk oreo 95g,Milk,Dairy,MilkDairy95g,Quickmart,95g,95.0,kg,0.095,0.0,299.0,0.0,3147.3684210526317,2026-05-02,https://www.quickmart.co.ke/dairy-milk-oreo-95g-40
 arimis milking jelly 50ml,Milk,Arimis,MilkArimis50ml,Quickmart,50ml,50.0,litres,0.05,0.0,42.0,0.0,840.0,2026-05-02,https://www.quickmart.co.ke/arimis-milking-jelly-50ml-39
-fresha zito tfa milk 500ml,Milk,Fresha,MilkFresha500ml,Quickmart,500ml,500.0,litres,0.5,0.0,58.0,0.0,116.0,2026-05-02,https://www.quickmart.co.ke/fresha-zito-tfa-milk-500ml-2
-nivea cool kick body milk 400ml,Milk,Nivea,MilkNivea400ml,Quickmart,400ml,400.0,litres,0.4,670.0,535.0,135.0,1337.5,2026-05-02,https://www.quickmart.co.ke/nivea-cool-kick-body-milk-400ml-39
-brookside banana milk 250ml,Milk,Brookside,MilkBrookside250ml,Quickmart,250ml,250.0,litres,0.25,0.0,69.0,0.0,276.0,2026-05-02,https://www.quickmart.co.ke/brookside-banana-milk-250ml-40
-daima chocolate-6packflv milk 250ml,Milk,Daima,MilkDaima250ml,Quickmart,250ml,250.0,litres,0.25,400.0,382.0,18.0,1528.0,2026-05-02,https://www.quickmart.co.ke/daima-chocolate-6packflv-milk-250ml-8
-bio long life skimmed milk 1l,Milk,BioFood,MilkBioFood1l,Quickmart,1l,1.0,litres,1.0,0.0,166.0,0.0,166.0,2026-05-02,https://www.quickmart.co.ke/bio-long-life-skimmed-milk-1l-7
-daima milk drink strawberry 480ml,Milk,Daima,MilkDaima480ml,Quickmart,480ml,480.0,litres,0.48,100.0,90.0,10.0,187.5,2026-05-02,https://www.quickmart.co.ke/daima-milk-drink-strawberry-480ml-39
-geisha coconut milk & honey value pack 4x125g,Milk,Geisha,MilkGeisha125g,Quickmart,125g,125.0,kg,0.125,0.0,280.0,0.0,2240.0,2026-05-02,https://www.quickmart.co.ke/geisha-coconut-milk-honey-value-pack-4x125g-40
-brookside full cream sachet milk powder 250 g,Milk,Brookside,MilkBrookside250g,Quickmart,250g,250.0,kg,0.25,0.0,328.0,0.0,1312.0,2026-05-02,https://www.quickmart.co.ke/brookside-full-cream-sachet-milk-powder-250-g-12
-cadbury caramilk 80g,Milk,Cadbury,MilkCadbury80g,Quickmart,80g,80.0,kg,0.08,290.0,229.0,61.0,2862.5,2026-05-02,https://www.quickmart.co.ke/cadbury-caramilk-80g-40
-brookside low fat milk 0.5% 1l,Milk,Brookside,MilkBrookside1l,Quickmart,1l,1.0,litres,1.0,0.0,159.0,0.0,159.0,2026-05-02,https://www.quickmart.co.ke/brookside-low-fat-milk-0.5-1l-40
+dairymilk 35g/37g,Milk,Dairymilk,MilkDairymilk35g,Quickmart,35g,35.0,kg,0.035,0.0,140.0,0.0,3999.9999999999995,2026-05-02,https://www.quickmart.co.ke/dairymilk-35g/37g-40
+daima strawberry -6pack flavour milk 250ml,Milk,Daima,MilkDaima250ml,Quickmart,250ml,250.0,litres,0.25,400.0,382.0,18.0,1528.0,2026-05-02,https://www.quickmart.co.ke/daima-strawberry-6pack-flavour-milk-250ml-8
+daima assorted - 6pack flavoured milk 250ml,Milk,Daima,MilkDaima250ml,Quickmart,250ml,250.0,litres,0.25,400.0,382.0,18.0,1528.0,2026-05-02,https://www.quickmart.co.ke/daima-assorted-6pack-flavoured-milk-250ml-16
+dairymilk fruit&nut 37g/35g,Milk,Dairymilk,MilkDairymilk37g,Quickmart,37g,37.0,kg,0.037,0.0,140.0,0.0,3783.7837837837837,2026-05-02,https://www.quickmart.co.ke/dairymilk-fruit-nut-37g/35g-40
 brookside lactose free milk 1l,Milk,Brookside,MilkBrookside1l,Quickmart,1l,1.0,litres,1.0,0.0,159.0,0.0,159.0,2026-05-02,https://www.quickmart.co.ke/brookside-lactose-free-milk-1l-40
-brookside low fat milk 250ml,Milk,Brookside,MilkBrookside250ml,Quickmart,250ml,250.0,litres,0.25,0.0,42.0,0.0,168.0,2026-05-02,https://www.quickmart.co.ke/brookside-low-fat-milk-250ml-40
-tuzo uht whole milk 1ltr,Milk,Tuzo,MilkTuzo1l,Quickmart,1l,1.0,litres,1.0,0.0,149.0,0.0,149.0,2026-05-02,https://www.quickmart.co.ke/tuzo-uht-whole-milk-1ltr-40
-santa maria ccnut milk lite400ml,Milk,Santa,MilkSanta400ml,Quickmart,400ml,400.0,litres,0.4,0.0,249.0,0.0,622.5,2026-05-02,https://www.quickmart.co.ke/santa-maria-ccnut-milk-lite400ml-1
 nice & lovely body milk 400ml,Milk,Nice,MilkNice400ml,Quickmart,400ml,400.0,litres,0.4,300.0,249.0,51.0,622.5,2026-05-02,https://www.quickmart.co.ke/nice-lovely-body-milk-400ml-35
+fresha zito tfa milk 500ml,Milk,Fresha,MilkFresha500ml,Quickmart,500ml,500.0,litres,0.5,0.0,58.0,0.0,116.0,2026-05-02,https://www.quickmart.co.ke/fresha-zito-tfa-milk-500ml-2
+cadbury caramilk 80g,Milk,Cadbury,MilkCadbury80g,Quickmart,80g,80.0,kg,0.08,290.0,229.0,61.0,2862.5,2026-05-02,https://www.quickmart.co.ke/cadbury-caramilk-80g-40
+sawa milking jelly 50ml,Milk,Sawa,MilkSawa50ml,Quickmart,50ml,50.0,litres,0.05,0.0,35.0,0.0,700.0,2026-05-02,https://www.quickmart.co.ke/sawa-milking-jelly-50ml-40
+zito aseptic life milk 500ml,Milk,Zito,MilkZito500ml,Quickmart,500ml,500.0,litres,0.5,0.0,57.0,0.0,114.0,2026-05-02,https://www.quickmart.co.ke/zito-aseptic-life-milk-500ml-40
 tuzo tca whole milk 200ml,Milk,Tuzo,MilkTuzo200ml,Quickmart,200ml,200.0,litres,0.2,0.0,32.0,0.0,160.0,2026-05-02,https://www.quickmart.co.ke/tuzo-tca-whole-milk-200ml-40
-kentaste coconut milk 250ml,Milk,Kentaste,MilkKentaste250ml,Quickmart,250ml,250.0,litres,0.25,0.0,219.0,0.0,876.0,2026-05-02,https://www.quickmart.co.ke/kentaste-coconut-milk-250ml-40
+sawa milking jelly 90ml,Milk,Sawa,MilkSawa90ml,Quickmart,90ml,90.0,litres,0.09,0.0,60.0,0.0,666.6666666666667,2026-05-02,https://www.quickmart.co.ke/sawa-milking-jelly-90ml-39
 dairymilk top deck mint 80g,Milk,Dairymilk,MilkDairymilk80g,Quickmart,80g,80.0,kg,0.08,290.0,229.0,61.0,2862.5,2026-05-02,https://www.quickmart.co.ke/dairymilk-top-deck-mint-80g-40
-aryuva coconut milk 400ml,Milk,Aryuva,MilkAryuva400ml,Quickmart,400ml,400.0,litres,0.4,0.0,305.0,0.0,762.5,2026-05-02,https://www.quickmart.co.ke/aryuva-coconut-milk-400ml-40
+brookside low fat milk 0.5% 1l,Milk,Brookside,MilkBrookside1l,Quickmart,1l,1.0,litres,1.0,0.0,159.0,0.0,159.0,2026-05-02,https://www.quickmart.co.ke/brookside-low-fat-milk-0.5-1l-40
+daima milk drink vanilla 480ml,Milk,Daima,MilkDaima480ml,Quickmart,480ml,480.0,litres,0.48,100.0,90.0,10.0,187.5,2026-05-02,https://www.quickmart.co.ke/daima-milk-drink-vanilla-480ml-39
+daima milk drink strawberry 480ml,Milk,Daima,MilkDaima480ml,Quickmart,480ml,480.0,litres,0.48,100.0,90.0,10.0,187.5,2026-05-02,https://www.quickmart.co.ke/daima-milk-drink-strawberry-480ml-39
 brookside soy unsweeted milk 1000ml,Milk,Brookside,MilkBrookside1000ml,Quickmart,1000ml,1000.0,litres,1.0,0.0,339.0,0.0,339.0,2026-05-02,https://www.quickmart.co.ke/brookside-soy-unsweeted-milk-1000ml-40
 daima strawberry flavoured milk pet 250ml,Milk,Daima,MilkDaima250ml,Quickmart,250ml,250.0,litres,0.25,70.0,65.0,5.0,260.0,2026-05-02,https://www.quickmart.co.ke/daima-strawberry-flavoured-milk-pet-250ml-11
+brookside low fat milk 250ml,Milk,Brookside,MilkBrookside250ml,Quickmart,250ml,250.0,litres,0.25,0.0,42.0,0.0,168.0,2026-05-02,https://www.quickmart.co.ke/brookside-low-fat-milk-250ml-40
+geisha coconut milk & honey value pack 4x125g,Milk,Geisha,MilkGeisha125g,Quickmart,125g,125.0,kg,0.125,0.0,280.0,0.0,2240.0,2026-05-02,https://www.quickmart.co.ke/geisha-coconut-milk-honey-value-pack-4x125g-40
 bounty milk double 57g,Milk,Bounty,MilkBounty57g,Quickmart,57g,57.0,kg,0.057,0.0,215.0,0.0,3771.929824561403,2026-05-02,https://www.quickmart.co.ke/bounty-milk-double-57g-40
-brookside full cream milk powder 2500gms,Milk,Brookside,MilkBrookside2500g,Quickmart,2500g,2500.0,kg,2.5,0.0,2701.0,0.0,1080.4,2026-05-02,https://www.quickmart.co.ke/brookside-full-cream-milk-powder-2500gms-40
-brookside full cream milk powder 400gms,Milk,Brookside,MilkBrookside400g,Quickmart,400g,400.0,kg,0.4,0.0,498.0,0.0,1245.0,2026-05-02,https://www.quickmart.co.ke/brookside-full-cream-milk-powder-400gms-40
-sawa milking jelly 90ml,Milk,Sawa,MilkSawa90ml,Quickmart,90ml,90.0,litres,0.09,0.0,60.0,0.0,666.6666666666667,2026-05-02,https://www.quickmart.co.ke/sawa-milking-jelly-90ml-39
-nivea nourishing milk 200ml,Milk,Nivea,MilkNivea200ml,Quickmart,200ml,200.0,litres,0.2,0.0,360.0,0.0,1800.0,2026-05-02,https://www.quickmart.co.ke/nivea-nourishing-milk-200ml-36
-sawa milking jelly 50ml,Milk,Sawa,MilkSawa50ml,Quickmart,50ml,50.0,litres,0.05,0.0,35.0,0.0,700.0,2026-05-02,https://www.quickmart.co.ke/sawa-milking-jelly-50ml-40
-flamingo hw ccnt milk anti bacterial 400ml,Milk,Flamingo,MilkFlamingo400ml,Quickmart,400ml,400.0,litres,0.4,230.0,179.0,51.0,447.5,2026-05-02,https://www.quickmart.co.ke/flamingo-hw-ccnt-milk-anti-bacterial-400ml-55
+daima chocolate-6packflv milk 250ml,Milk,Daima,MilkDaima250ml,Quickmart,250ml,250.0,litres,0.25,400.0,382.0,18.0,1528.0,2026-05-02,https://www.quickmart.co.ke/daima-chocolate-6packflv-milk-250ml-8
+bio long life skimmed milk 1l,Milk,BioFood,MilkBioFood1l,Quickmart,1l,1.0,litres,1.0,0.0,166.0,0.0,166.0,2026-05-02,https://www.quickmart.co.ke/bio-long-life-skimmed-milk-1l-7
 dairymilk cashew & coconut 80g,Milk,Dairymilk,MilkDairymilk80g,Quickmart,80g,80.0,kg,0.08,290.0,229.0,61.0,2862.5,2026-05-02,https://www.quickmart.co.ke/dairymilk-cashew-coconut-80g-40
-zoe body milk 200ml dry,Milk,Zoe,MilkZoe200ml,Quickmart,200ml,200.0,litres,0.2,0.0,160.0,0.0,800.0,2026-05-02,https://www.quickmart.co.ke/zoe-body-milk-200ml-dry-54
-brookside full cream sachet milk powder 450g,Milk,Brookside,MilkBrookside450g,Quickmart,450g,450.0,kg,0.45,0.0,550.0,0.0,1222.2222222222222,2026-05-02,https://www.quickmart.co.ke/brookside-full-cream-sachet-milk-powder-450g-14
-brookside full cream milk powder 250gms,Milk,Brookside,MilkBrookside250g,Quickmart,250g,250.0,kg,0.25,0.0,335.0,0.0,1340.0,2026-05-02,https://www.quickmart.co.ke/brookside-full-cream-milk-powder-250gms-13
 dairymilk hazelnut 35g/37g,Milk,Dairymilk,MilkDairymilk35g,Quickmart,35g,35.0,kg,0.035,0.0,140.0,0.0,3999.9999999999995,2026-05-02,https://www.quickmart.co.ke/dairymilk-hazelnut-35g/37g-40
+elbbin & nibble milk chocolate multigrain snacks50g,Milk,Elbbin,MilkElbbin50g,Quickmart,50g,50.0,kg,0.05,0.0,70.0,0.0,1400.0,2026-05-02,https://www.quickmart.co.ke/elbbin-nibble-milk-chocolate-multigrain-snacks50g-9
+santa maria ccnut milk lite400ml,Milk,Santa,MilkSanta400ml,Quickmart,400ml,400.0,litres,0.4,0.0,249.0,0.0,622.5,2026-05-02,https://www.quickmart.co.ke/santa-maria-ccnut-milk-lite400ml-1
+zoe body milk 200ml dry,Milk,Zoe,MilkZoe200ml,Quickmart,200ml,200.0,litres,0.2,0.0,160.0,0.0,800.0,2026-05-02,https://www.quickmart.co.ke/zoe-body-milk-200ml-dry-54
+brookside full cream milk powder 400gms,Milk,Brookside,MilkBrookside400g,Quickmart,400g,400.0,kg,0.4,0.0,498.0,0.0,1245.0,2026-05-02,https://www.quickmart.co.ke/brookside-full-cream-milk-powder-400gms-40
+brookside full cream milk powder 2500gms,Milk,Brookside,MilkBrookside2500g,Quickmart,2500g,2500.0,kg,2.5,0.0,2701.0,0.0,1080.4,2026-05-02,https://www.quickmart.co.ke/brookside-full-cream-milk-powder-2500gms-40
+limuru fresh milk 1litre,Milk,Limuru,MilkLimuru1l,Quickmart,1l,1.0,litres,1.0,0.0,75.0,0.0,75.0,2026-05-02,https://www.quickmart.co.ke/limuru-fresh-milk-1litre-40
+nivea cool kick body milk 400ml,Milk,Nivea,MilkNivea400ml,Quickmart,400ml,400.0,litres,0.4,670.0,535.0,135.0,1337.5,2026-05-02,https://www.quickmart.co.ke/nivea-cool-kick-body-milk-400ml-39
+kentaste coconut milk 250ml,Milk,Kentaste,MilkKentaste250ml,Quickmart,250ml,250.0,litres,0.25,0.0,219.0,0.0,876.0,2026-05-02,https://www.quickmart.co.ke/kentaste-coconut-milk-250ml-40
+nivea nourishing milk 200ml,Milk,Nivea,MilkNivea200ml,Quickmart,200ml,200.0,litres,0.2,0.0,360.0,0.0,1800.0,2026-05-02,https://www.quickmart.co.ke/nivea-nourishing-milk-200ml-36
+aryuva coconut milk 400ml,Milk,Aryuva,MilkAryuva400ml,Quickmart,400ml,400.0,litres,0.4,0.0,305.0,0.0,762.5,2026-05-02,https://www.quickmart.co.ke/aryuva-coconut-milk-400ml-40
+flamingo hw ccnt milk anti bacterial 400ml,Milk,Flamingo,MilkFlamingo400ml,Quickmart,400ml,400.0,litres,0.4,230.0,179.0,51.0,447.5,2026-05-02,https://www.quickmart.co.ke/flamingo-hw-ccnt-milk-anti-bacterial-400ml-55
 kara coconut milk uht 200ml,Milk,Kara,MilkKara200ml,Quickmart,200ml,200.0,litres,0.2,0.0,200.0,0.0,1000.0,2026-05-02,https://www.quickmart.co.ke/kara-coconut-milk-uht-200ml-6
 lato uht tetra pack-125ml,Milk,Lato,MilkLato125ml,Quickmart,125ml,125.0,litres,0.125,0.0,22.0,0.0,176.0,2026-05-02,https://www.quickmart.co.ke/lato-uht-tetra-pack-125ml-3
 daima maziwa bora uht fino 500ml,Milk,Daima,MilkDaima500ml,Quickmart,500ml,500.0,litres,0.5,60.0,49.0,11.0,98.0,2026-05-02,https://www.quickmart.co.ke/daima-maziwa-bora-uht-fino-500ml-40
@@ -474,104 +471,107 @@ wow sugared 100g,Sugar,Generic,Sugar100g,Quickmart,100g,100.0,kg,0.1,0.0,72.0,0.
 wow sugared 500g,Sugar,Generic,Sugar500g,Quickmart,500g,500.0,kg,0.5,0.0,210.0,0.0,420.0,2026-05-02,https://www.quickmart.co.ke/wow-sugared-500g-40
 nutrameal sugar 5kg,Sugar,Generic,Sugar5kg,Quickmart,5kg,5.0,kg,5.0,0.0,849.0,0.0,169.8,2026-05-02,https://www.quickmart.co.ke/nutrameal-sugar-5kg-62
 red bull sugar free 250ml,Sugar,Generic,Sugar250ml,Quickmart,250ml,250.0,litres,0.25,0.0,230.0,0.0,920.0,2026-05-02,https://www.quickmart.co.ke/red-bull-sugar-free-250ml-40
-butali sugar 2kg,Sugar,Generic,Sugar2kg,Quickmart,2kg,2.0,kg,2.0,0.0,329.0,0.0,164.5,2026-05-02,https://www.quickmart.co.ke/butali-sugar-2kg-26
+fd-butali sugar 1kg,Sugar,Generic,Sugar1kg,Quickmart,1kg,1.0,kg,1.0,0.0,169.0,0.0,169.0,2026-05-02,https://www.quickmart.co.ke/fd-butali-sugar-1kg-16
 peptang sugar free peanut butter 800g,Sugar,Generic,Sugar800g,Quickmart,800g,800.0,kg,0.8,0.0,645.0,0.0,806.25,2026-05-02,https://www.quickmart.co.ke/peptang-sugar-free-peanut-butter-800g-39
+fd-florident sugar free s/mint chew 60g,Sugar,Generic,Sugar60g,Quickmart,60g,60.0,kg,0.06,0.0,290.0,0.0,4833.333333333334,2026-05-02,https://www.quickmart.co.ke/fd-florident-sugar-free-s/mint-chew-60g-28
 nuvita shortcake sugar free bisc 100g,Sugar,Generic,Sugar100g,Quickmart,100g,100.0,kg,0.1,0.0,100.0,0.0,1000.0,2026-05-02,https://www.quickmart.co.ke/nuvita-shortcake-sugar-free-bisc-100g-29
+butali sugar 2kg,Sugar,Generic,Sugar2kg,Quickmart,2kg,2.0,kg,2.0,0.0,329.0,0.0,164.5,2026-05-02,https://www.quickmart.co.ke/butali-sugar-2kg-26
 orbit spearmint sugarfree gum 14g,Sugar,Generic,Sugar14g,Quickmart,14g,14.0,kg,0.014,0.0,70.0,0.0,5000.0,2026-05-02,https://www.quickmart.co.ke/orbit-spearmint-sugarfree-gum-14g-40
 festive milky white bread 400g,Milk,Festive,MilkFestive400g,Quickmart,400g,400.0,kg,0.4,0.0,65.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/festive-milky-white-bread-400g-52
+budget white bread – 800g,Bread,Generic,Bread800g,Quickmart,800g,800.0,kg,0.8,119.0,109.0,10.0,136.25,2026-05-02,https://www.quickmart.co.ke/budget-white-bread-–-800g-67
 festive milk bread 800gms,Milk,Festive,MilkFestive800g,Quickmart,800g,800.0,kg,0.8,0.0,130.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/festive-milk-bread-800gms-51
 budget brown bread – 800g,Bread,Generic,Bread800g,Quickmart,800g,800.0,kg,0.8,119.0,109.0,10.0,136.25,2026-05-02,https://www.quickmart.co.ke/budget-brown-bread-–-800g-66
-budget white bread – 800g,Bread,Generic,Bread800g,Quickmart,800g,800.0,kg,0.8,119.0,109.0,10.0,136.25,2026-05-02,https://www.quickmart.co.ke/budget-white-bread-–-800g-67
 festive nature gold w/bread 600g,Bread,Generic,Bread600g,Quickmart,600g,600.0,kg,0.6,0.0,100.0,0.0,166.66666666666669,2026-05-02,https://www.quickmart.co.ke/festive-nature-gold-w/bread-600g-57
 broadway brown sandwich sliced bread 600g,Bread,Generic,Bread600g,Quickmart,600g,600.0,kg,0.6,0.0,97.0,0.0,161.66666666666669,2026-05-02,https://www.quickmart.co.ke/broadway-brown-sandwich-sliced-bread-600g-42
 supa loaf white bread ct 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,65.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/supa-loaf-white-bread-ct-400g-37
 multigrain bread – 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,99.0,0.0,247.5,2026-05-02,https://www.quickmart.co.ke/multigrain-bread-–-400g-31
 banana bread – 800g,Bread,Generic,Bread800g,Quickmart,800g,800.0,kg,0.8,140.0,119.0,21.0,148.75,2026-05-02,https://www.quickmart.co.ke/banana-bread-–-800g-8
-sweet bread – 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,65.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/sweet-bread-–-400g-27
 supa loaf butter toast bread 800g,Bread,Generic,Bread800g,Quickmart,800g,800.0,kg,0.8,0.0,130.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/supa-loaf-butter-toast-bread-800g-40
-broadways premium sliced bread 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,65.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/broadways-premium-sliced-bread-400g-43
+sweet bread – 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,65.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/sweet-bread-–-400g-27
+budget white bread – 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,56.0,0.0,140.0,2026-05-02,https://www.quickmart.co.ke/budget-white-bread-–-400g-67
 manji shortbread 200g,Bread,Generic,Bread200g,Quickmart,200g,200.0,kg,0.2,0.0,250.0,0.0,1250.0,2026-05-02,https://www.quickmart.co.ke/manji-shortbread-200g-17
 budget brown bread – 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,56.0,0.0,140.0,2026-05-02,https://www.quickmart.co.ke/budget-brown-bread-–-400g-13
-budget white bread – 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,56.0,0.0,140.0,2026-05-02,https://www.quickmart.co.ke/budget-white-bread-–-400g-67
+broadways premium sliced bread 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,65.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/broadways-premium-sliced-bread-400g-43
 bread crumbs 500g,Bread,Generic,Bread500g,Quickmart,500g,500.0,kg,0.5,0.0,240.0,0.0,480.0,2026-05-02,https://www.quickmart.co.ke/bread-crumbs-500g-39
+kingsmil sandwich brown bread 600g,Bread,Generic,Bread600g,Quickmart,600g,600.0,kg,0.6,0.0,100.0,0.0,166.66666666666669,2026-05-02,https://www.quickmart.co.ke/kingsmil-sandwich-brown-bread-600g-24
 kingsmil sandwich brown bread 800g,Bread,Generic,Bread800g,Quickmart,800g,800.0,kg,0.8,0.0,130.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/kingsmil-sandwich-brown-bread-800g-39
 broadways white sandwich sliced bread 800g,Bread,Generic,Bread800g,Quickmart,800g,800.0,kg,0.8,0.0,130.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/broadways-white-sandwich-sliced-bread-800g-43
-kingsmil sandwich brown bread 600g,Bread,Generic,Bread600g,Quickmart,600g,600.0,kg,0.6,0.0,100.0,0.0,166.66666666666669,2026-05-02,https://www.quickmart.co.ke/kingsmil-sandwich-brown-bread-600g-24
 broadways white sandwich sliced bread 600g,Bread,Generic,Bread600g,Quickmart,600g,600.0,kg,0.6,0.0,97.0,0.0,161.66666666666669,2026-05-02,https://www.quickmart.co.ke/broadways-white-sandwich-sliced-bread-600g-42
-broadways brown unsliced bread 200g,Bread,Generic,Bread200g,Quickmart,200g,200.0,kg,0.2,0.0,31.0,0.0,155.0,2026-05-02,https://www.quickmart.co.ke/broadways-brown-unsliced-bread-200g-54
 turkish bread – 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,95.0,0.0,237.5,2026-05-02,https://www.quickmart.co.ke/turkish-bread-–-400g-66
 broadways white unsliced bread 200g,Bread,Generic,Bread200g,Quickmart,200g,200.0,kg,0.2,0.0,31.0,0.0,155.0,2026-05-02,https://www.quickmart.co.ke/broadways-white-unsliced-bread-200g-42
-broadways brown sandwich sliced bread 800g,Bread,Generic,Bread800g,Quickmart,800g,800.0,kg,0.8,0.0,130.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/broadways-brown-sandwich-sliced-bread-800g-43
-broadways brown sliced bread 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,65.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/broadways-brown-sliced-bread-400g-42
 soft brown bread – 280g,Bread,Generic,Bread280g,Quickmart,280g,280.0,kg,0.28,0.0,60.0,0.0,214.28571428571428,2026-05-02,https://www.quickmart.co.ke/soft-brown-bread-–-280g-64
+broadways brown unsliced bread 200g,Bread,Generic,Bread200g,Quickmart,200g,200.0,kg,0.2,0.0,31.0,0.0,155.0,2026-05-02,https://www.quickmart.co.ke/broadways-brown-unsliced-bread-200g-54
 soft white bread – 280g,Bread,Generic,Bread280g,Quickmart,280g,280.0,kg,0.28,0.0,60.0,0.0,214.28571428571428,2026-05-02,https://www.quickmart.co.ke/soft-white-bread-–-280g-29
-broadways white sliced bread 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,65.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/broadways-white-sliced-bread-400g-43
+broadways brown sandwich sliced bread 800g,Bread,Generic,Bread800g,Quickmart,800g,800.0,kg,0.8,0.0,130.0,0.0,162.5,2026-05-02,https://www.quickmart.co.ke/broadways-brown-sandwich-sliced-bread-800g-43
 bread crumbs 250g,Bread,Generic,Bread250g,Quickmart,250g,250.0,kg,0.25,0.0,126.0,0.0,504.0,2026-05-02,https://www.quickmart.co.ke/bread-crumbs-250g-58
 festive brown bread 1.5kg,Bread,Generic,Bread5kg,Quickmart,5kg,5.0,kg,5.0,0.0,240.0,0.0,48.0,2026-05-02,https://www.quickmart.co.ke/festive-brown-bread-1.5kg-59
 mill bakers daz milk flavour 200gms,Milk,Mill,MilkMill200g,Quickmart,200g,200.0,kg,0.2,0.0,52.0,0.0,260.0,2026-05-02,https://www.quickmart.co.ke/mill-bakers-daz-milk-flavour-200gms-49
 festive milky white 600gms,Milk,Festive,MilkFestive600g,Quickmart,600g,600.0,kg,0.6,0.0,100.0,0.0,166.66666666666669,2026-05-02,https://www.quickmart.co.ke/festive-milky-white-600gms-50
 blue band spread for bread 1kg,Bread,Generic,Bread1kg,Quickmart,1kg,1.0,kg,1.0,0.0,370.0,0.0,370.0,2026-05-02,https://www.quickmart.co.ke/blue-band-spread-for-bread-1kg-39
 coconut bread – 400g,Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,75.0,0.0,187.5,2026-05-02,https://www.quickmart.co.ke/coconut-bread-–-400g-78
-sats rich bread 250gms,Bread,Generic,Bread250g,Quickmart,250g,250.0,kg,0.25,0.0,91.0,0.0,364.0,2026-05-02,https://www.quickmart.co.ke/sats-rich-bread-250gms-17
+fr-fresh coconut bread(400gm),Bread,Generic,Bread400g,Quickmart,400g,400.0,kg,0.4,0.0,110.0,0.0,275.0,2026-05-02,https://www.quickmart.co.ke/fr-fresh-coconut-bread(400gm)-22
+fd-sats rich bread 250gms,Bread,Generic,Bread250g,Quickmart,250g,250.0,kg,0.25,0.0,91.0,0.0,364.0,2026-05-02,https://www.quickmart.co.ke/fd-sats-rich-bread-250gms-22
+fd-united bread premium family brown800g,Bread,Generic,Bread800g,Quickmart,800g,800.0,kg,0.8,0.0,124.0,0.0,155.0,2026-05-02,https://www.quickmart.co.ke/fd-united-bread-premium-family-brown800g-23
 sunrice basmati 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,1863.0,1349.0,514.0,269.8,2026-05-02,https://www.quickmart.co.ke/sunrice-basmati-5kg-40
 quick choice long grain rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,355.0,0.0,177.5,2026-05-02,https://www.quickmart.co.ke/quick-choice-long-grain-rice-2kg-40
-guru premium blended pishori rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,899.0,0.0,179.8,2026-05-02,https://www.quickmart.co.ke/guru-premium-blended-pishori-rice-5kg-39
 guru blended prem pishori rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,252.0,0.0,252.0,2026-05-02,https://www.quickmart.co.ke/guru-blended-prem-pishori-rice-1kg-40
+guru premium blended pishori rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,899.0,0.0,179.8,2026-05-02,https://www.quickmart.co.ke/guru-premium-blended-pishori-rice-5kg-39
 sunrice long grain rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,193.0,0.0,193.0,2026-05-02,https://www.quickmart.co.ke/sunrice-long-grain-rice-1kg-39
+cil aromatic pishori rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,605.0,514.0,91.0,257.0,2026-05-02,https://www.quickmart.co.ke/cil-aromatic-pishori-rice-2kg-40
 cil blended rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,900.0,810.0,90.0,162.0,2026-05-02,https://www.quickmart.co.ke/cil-blended-rice-5kg-39
 daawat long grain rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,855.0,799.0,56.0,159.8,2026-05-02,https://www.quickmart.co.ke/daawat-long-grain-rice-5kg-40
-cil aromatic pishori rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,605.0,514.0,91.0,257.0,2026-05-02,https://www.quickmart.co.ke/cil-aromatic-pishori-rice-2kg-40
 caprice fortified dry white wine - 1000ml,Rice,Generic,Rice1000ml,Quickmart,1000ml,1000.0,litres,1.0,0.0,950.0,0.0,950.0,2026-05-02,https://www.quickmart.co.ke/caprice-fortified-dry-white-wine-1000ml-25
-caprice fortified sweet red wine - 1l,Rice,Generic,Rice1l,Quickmart,1l,1.0,litres,1.0,0.0,950.0,0.0,950.0,2026-05-02,https://www.quickmart.co.ke/caprice-fortified-sweet-red-wine-1l-44
 caprice fortified dry red wine – 1l,Rice,Generic,Rice1l,Quickmart,1l,1.0,litres,1.0,0.0,950.0,0.0,950.0,2026-05-02,https://www.quickmart.co.ke/caprice-fortified-dry-red-wine-–-1l-22
-caprice fortified sweet white wine – 1l,Rice,Generic,Rice1l,Quickmart,1l,1.0,litres,1.0,0.0,950.0,0.0,950.0,2026-05-02,https://www.quickmart.co.ke/caprice-fortified-sweet-white-wine-–-1l-23
 cil blended rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,185.0,0.0,185.0,2026-05-02,https://www.quickmart.co.ke/cil-blended-rice-1kg-39
+caprice fortified sweet white wine – 1l,Rice,Generic,Rice1l,Quickmart,1l,1.0,litres,1.0,0.0,950.0,0.0,950.0,2026-05-02,https://www.quickmart.co.ke/caprice-fortified-sweet-white-wine-–-1l-23
+caprice fortified sweet red wine - 1l,Rice,Generic,Rice1l,Quickmart,1l,1.0,litres,1.0,0.0,950.0,0.0,950.0,2026-05-02,https://www.quickmart.co.ke/caprice-fortified-sweet-red-wine-1l-44
 pearl rice pishori l/g 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,644.0,0.0,322.0,2026-05-02,https://www.quickmart.co.ke/pearl-rice-pishori-l/g-2kg-40
 pearl rice pishori long 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,1600.0,0.0,320.0,2026-05-02,https://www.quickmart.co.ke/pearl-rice-pishori-long-5kg-40
 cil pishori rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,1499.0,1269.0,230.0,253.8,2026-05-02,https://www.quickmart.co.ke/cil-pishori-rice-5kg-40
-falcon himalayan basmati rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,1725.0,1299.0,426.0,259.8,2026-05-02,https://www.quickmart.co.ke/falcon-himalayan-basmati-rice-5kg-40
-baraka pishori rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,425.0,0.0,212.5,2026-05-02,https://www.quickmart.co.ke/baraka-pishori-rice-2kg-40
-cil blended rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,365.0,328.0,37.0,164.0,2026-05-02,https://www.quickmart.co.ke/cil-blended-rice-2kg-40
 sunrice basmati 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,384.0,0.0,384.0,2026-05-02,https://www.quickmart.co.ke/sunrice-basmati-1kg-40
-morning harvest choco rice 250g bag,Rice,Generic,Rice250g,Quickmart,250g,250.0,kg,0.25,0.0,329.0,0.0,1316.0,2026-05-02,https://www.quickmart.co.ke/morning-harvest-choco-rice-250g-bag-2
-daawat aromatic rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,594.0,0.0,297.0,2026-05-02,https://www.quickmart.co.ke/daawat-aromatic-rice-2kg-3
-pilau rice – 400g,Rice,Generic,Rice400g,Quickmart,400g,400.0,kg,0.4,0.0,319.6,0.0,799.0,2026-05-02,https://www.quickmart.co.ke/pilau-rice-–-400g-66
-chinese chicken rice – 400g,Rice,Generic,Rice400g,Quickmart,400g,400.0,kg,0.4,0.0,287.6,0.0,719.0,2026-05-02,https://www.quickmart.co.ke/chinese-chicken-rice-–-400g-15
+cil blended rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,365.0,328.0,37.0,164.0,2026-05-02,https://www.quickmart.co.ke/cil-blended-rice-2kg-40
+baraka pishori rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,425.0,0.0,212.5,2026-05-02,https://www.quickmart.co.ke/baraka-pishori-rice-2kg-40
+falcon himalayan basmati rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,1725.0,1299.0,426.0,259.8,2026-05-02,https://www.quickmart.co.ke/falcon-himalayan-basmati-rice-5kg-40
 sunrice basmati rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,767.0,0.0,383.5,2026-05-02,https://www.quickmart.co.ke/sunrice-basmati-rice-2kg-40
-pearl super basmati rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,786.0,629.0,157.0,314.5,2026-05-02,https://www.quickmart.co.ke/pearl-super-basmati-rice-2kg-40
-cil brown rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,349.0,0.0,349.0,2026-05-02,https://www.quickmart.co.ke/cil-brown-rice-1kg-40
-s&s parboiled basmati rice 2kg,Cooking Oil,Generic,Cooking Oil2kg,Quickmart,2kg,2.0,kg,2.0,0.0,421.0,0.0,210.5,2026-05-02,https://www.quickmart.co.ke/s-s-parboiled-basmati-rice-2kg-16
-merry's gold pure pishori rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,1172.0,1049.0,123.0,209.8,2026-05-02,https://www.quickmart.co.ke/merry's-gold-pure-pishori-rice-5kg-40
-kcl mrpp mwea variety rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,1047.0,0.0,209.4,2026-05-02,https://www.quickmart.co.ke/kcl-mrpp-mwea-variety-rice-5kg-12
-vegetable rice – 400g,Rice,Generic,Rice400g,Quickmart,400g,400.0,kg,0.4,0.0,219.6,0.0,549.0,2026-05-02,https://www.quickmart.co.ke/vegetable-rice-–-400g-22
+daawat aromatic rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,594.0,0.0,297.0,2026-05-02,https://www.quickmart.co.ke/daawat-aromatic-rice-2kg-3
+morning harvest choco rice 250g bag,Rice,Generic,Rice250g,Quickmart,250g,250.0,kg,0.25,0.0,329.0,0.0,1316.0,2026-05-02,https://www.quickmart.co.ke/morning-harvest-choco-rice-250g-bag-2
+chinese chicken rice – 400g,Rice,Generic,Rice400g,Quickmart,400g,400.0,kg,0.4,0.0,287.6,0.0,719.0,2026-05-02,https://www.quickmart.co.ke/chinese-chicken-rice-–-400g-15
+pilau rice – 400g,Rice,Generic,Rice400g,Quickmart,400g,400.0,kg,0.4,0.0,319.6,0.0,799.0,2026-05-02,https://www.quickmart.co.ke/pilau-rice-–-400g-66
+merry's gold pure pishori rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,251.0,0.0,251.0,2026-05-02,https://www.quickmart.co.ke/merry's-gold-pure-pishori-rice-1kg-40
+winnies brown rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,393.0,0.0,393.0,2026-05-02,https://www.quickmart.co.ke/winnies-brown-rice-1kg-18
+cereal box sindano rice per 500g,Rice,Generic,Rice500g,Quickmart,500g,500.0,kg,0.5,0.0,115.0,0.0,230.0,2026-05-02,https://www.quickmart.co.ke/cereal-box-sindano-rice-per-500g-1
+quick choice long grain rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,184.0,0.0,184.0,2026-05-02,https://www.quickmart.co.ke/quick-choice-long-grain-rice-1kg-40
+kcl mwea pishori rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,285.0,0.0,285.0,2026-05-02,https://www.quickmart.co.ke/kcl-mwea-pishori-rice-1kg-40
 sunrice long grain 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,949.0,0.0,189.8,2026-05-02,https://www.quickmart.co.ke/sunrice-long-grain-5kg-4
 cashew nut rice – 400g,Rice,Generic,Rice400g,Quickmart,400g,400.0,kg,0.4,0.0,223.6,0.0,559.0,2026-05-02,https://www.quickmart.co.ke/cashew-nut-rice-–-400g-17
 daawat biryani rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,1359.0,1199.0,160.0,239.8,2026-05-02,https://www.quickmart.co.ke/daawat-biryani-rice-5kg-3
 ranee premium rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,1855.0,1484.0,371.0,296.8,2026-05-02,https://www.quickmart.co.ke/ranee-premium-rice-5kg-40
+cil brown rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,349.0,0.0,349.0,2026-05-02,https://www.quickmart.co.ke/cil-brown-rice-1kg-40
 224 long grain rice 2kg,Rice,Generic,Rice224l,Quickmart,224l,224.0,litres,224.0,0.0,322.0,0.0,1.4375,2026-05-02,https://www.quickmart.co.ke/224-long-grain-rice-2kg-3
 daawat biryani rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,549.0,0.0,274.5,2026-05-02,https://www.quickmart.co.ke/daawat-biryani-rice-2kg-3
-guru blended prem pishori rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,500.0,0.0,250.0,2026-05-02,https://www.quickmart.co.ke/guru-blended-prem-pishori-rice-2kg-40
 ranee rice long grain 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,170.0,0.0,170.0,2026-05-02,https://www.quickmart.co.ke/ranee-rice-long-grain-1kg-21
+guru blended prem pishori rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,500.0,0.0,250.0,2026-05-02,https://www.quickmart.co.ke/guru-blended-prem-pishori-rice-2kg-40
 sunrice biryani rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,1254.0,0.0,250.8,2026-05-02,https://www.quickmart.co.ke/sunrice-biryani-rice-5kg-12
 pearl pishori rice long grain 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,324.0,0.0,324.0,2026-05-02,https://www.quickmart.co.ke/pearl-pishori-rice-long-grain-1kg-57
 224 long grain rice 1kg,Rice,Generic,Rice224l,Quickmart,224l,224.0,litres,224.0,0.0,162.0,0.0,0.7232142857142857,2026-05-02,https://www.quickmart.co.ke/224-long-grain-rice-1kg-3
 224 aromatic rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,1118.0,1001.0,117.0,200.2,2026-05-02,https://www.quickmart.co.ke/224-aromatic-rice-5kg-3
-family taste basmati rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,1179.0,0.0,235.8,2026-05-02,https://www.quickmart.co.ke/family-taste-basmati-rice-5kg-11
 pearl super basmati rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,395.0,0.0,395.0,2026-05-02,https://www.quickmart.co.ke/pearl-super-basmati-rice-1kg-13
-ranee long grain rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,842.0,0.0,168.4,2026-05-02,https://www.quickmart.co.ke/ranee-long-grain-rice-5kg-57
-merry's gold pure pishori rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,251.0,0.0,251.0,2026-05-02,https://www.quickmart.co.ke/merry's-gold-pure-pishori-rice-1kg-40
 ranee rice long grain 2kg everyday,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,340.0,0.0,170.0,2026-05-02,https://www.quickmart.co.ke/ranee-rice-long-grain-2kg-everyday-12
+merry's gold pure pishori rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,1172.0,1049.0,123.0,209.8,2026-05-02,https://www.quickmart.co.ke/merry's-gold-pure-pishori-rice-5kg-40
+kcl mrpp mwea variety rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,1047.0,0.0,209.4,2026-05-02,https://www.quickmart.co.ke/kcl-mrpp-mwea-variety-rice-5kg-12
+ranee long grain rice 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,842.0,0.0,168.4,2026-05-02,https://www.quickmart.co.ke/ranee-long-grain-rice-5kg-57
 sunrice kenya pishori 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,600.0,0.0,300.0,2026-05-02,https://www.quickmart.co.ke/sunrice-kenya-pishori-2kg-12
 s&s mwea pishori rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,302.0,0.0,302.0,2026-05-02,https://www.quickmart.co.ke/s-s-mwea-pishori-rice-1kg-12
 quick choice white basmatic rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,478.0,0.0,239.0,2026-05-02,https://www.quickmart.co.ke/quick-choice-white-basmatic-rice-2kg-13
 kcl mrpp mwea variety rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,434.0,0.0,217.0,2026-05-02,https://www.quickmart.co.ke/kcl-mrpp-mwea-variety-rice-2kg-12
 sunrice kenya pishori 5kg,Rice,Generic,Rice5kg,Quickmart,5kg,5.0,kg,5.0,0.0,1480.0,0.0,296.0,2026-05-02,https://www.quickmart.co.ke/sunrice-kenya-pishori-5kg-40
 sunrice long grain rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,0.0,386.0,0.0,193.0,2026-05-02,https://www.quickmart.co.ke/sunrice-long-grain-rice-2kg-12
-kcl mwea pishori rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,285.0,0.0,285.0,2026-05-02,https://www.quickmart.co.ke/kcl-mwea-pishori-rice-1kg-40
-daawat brown rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,360.0,0.0,360.0,2026-05-02,https://www.quickmart.co.ke/daawat-brown-rice-1kg-40
-quick choice long grain rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,184.0,0.0,184.0,2026-05-02,https://www.quickmart.co.ke/quick-choice-long-grain-rice-1kg-40
+cereal box mwea pishori rice dmc per 500g,Rice,Generic,Rice500g,Quickmart,500g,500.0,kg,0.5,0.0,132.5,0.0,265.0,2026-05-02,https://www.quickmart.co.ke/cereal-box-mwea-pishori-rice-dmc-per-500g-1
+daawat biryani rice 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,279.0,0.0,279.0,2026-05-02,https://www.quickmart.co.ke/daawat-biryani-rice-1kg-40
+vegetable rice – 400g,Rice,Generic,Rice400g,Quickmart,400g,400.0,kg,0.4,0.0,219.6,0.0,549.0,2026-05-02,https://www.quickmart.co.ke/vegetable-rice-–-400g-22
 asanta rice blended 1kg,Rice,Generic,Rice1kg,Quickmart,1kg,1.0,kg,1.0,0.0,155.0,0.0,155.0,2026-05-02,https://www.quickmart.co.ke/asanta-rice-blended-1kg-43
 morning harvest choco rice bag 450g,Rice,Generic,Rice450g,Quickmart,450g,450.0,kg,0.45,0.0,529.0,0.0,1175.5555555555554,2026-05-02,https://www.quickmart.co.ke/morning-harvest-choco-rice-bag-450g-57
+pearl super basmati rice 2kg,Rice,Generic,Rice2kg,Quickmart,2kg,2.0,kg,2.0,786.0,629.0,157.0,314.5,2026-05-02,https://www.quickmart.co.ke/pearl-super-basmati-rice-2kg-40
 ajab rice 25 kg,Rice,Generic,Rice25kg,Quickmart,25kg,25.0,kg,25.0,0.0,2450.0,0.0,98.0,2026-05-02,https://www.quickmart.co.ke/ajab-rice-25-kg-14
 bravo puppy chicken & rice 15kg,Rice,Generic,Rice15kg,Quickmart,15kg,15.0,kg,15.0,0.0,5335.0,0.0,355.6666666666667,2026-05-02,https://www.quickmart.co.ke/bravo-puppy-chicken-rice-15kg-44
 golden fry cooking oil 5l,Cooking Oil,Generic,Cooking Oil5l,Quickmart,5l,5.0,litres,5.0,1616.0,1299.0,317.0,259.8,2026-05-02,https://www.quickmart.co.ke/golden-fry-cooking-oil-5l-40
@@ -587,47 +587,46 @@ fresh fri oil 1ltr,Cooking Oil,Generic,Cooking Oil1l,Quickmart,1l,1.0,litres,1.0
 rina vegetable oil 3l,Cooking Oil,Generic,Cooking Oil3l,Quickmart,3l,3.0,litres,3.0,0.0,899.0,0.0,299.6666666666667,2026-05-02,https://www.quickmart.co.ke/rina-vegetable-oil-3l-40
 top fry vegetable oil 5l,Cooking Oil,Generic,Cooking Oil5l,Quickmart,5l,5.0,litres,5.0,1457.0,1279.0,178.0,255.8,2026-05-02,https://www.quickmart.co.ke/top-fry-vegetable-oil-5l-40
 top fry vegetable oil 3l,Cooking Oil,Generic,Cooking Oil3l,Quickmart,3l,3.0,litres,3.0,889.0,829.0,60.0,276.3333333333333,2026-05-02,https://www.quickmart.co.ke/top-fry-vegetable-oil-3l-40
-kentaste coconut oil 200ml/250ml,Cooking Oil,Generic,Cooking Oil200ml,Quickmart,200ml,200.0,litres,0.2,0.0,419.0,0.0,2095.0,2026-05-02,https://www.quickmart.co.ke/kentaste-coconut-oil-200ml/250ml-40
 rinsun sunflower oil 3l,Cooking Oil,Generic,Cooking Oil3l,Quickmart,3l,3.0,litres,3.0,1385.0,1247.0,138.0,415.6666666666667,2026-05-02,https://www.quickmart.co.ke/rinsun-sunflower-oil-3l-40
 rina vegetable oil 10l,Cooking Oil,Generic,Cooking Oil10l,Quickmart,10l,10.0,litres,10.0,0.0,2950.0,0.0,295.0,2026-05-02,https://www.quickmart.co.ke/rina-vegetable-oil-10l-40
-fresh fri oil 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,190.0,0.0,380.0,2026-05-02,https://www.quickmart.co.ke/fresh-fri-oil-500ml-40
-kimbo premium oil 2l,Cooking Oil,Generic,Cooking Oil2l,Quickmart,2l,2.0,litres,2.0,0.0,790.0,0.0,395.0,2026-05-02,https://www.quickmart.co.ke/kimbo-premium-oil-2l-40
+kentaste coconut oil 200ml/250ml,Cooking Oil,Generic,Cooking Oil200ml,Quickmart,200ml,200.0,litres,0.2,0.0,419.0,0.0,2095.0,2026-05-02,https://www.quickmart.co.ke/kentaste-coconut-oil-200ml/250ml-40
 elianto corn oil 5l,Cooking Oil,Generic,Cooking Oil5l,Quickmart,5l,5.0,litres,5.0,0.0,2623.0,0.0,524.6,2026-05-02,https://www.quickmart.co.ke/elianto-corn-oil-5l-40
-elianto corn oil 1l,Cooking Oil,Generic,Cooking Oil1l,Quickmart,1l,1.0,litres,1.0,0.0,599.0,0.0,599.0,2026-05-02,https://www.quickmart.co.ke/elianto-corn-oil-1l-40
-avena veg oil 10l,Cooking Oil,Generic,Cooking Oil10l,Quickmart,10l,10.0,litres,10.0,0.0,2935.0,0.0,293.5,2026-05-02,https://www.quickmart.co.ke/avena-veg-oil-10l-40
-pika veg oil 10l,Cooking Oil,Generic,Cooking Oil10l,Quickmart,10l,10.0,litres,10.0,0.0,2835.0,0.0,283.5,2026-05-02,https://www.quickmart.co.ke/pika-veg-oil-10l-40
-rinsun sunflower oil 750ml,Cooking Oil,Generic,Cooking Oil750ml,Quickmart,750ml,750.0,litres,0.75,0.0,375.0,0.0,500.0,2026-05-02,https://www.quickmart.co.ke/rinsun-sunflower-oil-750ml-40
-rina vegetable oil 1l,Cooking Oil,Generic,Cooking Oil1l,Quickmart,1l,1.0,litres,1.0,360.0,322.0,38.0,322.0,2026-05-02,https://www.quickmart.co.ke/rina-vegetable-oil-1l-40
-pika veg oil 20l,Cooking Oil,Generic,Cooking Oil20l,Quickmart,20l,20.0,litres,20.0,0.0,5650.0,0.0,282.5,2026-05-02,https://www.quickmart.co.ke/pika-veg-oil-20l-40
-top fry vegetable oil 2l,Cooking Oil,Generic,Cooking Oil2l,Quickmart,2l,2.0,litres,2.0,0.0,595.0,0.0,297.5,2026-05-02,https://www.quickmart.co.ke/top-fry-vegetable-oil-2l-40
-sun gold seed oil 3l,Cooking Oil,Generic,Cooking Oil3l,Quickmart,3l,3.0,litres,3.0,0.0,1221.0,0.0,407.0,2026-05-02,https://www.quickmart.co.ke/sun-gold-seed-oil-3l-30
+kimbo premium oil 2l,Cooking Oil,Generic,Cooking Oil2l,Quickmart,2l,2.0,litres,2.0,0.0,790.0,0.0,395.0,2026-05-02,https://www.quickmart.co.ke/kimbo-premium-oil-2l-40
+fresh fri oil 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,190.0,0.0,380.0,2026-05-02,https://www.quickmart.co.ke/fresh-fri-oil-500ml-40
 olivia extra virgin olive oil 750ml,Cooking Oil,Generic,Cooking Oil750ml,Quickmart,750ml,750.0,litres,0.75,2640.0,1850.0,790.0,2466.6666666666665,2026-05-02,https://www.quickmart.co.ke/olivia-extra-virgin-olive-oil-750ml-40
-olivia extra virgin olive oil 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,1975.0,1400.0,575.0,2800.0,2026-05-02,https://www.quickmart.co.ke/olivia-extra-virgin-olive-oil-500ml-40
-rinsun sunflower oil 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,245.0,0.0,490.0,2026-05-02,https://www.quickmart.co.ke/rinsun-sunflower-oil-500ml-40
-avena veg oil 2l,Cooking Oil,Generic,Cooking Oil2l,Quickmart,2l,2.0,litres,2.0,0.0,690.0,0.0,345.0,2026-05-02,https://www.quickmart.co.ke/avena-veg-oil-2l-40
-elianto corn oil 2lt,Cooking Oil,Generic,Cooking Oil2l,Quickmart,2l,2.0,litres,2.0,0.0,1197.0,0.0,598.5,2026-05-02,https://www.quickmart.co.ke/elianto-corn-oil-2lt-40
-rinsun sunflower oil 2l,Cooking Oil,Generic,Cooking Oil2l,Quickmart,2l,2.0,litres,2.0,955.0,860.0,95.0,430.0,2026-05-02,https://www.quickmart.co.ke/rinsun-sunflower-oil-2l-40
-elianto corn oil 3l,Cooking Oil,Generic,Cooking Oil3l,Quickmart,3l,3.0,litres,3.0,0.0,1692.0,0.0,564.0,2026-05-02,https://www.quickmart.co.ke/elianto-corn-oil-3l-40
 fresh fri oil 3l,Cooking Oil,Generic,Cooking Oil3l,Quickmart,3l,3.0,litres,3.0,0.0,1060.0,0.0,353.3333333333333,2026-05-02,https://www.quickmart.co.ke/fresh-fri-oil-3l-40
-rinsun sunflower oil 1l,Cooking Oil,Generic,Cooking Oil1l,Quickmart,1l,1.0,litres,1.0,490.0,441.0,49.0,441.0,2026-05-02,https://www.quickmart.co.ke/rinsun-sunflower-oil-1l-40
 fresh fri oil 2l,Cooking Oil,Generic,Cooking Oil2l,Quickmart,2l,2.0,litres,2.0,0.0,680.0,0.0,340.0,2026-05-02,https://www.quickmart.co.ke/fresh-fri-oil-2l-40
+rinsun sunflower oil 2l,Cooking Oil,Generic,Cooking Oil2l,Quickmart,2l,2.0,litres,2.0,955.0,860.0,95.0,430.0,2026-05-02,https://www.quickmart.co.ke/rinsun-sunflower-oil-2l-40
+rinsun sunflower oil 1l,Cooking Oil,Generic,Cooking Oil1l,Quickmart,1l,1.0,litres,1.0,490.0,441.0,49.0,441.0,2026-05-02,https://www.quickmart.co.ke/rinsun-sunflower-oil-1l-40
+rinsun sunflower oil 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,245.0,0.0,490.0,2026-05-02,https://www.quickmart.co.ke/rinsun-sunflower-oil-500ml-40
+santamaria e/virgin oliveoil250ml,Cooking Oil,Generic,Cooking Oil250ml,Quickmart,250ml,250.0,litres,0.25,0.0,925.0,0.0,3700.0,2026-05-02,https://www.quickmart.co.ke/santamaria-e/virgin-oliveoil250ml-40
+santa maria e/virginoliveoil100ml,Cooking Oil,Generic,Cooking Oil100ml,Quickmart,100ml,100.0,litres,0.1,0.0,440.0,0.0,4400.0,2026-05-02,https://www.quickmart.co.ke/santa-maria-e/virginoliveoil100ml-9
+rinsun sunflower oil 750ml,Cooking Oil,Generic,Cooking Oil750ml,Quickmart,750ml,750.0,litres,0.75,0.0,375.0,0.0,500.0,2026-05-02,https://www.quickmart.co.ke/rinsun-sunflower-oil-750ml-40
+kentaste coconut oil 400ml,Cooking Oil,Generic,Cooking Oil400ml,Quickmart,400ml,400.0,litres,0.4,0.0,704.0,0.0,1760.0,2026-05-02,https://www.quickmart.co.ke/kentaste-coconut-oil-400ml-40
+avena veg oil 10l,Cooking Oil,Generic,Cooking Oil10l,Quickmart,10l,10.0,litres,10.0,0.0,2935.0,0.0,293.5,2026-05-02,https://www.quickmart.co.ke/avena-veg-oil-10l-40
+avena veg oil 2l,Cooking Oil,Generic,Cooking Oil2l,Quickmart,2l,2.0,litres,2.0,0.0,690.0,0.0,345.0,2026-05-02,https://www.quickmart.co.ke/avena-veg-oil-2l-40
+elianto corn oil 1l,Cooking Oil,Generic,Cooking Oil1l,Quickmart,1l,1.0,litres,1.0,0.0,599.0,0.0,599.0,2026-05-02,https://www.quickmart.co.ke/elianto-corn-oil-1l-40
+rina vegetable oil 1l,Cooking Oil,Generic,Cooking Oil1l,Quickmart,1l,1.0,litres,1.0,360.0,322.0,38.0,322.0,2026-05-02,https://www.quickmart.co.ke/rina-vegetable-oil-1l-40
+elianto corn oil 2lt,Cooking Oil,Generic,Cooking Oil2l,Quickmart,2l,2.0,litres,2.0,0.0,1197.0,0.0,598.5,2026-05-02,https://www.quickmart.co.ke/elianto-corn-oil-2lt-40
+elianto corn oil 3l,Cooking Oil,Generic,Cooking Oil3l,Quickmart,3l,3.0,litres,3.0,0.0,1692.0,0.0,564.0,2026-05-02,https://www.quickmart.co.ke/elianto-corn-oil-3l-40
 hurricane toilet cleaner 500ml value pack,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,340.0,0.0,680.0,2026-05-02,https://www.quickmart.co.ke/hurricane-toilet-cleaner-500ml-value-pack-39
-nice & lovely bio body oil 100ml,Cooking Oil,Generic,Cooking Oil100ml,Quickmart,100ml,100.0,litres,0.1,0.0,750.0,0.0,7500.0,2026-05-02,https://www.quickmart.co.ke/nice-lovely-bio-body-oil-100ml-40
-ace toilet cleaner lavender fresh 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,275.0,0.0,550.0,2026-05-02,https://www.quickmart.co.ke/ace-toilet-cleaner-lavender-fresh-500ml-44
-famrico castor oil 65ml,Cooking Oil,Generic,Cooking Oil65ml,Quickmart,65ml,65.0,litres,0.065,0.0,190.0,0.0,2923.076923076923,2026-05-02,https://www.quickmart.co.ke/famrico-castor-oil-65ml-40
-famrico extra virgin coconut oil 65ml,Cooking Oil,Generic,Cooking Oil65ml,Quickmart,65ml,65.0,litres,0.065,0.0,100.0,0.0,1538.4615384615383,2026-05-02,https://www.quickmart.co.ke/famrico-extra-virgin-coconut-oil-65ml-37
-alison coconut oil scent free 120ml,Cooking Oil,Generic,Cooking Oil120ml,Quickmart,120ml,120.0,litres,0.12,0.0,265.0,0.0,2208.3333333333335,2026-05-02,https://www.quickmart.co.ke/alison-coconut-oil-scent-free-120ml-39
-ballet baby oil 125ml,Cooking Oil,Generic,Cooking Oil125ml,Quickmart,125ml,125.0,litres,0.125,0.0,173.0,0.0,1384.0,2026-05-02,https://www.quickmart.co.ke/ballet-baby-oil-125ml-3
-atilla toilet cleaner v/infusion 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,260.0,208.0,52.0,416.0,2026-05-02,https://www.quickmart.co.ke/atilla-toilet-cleaner-v/infusion-500ml-32
+safisha toilet block citrus 50g,Cooking Oil,Generic,Cooking Oil50g,Quickmart,50g,50.0,kg,0.05,0.0,68.0,0.0,1360.0,2026-05-02,https://www.quickmart.co.ke/safisha-toilet-block-citrus-50g-40
+tropical coconut oil 65ml,Cooking Oil,Generic,Cooking Oil65ml,Quickmart,65ml,65.0,litres,0.065,0.0,110.0,0.0,1692.3076923076922,2026-05-02,https://www.quickmart.co.ke/tropical-coconut-oil-65ml-37
 cussons baby oil mild&gentle 50ml,Cooking Oil,Generic,Cooking Oil50ml,Quickmart,50ml,50.0,litres,0.05,0.0,150.0,0.0,3000.0,2026-05-02,https://www.quickmart.co.ke/cussons-baby-oil-mild-gentle-50ml-13
 safisha toilet cleaner lav. 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,248.0,0.0,496.0,2026-05-02,https://www.quickmart.co.ke/safisha-toilet-cleaner-lav.-500ml-10
+safisha toilet cleaner o/fresh 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,225.0,0.0,450.0,2026-05-02,https://www.quickmart.co.ke/safisha-toilet-cleaner-o/fresh-500ml-43
 cussons baby soft&smooth oil 100ml,Cooking Oil,Generic,Cooking Oil100ml,Quickmart,100ml,100.0,litres,0.1,230.0,179.0,51.0,1790.0,2026-05-02,https://www.quickmart.co.ke/cussons-baby-soft-smooth-oil-100ml-44
-safisha toilet block citrus 50g,Cooking Oil,Generic,Cooking Oil50g,Quickmart,50g,50.0,kg,0.05,0.0,68.0,0.0,1360.0,2026-05-02,https://www.quickmart.co.ke/safisha-toilet-block-citrus-50g-40
-vim lavender toilet cleaner 1l,Cooking Oil,Generic,Cooking Oil1l,Quickmart,1l,1.0,litres,1.0,0.0,520.0,0.0,520.0,2026-05-02,https://www.quickmart.co.ke/vim-lavender-toilet-cleaner-1l-37
-vim lavender toilet cleaner 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,270.0,0.0,540.0,2026-05-02,https://www.quickmart.co.ke/vim-lavender-toilet-cleaner-500ml-18
-ideal pure olive oil 50ml,Cooking Oil,Generic,Cooking Oil50ml,Quickmart,50ml,50.0,litres,0.05,0.0,220.0,0.0,4400.0,2026-05-02,https://www.quickmart.co.ke/ideal-pure-olive-oil-50ml-36
+famrico extra virgin coconut oil 65ml,Cooking Oil,Generic,Cooking Oil65ml,Quickmart,65ml,65.0,litres,0.065,0.0,100.0,0.0,1538.4615384615383,2026-05-02,https://www.quickmart.co.ke/famrico-extra-virgin-coconut-oil-65ml-37
+ace toilet cleaner lavender fresh 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,275.0,0.0,550.0,2026-05-02,https://www.quickmart.co.ke/ace-toilet-cleaner-lavender-fresh-500ml-44
+alison coconut oil scent free 120ml,Cooking Oil,Generic,Cooking Oil120ml,Quickmart,120ml,120.0,litres,0.12,0.0,265.0,0.0,2208.3333333333335,2026-05-02,https://www.quickmart.co.ke/alison-coconut-oil-scent-free-120ml-39
+atilla toilet cleaner v/infusion 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,260.0,208.0,52.0,416.0,2026-05-02,https://www.quickmart.co.ke/atilla-toilet-cleaner-v/infusion-500ml-32
+famrico castor oil 65ml,Cooking Oil,Generic,Cooking Oil65ml,Quickmart,65ml,65.0,litres,0.065,0.0,190.0,0.0,2923.076923076923,2026-05-02,https://www.quickmart.co.ke/famrico-castor-oil-65ml-40
+ballet baby oil 125ml,Cooking Oil,Generic,Cooking Oil125ml,Quickmart,125ml,125.0,litres,0.125,0.0,173.0,0.0,1384.0,2026-05-02,https://www.quickmart.co.ke/ballet-baby-oil-125ml-3
+famrico extra virgin coconut oil120ml,Cooking Oil,Generic,Cooking Oil120ml,Quickmart,120ml,120.0,litres,0.12,0.0,165.0,0.0,1375.0,2026-05-02,https://www.quickmart.co.ke/famrico-extra-virgin-coconut-oil120ml-18
+ideal castor oil 200ml,Cooking Oil,Generic,Cooking Oil200ml,Quickmart,200ml,200.0,litres,0.2,0.0,430.0,0.0,2150.0,2026-05-02,https://www.quickmart.co.ke/ideal-castor-oil-200ml-37
+ideal pure castor oil 100ml,Cooking Oil,Generic,Cooking Oil100ml,Quickmart,100ml,100.0,litres,0.1,0.0,260.0,0.0,2600.0,2026-05-02,https://www.quickmart.co.ke/ideal-pure-castor-oil-100ml-40
+ace toilet cleaner fruity fresh 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,275.0,0.0,550.0,2026-05-02,https://www.quickmart.co.ke/ace-toilet-cleaner-fruity-fresh-500ml-44
 ace toilet cleaner powermax fresh 500ml,Cooking Oil,Generic,Cooking Oil500ml,Quickmart,500ml,500.0,litres,0.5,0.0,275.0,0.0,550.0,2026-05-02,https://www.quickmart.co.ke/ace-toilet-cleaner-powermax-fresh-500ml-44
-bluebuble toilet block 200g lavender 4*50g,Cooking Oil,Generic,Cooking Oil200g,Quickmart,200g,200.0,kg,0.2,0.0,375.0,0.0,1875.0,2026-05-02,https://www.quickmart.co.ke/bluebuble-toilet-block-200g-lavender-4*50g-9
 jogoo maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,168.0,0.0,84.0,2026-05-02,https://www.quickmart.co.ke/jogoo-maize-meal-2kg-40
 ajab premium fortified sifted maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,177.0,0.0,88.5,2026-05-02,https://www.quickmart.co.ke/ajab-premium-fortified-sifted-maize-meal-2kg-43
 dola maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,164.0,149.0,15.0,74.5,2026-05-02,https://www.quickmart.co.ke/dola-maize-meal-2kg-40
@@ -636,13 +635,14 @@ joymax maize meal 5kg,Maize Meal,Generic,Maize Meal5kg,Quickmart,5kg,5.0,kg,5.0,
 mfalme 2kg sifted maize meal,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,158.0,0.0,79.0,2026-05-02,https://www.quickmart.co.ke/mfalme-2kg-sifted-maize-meal-40
 spenza premium maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,187.0,0.0,93.5,2026-05-02,https://www.quickmart.co.ke/spenza-premium-maize-meal-2kg-55
 raha premium maize meal 5 kg,Maize Meal,Generic,Maize Meal5kg,Quickmart,5kg,5.0,kg,5.0,0.0,495.0,0.0,99.0,2026-05-02,https://www.quickmart.co.ke/raha-premium-maize-meal-5-kg-40
+pembe maize meal 10kg,Maize Meal,Generic,Maize Meal10kg,Quickmart,10kg,10.0,kg,10.0,830.0,800.0,30.0,80.0,2026-05-02,https://www.quickmart.co.ke/pembe-maize-meal-10kg-40
 oryx premium maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,169.0,0.0,84.5,2026-05-02,https://www.quickmart.co.ke/oryx-premium-maize-meal-2kg-40
 spenza premium maize meal 1kg,Maize Meal,Generic,Maize Meal1kg,Quickmart,1kg,1.0,kg,1.0,0.0,94.0,0.0,94.0,2026-05-02,https://www.quickmart.co.ke/spenza-premium-maize-meal-1kg-40
-pembe maize meal 10kg,Maize Meal,Generic,Maize Meal10kg,Quickmart,10kg,10.0,kg,10.0,830.0,800.0,30.0,80.0,2026-05-02,https://www.quickmart.co.ke/pembe-maize-meal-10kg-40
-lea premium maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,190.0,0.0,95.0,2026-05-02,https://www.quickmart.co.ke/lea-premium-maize-meal-2kg-30
+fd-lea premium maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,190.0,0.0,95.0,2026-05-02,https://www.quickmart.co.ke/fd-lea-premium-maize-meal-2kg-28
+ndovu maize meal 5kg,Maize Meal,Generic,Maize Meal5kg,Quickmart,5kg,5.0,kg,5.0,0.0,370.0,0.0,74.0,2026-05-02,https://www.quickmart.co.ke/ndovu-maize-meal-5kg-31
+fd-210 papo hapo premium maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,175.0,0.0,87.5,2026-05-02,https://www.quickmart.co.ke/fd-210-papo-hapo-premium-maize-meal-2kg-16
 ndovu maize meal 1kg,Maize Meal,Generic,Maize Meal1kg,Quickmart,1kg,1.0,kg,1.0,0.0,75.0,0.0,75.0,2026-05-02,https://www.quickmart.co.ke/ndovu-maize-meal-1kg-32
 ndovu maize meal 10kg,Maize Meal,Generic,Maize Meal10kg,Quickmart,10kg,10.0,kg,10.0,0.0,735.0,0.0,73.5,2026-05-02,https://www.quickmart.co.ke/ndovu-maize-meal-10kg-30
-ndovu maize meal 5kg,Maize Meal,Generic,Maize Meal5kg,Quickmart,5kg,5.0,kg,5.0,0.0,370.0,0.0,74.0,2026-05-02,https://www.quickmart.co.ke/ndovu-maize-meal-5kg-31
 pembe maize flour 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,170.0,159.0,11.0,79.5,2026-05-02,https://www.quickmart.co.ke/pembe-maize-flour-2kg-40
 soko maize flour 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,170.0,162.0,8.0,81.0,2026-05-02,https://www.quickmart.co.ke/soko-maize-flour-2kg-40
 210 sifted maize flour 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,158.0,149.0,9.0,74.5,2026-05-02,https://www.quickmart.co.ke/210-sifted-maize-flour-2kg-36
@@ -685,26 +685,26 @@ ndovu maize flour 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,
 amaize flour 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,207.0,193.0,14.0,96.5,2026-05-02,https://www.quickmart.co.ke/amaize-flour-2kg-40
 exe self raising flour 1kg,Wheat Flour,Generic,Wheat Flour1kg,Quickmart,1kg,1.0,kg,1.0,0.0,93.0,0.0,93.0,2026-05-02,https://www.quickmart.co.ke/exe-self-raising-flour-1kg-40
 ajab fortified atta mark1 flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,174.0,0.0,87.0,2026-05-02,https://www.quickmart.co.ke/ajab-fortified-atta-mark1-flour-2kg-40
-phulka atta mark 1 chapati flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,165.0,0.0,82.5,2026-05-02,https://www.quickmart.co.ke/phulka-atta-mark-1-chapati-flour-2kg-41
 exe self raising flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,191.0,0.0,95.5,2026-05-02,https://www.quickmart.co.ke/exe-self-raising-flour-2kg-40
+phulka atta mark 1 chapati flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,165.0,0.0,82.5,2026-05-02,https://www.quickmart.co.ke/phulka-atta-mark-1-chapati-flour-2kg-41
 exe all purpose flour 1kg,Wheat Flour,Generic,Wheat Flour1kg,Quickmart,1kg,1.0,kg,1.0,0.0,89.0,0.0,89.0,2026-05-02,https://www.quickmart.co.ke/exe-all-purpose-flour-1kg-40
 soko maize flour 5kg,Maize Meal,Generic,Maize Meal5kg,Quickmart,5kg,5.0,kg,5.0,0.0,429.0,0.0,85.8,2026-05-02,https://www.quickmart.co.ke/soko-maize-flour-5kg-40
 hostess maize flour 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,200.0,0.0,100.0,2026-05-02,https://www.quickmart.co.ke/hostess-maize-flour-2kg-40
-swan maize flour 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,145.0,0.0,72.5,2026-05-02,https://www.quickmart.co.ke/swan-maize-flour-2kg-40
 clovers cornflour 400g,Wheat Flour,Generic,Wheat Flour400g,Quickmart,400g,400.0,kg,0.4,0.0,97.0,0.0,242.5,2026-05-02,https://www.quickmart.co.ke/clovers-cornflour-400g-40
+soko maize flour 10kg,Maize Meal,Generic,Maize Meal10kg,Quickmart,10kg,10.0,kg,10.0,0.0,847.0,0.0,84.7,2026-05-02,https://www.quickmart.co.ke/soko-maize-flour-10kg-40
 exe mandazi flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,191.0,0.0,95.5,2026-05-02,https://www.quickmart.co.ke/exe-mandazi-flour-2kg-40
 pembe maize flour 1kg,Maize Meal,Generic,Maize Meal1kg,Quickmart,1kg,1.0,kg,1.0,0.0,90.0,0.0,90.0,2026-05-02,https://www.quickmart.co.ke/pembe-maize-flour-1kg-39
-pendo 2kg wheat flour-bale,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,1848.0,0.0,924.0,2026-05-02,https://www.quickmart.co.ke/pendo-2kg-wheat-flour-bale-40
-jogoo maize flour 5kg,Maize Meal,Generic,Maize Meal5kg,Quickmart,5kg,5.0,kg,5.0,0.0,436.0,0.0,87.2,2026-05-02,https://www.quickmart.co.ke/jogoo-maize-flour-5kg-40
-jogoo maize flour 10kg,Maize Meal,Generic,Maize Meal10kg,Quickmart,10kg,10.0,kg,10.0,0.0,860.0,0.0,86.0,2026-05-02,https://www.quickmart.co.ke/jogoo-maize-flour-10kg-40
-gram kamal flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,536.0,0.0,268.0,2026-05-02,https://www.quickmart.co.ke/gram-kamal-flour-2kg-40
-exe chapati flour 1kg,Wheat Flour,Generic,Wheat Flour1kg,Quickmart,1kg,1.0,kg,1.0,0.0,89.0,0.0,89.0,2026-05-02,https://www.quickmart.co.ke/exe-chapati-flour-1kg-40
-pembe mandazi flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,175.0,165.0,10.0,82.5,2026-05-02,https://www.quickmart.co.ke/pembe-mandazi-flour-2kg-40
 soko maize flour 1kg,Maize Meal,Generic,Maize Meal1kg,Quickmart,1kg,1.0,kg,1.0,0.0,87.0,0.0,87.0,2026-05-02,https://www.quickmart.co.ke/soko-maize-flour-1kg-40
+pembe mandazi flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,175.0,165.0,10.0,82.5,2026-05-02,https://www.quickmart.co.ke/pembe-mandazi-flour-2kg-40
+exe chapati flour 1kg,Wheat Flour,Generic,Wheat Flour1kg,Quickmart,1kg,1.0,kg,1.0,0.0,89.0,0.0,89.0,2026-05-02,https://www.quickmart.co.ke/exe-chapati-flour-1kg-40
 mama maize flour 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,150.0,0.0,75.0,2026-05-02,https://www.quickmart.co.ke/mama-maize-flour-2kg-40
 exe atta mark 1 flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,180.0,0.0,90.0,2026-05-02,https://www.quickmart.co.ke/exe-atta-mark-1-flour-2kg-40
-exe chapati flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,176.0,0.0,88.0,2026-05-02,https://www.quickmart.co.ke/exe-chapati-flour-2kg-40
 ajab fortified mandazi flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,174.0,0.0,87.0,2026-05-02,https://www.quickmart.co.ke/ajab-fortified-mandazi-flour-2kg-40
+gram kamal flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,536.0,0.0,268.0,2026-05-02,https://www.quickmart.co.ke/gram-kamal-flour-2kg-40
+jogoo maize flour 10kg,Maize Meal,Generic,Maize Meal10kg,Quickmart,10kg,10.0,kg,10.0,0.0,860.0,0.0,86.0,2026-05-02,https://www.quickmart.co.ke/jogoo-maize-flour-10kg-40
+jogoo maize flour 5kg,Maize Meal,Generic,Maize Meal5kg,Quickmart,5kg,5.0,kg,5.0,0.0,436.0,0.0,87.2,2026-05-02,https://www.quickmart.co.ke/jogoo-maize-flour-5kg-40
+pendo 2kg wheat flour-bale,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,1848.0,0.0,924.0,2026-05-02,https://www.quickmart.co.ke/pendo-2kg-wheat-flour-bale-40
+exe chapati flour 2kg,Wheat Flour,Generic,Wheat Flour2kg,Quickmart,2kg,2.0,kg,2.0,0.0,176.0,0.0,88.0,2026-05-02,https://www.quickmart.co.ke/exe-chapati-flour-2kg-40
 jogoo maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,168.0,0.0,84.0,2026-05-02,https://www.quickmart.co.ke/jogoo-maize-meal-2kg-40
 kabras sugar white 2kg,Sugar,Generic,Sugar2kg,Quickmart,2kg,2.0,kg,2.0,0.0,305.0,0.0,152.5,2026-05-02,https://www.quickmart.co.ke/kabras-sugar-white-2kg-40
 ajab premium fortified sifted maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,177.0,0.0,88.5,2026-05-02,https://www.quickmart.co.ke/ajab-premium-fortified-sifted-maize-meal-2kg-43
@@ -715,8 +715,8 @@ dola maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,16
 raha premium maize meal 2 kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,197.0,0.0,98.5,2026-05-02,https://www.quickmart.co.ke/raha-premium-maize-meal-2-kg-53
 nutrameal sugar 1kg,Sugar,Generic,Sugar1kg,Quickmart,1kg,1.0,kg,1.0,0.0,155.0,0.0,155.0,2026-05-02,https://www.quickmart.co.ke/nutrameal-sugar-1kg-40
 joymax maize meal 5kg,Maize Meal,Generic,Maize Meal5kg,Quickmart,5kg,5.0,kg,5.0,0.0,345.0,0.0,69.0,2026-05-02,https://www.quickmart.co.ke/joymax-maize-meal-5kg-40
-mfalme 2kg sifted maize meal,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,158.0,0.0,79.0,2026-05-02,https://www.quickmart.co.ke/mfalme-2kg-sifted-maize-meal-40
 mumias sugar 1 kg,Sugar,Generic,Sugar1kg,Quickmart,1kg,1.0,kg,1.0,0.0,155.0,0.0,155.0,2026-05-02,https://www.quickmart.co.ke/mumias-sugar-1-kg-48
+mfalme 2kg sifted maize meal,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,158.0,0.0,79.0,2026-05-02,https://www.quickmart.co.ke/mfalme-2kg-sifted-maize-meal-40
 valley sugar brown 2kg,Sugar,Generic,Sugar2kg,Quickmart,2kg,2.0,kg,2.0,0.0,309.0,0.0,154.5,2026-05-02,https://www.quickmart.co.ke/valley-sugar-brown-2kg-8
 winnie ugali afya 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,295.0,0.0,147.5,2026-05-02,https://www.quickmart.co.ke/winnie-ugali-afya-2kg-40
 spenza premium maize meal 2kg,Maize Meal,Generic,Maize Meal2kg,Quickmart,2kg,2.0,kg,2.0,0.0,187.0,0.0,93.5,2026-05-02,https://www.quickmart.co.ke/spenza-premium-maize-meal-2kg-55
