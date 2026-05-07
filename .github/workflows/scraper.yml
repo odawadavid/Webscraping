@@ -60,6 +60,26 @@ jobs:
           path: data/
 
       # 8. Commit and push results
+      #
+      # FIX: Added `git pull --rebase origin main` before `git push`.
+      #
+      # Root cause of the non-fast-forward error:
+      #   The runner committed locally, but by the time it tried to push, the
+      #   remote main branch had moved ahead (e.g. a previous overlapping run
+      #   or a manual push had landed there first).  Git rejected the push
+      #   because the local commit's parent no longer matched the remote tip.
+      #
+      # Why --rebase and not --merge:
+      #   --rebase replays the data commit on top of whatever is now on the
+      #   remote, keeping a clean linear history.  A merge would add a
+      #   pointless "Merge branch 'main'" entry every time the scraper runs.
+      #
+      # Why this is safe here:
+      #   The only file being committed is the data/ directory.  Any remote
+      #   change will be to the same CSV files from another scraper run, so
+      #   rebase will fast-forward cleanly without conflicts.  If a genuine
+      #   conflict did occur, the step fails loudly rather than silently
+      #   overwriting anything.
       - name: Commit and push results
         run: |
           git config --global user.name "github-actions[bot]"
@@ -74,8 +94,12 @@ jobs:
           else
             echo "Changes detected, committing the following files:"
             git diff --staged --name-only
-            git commit -m "chore: update scraped data $(date '+%Y-%m-%d %H:%M:%S UTC')"
-            git pull --rebase origin main   # ← sync with remote before pushing
+            git commit -m "chore: update scraped data $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+
+            # Sync with the remote before pushing so this commit is always
+            # a fast-forward, preventing the non-fast-forward rejection.
+            git pull --rebase origin main
+
             git push
             echo "Push successful."
           fi
