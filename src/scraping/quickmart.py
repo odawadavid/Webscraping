@@ -25,6 +25,7 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 import pandas as pd
 from pathlib import Path
 from datetime import date
+import time
 
 
 # ── Configuration ─────────────────────────────────────────────────────────────
@@ -37,14 +38,18 @@ from datetime import date
 # Note: wheat flour and maize flour share one page (/flour) because that is
 # how Quickmart organises them.  Both will be scraped under the "flour" label;
 # the product names (e.g. "Pembe Maize Flour 2Kg") make the type clear.
+#
+# FIX: Base URLs no longer include &pagesize-30 here — it is appended once
+# in the pagination loop below to avoid the duplicate ?pagesize-30&pagesize-30
+# that was appearing in every paginated URL.
 CATEGORIES = {
-    "milk":        "https://www.quickmart.co.ke/products/search?keyword-milk&pagesize-30",
-    "sugar":       "https://www.quickmart.co.ke/products/search?keyword-sugar&pagesize-30",
-    "bread":       "https://www.quickmart.co.ke/products/search?keyword-bread&pagesize-30",
-    "rice":        "https://www.quickmart.co.ke/products/search?keyword-rice&pagesize-30",
-    "cooking oil": "https://www.quickmart.co.ke/products/search?keyword-cooking%20oil&pagesize-30",
-    "maize flour": "https://www.quickmart.co.ke/products/search?keyword-maize%20meal&pagesize-30",
-    "wheat flour": "https://www.quickmart.co.ke/products/search?keyword-baking%20flour&pagesize-30",
+    "milk":        "https://www.quickmart.co.ke/products/search?keyword-milk",
+    "sugar":       "https://www.quickmart.co.ke/products/search?keyword-sugar",
+    "bread":       "https://www.quickmart.co.ke/products/search?keyword-bread",
+    "rice":        "https://www.quickmart.co.ke/products/search?keyword-rice",
+    "cooking oil": "https://www.quickmart.co.ke/products/search?keyword-cooking%20oil",
+    "maize flour": "https://www.quickmart.co.ke/products/search?keyword-maize%20meal",
+    "wheat flour": "https://www.quickmart.co.ke/products/search?keyword-baking%20flour",
 }
 
 # How many pages to load per category.  Category pages show roughly 30 products
@@ -53,6 +58,13 @@ MAX_PAGES = 3
 
 # CSS class that wraps each product card on the page.
 CARD_SELECTOR = ".productInfoJs"
+
+# How many times to retry a failed page navigation before giving up.
+GOTO_RETRIES = 3
+
+# Base delay (seconds) between retries — multiplied by the attempt number
+# so waits are: 5 s, 10 s, 15 s.
+RETRY_BACKOFF = 5
 
 # Where the CSV is saved (two levels up from this file, then data/raw/).
 BASE_DIR = Path(__file__).resolve().parents[2]
@@ -100,14 +112,44 @@ def dismiss_modal(page):
 
 def goto_page(page, url):
     """
-    Navigate to a URL.  Waits for network activity to settle first.
-    Falls back to a simpler strategy if that takes too long.
+    Navigate to a URL and wait for product cards to appear.
+
+    Strategy (FIX — replaces the old networkidle approach):
+    ────────────────────────────────────────────────────────
+    wait_until="networkidle" is too strict for modern e-commerce sites:
+    analytics scripts, ad pixels, and chat widgets fire continuously in the
+    background, so the page never truly reaches "networkidle" and Playwright
+    times out even when all product content has already loaded.
+
+    Instead we use:
+      1. wait_until="domcontentloaded"  — resolves as soon as the HTML is
+         parsed, which is fast and reliable.
+      2. page.wait_for_selector(CARD_SELECTOR) — blocks until the product
+         cards are actually in the DOM, so we never scrape a blank page.
+
+    Retries with exponential-ish backoff handle transient network hiccups
+    (ERR_TIMED_OUT, ERR_CONNECTION_RESET, etc.) without aborting the whole
+    pipeline on the first failure.
     """
-    try:
-        page.goto(url, wait_until="networkidle", timeout=60_000)
-    except PlaywrightTimeoutError:
-        page.goto(url, wait_until="domcontentloaded", timeout=60_000)
-        page.wait_for_timeout(3_000)  # give late-loading content a moment
+    for attempt in range(1, GOTO_RETRIES + 1):
+        try:
+            page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+            # Wait for product cards to actually render before returning.
+            # Timeout intentionally short here — if cards don't appear in 15 s
+            # the caller's own wait_for_selector will handle it and break
+            # pagination cleanly.
+            page.wait_for_selector(CARD_SELECTOR, timeout=15_000)
+            return  # success — exit the retry loop
+
+        except PlaywrightTimeoutError as err:
+            if attempt < GOTO_RETRIES:
+                wait = RETRY_BACKOFF * attempt
+                print(f"  ⚠️  Attempt {attempt}/{GOTO_RETRIES} timed out — retrying in {wait} s …")
+                time.sleep(wait)
+            else:
+                # All retries exhausted — re-raise so the caller can decide
+                # whether to skip this page or abort the run entirely.
+                raise
 
 
 def get_text(locator):
@@ -171,7 +213,16 @@ def run_quickmart():
         # Without it, every category page redirects to an error asking you
         # to choose a location — no products are shown.
         print("🌐  Setting store session (Quickmart Kikuyu Rd #1001) …")
-        goto_page(page, "https://www.quickmart.co.ke/1001")
+        try:
+            page.goto(
+                "https://www.quickmart.co.ke/1001",
+                wait_until="domcontentloaded",
+                timeout=60_000,
+            )
+        except PlaywrightTimeoutError:
+            # The homepage sometimes stalls; as long as the session cookie is
+            # set we can continue — just log and move on.
+            print("  ⚠️  Session page timed out — continuing anyway")
         dismiss_modal(page)
         print("  ✅  Session ready\n")
 
@@ -187,15 +238,27 @@ def run_quickmart():
 
             for page_num in range(1, MAX_PAGES + 1):
 
-                # Category pages paginate with &page-N
-                url = f"{base_url}&page-{page_num}&pagesize-30/"
+                # FIX: pagesize-30 is now appended exactly once here.
+                # Previously the base URL already contained &pagesize-30 and
+                # the f-string added another one, producing:
+                #   ?keyword-sugar&pagesize-30&page-2&pagesize-30  ← broken
+                # Now it produces:
+                #   ?keyword-sugar&pagesize-30&page-2              ← correct
+                url = f"{base_url}&pagesize-30&page-{page_num}"
                 print(f"\n  📄  Page {page_num}  →  {url}")
 
-                goto_page(page, url)
+                # goto_page already waits for CARD_SELECTOR internally.
+                # If it raises after all retries we skip this page gracefully.
+                try:
+                    goto_page(page, url)
+                except PlaywrightTimeoutError:
+                    print("  ❌  Page failed after all retries — skipping")
+                    break
+
                 dismiss_modal(page)
 
-                # Wait for products to appear.  If nothing loads in 15 s,
-                # the category has no more pages — move to the next category.
+                # goto_page already confirmed cards are present, but re-check
+                # in case dismiss_modal caused a re-render.
                 try:
                     page.wait_for_selector(CARD_SELECTOR, timeout=15_000)
                 except PlaywrightTimeoutError:
