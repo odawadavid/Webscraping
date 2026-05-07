@@ -75,6 +75,7 @@ jobs:
             echo "Changes detected, committing the following files:"
             git diff --staged --name-only
             git commit -m "chore: update scraped data $(date '+%Y-%m-%d %H:%M:%S UTC')"
+            git pull --rebase origin main   # ← sync with remote before pushing
             git push
             echo "Push successful."
           fi
