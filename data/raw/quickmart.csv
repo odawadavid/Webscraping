@@ -1,619 +1,618 @@
 date,category,name,current_price,old_price,link,source
-2026-07-08,milk,Quick Choice Esl Milk 500Ml,KES 47.00,KES 50.00,https://www.quickmart.co.ke/quick-choice-esl-milk-500ml-63,Quickmart
-2026-07-08,milk,Tuzo Uht Fino Whole Milk 500Ml,KES 55.00,KES 61.00,https://www.quickmart.co.ke/tuzo-uht-fino-whole-milk-500ml-63,Quickmart
-2026-07-08,milk,Tuzo Esl Milk 450Ml,KES 49.00,KES 54.00,https://www.quickmart.co.ke/tuzo-esl-milk-450ml-58,Quickmart
-2026-07-08,milk,Molo Uht Milk Pouch 500Ml,KES 51.00,KES 57.00,https://www.quickmart.co.ke/molo-uht-milk-pouch-500ml-63,Quickmart
-2026-07-08,milk,Daima Fino Bora Milk Pouch 500Ml,KES 49.00,KES 60.00,https://www.quickmart.co.ke/daima-fino-bora-milk-pouch-500ml-63,Quickmart
-2026-07-08,milk,Kcc Goldcrown Fresh Milk Tfa 500Ml,KES 56.00,No discount,https://www.quickmart.co.ke/kcc-goldcrown-fresh-milk-tfa-500ml-63,Quickmart
-2026-07-08,milk,Fresha Fresh Whole Milk 500Ml,KES 58.00,No discount,https://www.quickmart.co.ke/fresha-fresh-whole-milk-500ml-63,Quickmart
-2026-07-08,milk,Lato Milk Esl Pouch 500Ml,KES 50.00,KES 59.00,https://www.quickmart.co.ke/lato-milk-esl-pouch-500ml-63,Quickmart
-2026-07-08,milk,Brookside Uht Whole Milk 250Ml,KES 43.00,No discount,https://www.quickmart.co.ke/brookside-uht-whole-milk-250ml-66,Quickmart
-2026-07-08,milk,Daima Fino Bora Milk 200Ml,KES 24.00,KES 30.00,https://www.quickmart.co.ke/daima-fino-bora-milk-200ml-63,Quickmart
-2026-07-08,milk,Fresha Zito Long Life Milk 250Ml,KES 30.00,No discount,https://www.quickmart.co.ke/fresha-zito-long-life-milk-250ml-40,Quickmart
-2026-07-08,milk,Kinangop Fresh Pouch Milk 500Ml -Fresh Milk,KES 53.00,No discount,https://www.quickmart.co.ke/kinangop-fresh-pouch-milk-500ml-fresh-milk-63,Quickmart
-2026-07-08,milk,Tuzo Uht Whole Milk 250Ml,KES 41.00,No discount,https://www.quickmart.co.ke/tuzo-uht-whole-milk-250ml-45,Quickmart
-2026-07-08,milk,Festive Milk Bread 800Gms,KES 130.00,No discount,https://www.quickmart.co.ke/festive-milk-bread-800gms-62,Quickmart
-2026-07-08,milk,Mount Kenya Uht Milk Esl 500Ml,KES 60.00,No discount,https://www.quickmart.co.ke/mount-kenya-uht-milk-esl-500ml-63,Quickmart
-2026-07-08,milk,Geisha Coconut Milk & Honey Soap 200G,KES 110.00,No discount,https://www.quickmart.co.ke/geisha-coconut-milk-honey-soap-200g-62,Quickmart
-2026-07-08,milk,Ilara Fresh Full Cream Whole Milk 1L,KES 119.00,No discount,https://www.quickmart.co.ke/ilara-fresh-full-cream-whole-milk-1l-63,Quickmart
-2026-07-08,milk,Arimis Milking Jelly - 200G,KES 139.00,No discount,https://www.quickmart.co.ke/arimis-milking-jelly-200g-50,Quickmart
-2026-07-08,milk,Brookside Lactose Free Milk Fino 500Ml - Long Life,KES 77.00,No discount,https://www.quickmart.co.ke/brookside-lactose-free-milk-fino-500ml-long-life-63,Quickmart
-2026-07-08,milk,Daima Vanilla Milk 480Ml,KES 92.00,KES 100.00,https://www.quickmart.co.ke/daima-vanilla-milk-480ml-63,Quickmart
-2026-07-08,milk,Sawa Milking Jelly - 200Ml,KES 120.00,No discount,https://www.quickmart.co.ke/sawa-milking-jelly-200ml-67,Quickmart
-2026-07-08,milk,Brookide Disney Strawberry Flavoured Milk 200Ml,KES 60.00,No discount,https://www.quickmart.co.ke/brookide-disney-strawberry-flavoured-milk-200ml-29,Quickmart
-2026-07-08,milk,Dairyland Chocolart Real Milk 20G,KES 55.00,No discount,https://www.quickmart.co.ke/dairyland-chocolart-real-milk-20g-66,Quickmart
-2026-07-08,milk,Brookside Vanilla 250Ml Flavoured Milk,KES 69.00,No discount,https://www.quickmart.co.ke/brookside-vanilla-250ml-flavoured-milk-40,Quickmart
-2026-07-08,milk,Dairyland Dark Milk Chocolate 80Gm,KES 190.00,KES 240.00,https://www.quickmart.co.ke/dairyland-dark-milk-chocolate-80gm-21,Quickmart
-2026-07-08,milk,Dairyland Real Milk Chocolate 80Gm,KES 190.00,KES 240.00,https://www.quickmart.co.ke/dairyland-real-milk-chocolate-80gm-13,Quickmart
-2026-07-08,milk,Arimis Milking Jelly 90Ml,KES 70.00,No discount,https://www.quickmart.co.ke/arimis-milking-jelly-90ml-60,Quickmart
-2026-07-08,milk,Geisha Soap Coconut Milk & Honey 90G,KES 55.00,No discount,https://www.quickmart.co.ke/geisha-soap-coconut-milk-honey-90g-11,Quickmart
-2026-07-08,milk,Kenafric Lotta Milk Munch 80S,KES 107.00,No discount,https://www.quickmart.co.ke/kenafric-lotta-milk-munch-80s-51,Quickmart
-2026-07-08,milk,Lato Milk With Straw Tba 250Ml,KES 40.00,No discount,https://www.quickmart.co.ke/lato-milk-with-straw-tba-250ml-63,Quickmart
-2026-07-08,milk,Mount Kenya Milk Premium Fino 500Ml,KES 63.00,No discount,https://www.quickmart.co.ke/mount-kenya-milk-premium-fino-500ml-63,Quickmart
-2026-07-08,milk,Alo Lotion Goat Milk - 400Ml,KES 295.00,No discount,https://www.quickmart.co.ke/alo-lotion-goat-milk-400ml-10,Quickmart
-2026-07-08,milk,Amara Body Milk Lotion 400Ml,KES 256.00,KES 285.00,https://www.quickmart.co.ke/amara-body-milk-lotion-400ml-25,Quickmart
-2026-07-08,milk,Kcc Fino Whole Milk 500Ml Green Tfa,KES 59.00,No discount,https://www.quickmart.co.ke/kcc-fino-whole-milk-500ml-green-tfa-61,Quickmart
-2026-07-08,milk,Dairyland Real Milk Chocolate 40Gm,KES 120.00,No discount,https://www.quickmart.co.ke/dairyland-real-milk-chocolate-40gm-50,Quickmart
-2026-07-08,milk,Brookside Uht Whole Milk Tca 200Ml,KES 33.00,No discount,https://www.quickmart.co.ke/brookside-uht-whole-milk-tca-200ml-63,Quickmart
-2026-07-08,milk,Kcc Mala Smooth And Tasty Fermented Milk 500Ml,KES 85.00,No discount,https://www.quickmart.co.ke/kcc-mala-smooth-and-tasty-fermented-milk-500ml-63,Quickmart
-2026-07-08,milk,Daima Strawberry -6Pack Flavour Milk 250Ml,KES 390.00,KES 400.00,https://www.quickmart.co.ke/daima-strawberry-6pack-flavour-milk-250ml-66,Quickmart
-2026-07-08,milk,Daima Assorted - 6Pack Flavoured Milk 250Ml,KES 390.00,KES 400.00,https://www.quickmart.co.ke/daima-assorted-6pack-flavoured-milk-250ml-61,Quickmart
-2026-07-08,milk,Sawa Milking Jelly - 90Ml,KES 60.00,No discount,https://www.quickmart.co.ke/sawa-milking-jelly-90ml-67,Quickmart
-2026-07-08,milk,Brookside Uht Flavour Choco Milk 250Ml,KES 69.00,No discount,https://www.quickmart.co.ke/brookside-uht-flavour-choco-milk-250ml-63,Quickmart
-2026-07-08,milk,Kentaste Coconut Milk 400Ml,KES 297.00,No discount,https://www.quickmart.co.ke/kentaste-coconut-milk-400ml-19,Quickmart
-2026-07-08,milk,Brookside Uht Whole Milk 1L,KES 160.00,No discount,https://www.quickmart.co.ke/brookside-uht-whole-milk-1l-63,Quickmart
-2026-07-08,milk,Arimis Milking Jelly - 50Ml,KES 42.00,No discount,https://www.quickmart.co.ke/arimis-milking-jelly-50ml-39,Quickmart
-2026-07-08,milk,Kcc Mala Smooth And Tasty Plain Milk 1L,KES 165.00,No discount,https://www.quickmart.co.ke/kcc-mala-smooth-and-tasty-plain-milk-1l-63,Quickmart
-2026-07-08,milk,Quick Choice Esl Milk 500Ml Carton,KES 588.00,No discount,https://www.quickmart.co.ke/quick-choice-esl-milk-500ml-carton-23,Quickmart
-2026-07-08,milk,Daima Esl Long Life Milk 500Ml,KES 52.00,KES 59.00,https://www.quickmart.co.ke/daima-esl-long-life-milk-500ml-63,Quickmart
-2026-07-08,milk,Daima Chocolate-6Packflv Milk 250Ml,KES 390.00,KES 400.00,https://www.quickmart.co.ke/daima-chocolate-6packflv-milk-250ml-8,Quickmart
-2026-07-08,milk,Brookside Uht Flavour Coffee Milk 250Ml,KES 69.00,No discount,https://www.quickmart.co.ke/brookside-uht-flavour-coffee-milk-250ml-63,Quickmart
-2026-07-08,milk,Valon Body Milk Lotion - 400Ml,KES 260.00,No discount,https://www.quickmart.co.ke/valon-body-milk-lotion-400ml-16,Quickmart
-2026-07-08,milk,Bd Coffee / Milk Cup 1113 Coloured,KES 125.00,KES 165.00,https://www.quickmart.co.ke/bd-coffee-/-milk-cup-1113-coloured-23,Quickmart
-2026-07-08,milk,Bd Coffee/Milk Cup Sycup 1001,KES 125.00,KES 185.00,https://www.quickmart.co.ke/bd-coffee/milk-cup-sycup-1001-32,Quickmart
-2026-07-08,milk,Cadbury Ps Creme Milk Choco 48G,KES 179.00,No discount,https://www.quickmart.co.ke/cadbury-ps-creme-milk-choco-48g-39,Quickmart
-2026-07-08,milk,Nestle Kitkat 4 Finger Milk 41.5G,KES 140.00,No discount,https://www.quickmart.co.ke/nestle-kitkat-4-finger-milk-41.5g-62,Quickmart
-2026-07-08,milk,Hom Milk Star Bic 200G,KES 93.00,No discount,https://www.quickmart.co.ke/hom-milk-star-bic-200g-48,Quickmart
-2026-07-08,milk,Brookside Disney Vanilla Flavoured Milk 200Ml,KES 60.00,No discount,https://www.quickmart.co.ke/brookside-disney-vanilla-flavoured-milk-200ml-32,Quickmart
-2026-07-08,milk,Zoe Body Lotion Milk Dry Skin 400Ml,KES 265.00,No discount,https://www.quickmart.co.ke/zoe-body-lotion-milk-dry-skin-400ml-63,Quickmart
-2026-07-08,milk,Ballet Baby Milk Soap - 100G,KES 86.00,No discount,https://www.quickmart.co.ke/ballet-baby-milk-soap-100g-29,Quickmart
-2026-07-08,milk,Milk Star 40G,KES 20.00,No discount,https://www.quickmart.co.ke/milk-star-40g-66,Quickmart
-2026-07-08,milk,Nestle Nan Optipro Infant Formula Milk Powder 400G,"KES 1,960.00",No discount,https://www.quickmart.co.ke/nestle-nan-optipro-infant-formula-milk-powder-400g-63,Quickmart
-2026-07-08,milk,Tuzo Uht Whole Milk 1Ltr,KES 149.00,No discount,https://www.quickmart.co.ke/tuzo-uht-whole-milk-1ltr-33,Quickmart
-2026-07-08,milk,Treatos Milk 105G,KES 50.00,No discount,https://www.quickmart.co.ke/treatos-milk-105g-12,Quickmart
-2026-07-08,milk,Milk Star 72Pkts*4Pcsx16G,KES 430.00,No discount,https://www.quickmart.co.ke/milk-star-72pkts*4pcsx16g-26,Quickmart
-2026-07-08,milk,Nuziwa Oat Milk Orignal1L,KES 480.00,No discount,https://www.quickmart.co.ke/nuziwa-oat-milk-orignal1l-63,Quickmart
-2026-07-08,milk,Yego Milk Biscuit 60*5Pcs/65*4Pcs,KES 325.00,No discount,https://www.quickmart.co.ke/yego-milk-biscuit-60*5pcs/65*4pcs-12,Quickmart
-2026-07-08,milk,Bounty Milk Double 57G,KES 183.00,KES 215.00,https://www.quickmart.co.ke/bounty-milk-double-57g-28,Quickmart
-2026-07-08,milk,Aryuva Coconut Milk 400Ml,KES 305.00,No discount,https://www.quickmart.co.ke/aryuva-coconut-milk-400ml-30,Quickmart
-2026-07-08,milk,Nivea Nourishing Milk - 200Ml,KES 360.00,No discount,https://www.quickmart.co.ke/nivea-nourishing-milk-200ml-18,Quickmart
-2026-07-08,milk,Fresha Milk Esl Pouch 500Ml,KES 58.00,No discount,https://www.quickmart.co.ke/fresha-milk-esl-pouch-500ml-63,Quickmart
-2026-07-08,milk,Parle Milk Power Choco 360G,KES 185.00,No discount,https://www.quickmart.co.ke/parle-milk-power-choco-360g-62,Quickmart
-2026-07-08,milk,Flamingo Soap Coconut Milk & Honey - 200G,KES 95.00,No discount,https://www.quickmart.co.ke/flamingo-soap-coconut-milk-honey-200g-25,Quickmart
-2026-07-08,milk,Parle Milk Power Biscuit 382.5G,KES 176.00,No discount,https://www.quickmart.co.ke/parle-milk-power-biscuit-382.5g-12,Quickmart
-2026-07-08,milk,Brookside Lactose Free Milk 1L,KES 160.00,No discount,https://www.quickmart.co.ke/brookside-lactose-free-milk-1l-36,Quickmart
-2026-07-08,milk,Sawa Milking Jelly - 50Ml,KES 35.00,No discount,https://www.quickmart.co.ke/sawa-milking-jelly-50ml-61,Quickmart
-2026-07-08,milk,Manji Duos Milk Cream Filled Sandwich Biscuit 60G,KES 70.00,No discount,https://www.quickmart.co.ke/manji-duos-milk-cream-filled-sandwich-biscuit-60g-63,Quickmart
-2026-07-08,milk,Brookside Almond Unsweeted Milk 1000Ml,KES 455.00,No discount,https://www.quickmart.co.ke/brookside-almond-unsweeted-milk-1000ml-21,Quickmart
-2026-07-08,milk,Parle Milk Power 72.25G/64G,KES 30.00,No discount,https://www.quickmart.co.ke/parle-milk-power-72.25g/64g-43,Quickmart
-2026-07-08,milk,Parle Milk Power 750G/765G,KES 355.00,No discount,https://www.quickmart.co.ke/parle-milk-power-750g/765g-25,Quickmart
-2026-07-08,milk,Alo Lotion Goat Milk - 200Ml,KES 175.00,No discount,https://www.quickmart.co.ke/alo-lotion-goat-milk-200ml-29,Quickmart
-2026-07-08,milk,Fresha Zito Tfa Milk 500Ml,KES 58.00,No discount,https://www.quickmart.co.ke/fresha-zito-tfa-milk-500ml-18,Quickmart
-2026-07-08,milk,Zito Aseptic Life Milk 500Ml,KES 57.00,No discount,https://www.quickmart.co.ke/zito-aseptic-life-milk-500ml-67,Quickmart
-2026-07-08,milk,Nice & Lovely Milk Lotion - 600Ml,KES 470.00,No discount,https://www.quickmart.co.ke/nice-lovely-milk-lotion-600ml-27,Quickmart
-2026-07-08,milk,Alo Lotion Milk & Honey 400Ml,KES 295.00,No discount,https://www.quickmart.co.ke/alo-lotion-milk-honey-400ml-46,Quickmart
-2026-07-08,milk,Nuvita Energy Milk Soya 75Gms,KES 35.00,No discount,https://www.quickmart.co.ke/nuvita-energy-milk-soya-75gms-55,Quickmart
-2026-07-08,milk,Brit Gbk Milk 294G+50Prcnt Free,KES 179.00,KES 199.00,https://www.quickmart.co.ke/brit-gbk-milk-294g-50prcnt-free-46,Quickmart
-2026-07-08,milk,Nestle Kitkat Chunky Milk 40G,KES 175.00,No discount,https://www.quickmart.co.ke/nestle-kitkat-chunky-milk-40g-30,Quickmart
-2026-07-08,milk,Brookside Uht Low Fat Milk 1L,KES 160.00,No discount,https://www.quickmart.co.ke/brookside-uht-low-fat-milk-1l-63,Quickmart
-2026-07-08,milk,Brookside Uht Low Fat Milk 250Ml,KES 43.00,No discount,https://www.quickmart.co.ke/brookside-uht-low-fat-milk-250ml-63,Quickmart
-2026-07-08,milk,Kcc Goldcrown Uht Milk Tca 200Ml,KES 31.00,No discount,https://www.quickmart.co.ke/kcc-goldcrown-uht-milk-tca-200ml-63,Quickmart
-2026-07-08,milk,Ilara Mazila Maziwa Lala Milk 500Ml,KES 95.00,No discount,https://www.quickmart.co.ke/ilara-mazila-maziwa-lala-milk-500ml-63,Quickmart
-2026-07-08,sugar,Kabras Sugar White 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/kabras-sugar-white-1kg-52,Quickmart
-2026-07-08,sugar,Quick Choice Sugar 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/quick-choice-sugar-1kg-12,Quickmart
-2026-07-08,sugar,Mumias Sugar 2 Kg,KES 305.00,No discount,https://www.quickmart.co.ke/mumias-sugar-2-kg-47,Quickmart
-2026-07-08,sugar,Kabras Sugar White 2Kg,KES 305.00,No discount,https://www.quickmart.co.ke/kabras-sugar-white-2kg-9,Quickmart
-2026-07-08,sugar,Quick Choice Sugar 2Kg,KES 305.00,No discount,https://www.quickmart.co.ke/quick-choice-sugar-2kg-15,Quickmart
-2026-07-08,sugar,Nutrameal Natural Wholesome Cane Sugar 2Kg,KES 305.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-2kg-63,Quickmart
-2026-07-08,sugar,Mumias Sugar 1 Kg,KES 155.00,No discount,https://www.quickmart.co.ke/mumias-sugar-1-kg-4,Quickmart
-2026-07-08,sugar,Valley Sugar Brown 2Kg,KES 309.00,No discount,https://www.quickmart.co.ke/valley-sugar-brown-2kg-21,Quickmart
-2026-07-08,sugar,Clovers Extra Fine Icing Sugar 500G,KES 132.00,KES 142.00,https://www.quickmart.co.ke/clovers-extra-fine-icing-sugar-500g-63,Quickmart
-2026-07-08,sugar,Bass Sugar Dish Bead,KES 540.00,No discount,https://www.quickmart.co.ke/bass-sugar-dish-bead-26,Quickmart
-2026-07-08,sugar,Valley Sugar Brown 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/valley-sugar-brown-1kg-21,Quickmart
-2026-07-08,sugar,Wow Sugared Snacks Puffs 500G,KES 210.00,No discount,https://www.quickmart.co.ke/wow-sugared-snacks-puffs-500g-63,Quickmart
-2026-07-08,sugar,Kakira Light Brown Sugar 1Kg,KES 160.00,No discount,https://www.quickmart.co.ke/kakira-light-brown-sugar-1kg-63,Quickmart
-2026-07-08,sugar,Sugar Dish 107,KES 130.00,KES 210.00,https://www.quickmart.co.ke/sugar-dish-107-66,Quickmart
-2026-07-08,sugar,Butali Sugar 2Kg,KES 329.00,No discount,https://www.quickmart.co.ke/butali-sugar-2kg-10,Quickmart
-2026-07-08,sugar,Transmara Sugar 1Kg,KES 175.00,No discount,https://www.quickmart.co.ke/transmara-sugar-1kg-27,Quickmart
-2026-07-08,sugar,Bass Sugar Dish Bronze,KES 905.00,No discount,https://www.quickmart.co.ke/bass-sugar-dish-bronze-26,Quickmart
-2026-07-08,sugar,Wow Sugared Snacks 100G,KES 72.00,No discount,https://www.quickmart.co.ke/wow-sugared-snacks-100g-63,Quickmart
-2026-07-08,sugar,Kenafric Icing Sugar Box 500G,KES 145.00,No discount,https://www.quickmart.co.ke/kenafric-icing-sugar-box-500g-31,Quickmart
-2026-07-08,sugar,Bass Sugar Dish Clear Crystal,KES 755.00,No discount,https://www.quickmart.co.ke/bass-sugar-dish-clear-crystal-26,Quickmart
-2026-07-08,sugar,Multi Purpose Sugar/Spice Jar,KES 530.00,No discount,https://www.quickmart.co.ke/multi-purpose-sugar/spice-jar-18,Quickmart
-2026-07-08,sugar,Qsoko-Kabras Sugar White 1Kg Bale,"KES 3,295.00",No discount,https://www.quickmart.co.ke/qsoko-kabras-sugar-white-1kg-bale-45,Quickmart
-2026-07-08,sugar,Qsoko-Kabras Sugar White 2Kg Bale,"KES 3,295.00",No discount,https://www.quickmart.co.ke/qsoko-kabras-sugar-white-2kg-bale-51,Quickmart
-2026-07-08,sugar,Red Bull Energy Drink Sugar Free 250Ml,KES 235.00,No discount,https://www.quickmart.co.ke/red-bull-energy-drink-sugar-free-250ml-63,Quickmart
-2026-07-08,sugar,Alicafe No Sugar Tongkat 4-In-1 12G,KES 65.00,No discount,https://www.quickmart.co.ke/alicafe-no-sugar-tongkat-4-in-1-12g-28,Quickmart
-2026-07-08,sugar,Peptang Sugar Free Peanut Butter 800G,KES 645.00,No discount,https://www.quickmart.co.ke/peptang-sugar-free-peanut-butter-800g-66,Quickmart
-2026-07-08,sugar,Nuvita Shortcake Sugarfree 100Gm,KES 100.00,No discount,https://www.quickmart.co.ke/nuvita-shortcake-sugarfree-100gm-63,Quickmart
-2026-07-08,sugar,Sugarcane Per Pc,KES 65.00,No discount,https://www.quickmart.co.ke/sugarcane-per-pc-22,Quickmart
-2026-07-08,sugar,Orbit Spearmint Sugarfree Gum 14G,KES 70.00,No discount,https://www.quickmart.co.ke/orbit-spearmint-sugarfree-gum-14g-39,Quickmart
-2026-07-08,sugar,Mt.kenya Lala Sweetened 1 Litre,KES 178.00,No discount,https://www.quickmart.co.ke/mt.kenya-lala-sweetened-1-litre-22,Quickmart
-2026-07-08,sugar,Prestige Margarine 1Kg,KES 436.00,KES 495.00,https://www.quickmart.co.ke/prestige-margarine-1kg-12,Quickmart
-2026-07-08,sugar,Ugali & Beef Combo Per Pc,KES 159.00,No discount,https://www.quickmart.co.ke/ugali-beef-combo-per-pc-30,Quickmart
-2026-07-08,sugar,Winnie Ugali Afya 1Kg,KES 154.00,No discount,https://www.quickmart.co.ke/winnie-ugali-afya-1kg-31,Quickmart
-2026-07-08,sugar,Zesta White Vinegar 700Ml,KES 86.00,No discount,https://www.quickmart.co.ke/zesta-white-vinegar-700ml-12,Quickmart
-2026-07-08,sugar,Snow Garlic Pack 4Pack,KES 169.00,No discount,https://www.quickmart.co.ke/snow-garlic-pack-4pack-28,Quickmart
-2026-07-08,sugar,Eden The Finest Garden Soft Pack Tea 500G,KES 215.00,No discount,https://www.quickmart.co.ke/eden-the-finest-garden-soft-pack-tea-500g-63,Quickmart
-2026-07-08,sugar,Onja Margarine 1Kg,KES 500.00,No discount,https://www.quickmart.co.ke/onja-margarine-1kg-23,Quickmart
-2026-07-08,sugar,Prestige Original Margarine 500G,KES 242.00,KES 275.00,https://www.quickmart.co.ke/prestige-original-margarine-500g-63,Quickmart
-2026-07-08,sugar,Prestige Vanilla Margarine 250G,KES 141.00,KES 160.00,https://www.quickmart.co.ke/prestige-vanilla-margarine-250g-63,Quickmart
-2026-07-08,sugar,Prestige Vanilla Margarine 500G,KES 242.00,KES 275.00,https://www.quickmart.co.ke/prestige-vanilla-margarine-500g-63,Quickmart
-2026-07-08,sugar,Pkt Garden Pea 250G,KES 329.00,No discount,https://www.quickmart.co.ke/pkt-garden-pea-250g-24,Quickmart
-2026-07-08,sugar,Garnier Super Uv Serum B30Ml,"KES 1,250.00","KES 1,450.00",https://www.quickmart.co.ke/garnier-super-uv-serum-b30ml-63,Quickmart
-2026-07-08,sugar,Royco Garlic Ground Spice 50G,KES 130.00,No discount,https://www.quickmart.co.ke/royco-garlic-ground-spice-50g-52,Quickmart
-2026-07-08,sugar,Imported Garlic Per Kg,KES 699.00,No discount,https://www.quickmart.co.ke/imported-garlic-per-kg-57,Quickmart
-2026-07-08,sugar,Clovers White Vinegar 700Ml,KES 75.00,KES 85.00,https://www.quickmart.co.ke/clovers-white-vinegar-700ml-17,Quickmart
-2026-07-08,sugar,Goldband Margarine 250G,KES 122.00,No discount,https://www.quickmart.co.ke/goldband-margarine-250g-63,Quickmart
-2026-07-08,sugar,Local Garlic Per Kg,KES 689.00,No discount,https://www.quickmart.co.ke/local-garlic-per-kg-29,Quickmart
-2026-07-08,sugar,Jumbo Garlic Powder 50G Jar,KES 90.00,No discount,https://www.quickmart.co.ke/jumbo-garlic-powder-50g-jar-49,Quickmart
-2026-07-08,sugar,Tropical Heat Snacks Waves Salt & Vinegar Potato Crisps 30G,KES 45.00,No discount,https://www.quickmart.co.ke/tropical-heat-snacks-waves-salt-vinegar-potato-crisps-30g-63,Quickmart
-2026-07-08,sugar,Tropical Heat Garam Masala 45G,KES 135.00,No discount,https://www.quickmart.co.ke/tropical-heat-garam-masala-45g-63,Quickmart
-2026-07-08,sugar,Bake Rolz Salt Vinegar Snack 50G,KES 60.00,No discount,https://www.quickmart.co.ke/bake-rolz-salt-vinegar-snack-50g-63,Quickmart
-2026-07-08,sugar,Jumbo Garlic Powder 100G Jar,KES 170.00,No discount,https://www.quickmart.co.ke/jumbo-garlic-powder-100g-jar-33,Quickmart
-2026-07-08,sugar,Peptang Vinegar White 700Ml,KES 95.00,No discount,https://www.quickmart.co.ke/peptang-vinegar-white-700ml-14,Quickmart
-2026-07-08,sugar,Prestige Vanilla Margarine 1Kg,KES 436.00,KES 495.00,https://www.quickmart.co.ke/prestige-vanilla-margarine-1kg-63,Quickmart
-2026-07-08,sugar,Gold Band Band Margarine 500G,KES 223.00,No discount,https://www.quickmart.co.ke/gold-band-band-margarine-500g-63,Quickmart
-2026-07-08,sugar,Hungarian Choma Sausage Per Pc,KES 55.00,No discount,https://www.quickmart.co.ke/hungarian-choma-sausage-per-pc-10,Quickmart
-2026-07-08,sugar,Tropical Heat Garlic Powder 45G,KES 125.00,No discount,https://www.quickmart.co.ke/tropical-heat-garlic-powder-45g-63,Quickmart
-2026-07-08,sugar,Cereal Box Garlic Powder Per 100G,KES 146.50,No discount,https://www.quickmart.co.ke/cereal-box-garlic-powder-per-100g,Quickmart
-2026-07-08,sugar,Top Food Garam Masala 50Gm,KES 130.00,No discount,https://www.quickmart.co.ke/top-food-garam-masala-50gm-6,Quickmart
-2026-07-08,sugar,Aaa-Peeled Garlic 200G,KES 429.00,No discount,https://www.quickmart.co.ke/aaa-peeled-garlic-200g-45,Quickmart
-2026-07-08,sugar,Fresh Chapati Hungarian Roll P/Pc,KES 85.00,No discount,https://www.quickmart.co.ke/fresh-chapati-hungarian-roll-p/pc-20,Quickmart
-2026-07-08,sugar,Prestige Original Margarine 250G,KES 141.00,KES 160.00,https://www.quickmart.co.ke/prestige-original-margarine-250g-63,Quickmart
-2026-07-08,sugar,Onga Garlic Onion And Ginger Mchuzi Mix 200G,KES 150.00,No discount,https://www.quickmart.co.ke/onga-garlic-onion-and-ginger-mchuzi-mix-200g-63,Quickmart
-2026-07-08,sugar,Onja Margarine 500G,KES 255.00,No discount,https://www.quickmart.co.ke/onja-margarine-500g-50,Quickmart
-2026-07-08,sugar,Decent Garlic Press,KES 610.00,No discount,https://www.quickmart.co.ke/decent-garlic-press-30,Quickmart
-2026-07-08,sugar,Onja Margarine 250G,KES 150.00,No discount,https://www.quickmart.co.ke/onja-margarine-250g-16,Quickmart
-2026-07-08,sugar,Shelled Garden Peas Per Kg,KES 699.00,No discount,https://www.quickmart.co.ke/shelled-garden-peas-per-kg-23,Quickmart
-2026-07-08,sugar,Lyons Vinegar Substitute 700Ml,KES 80.75,KES 95.00,https://www.quickmart.co.ke/lyons-vinegar-substitute-700ml-25,Quickmart
-2026-07-08,sugar,Prestige Margarine 100G,KES 65.00,No discount,https://www.quickmart.co.ke/prestige-margarine-100g-53,Quickmart
-2026-07-08,sugar,Clovers White Vinegar 400Ml,KES 58.00,KES 68.00,https://www.quickmart.co.ke/clovers-white-vinegar-400ml-22,Quickmart
-2026-07-08,sugar,Garnier Roll-On Mineral Women Abs Dry - 50Ml,KES 365.00,No discount,https://www.quickmart.co.ke/garnier-roll-on-mineral-women-abs-dry-50ml-16,Quickmart
-2026-07-08,sugar,Gold Band Band Margarine 1Kg,KES 412.00,No discount,https://www.quickmart.co.ke/gold-band-band-margarine-1kg-63,Quickmart
-2026-07-08,sugar,Lays Salt & Vinegar Crisps 97G,KES 220.00,No discount,https://www.quickmart.co.ke/lays-salt-vinegar-crisps-97g-51,Quickmart
-2026-07-08,sugar,Tropical Heat Salt & Vinegar Potato Crisps Snacks 20G,KES 30.00,No discount,https://www.quickmart.co.ke/tropical-heat-salt-vinegar-potato-crisps-snacks-20g-65,Quickmart
-2026-07-08,sugar,Garnier Vitamin C Even & Bright Glow Jelly 50Ml,"KES 1,189.00","KES 1,450.00",https://www.quickmart.co.ke/garnier-vitamin-c-even-bright-glow-jelly-50ml-63,Quickmart
-2026-07-08,sugar,Garnier Skin Active Charcoal Serum 30Ml,"KES 1,550.00","KES 1,850.00",https://www.quickmart.co.ke/garnier-skin-active-charcoal-serum-30ml-63,Quickmart
-2026-07-08,sugar,Simba Mbili Garam Masala 100G,KES 255.00,No discount,https://www.quickmart.co.ke/simba-mbili-garam-masala-100g-63,Quickmart
-2026-07-08,sugar,Zesta White Vinegar 300Ml,KES 48.00,No discount,https://www.quickmart.co.ke/zesta-white-vinegar-300ml-48,Quickmart
-2026-07-08,sugar,Garnier Min Roll-On Men Abs Dry50Ml,KES 365.00,No discount,https://www.quickmart.co.ke/garnier-min-roll-on-men-abs-dry50ml-63,Quickmart
-2026-07-08,sugar,Natures Own Garam Masala 100G,KES 300.00,No discount,https://www.quickmart.co.ke/natures-own-garam-masala-100g-65,Quickmart
-2026-07-08,sugar,Tropical Heat Snacks Salt & Vinegar Potato Crisps 100G,KES 115.00,No discount,https://www.quickmart.co.ke/tropical-heat-snacks-salt-vinegar-potato-crisps-100g-63,Quickmart
-2026-07-08,sugar,Santa Maria Red Wine Vinegar 500M,KES 439.00,No discount,https://www.quickmart.co.ke/santa-maria-red-wine-vinegar-500m-31,Quickmart
-2026-07-08,sugar,Sai Kangaroo Staple Pin 24/6 5000S,KES 275.00,No discount,https://www.quickmart.co.ke/sai-kangaroo-staple-pin-24/6-5000s-28,Quickmart
-2026-07-08,sugar,Krackles Zingy Salt And Vinegar Potato Chips 30G,KES 50.00,No discount,https://www.quickmart.co.ke/krackles-zingy-salt-and-vinegar-potato-chips-30g-63,Quickmart
-2026-07-08,sugar,Garnier Mineral Even Roll On 50Ml,KES 365.00,No discount,https://www.quickmart.co.ke/garnier-mineral-even-roll-on-50ml-63,Quickmart
-2026-07-08,sugar,Royco Garlic Ground Spice 100G,KES 265.00,No discount,https://www.quickmart.co.ke/royco-garlic-ground-spice-100g-62,Quickmart
-2026-07-08,sugar,Blue Band Croma Margarine 10Kg,"KES 3,395.00",No discount,https://www.quickmart.co.ke/blue-band-croma-margarine-10kg-37,Quickmart
-2026-07-08,sugar,Brag Apple Cider Vinegar 946Ml,"KES 2,299.00",No discount,https://www.quickmart.co.ke/brag-apple-cider-vinegar-946ml-29,Quickmart
-2026-07-08,sugar,Kangaro Paper Punch Blue Dp540,KES 630.00,No discount,https://www.quickmart.co.ke/kangaro-paper-punch-blue-dp540-62,Quickmart
-2026-07-08,sugar,Yankee Garlic Powder 50Gms Sat,KES 112.00,No discount,https://www.quickmart.co.ke/yankee-garlic-powder-50gms-sat-14,Quickmart
-2026-07-08,bread,Budget Bread White(600Gm),KES 89.00,No discount,https://www.quickmart.co.ke/budget-bread-white(600gm)-40,Quickmart
-2026-07-08,bread,Festive Milk Bread 800Gms,KES 130.00,No discount,https://www.quickmart.co.ke/festive-milk-bread-800gms-62,Quickmart
-2026-07-08,bread,Budget Bread Brown(800Gm),KES 119.00,No discount,https://www.quickmart.co.ke/budget-bread-brown(800gm)-1,Quickmart
-2026-07-08,bread,Budget Bread White(800Gm),KES 119.00,No discount,https://www.quickmart.co.ke/budget-bread-white(800gm)-48,Quickmart
-2026-07-08,bread,Budget White Bread(1.5Kg),KES 205.00,No discount,https://www.quickmart.co.ke/budget-white-bread(1.5kg)-16,Quickmart
-2026-07-08,bread,Budget Bread Brown(600Gm),KES 89.00,No discount,https://www.quickmart.co.ke/budget-bread-brown(600gm)-60,Quickmart
-2026-07-08,bread,Festive Nature Gold W/Bread 600G,KES 100.00,No discount,https://www.quickmart.co.ke/festive-nature-gold-w/bread-600g-16,Quickmart
-2026-07-08,bread,Sweet Bread(400Gm),KES 65.00,No discount,https://www.quickmart.co.ke/sweet-bread(400gm)-42,Quickmart
-2026-07-08,bread,Blueband Low Fat Spread For Bread 500G,KES 180.00,KES 200.00,https://www.quickmart.co.ke/blueband-low-fat-spread-for-bread-500g-63,Quickmart
-2026-07-08,bread,Sweet Bread(600Gm),KES 95.00,No discount,https://www.quickmart.co.ke/sweet-bread(600gm)-35,Quickmart
-2026-07-08,bread,Fresh Banana Bread(800Gm),KES 140.00,No discount,https://www.quickmart.co.ke/fresh-banana-bread(800gm)-11,Quickmart
-2026-07-08,bread,Budget Bread White(200Gm),KES 30.00,No discount,https://www.quickmart.co.ke/budget-bread-white(200gm)-49,Quickmart
-2026-07-08,bread,Broadway Brown Sandwich Sliced Bread 600G,KES 98.00,No discount,https://www.quickmart.co.ke/broadway-brown-sandwich-sliced-bread-600g-50,Quickmart
-2026-07-08,bread,Budget Bread Brown(400Gm),KES 56.00,No discount,https://www.quickmart.co.ke/budget-bread-brown(400gm)-9,Quickmart
-2026-07-08,bread,Supa Loaf Butter Toast Bread 400G,KES 65.00,No discount,https://www.quickmart.co.ke/supa-loaf-butter-toast-bread-400g-63,Quickmart
-2026-07-08,bread,Supa Loaf Butter Toast Bread 800G,KES 130.00,No discount,https://www.quickmart.co.ke/supa-loaf-butter-toast-bread-800g-47,Quickmart
-2026-07-08,bread,Bread Crumbs 500G,KES 240.00,No discount,https://www.quickmart.co.ke/bread-crumbs-500g-53,Quickmart
-2026-07-08,bread,Broadways Brown Unsliced Bread 200G,KES 33.00,No discount,https://www.quickmart.co.ke/broadways-brown-unsliced-bread-200g-54,Quickmart
-2026-07-08,bread,Broadways Premium Sliced Bread 400G,KES 65.00,No discount,https://www.quickmart.co.ke/broadways-premium-sliced-bread-400g-67,Quickmart
-2026-07-08,bread,Budget Bread White(400Gm),KES 56.00,No discount,https://www.quickmart.co.ke/budget-bread-white(400gm)-45,Quickmart
-2026-07-08,bread,Broadways White Unsliced Bread 200G,KES 33.00,No discount,https://www.quickmart.co.ke/broadways-white-unsliced-bread-200g-47,Quickmart
-2026-07-08,bread,Supa Loaf Butter Toast Bread 600G,KES 100.00,No discount,https://www.quickmart.co.ke/supa-loaf-butter-toast-bread-600g-63,Quickmart
-2026-07-08,bread,Budget Brown Bread(1.5Kg),KES 205.00,No discount,https://www.quickmart.co.ke/budget-brown-bread(1.5kg)-14,Quickmart
-2026-07-08,bread,Kingsmil Milky White Bread 600G,KES 100.00,No discount,https://www.quickmart.co.ke/kingsmil-milky-white-bread-600g-63,Quickmart
-2026-07-08,bread,Kingsmil Sandwich White Bread 400G,KES 65.00,No discount,https://www.quickmart.co.ke/kingsmil-sandwich-white-bread-400g-24,Quickmart
-2026-07-08,bread,Bread Crumbs 250G,KES 126.00,No discount,https://www.quickmart.co.ke/bread-crumbs-250g-66,Quickmart
-2026-07-08,bread,Kingsmill Brown Whole Meal Sandwich Bread 800G,KES 130.00,No discount,https://www.quickmart.co.ke/kingsmill-brown-whole-meal-sandwich-bread-800g-63,Quickmart
-2026-07-08,bread,Broadways Brown Sliced Bread 400G,KES 65.00,No discount,https://www.quickmart.co.ke/broadways-brown-sliced-bread-400g-67,Quickmart
-2026-07-08,bread,Festive Nature Gold W/Bread 400G,KES 65.00,No discount,https://www.quickmart.co.ke/festive-nature-gold-w/bread-400g-19,Quickmart
-2026-07-08,bread,Broadways White Sandwich Sliced Bread 800G,KES 130.00,No discount,https://www.quickmart.co.ke/broadways-white-sandwich-sliced-bread-800g-58,Quickmart
-2026-07-08,bread,Supa Loaf Butter Toast Bread 1.5Kg,KES 240.00,No discount,https://www.quickmart.co.ke/supa-loaf-butter-toast-bread-1.5kg-63,Quickmart
-2026-07-08,bread,Sats Rich Bread 250Gms,KES 91.00,No discount,https://www.quickmart.co.ke/sats-rich-bread-250gms-16,Quickmart
-2026-07-08,bread,Festive Finest Super Seeded Bread 400G,KES 130.00,No discount,https://www.quickmart.co.ke/festive-finest-super-seeded-bread-400g-63,Quickmart
-2026-07-08,bread,Broadways White Sandwich Sliced Bread 600G,KES 98.00,No discount,https://www.quickmart.co.ke/broadways-white-sandwich-sliced-bread-600g-29,Quickmart
-2026-07-08,bread,Fresh Health Bread(600Gm),KES 120.00,No discount,https://www.quickmart.co.ke/fresh-health-bread(600gm)-53,Quickmart
-2026-07-08,bread,Supa Bread Crumbs-Regural 400G,KES 210.00,No discount,https://www.quickmart.co.ke/supa-bread-crumbs-regural-400g-16,Quickmart
-2026-07-08,bread,Fresh Budget Bread White(400G)G.o.g,KES 50.00,No discount,https://www.quickmart.co.ke/fresh-budget-bread-white(400g)g.o.g-48,Quickmart
-2026-07-08,bread,Festive Asili White Bread 400G Sliced,KES 65.00,No discount,https://www.quickmart.co.ke/festive-asili-white-bread-400g-sliced-21,Quickmart
-2026-07-08,bread,Mill Bakers Fresh Premium Bread White(800Gm),KES 125.00,No discount,https://www.quickmart.co.ke/mill-bakers-fresh-premium-bread-white(800gm)-1,Quickmart
-2026-07-08,bread,Mill Bakers Fresh Premium Bread Brown(400Gm),KES 65.00,No discount,https://www.quickmart.co.ke/mill-bakers-fresh-premium-bread-brown(400gm)-59,Quickmart
-2026-07-08,bread,Mill Bakers Fresh Premium Bread White(600Gm),KES 95.00,No discount,https://www.quickmart.co.ke/mill-bakers-fresh-premium-bread-white(600gm)-11,Quickmart
-2026-07-08,bread,Mill Bakers Fresh Premium Bread Brown(600Gm),KES 95.00,No discount,https://www.quickmart.co.ke/mill-bakers-fresh-premium-bread-brown(600gm)-56,Quickmart
-2026-07-08,bread,Mill Bakers Fresh Premium Bread White(400Gm),KES 65.00,No discount,https://www.quickmart.co.ke/mill-bakers-fresh-premium-bread-white(400gm)-10,Quickmart
-2026-07-08,bread,Joy Super Bakers Queen Cake 350G (12 Pieces),KES 155.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-queen-cake-350g-(12-pieces)-63,Quickmart
-2026-07-08,bread,Blue Band Low Fat Spread 1Kg,KES 330.00,KES 370.00,https://www.quickmart.co.ke/blue-band-low-fat-spread-1kg-63,Quickmart
-2026-07-08,bread,Joy Fruit Cake 500G,KES 165.00,No discount,https://www.quickmart.co.ke/joy-fruit-cake-500g-65,Quickmart
-2026-07-08,bread,Joy Sweet Heart Cake 150Gms,KES 58.00,No discount,https://www.quickmart.co.ke/joy-sweet-heart-cake-150gms-61,Quickmart
-2026-07-08,bread,Joy Super Mandazi 180Gms,KES 50.00,No discount,https://www.quickmart.co.ke/joy-super-mandazi-180gms-66,Quickmart
-2026-07-08,bread,Joy Bakers Family Cake 750G,KES 235.00,No discount,https://www.quickmart.co.ke/joy-bakers-family-cake-750g-63,Quickmart
-2026-07-08,bread,Joy Super Bakers Little Heart Maderia 300G,KES 109.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-little-heart-maderia-300g-63,Quickmart
-2026-07-08,bread,Festivita 600G White,KES 100.00,No discount,https://www.quickmart.co.ke/festivita-600g-white-24,Quickmart
-2026-07-08,bread,Joy Super Bakers Queen Cake 180G (6 Pieces),KES 71.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-queen-cake-180g-(6-pieces)-63,Quickmart
-2026-07-08,bread,Joy Super Bakers Mini Maderia 350G,KES 132.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-mini-maderia-350g-63,Quickmart
-2026-07-08,bread,Joy Super Bakers Muffins 400G (8 Pieces),KES 165.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-muffins-400g-(8-pieces)-63,Quickmart
-2026-07-08,bread,Festive Poundcake Vanilla 400G,KES 215.00,No discount,https://www.quickmart.co.ke/festive-poundcake-vanilla-400g-63,Quickmart
-2026-07-08,bread,Joy Super Bakers Small Maderia 250G,KES 88.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-small-maderia-250g-63,Quickmart
-2026-07-08,bread,Millbakers Queen Cupcakes 200G,KES 90.00,No discount,https://www.quickmart.co.ke/millbakers-queen-cupcakes-200g-63,Quickmart
-2026-07-08,bread,Festive Premium Sesame Seeds Sliced Burger Buns 300G,KES 145.00,No discount,https://www.quickmart.co.ke/festive-premium-sesame-seeds-sliced-burger-buns-300g-63,Quickmart
-2026-07-08,bread,Supa Loaf White Barrel 400G,KES 65.00,No discount,https://www.quickmart.co.ke/supa-loaf-white-barrel-400g-14,Quickmart
-2026-07-08,bread,Millbakers Queen Cupcakes 260G,KES 105.00,No discount,https://www.quickmart.co.ke/millbakers-queen-cupcakes-260g-63,Quickmart
-2026-07-08,bread,Joy Super Bakers Queen Cake 135G (4 Pieces),KES 57.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-queen-cake-135g-(4-pieces)-63,Quickmart
-2026-07-08,bread,Millbakers Rich Cake 290G,KES 105.00,No discount,https://www.quickmart.co.ke/millbakers-rich-cake-290g-63,Quickmart
-2026-07-08,bread,Festive Poundcake Chocolate 400G,KES 215.00,No discount,https://www.quickmart.co.ke/festive-poundcake-chocolate-400g-63,Quickmart
-2026-07-08,bread,Festive Poundcake Blueberry 400G,KES 215.00,No discount,https://www.quickmart.co.ke/festive-poundcake-blueberry-400g-63,Quickmart
-2026-07-08,bread,"Festive- Tortilla Wrap - 8""",KES 300.00,No discount,https://www.quickmart.co.ke/festive-tortilla-wrap-8-15,Quickmart
-2026-07-08,bread,Festive Cream Roll 70G With Caramel,KES 45.00,No discount,https://www.quickmart.co.ke/festive-cream-roll-70g-with-caramel-64,Quickmart
-2026-07-08,bread,Millbakers Fruit Cake 350G,KES 169.00,No discount,https://www.quickmart.co.ke/millbakers-fruit-cake-350g-63,Quickmart
-2026-07-08,bread,Festive Burger Buns W/Out Sesame 300G,KES 130.00,No discount,https://www.quickmart.co.ke/festive-burger-buns-w/out-sesame-300g-18,Quickmart
-2026-07-08,bread,Millbakers English Muffins 300G,KES 139.00,No discount,https://www.quickmart.co.ke/millbakers-english-muffins-300g-63,Quickmart
-2026-07-08,bread,Festive Ciambella Orange 280G,KES 180.00,No discount,https://www.quickmart.co.ke/festive-ciambella-orange-280g-46,Quickmart
-2026-07-08,bread,Supa Medium Scones 350Gms,KES 90.00,No discount,https://www.quickmart.co.ke/supa-medium-scones-350gms-18,Quickmart
-2026-07-08,bread,Festivita 800 White,KES 130.00,No discount,https://www.quickmart.co.ke/festivita-800-white-23,Quickmart
-2026-07-08,bread,Joy Super Bakers Plain Muffins 300G (6 Pieces),KES 138.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-plain-muffins-300g-(6-pieces)-63,Quickmart
-2026-07-08,bread,Joy Muffins 4Pack 200Gms,KES 89.00,No discount,https://www.quickmart.co.ke/joy-muffins-4pack-200gms-39,Quickmart
-2026-07-08,bread,Millbakers Chocolate Cupcakes 300G,KES 139.00,No discount,https://www.quickmart.co.ke/millbakers-chocolate-cupcakes-300g-63,Quickmart
-2026-07-08,bread,Fresh Mahamri 4Pack,KES 65.00,No discount,https://www.quickmart.co.ke/fresh-mahamri-4pack-51,Quickmart
-2026-07-08,bread,Festive Half Pound Cake Marble Sliced Chocolate & Mint,KES 120.00,No discount,https://www.quickmart.co.ke/festive-half-pound-cake-marble-sliced-chocolate-mint-19,Quickmart
-2026-07-08,bread,Millbakers Malting Moment Cookies 200G,KES 125.00,No discount,https://www.quickmart.co.ke/millbakers-malting-moment-cookies-200g-44,Quickmart
-2026-07-08,bread,Festive Ciambella Blueberry 280G,KES 180.00,No discount,https://www.quickmart.co.ke/festive-ciambella-blueberry-280g-5,Quickmart
-2026-07-08,bread,Kenblest Brown Sliced 400G,KES 60.00,No discount,https://www.quickmart.co.ke/kenblest-brown-sliced-400g-40,Quickmart
-2026-07-08,bread,Festive Ring Cake Strawberry 90G,KES 55.00,No discount,https://www.quickmart.co.ke/festive-ring-cake-strawberry-90g-63,Quickmart
-2026-07-08,bread,Festive Ring Cake Vanilla 90G,KES 55.00,No discount,https://www.quickmart.co.ke/festive-ring-cake-vanilla-90g-63,Quickmart
-2026-07-08,bread,Sweet Moments Ps Burger Bun6S W380G,KES 100.00,No discount,https://www.quickmart.co.ke/sweet-moments-ps-burger-bun6s-w380g-37,Quickmart
-2026-07-08,rice,Guru Premium Blended Pishori Rice 5Kg,KES 999.00,No discount,https://www.quickmart.co.ke/guru-premium-blended-pishori-rice-5kg-36,Quickmart
-2026-07-08,rice,Daawat Long Grain Rice 5Kg,KES 799.00,KES 855.00,https://www.quickmart.co.ke/daawat-long-grain-rice-5kg-20,Quickmart
-2026-07-08,rice,Cil Aromatic Pishori Rice 2Kg,KES 605.00,No discount,https://www.quickmart.co.ke/cil-aromatic-pishori-rice-2kg-10,Quickmart
-2026-07-08,rice,Quick Choice Long Grain Rice 2Kg,KES 355.00,No discount,https://www.quickmart.co.ke/quick-choice-long-grain-rice-2kg-95,Quickmart
-2026-07-08,rice,Sunrice Long Grain Rice 1Kg,KES 193.00,No discount,https://www.quickmart.co.ke/sunrice-long-grain-rice-1kg-32,Quickmart
-2026-07-08,rice,Cil Pishori Rice 5Kg,"KES 1,499.00",No discount,https://www.quickmart.co.ke/cil-pishori-rice-5kg-23,Quickmart
-2026-07-08,rice,Fresh Pilau Rice Per 400G,KES 319.60,No discount,https://www.quickmart.co.ke/fresh-pilau-rice-per-400g-46,Quickmart
-2026-07-08,rice,Ajab Rice 25 Kg,"KES 2,450.00",No discount,https://www.quickmart.co.ke/ajab-rice-25-kg-21,Quickmart
-2026-07-08,rice,Topdog Rice 10Kg,"KES 2,069.00","KES 2,225.00",https://www.quickmart.co.ke/topdog-rice-10kg-63,Quickmart
-2026-07-08,rice,Topdog Rice 2Kg,KES 423.00,KES 455.00,https://www.quickmart.co.ke/topdog-rice-2kg-63,Quickmart
-2026-07-08,rice,Pearl Rice Pishori Long 5Kg,"KES 1,600.00",No discount,https://www.quickmart.co.ke/pearl-rice-pishori-long-5kg-58,Quickmart
-2026-07-08,rice,Cil Blended Rice 1Kg,KES 185.00,No discount,https://www.quickmart.co.ke/cil-blended-rice-1kg-26,Quickmart
-2026-07-08,rice,Cil Blended Rice 2Kg,KES 365.00,No discount,https://www.quickmart.co.ke/cil-blended-rice-2kg-10,Quickmart
-2026-07-08,rice,Pearl Rice Pishori L/G 2Kg,KES 644.00,No discount,https://www.quickmart.co.ke/pearl-rice-pishori-l/g-2kg-13,Quickmart
-2026-07-08,rice,Baraka Pishori Rice 2Kg,KES 328.00,No discount,https://www.quickmart.co.ke/baraka-pishori-rice-2kg-39,Quickmart
-2026-07-08,rice,S&S Mwea Pishori Rice 1Kg,KES 302.00,No discount,https://www.quickmart.co.ke/s-s-mwea-pishori-rice-1kg-37,Quickmart
-2026-07-08,rice,Topdog Puppy Rice & Fish 2Kg,KES 809.00,KES 870.00,https://www.quickmart.co.ke/topdog-puppy-rice-fish-2kg-28,Quickmart
-2026-07-08,rice,Topdog Puppy Rice & Fish 5Kg,"KES 1,963.00","KES 2,110.00",https://www.quickmart.co.ke/topdog-puppy-rice-fish-5kg-27,Quickmart
-2026-07-08,rice,Daawat Aromatic Rice 2Kg,KES 594.00,No discount,https://www.quickmart.co.ke/daawat-aromatic-rice-2kg-19,Quickmart
-2026-07-08,rice,Kpl Long Grain Rice 5Kg,KES 721.00,KES 800.00,https://www.quickmart.co.ke/kpl-long-grain-rice-5kg-46,Quickmart
-2026-07-08,rice,Pearl Super Basmati Rice 2Kg,KES 786.00,No discount,https://www.quickmart.co.ke/pearl-super-basmati-rice-2kg-23,Quickmart
-2026-07-08,rice,Falcon Himalayan Basmati Rice 5Kg,"KES 1,376.00","KES 1,725.00",https://www.quickmart.co.ke/falcon-himalayan-basmati-rice-5kg-29,Quickmart
-2026-07-08,rice,Sunrice Basmati Rice 2Kg,KES 767.00,No discount,https://www.quickmart.co.ke/sunrice-basmati-rice-2kg-30,Quickmart
-2026-07-08,rice,Merry's Gold Pure Pishori Rice 5Kg,"KES 1,172.00",No discount,https://www.quickmart.co.ke/merry's-gold-pure-pishori-rice-5kg-24,Quickmart
-2026-07-08,rice,Pearl Super Basmati Rice 1Kg,KES 395.00,No discount,https://www.quickmart.co.ke/pearl-super-basmati-rice-1kg-24,Quickmart
-2026-07-08,rice,Fresh Chicken Chinese Rice Per 400G,KES 287.60,No discount,https://www.quickmart.co.ke/fresh-chicken-chinese-rice-per-400g-53,Quickmart
-2026-07-08,rice,Sunrice Biryani Rice 1Kg,KES 254.00,No discount,https://www.quickmart.co.ke/sunrice-biryani-rice-1kg-27,Quickmart
-2026-07-08,rice,Cil Brown Rice 1Kg,KES 349.00,No discount,https://www.quickmart.co.ke/cil-brown-rice-1kg-47,Quickmart
-2026-07-08,rice,Daawat Biryani Rice 1Kg,KES 279.00,No discount,https://www.quickmart.co.ke/daawat-biryani-rice-1kg-58,Quickmart
-2026-07-08,rice,Daawat Biryani Rice 5Kg,"KES 1,359.00",No discount,https://www.quickmart.co.ke/daawat-biryani-rice-5kg-25,Quickmart
-2026-07-08,rice,Daawat Biryani Rice 2Kg,KES 549.00,No discount,https://www.quickmart.co.ke/daawat-biryani-rice-2kg-21,Quickmart
-2026-07-08,rice,Topdog Rice 5Kg,"KES 1,112.00","KES 1,120.00",https://www.quickmart.co.ke/topdog-rice-5kg-63,Quickmart
-2026-07-08,rice,Morning Harvest Choco Rice Breakfast Cereal 250G,KES 349.00,No discount,https://www.quickmart.co.ke/morning-harvest-choco-rice-breakfast-cereal-250g-63,Quickmart
-2026-07-08,rice,Sunrice Long Grain Rice 2Kg,KES 386.00,No discount,https://www.quickmart.co.ke/sunrice-long-grain-rice-2kg-35,Quickmart
-2026-07-08,rice,Winnies Brown Rice 1Kg,KES 395.00,No discount,https://www.quickmart.co.ke/winnies-brown-rice-1kg-19,Quickmart
-2026-07-08,rice,Ranee Long Grain Rice 5Kg,KES 842.00,No discount,https://www.quickmart.co.ke/ranee-long-grain-rice-5kg-35,Quickmart
-2026-07-08,rice,Jamii Pishori Rice 2Kg,KES 515.00,No discount,https://www.quickmart.co.ke/jamii-pishori-rice-2kg-21,Quickmart
-2026-07-08,rice,Asanta Rice Blended 1Kg,KES 197.00,No discount,https://www.quickmart.co.ke/asanta-rice-blended-1kg-22,Quickmart
-2026-07-08,rice,Daawat Brown Rice 1Kg,KES 329.00,KES 360.00,https://www.quickmart.co.ke/daawat-brown-rice-1kg-24,Quickmart
-2026-07-08,rice,224 Aromatic Rice 5Kg,"KES 1,118.00",No discount,https://www.quickmart.co.ke/224-aromatic-rice-5kg-59,Quickmart
-2026-07-08,rice,Ranee Rice Long Grain 2Kg Everyday,KES 340.00,No discount,https://www.quickmart.co.ke/ranee-rice-long-grain-2kg-everyday-63,Quickmart
-2026-07-08,rice,Sunrice Biryani Rice 5Kg,"KES 1,254.00",No discount,https://www.quickmart.co.ke/sunrice-biryani-rice-5kg-35,Quickmart
-2026-07-08,rice,Sunrice Biryani Rice 2Kg,KES 508.00,No discount,https://www.quickmart.co.ke/sunrice-biryani-rice-2kg-26,Quickmart
-2026-07-08,rice,Scooby Dog Rice 2Kg,KES 460.00,No discount,https://www.quickmart.co.ke/scooby-dog-rice-2kg-28,Quickmart
-2026-07-08,rice,Kcl Mrpp Mwea Variety Rice 5Kg,"KES 1,047.00",No discount,https://www.quickmart.co.ke/kcl-mrpp-mwea-variety-rice-5kg-35,Quickmart
-2026-07-08,rice,S&S Mwea Pishori Rice 5Kg,"KES 1,474.00",No discount,https://www.quickmart.co.ke/s-s-mwea-pishori-rice-5kg-67,Quickmart
-2026-07-08,rice,Kcl Mrpp Mwea Variety Rice 2Kg,KES 434.00,No discount,https://www.quickmart.co.ke/kcl-mrpp-mwea-variety-rice-2kg-30,Quickmart
-2026-07-08,rice,Pearl Super Basmati Rice 5Kg,"KES 1,955.00",No discount,https://www.quickmart.co.ke/pearl-super-basmati-rice-5kg-29,Quickmart
-2026-07-08,rice,224 Long Grain Rice 1Kg,KES 162.00,No discount,https://www.quickmart.co.ke/224-long-grain-rice-1kg-38,Quickmart
-2026-07-08,rice,Fresh Cashewnut Rice Per 400G,KES 223.60,No discount,https://www.quickmart.co.ke/fresh-cashewnut-rice-per-400g-57,Quickmart
-2026-07-08,rice,Family Taste Basmati Rice 5Kg,"KES 1,179.00",No discount,https://www.quickmart.co.ke/family-taste-basmati-rice-5kg-30,Quickmart
-2026-07-08,rice,Fresh Vegetable Rice Per 400G,KES 219.60,No discount,https://www.quickmart.co.ke/fresh-vegetable-rice-per-400g-51,Quickmart
-2026-07-08,rice,Pearl Pishori Rice Long Grain 1Kg,KES 324.00,No discount,https://www.quickmart.co.ke/pearl-pishori-rice-long-grain-1kg-61,Quickmart
-2026-07-08,rice,Quick Choice White Basmatic Rice 2Kg,KES 478.00,No discount,https://www.quickmart.co.ke/quick-choice-white-basmatic-rice-2kg-30,Quickmart
-2026-07-08,rice,Quick Choice Long Grain Rice 1Kg,KES 170.00,No discount,https://www.quickmart.co.ke/quick-choice-long-grain-rice-1kg-24,Quickmart
-2026-07-08,rice,Bonnie Lamb And Rice Adult Cat Food 1.5Kg,"KES 1,840.00",No discount,https://www.quickmart.co.ke/bonnie-lamb-and-rice-adult-cat-food-1.5kg-63,Quickmart
-2026-07-08,rice,Rel-Nrc Long Grain Blended Rice 1Kg,KES 198.00,No discount,https://www.quickmart.co.ke/rel-nrc-long-grain-blended-rice-1kg-42,Quickmart
-2026-07-08,rice,Cereal Box Sindano Rice Per 500G,KES 115.00,No discount,https://www.quickmart.co.ke/cereal-box-sindano-rice-per-500g-1,Quickmart
-2026-07-08,rice,Stargift Nylon Rice Laddle S/Handle,KES 425.00,No discount,https://www.quickmart.co.ke/stargift-nylon-rice-laddle-s/handle-64,Quickmart
-2026-07-08,rice,Rel-Nrc Long Grain Blended Rice 5Kg,KES 948.00,No discount,https://www.quickmart.co.ke/rel-nrc-long-grain-blended-rice-5kg-22,Quickmart
-2026-07-08,rice,Morning Harvest Choco Rice Breakfast Cereal 450G,KES 579.00,No discount,https://www.quickmart.co.ke/morning-harvest-choco-rice-breakfast-cereal-450g-63,Quickmart
-2026-07-08,rice,Cereal Box Brown Rice Dmc Per 500G,KES 142.50,No discount,https://www.quickmart.co.ke/cereal-box-brown-rice-dmc-per-500g,Quickmart
-2026-07-08,rice,Cereal Box Mwea Pishori Rice Dmc Per 500G,KES 132.50,No discount,https://www.quickmart.co.ke/cereal-box-mwea-pishori-rice-dmc-per-500g-1,Quickmart
-2026-07-08,rice,Morning Harvest Cereal Cornflakes Value Pack 500G,KES 332.00,KES 415.00,https://www.quickmart.co.ke/morning-harvest-cereal-cornflakes-value-pack-500g-63,Quickmart
-2026-07-08,rice,Daawat Pulses Green Grams 500G,KES 117.00,No discount,https://www.quickmart.co.ke/daawat-pulses-green-grams-500g-63,Quickmart
-2026-07-08,rice,Daawat Lentils Kamande 1Kg,KES 349.00,KES 405.00,https://www.quickmart.co.ke/daawat-lentils-kamande-1kg-63,Quickmart
-2026-07-08,rice,Weetabix Wholegrain Cereals 210G,KES 205.00,No discount,https://www.quickmart.co.ke/weetabix-wholegrain-cereals-210g-63,Quickmart
-2026-07-08,rice,Nutrameal Imported Popcorn Kernels 1Kg,KES 350.00,No discount,https://www.quickmart.co.ke/nutrameal-imported-popcorn-kernels-1kg-63,Quickmart
-2026-07-08,rice,Morning Harvest Corn Flakes Cereal 250G,KES 207.00,KES 259.00,https://www.quickmart.co.ke/morning-harvest-corn-flakes-cereal-250g-63,Quickmart
-2026-07-08,rice,Nutrameal Green Lentils 1Kg,KES 398.00,KES 430.00,https://www.quickmart.co.ke/nutrameal-green-lentils-1kg-63,Quickmart
-2026-07-08,rice,Pearl Polished Green Grams 500G,KES 124.00,No discount,https://www.quickmart.co.ke/pearl-polished-green-grams-500g-63,Quickmart
-2026-07-08,rice,Butterfly Grains Polished Green Grams 1Kg,KES 253.00,KES 281.00,https://www.quickmart.co.ke/butterfly-grains-polished-green-grams-1kg-63,Quickmart
-2026-07-08,rice,Elbbin Shapies Choco Hoops 350G,KES 400.00,No discount,https://www.quickmart.co.ke/elbbin-shapies-choco-hoops-350g-63,Quickmart
-2026-07-08,rice,Elbbin Shapies Choco Hoops 500G,KES 510.00,No discount,https://www.quickmart.co.ke/elbbin-shapies-choco-hoops-500g-63,Quickmart
-2026-07-08,rice,Butterfly Grains Polished Green Grams 500G,KES 147.00,No discount,https://www.quickmart.co.ke/butterfly-grains-polished-green-grams-500g-63,Quickmart
-2026-07-08,rice,Daawat Imported Popcorn 1Kg,KES 263.00,KES 378.00,https://www.quickmart.co.ke/daawat-imported-popcorn-1kg-63,Quickmart
-2026-07-08,rice,Elbbin Shapies Honey Hoops 350G,KES 480.00,No discount,https://www.quickmart.co.ke/elbbin-shapies-honey-hoops-350g-63,Quickmart
-2026-07-08,rice,Yankee Dates-250Gms,KES 227.00,No discount,https://www.quickmart.co.ke/yankee-dates-250gms-29,Quickmart
-2026-07-08,rice,Butterfly Green Lentils 1Kg,KES 466.00,No discount,https://www.quickmart.co.ke/butterfly-green-lentils-1kg-63,Quickmart
-2026-07-08,rice,Shapies Chocolate Pillows 35G,KES 35.00,No discount,https://www.quickmart.co.ke/shapies-chocolate-pillows-35g-20,Quickmart
-2026-07-08,rice,Morning Harvest Jumbo Oats 500G Bag,KES 249.00,No discount,https://www.quickmart.co.ke/morning-harvest-jumbo-oats-500g-bag-57,Quickmart
-2026-07-08,rice,Daawat Long Grain 1Kg,KES 172.00,No discount,https://www.quickmart.co.ke/daawat-long-grain-1kg-64,Quickmart
-2026-07-08,rice,Naturalli Chia Seeds 100G,KES 179.00,No discount,https://www.quickmart.co.ke/naturalli-chia-seeds-100g-27,Quickmart
-2026-07-08,rice,Nutrameal Black Njahi Beans 1Kg,KES 255.00,KES 275.00,https://www.quickmart.co.ke/nutrameal-black-njahi-beans-1kg-63,Quickmart
-2026-07-08,rice,Weetabix Wholegrain Cereal 850G,KES 710.00,No discount,https://www.quickmart.co.ke/weetabix-wholegrain-cereal-850g-63,Quickmart
-2026-07-08,rice,Pearl Njahi Black Beans 1Kg,KES 290.00,No discount,https://www.quickmart.co.ke/pearl-njahi-black-beans-1kg-63,Quickmart
-2026-07-08,rice,Daawat Yellow Beans 1Kg,KES 249.00,KES 288.00,https://www.quickmart.co.ke/daawat-yellow-beans-1kg-62,Quickmart
-2026-07-08,rice,Butterfly Pulses Green Lentils 500G,KES 235.00,No discount,https://www.quickmart.co.ke/butterfly-pulses-green-lentils-500g-63,Quickmart
-2026-07-08,cooking oil,Rina Vegetable Cooking Oil 5L,"KES 1,399.00",No discount,https://www.quickmart.co.ke/rina-vegetable-cooking-oil-5l-63,Quickmart
-2026-07-08,cooking oil,Golden Fry Vegetable Cooking Oil 5L,"KES 1,616.00",No discount,https://www.quickmart.co.ke/golden-fry-vegetable-cooking-oil-5l-63,Quickmart
-2026-07-08,cooking oil,Top Fry Vegetable Cooking Oil 5L,"KES 1,279.00","KES 1,457.00",https://www.quickmart.co.ke/top-fry-vegetable-cooking-oil-5l-63,Quickmart
-2026-07-08,cooking oil,Top Fry Vegetable Cooking Oil 3L,KES 829.00,KES 889.00,https://www.quickmart.co.ke/top-fry-vegetable-cooking-oil-3l-63,Quickmart
-2026-07-08,cooking oil,Golden Fry Cooking Oil 2L,KES 690.00,No discount,https://www.quickmart.co.ke/golden-fry-cooking-oil-2l-7,Quickmart
-2026-07-08,cooking oil,Rina Vegetable Cooking Oil 3L,KES 976.00,No discount,https://www.quickmart.co.ke/rina-vegetable-cooking-oil-3l-63,Quickmart
-2026-07-08,cooking oil,Rina Vegetable Cooking Oil 1L,KES 315.00,KES 360.00,https://www.quickmart.co.ke/rina-vegetable-cooking-oil-1l-63,Quickmart
-2026-07-08,cooking oil,Top Fry Vegetable Cooking Oil 1L,KES 311.00,No discount,https://www.quickmart.co.ke/top-fry-vegetable-cooking-oil-1l-63,Quickmart
-2026-07-08,cooking oil,Top Fry Vegetable Cooking Oil 2L,KES 595.00,No discount,https://www.quickmart.co.ke/top-fry-vegetable-cooking-oil-2l-63,Quickmart
-2026-07-08,cooking oil,Golden Fry Vegetable Cooking Oil 1L,KES 358.00,No discount,https://www.quickmart.co.ke/golden-fry-vegetable-cooking-oil-1l-63,Quickmart
-2026-07-08,cooking oil,Golden Fry Vegetable Cooking Oil 3L,"KES 1,050.00",No discount,https://www.quickmart.co.ke/golden-fry-vegetable-cooking-oil-3l-63,Quickmart
-2026-07-08,cooking oil,Kasuku Pure White Cooking Fat 1Kg,KES 349.00,KES 430.00,https://www.quickmart.co.ke/kasuku-pure-white-cooking-fat-1kg-63,Quickmart
-2026-07-08,cooking oil,Kasuku Pure White Cooking Fat 500G,KES 176.00,KES 220.00,https://www.quickmart.co.ke/kasuku-pure-white-cooking-fat-500g-63,Quickmart
-2026-07-08,cooking oil,Cowboy Spesheli Cooking Fat 2Kg,KES 738.00,No discount,https://www.quickmart.co.ke/cowboy-spesheli-cooking-fat-2kg-63,Quickmart
-2026-07-08,cooking oil,Cowboy Spesheli Cooking Fat 1Kg,KES 377.00,No discount,https://www.quickmart.co.ke/cowboy-spesheli-cooking-fat-1kg-63,Quickmart
-2026-07-08,cooking oil,Fresh Fri Vegetable Oil 5L,"KES 1,600.00",No discount,https://www.quickmart.co.ke/fresh-fri-vegetable-oil-5l-63,Quickmart
-2026-07-08,cooking oil,Rina Vegetable Oil 2Ltrs,KES 629.00,No discount,https://www.quickmart.co.ke/rina-vegetable-oil-2ltrs-40,Quickmart
-2026-07-08,cooking oil,Pb Cooking Set 099/082,KES 545.00,KES 865.00,https://www.quickmart.co.ke/pb-cooking-set-099/082-21,Quickmart
-2026-07-08,cooking oil,Bidco Chipsy Pure Yellow Vegetable Cooking Fat 500G,KES 192.00,No discount,https://www.quickmart.co.ke/bidco-chipsy-pure-yellow-vegetable-cooking-fat-500g-63,Quickmart
-2026-07-08,cooking oil,Fresh Fri Vegetable Oil 1L,KES 350.00,No discount,https://www.quickmart.co.ke/fresh-fri-vegetable-oil-1l-63,Quickmart
-2026-07-08,cooking oil,Bidco Chipsy Pure Yellow Vegetable Cooking Fat 1Kg,KES 377.00,No discount,https://www.quickmart.co.ke/bidco-chipsy-pure-yellow-vegetable-cooking-fat-1kg-63,Quickmart
-2026-07-08,cooking oil,Oilyssa Extra Virgin Olive Oil 250Ml,KES 790.00,No discount,https://www.quickmart.co.ke/oilyssa-extra-virgin-olive-oil-250ml-63,Quickmart
-2026-07-08,cooking oil,Rinsun Sunflower Oil 5L,"KES 1,859.00","KES 2,065.00",https://www.quickmart.co.ke/rinsun-sunflower-oil-5l-63,Quickmart
-2026-07-08,cooking oil,Rinsun 100% Sunflower Oil 1L,KES 441.00,KES 490.00,https://www.quickmart.co.ke/rinsun-100-sunflower-oil-1l-63,Quickmart
-2026-07-08,cooking oil,Rinsun 100% Sunflower Oil 2L,KES 860.00,KES 955.00,https://www.quickmart.co.ke/rinsun-100-sunflower-oil-2l-63,Quickmart
-2026-07-08,cooking oil,Cooking Bananas Matoke Per Kg,KES 159.00,No discount,https://www.quickmart.co.ke/cooking-bananas-matoke-per-kg-23,Quickmart
-2026-07-08,cooking oil,Han Wooden Kitchen Cooking Set,KES 550.00,No discount,https://www.quickmart.co.ke/han-wooden-kitchen-cooking-set-24,Quickmart
-2026-07-08,cooking oil,Santa Maria Extra Virgin Olive Oil 250Ml,KES 825.00,KES 925.00,https://www.quickmart.co.ke/santa-maria-extra-virgin-olive-oil-250ml-63,Quickmart
-2026-07-08,cooking oil,Brookside Farm Fresh Cooking Cream Cup 230Ml,KES 205.00,No discount,https://www.quickmart.co.ke/brookside-farm-fresh-cooking-cream-cup-230ml-63,Quickmart
-2026-07-08,cooking oil,Avena Veg Oil 3L,"KES 1,075.00",No discount,https://www.quickmart.co.ke/avena-veg-oil-3l-24,Quickmart
-2026-07-08,cooking oil,Fresh Fri Vegetable Oil 3L,"KES 1,060.00",No discount,https://www.quickmart.co.ke/fresh-fri-vegetable-oil-3l-63,Quickmart
-2026-07-08,cooking oil,Han Silicon Kitchen Cooking Brush,KES 360.00,No discount,https://www.quickmart.co.ke/han-silicon-kitchen-cooking-brush-23,Quickmart
-2026-07-08,cooking oil,Han Wooden Cooking Mwiko Small Hardwo,KES 174.00,No discount,https://www.quickmart.co.ke/han-wooden-cooking-mwiko-small-hardwo-24,Quickmart
-2026-07-08,cooking oil,Elianto Corn Oil 3L,"KES 1,692.00",No discount,https://www.quickmart.co.ke/elianto-corn-oil-3l-26,Quickmart
-2026-07-08,cooking oil,Avena Veg Oil 2L,KES 690.00,No discount,https://www.quickmart.co.ke/avena-veg-oil-2l-27,Quickmart
-2026-07-08,cooking oil,Brookside Farm Fresh Cooking Cream Cup 400Ml,KES 345.00,No discount,https://www.quickmart.co.ke/brookside-farm-fresh-cooking-cream-cup-400ml-63,Quickmart
-2026-07-08,cooking oil,Elianto Corn Oil 2Lt,"KES 1,197.00",No discount,https://www.quickmart.co.ke/elianto-corn-oil-2lt-19,Quickmart
-2026-07-08,cooking oil,Sun Gold Seed Oil 1L,KES 425.00,No discount,https://www.quickmart.co.ke/sun-gold-seed-oil-1l-33,Quickmart
-2026-07-08,cooking oil,Rinsun 100% Sunflower Oil 750Ml,KES 375.00,No discount,https://www.quickmart.co.ke/rinsun-100-sunflower-oil-750ml-63,Quickmart
-2026-07-08,cooking oil,Rinsun 100% Sunflower Oil 500Ml,KES 245.00,No discount,https://www.quickmart.co.ke/rinsun-100-sunflower-oil-500ml-63,Quickmart
-2026-07-08,cooking oil,Sun Gold Seed Oil 3L,"KES 1,221.00",No discount,https://www.quickmart.co.ke/sun-gold-seed-oil-3l-37,Quickmart
-2026-07-08,cooking oil,Pure Mountain Pure Canola Oil 5L,"KES 2,191.00",No discount,https://www.quickmart.co.ke/pure-mountain-pure-canola-oil-5l-63,Quickmart
-2026-07-08,cooking oil,Kentaste Coconut Oil 400Ml,KES 704.00,No discount,https://www.quickmart.co.ke/kentaste-coconut-oil-400ml-55,Quickmart
-2026-07-08,cooking oil,Avena Veg Oil 5L,"KES 1,610.00",No discount,https://www.quickmart.co.ke/avena-veg-oil-5l-46,Quickmart
-2026-07-08,cooking oil,Rinsun Sunflower Oil 3L,"KES 1,247.00","KES 1,385.00",https://www.quickmart.co.ke/rinsun-sunflower-oil-3l-49,Quickmart
-2026-07-08,cooking oil,Cussons Baby Soft And Smooth Massage Oil 100Ml,KES 235.00,No discount,https://www.quickmart.co.ke/cussons-baby-soft-and-smooth-massage-oil-100ml-63,Quickmart
-2026-07-08,cooking oil,Ors Olive Oil Sheen Spray - 250Ml,KES 350.00,No discount,https://www.quickmart.co.ke/ors-olive-oil-sheen-spray-250ml-22,Quickmart
-2026-07-08,cooking oil,Nice And Lovely New Flawless Bio Body Oil 100Ml,KES 750.00,No discount,https://www.quickmart.co.ke/nice-and-lovely-new-flawless-bio-body-oil-100ml-63,Quickmart
-2026-07-08,cooking oil,Bass Oil Dispenser Small,KES 755.00,No discount,https://www.quickmart.co.ke/bass-oil-dispenser-small-26,Quickmart
-2026-07-08,cooking oil,Fresh Fri Oil 2L,KES 680.00,No discount,https://www.quickmart.co.ke/fresh-fri-oil-2l-40,Quickmart
-2026-07-08,cooking oil,Alo Lotion Shea Butter & Macadamia Oil - 200Ml,KES 175.00,No discount,https://www.quickmart.co.ke/alo-lotion-shea-butter-macadamia-oil-200ml-59,Quickmart
-2026-07-08,cooking oil,Elianto Corn Oil 5L,"KES 2,623.00",No discount,https://www.quickmart.co.ke/elianto-corn-oil-5l-26,Quickmart
-2026-07-08,cooking oil,Kentaste Coconut Oil 200Ml/250Ml,KES 419.00,No discount,https://www.quickmart.co.ke/kentaste-coconut-oil-200ml/250ml-23,Quickmart
-2026-07-08,cooking oil,Blue King Olive Oil Esse. B/W500Ml,KES 540.00,No discount,https://www.quickmart.co.ke/blue-king-olive-oil-esse.-b/w500ml-63,Quickmart
-2026-07-08,cooking oil,Flamingo Soap 90G X 3 Marula Oil,KES 155.00,No discount,https://www.quickmart.co.ke/flamingo-soap-90g-x-3-marula-oil-24,Quickmart
-2026-07-08,cooking oil,Fa Sg Cream&Oil Cocoa Butter 250Ml,KES 529.00,No discount,https://www.quickmart.co.ke/fa-sg-cream-oil-cocoa-butter-250ml-63,Quickmart
-2026-07-08,cooking oil,Ideal Olive Oil - 25Ml,KES 125.00,No discount,https://www.quickmart.co.ke/ideal-olive-oil-25ml-14,Quickmart
-2026-07-08,cooking oil,Ballet Baby Oil 125Ml,KES 173.00,No discount,https://www.quickmart.co.ke/ballet-baby-oil-125ml-12,Quickmart
-2026-07-08,cooking oil,Kimbo Premium Oil 2L,KES 790.00,No discount,https://www.quickmart.co.ke/kimbo-premium-oil-2l-28,Quickmart
-2026-07-08,cooking oil,Famrico Castor Oil - 65Ml,KES 190.00,No discount,https://www.quickmart.co.ke/famrico-castor-oil-65ml-28,Quickmart
-2026-07-08,cooking oil,Cussons Baby Mild And Gentle Massage Oil 50Ml,KES 150.00,No discount,https://www.quickmart.co.ke/cussons-baby-mild-and-gentle-massage-oil-50ml-63,Quickmart
-2026-07-08,cooking oil,Elianto Corn Oil 1L,KES 599.00,No discount,https://www.quickmart.co.ke/elianto-corn-oil-1l-24,Quickmart
-2026-07-08,cooking oil,Angelique Massage Oil Cool Mint - 300Ml,KES 350.00,No discount,https://www.quickmart.co.ke/angelique-massage-oil-cool-mint-300ml-16,Quickmart
-2026-07-08,cooking oil,Angelique Massage Oil Cool Mint - 500Ml,KES 526.00,No discount,https://www.quickmart.co.ke/angelique-massage-oil-cool-mint-500ml-16,Quickmart
-2026-07-08,cooking oil,Pika Veg Oil 20L,"KES 5,650.00",No discount,https://www.quickmart.co.ke/pika-veg-oil-20l-26,Quickmart
-2026-07-08,cooking oil,Avena Veg Oil 10L,"KES 2,935.00",No discount,https://www.quickmart.co.ke/avena-veg-oil-10l-26,Quickmart
-2026-07-08,cooking oil,Tcb Argan Oil - 236Ml,KES 410.00,No discount,https://www.quickmart.co.ke/tcb-argan-oil-236ml-26,Quickmart
-2026-07-08,cooking oil,Ideal Castor Oil - 25Ml,KES 91.00,No discount,https://www.quickmart.co.ke/ideal-castor-oil-25ml-16,Quickmart
-2026-07-08,cooking oil,Ideal Castor Oil - 200Ml,KES 430.00,No discount,https://www.quickmart.co.ke/ideal-castor-oil-200ml-64,Quickmart
-2026-07-08,cooking oil,Tcb Coconut Oil - 236Ml,KES 410.00,No discount,https://www.quickmart.co.ke/tcb-coconut-oil-236ml-28,Quickmart
-2026-07-08,cooking oil,Ballet Baby Oil 230Ml,KES 289.00,No discount,https://www.quickmart.co.ke/ballet-baby-oil-230ml-39,Quickmart
-2026-07-08,cooking oil,J&J Baby Oil 125Ml,KES 590.00,No discount,https://www.quickmart.co.ke/j-j-baby-oil-125ml-63,Quickmart
-2026-07-08,cooking oil,Ideal Castor Oil 100Ml,KES 260.00,No discount,https://www.quickmart.co.ke/ideal-castor-oil-100ml-63,Quickmart
-2026-07-08,cooking oil,Tania Coconut Oil - 120Ml,KES 175.00,No discount,https://www.quickmart.co.ke/tania-coconut-oil-120ml-31,Quickmart
-2026-07-08,cooking oil,Power Eagle 80 Penetrating Oil 120Ml,KES 170.00,No discount,https://www.quickmart.co.ke/power-eagle-80-penetrating-oil-120ml-2,Quickmart
-2026-07-08,cooking oil,Famrico Castor Oil 250Ml,KES 480.00,No discount,https://www.quickmart.co.ke/famrico-castor-oil-250ml-32,Quickmart
-2026-07-08,cooking oil,Kentaste Coconut Oil 60Ml,KES 104.00,No discount,https://www.quickmart.co.ke/kentaste-coconut-oil-60ml-50,Quickmart
-2026-07-08,cooking oil,Tania Eucalyptus Oil - 25Ml,KES 195.00,No discount,https://www.quickmart.co.ke/tania-eucalyptus-oil-25ml-11,Quickmart
-2026-07-08,cooking oil,Tropical Coconut Oil 250Ml,KES 320.00,No discount,https://www.quickmart.co.ke/tropical-coconut-oil-250ml-23,Quickmart
-2026-07-08,cooking oil,Angelique Oil Almond 300Ml,KES 350.00,No discount,https://www.quickmart.co.ke/angelique-oil-almond-300ml-61,Quickmart
-2026-07-08,cooking oil,Tropical Coconut Oil 150Ml,KES 200.00,No discount,https://www.quickmart.co.ke/tropical-coconut-oil-150ml-23,Quickmart
-2026-07-08,cooking oil,N&L Avocado Oil 40Ml,KES 120.00,No discount,https://www.quickmart.co.ke/n-l-avocado-oil-40ml-16,Quickmart
-2026-07-08,cooking oil,Luron Maws Baby Oil 125Ml,KES 185.00,No discount,https://www.quickmart.co.ke/luron-maws-baby-oil-125ml-63,Quickmart
-2026-07-08,cooking oil,Vaseline Daily Brightening Body Oil - 200Ml,"KES 1,595.00",No discount,https://www.quickmart.co.ke/vaseline-daily-brightening-body-oil-200ml-58,Quickmart
-2026-07-08,cooking oil,Tania Pure Castor Oil - 100Ml,KES 170.00,No discount,https://www.quickmart.co.ke/tania-pure-castor-oil-100ml-9,Quickmart
-2026-07-08,cooking oil,Bass Oil Dispenser Spray/Brush,KES 510.00,No discount,https://www.quickmart.co.ke/bass-oil-dispenser-spray/brush-15,Quickmart
-2026-07-08,cooking oil,Postman Vegetable Oil 10 Litres,"KES 2,700.00",No discount,https://www.quickmart.co.ke/postman-vegetable-oil-10-litres-26,Quickmart
-2026-07-08,cooking oil,Vitahealth Cod Liver Oil 200Ml,"KES 1,450.00",No discount,https://www.quickmart.co.ke/vitahealth-cod-liver-oil-200ml-18,Quickmart
-2026-07-08,cooking oil,Nice & Lovely Bio Body Oil - 50Ml,KES 450.00,No discount,https://www.quickmart.co.ke/nice-lovely-bio-body-oil-50ml-28,Quickmart
-2026-07-08,cooking oil,Famrico Liquid Paraffin Oil - 50Ml,KES 80.00,No discount,https://www.quickmart.co.ke/famrico-liquid-paraffin-oil-50ml-27,Quickmart
-2026-07-08,maize flour,Jogoo Maize Meal 2Kg,KES 168.00,No discount,https://www.quickmart.co.ke/jogoo-maize-meal-2kg-53,Quickmart
-2026-07-08,maize flour,Dola Maize Meal 2Kg,KES 164.00,No discount,https://www.quickmart.co.ke/dola-maize-meal-2kg-52,Quickmart
-2026-07-08,maize flour,Ajab Premium Fortified Sifted Maize Meal 2Kg,KES 162.00,KES 177.00,https://www.quickmart.co.ke/ajab-premium-fortified-sifted-maize-meal-2kg-43,Quickmart
-2026-07-08,maize flour,Joymax Maize Meal 5Kg,KES 345.00,No discount,https://www.quickmart.co.ke/joymax-maize-meal-5kg-28,Quickmart
-2026-07-08,maize flour,Raha Premium Maize Meal 2 Kg,KES 197.00,No discount,https://www.quickmart.co.ke/raha-premium-maize-meal-2-kg-11,Quickmart
-2026-07-08,maize flour,Mfalme 2Kg Sifted Maize Meal,KES 156.00,KES 161.00,https://www.quickmart.co.ke/mfalme-2kg-sifted-maize-meal-40,Quickmart
-2026-07-08,maize flour,Lea Premium Maize Meal 2Kg,KES 196.00,No discount,https://www.quickmart.co.ke/lea-premium-maize-meal-2kg-28,Quickmart
-2026-07-08,maize flour,Spenza Premium Maize Meal 2Kg,KES 194.00,KES 202.00,https://www.quickmart.co.ke/spenza-premium-maize-meal-2kg-57,Quickmart
-2026-07-08,maize flour,Raha Premium Maize Meal 5 Kg,KES 495.00,No discount,https://www.quickmart.co.ke/raha-premium-maize-meal-5-kg-24,Quickmart
-2026-07-08,maize flour,Joymax Maize Meal 2Kg,KES 140.00,No discount,https://www.quickmart.co.ke/joymax-maize-meal-2kg-35,Quickmart
-2026-07-08,maize flour,Ndovu Maize Meal 1Kg,KES 78.00,No discount,https://www.quickmart.co.ke/ndovu-maize-meal-1kg-12,Quickmart
-2026-07-08,maize flour,Pembe Maize Meal 10Kg,KES 830.00,No discount,https://www.quickmart.co.ke/pembe-maize-meal-10kg-29,Quickmart
-2026-07-08,maize flour,Oryx Premium Maize Meal 2Kg,KES 169.00,No discount,https://www.quickmart.co.ke/oryx-premium-maize-meal-2kg-40,Quickmart
-2026-07-08,maize flour,Lea Premium Maize Meal 1Kg,KES 99.00,No discount,https://www.quickmart.co.ke/lea-premium-maize-meal-1kg-28,Quickmart
-2026-07-08,maize flour,Spenza Premium Maize Meal 1Kg,KES 99.00,KES 103.00,https://www.quickmart.co.ke/spenza-premium-maize-meal-1kg-66,Quickmart
-2026-07-08,maize flour,Pembe Maize Flour 2Kg,KES 161.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-2kg-56,Quickmart
-2026-07-08,maize flour,Soko Maize Flour 2Kg,KES 165.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-2kg-45,Quickmart
-2026-07-08,maize flour,210 Sifted Maize Flour 2Kg,KES 151.00,KES 164.00,https://www.quickmart.co.ke/210-sifted-maize-flour-2kg-52,Quickmart
-2026-07-08,maize flour,Ndovu Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/ndovu-maize-flour-2kg-23,Quickmart
-2026-07-08,maize flour,Soko Maize Flour 5Kg,KES 418.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-5kg-59,Quickmart
-2026-07-08,maize flour,Pembe Maize Flour 5Kg,KES 415.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-5kg-66,Quickmart
-2026-07-08,maize flour,Soko Maize Flour 10Kg,KES 825.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-10kg-48,Quickmart
-2026-07-08,maize flour,Hostess Maize Flour 2Kg,KES 199.00,No discount,https://www.quickmart.co.ke/hostess-maize-flour-2kg-57,Quickmart
-2026-07-08,maize flour,Swan Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/swan-maize-flour-2kg-41,Quickmart
-2026-07-08,maize flour,Soko Maize Flour 1Kg,KES 84.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-1kg-12,Quickmart
-2026-07-08,maize flour,Shelled Maize Per Kg,KES 329.00,No discount,https://www.quickmart.co.ke/shelled-maize-per-kg-23,Quickmart
-2026-07-08,maize flour,Mama Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/mama-maize-flour-2kg-32,Quickmart
-2026-07-08,maize flour,Jogoo Maize Flour 5Kg,KES 436.00,No discount,https://www.quickmart.co.ke/jogoo-maize-flour-5kg-26,Quickmart
-2026-07-08,maize flour,Green Maize Corn Per Pc,KES 50.00,No discount,https://www.quickmart.co.ke/green-maize-corn-per-pc-88,Quickmart
-2026-07-08,maize flour,Pembe Maize Flour 1Kg,KES 88.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-1kg-60,Quickmart
-2026-07-08,maize flour,Jogoo Maize Flour 10Kg,KES 860.00,No discount,https://www.quickmart.co.ke/jogoo-maize-flour-10kg-30,Quickmart
-2026-07-08,maize flour,Soko Afya Whole Grain Maize 2Kg,KES 203.00,No discount,https://www.quickmart.co.ke/soko-afya-whole-grain-maize-2kg-26,Quickmart
-2026-07-08,maize flour,Kingsmill Brown Whole Meal Sandwich Bread 800G,KES 130.00,No discount,https://www.quickmart.co.ke/kingsmill-brown-whole-meal-sandwich-bread-800g-63,Quickmart
-2026-07-08,maize flour,Supa Meal Soya M/Roast 250G Tangawizi,KES 145.00,No discount,https://www.quickmart.co.ke/supa-meal-soya-m/roast-250g-tangawizi-19,Quickmart
-2026-07-08,maize flour,Amaize Flour 2Kg,KES 202.00,No discount,https://www.quickmart.co.ke/amaize-flour-2kg-46,Quickmart
-2026-07-08,maize flour,Nutrameal Natural Wholesome Cane Sugar 2Kg,KES 305.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-2kg-63,Quickmart
-2026-07-08,maize flour,Regular Minced Meat Per 500G,KES 499.50,No discount,https://www.quickmart.co.ke/regular-minced-meat-per-500g-41,Quickmart
-2026-07-08,maize flour,Meat On Bone Per 500G,KES 449.50,No discount,https://www.quickmart.co.ke/meat-on-bone-per-500g-96,Quickmart
-2026-07-08,maize flour,Nutrameal Nyayo Beans 1Kg,KES 269.00,KES 290.00,https://www.quickmart.co.ke/nutrameal-nyayo-beans-1kg-24,Quickmart
-2026-07-08,maize flour,Nutrameal Green Lentils 1Kg,KES 398.00,KES 430.00,https://www.quickmart.co.ke/nutrameal-green-lentils-1kg-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Enigma White Mini Ice Cream 80Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-white-mini-ice-cream-80ml-63,Quickmart
-2026-07-08,maize flour,Minute Maid Apple Juice 1L,KES 160.00,No discount,https://www.quickmart.co.ke/minute-maid-apple-juice-1l-63,Quickmart
-2026-07-08,maize flour,Choice Meats Meaty Beef Sausage 500G,KES 328.00,No discount,https://www.quickmart.co.ke/choice-meats-meaty-beef-sausage-500g-63,Quickmart
-2026-07-08,maize flour,Nutrameal Black Njahi Beans 1Kg,KES 255.00,KES 275.00,https://www.quickmart.co.ke/nutrameal-black-njahi-beans-1kg-63,Quickmart
-2026-07-08,maize flour,Choice Meats Beef Sausage 1Kg,KES 605.00,No discount,https://www.quickmart.co.ke/choice-meats-beef-sausage-1kg-63,Quickmart
-2026-07-08,maize flour,Minute Maid Delight Tropical1Lbtl,KES 160.00,No discount,https://www.quickmart.co.ke/minute-maid-delight-tropical1lbtl-48,Quickmart
-2026-07-08,maize flour,Lyons Maid Enigma Dark Mini Ice Cream 80Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-dark-mini-ice-cream-80ml-63,Quickmart
-2026-07-08,maize flour,Minute Maid Mango Juice 1L,KES 160.00,No discount,https://www.quickmart.co.ke/minute-maid-mango-juice-1l-63,Quickmart
-2026-07-08,maize flour,Nutrameal Imported Popcorn Kernels 1Kg,KES 350.00,No discount,https://www.quickmart.co.ke/nutrameal-imported-popcorn-kernels-1kg-63,Quickmart
-2026-07-08,maize flour,Nutrameal Chana Dal 1Kg,KES 330.00,No discount,https://www.quickmart.co.ke/nutrameal-chana-dal-1kg-28,Quickmart
-2026-07-08,maize flour,Cereos Oatmeal Cereals 375G.,KES 297.00,No discount,https://www.quickmart.co.ke/cereos-oatmeal-cereals-375g.-35,Quickmart
-2026-07-08,maize flour,Lyons Maid Enigma Salted Caramel Ice Cream 80Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-salted-caramel-ice-cream-80ml-63,Quickmart
-2026-07-08,maize flour,Minute Maid Delight/Pulpy 4Pk 1L,KES 599.00,No discount,https://www.quickmart.co.ke/minute-maid-delight/pulpy-4pk-1l-28,Quickmart
-2026-07-08,maize flour,Lyons Maid Real Orange Lolly Ice Cream 55Ml,KES 41.00,No discount,https://www.quickmart.co.ke/lyons-maid-real-orange-lolly-ice-cream-55ml-63,Quickmart
-2026-07-08,maize flour,Goat Meat Per 500G,KES 549.50,No discount,https://www.quickmart.co.ke/goat-meat-per-500g-51,Quickmart
-2026-07-08,maize flour,Lyons Maid Enigma Classic Ice Cream 110Ml,KES 100.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-classic-ice-cream-110ml-62,Quickmart
-2026-07-08,maize flour,Lyons Maid Enigma Salted Caraml Ice Cream 110Ml,KES 100.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-salted-caraml-ice-cream-110ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Enigma Classic Mini Ice Cream 80Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-classic-mini-ice-cream-80ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Enigma Death By Chocolate 80Ml,KES 75.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-death-by-chocolate-80ml-25,Quickmart
-2026-07-08,maize flour,Minute Maid Apple Pulpy Juice 400Ml,KES 85.00,No discount,https://www.quickmart.co.ke/minute-maid-apple-pulpy-juice-400ml-63,Quickmart
-2026-07-08,maize flour,Minute Maid Delight Tropical 400M,KES 85.00,No discount,https://www.quickmart.co.ke/minute-maid-delight-tropical-400m-53,Quickmart
-2026-07-08,maize flour,Lyons Maid Chocochips 500Ml,KES 295.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocochips-500ml-46,Quickmart
-2026-07-08,maize flour,Minute Maid Pulpy Orange 400Ml,KES 85.00,No discount,https://www.quickmart.co.ke/minute-maid-pulpy-orange-400ml-56,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Lemon & Lime 55Ml,KES 41.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-lemon-lime-55ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Vanilla 250Ml,KES 110.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla-250ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Vanilla Pack 1L,KES 620.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla-pack-1l-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Chocolate Ripple 500Ml,KES 295.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocolate-ripple-500ml-34,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Devil Lolly 55Ml,KES 41.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-devil-lolly-55ml-63,Quickmart
-2026-07-08,maize flour,Minute Maid Mango Pulpy Juice 400Ml,KES 85.00,No discount,https://www.quickmart.co.ke/minute-maid-mango-pulpy-juice-400ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Choconut Special 500Ml,KES 295.00,No discount,https://www.quickmart.co.ke/lyons-maid-choconut-special-500ml-26,Quickmart
-2026-07-08,maize flour,Lyons Maid Strawberry Ripple 500Ml,KES 295.00,No discount,https://www.quickmart.co.ke/lyons-maid-strawberry-ripple-500ml-27,Quickmart
-2026-07-08,maize flour,Lyons Maid Vanilla Cup Ice Cream 130 Ml,KES 62.00,No discount,https://www.quickmart.co.ke/lyons-maid-vanilla-cup-ice-cream-130-ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Enigma Cookie Delight 80Ml,KES 75.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-cookie-delight-80ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Toto Vanilla Cup Ice Cream 80Ml,KES 40.00,No discount,https://www.quickmart.co.ke/lyons-maid-toto-vanilla-cup-ice-cream-80ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Strawberry Pack 1L,KES 620.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-strawberry-pack-1l-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Enigma Almond Mini Ice Cream 80Ml,KES 75.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-almond-mini-ice-cream-80ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Strawberry Cup 130Ml,KES 62.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-strawberry-cup-130ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Chocolate & Banana 60Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-chocolate-banana-60ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Vanilla Chocolate 250Ml,KES 110.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla-chocolate-250ml-25,Quickmart
-2026-07-08,maize flour,Lyons Maid Chocomania Chocolate Spread 250G,KES 360.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocomania-chocolate-spread-250g-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Vanilla Strawberry 250Ml,KES 110.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla-strawberry-250ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Chocomania Chocolate Spread 500G,KES 595.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocomania-chocolate-spread-500g-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Toffee & Chocolate With Nuts 60Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-toffee-chocolate-with-nuts-60ml-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Vanilla/Strawberry Pack 1L,KES 620.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla/strawberry-pack-1l-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Chocotella Hazelnut & Cocoa Spread 500G,KES 750.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocotella-hazelnut-cocoa-spread-500g-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Chocotella Hazelnut & Cocoa Spread 250G,KES 410.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocotella-hazelnut-cocoa-spread-250g-63,Quickmart
-2026-07-08,maize flour,Lyons Maid Ice Cream Vanilla Strawberry Cup130Ml,KES 62.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla-strawberry-cup130ml-63,Quickmart
-2026-07-08,wheat flour,Lotus Home Baking Flour 2Kg,KES 149.00,KES 160.00,https://www.quickmart.co.ke/lotus-home-baking-flour-2kg-49,Quickmart
-2026-07-08,wheat flour,Ajab Home Baking Flour 2Kg,KES 172.00,No discount,https://www.quickmart.co.ke/ajab-home-baking-flour-2kg-41,Quickmart
-2026-07-08,wheat flour,Pembe Home Baking Flour 2Kg,KES 183.00,No discount,https://www.quickmart.co.ke/pembe-home-baking-flour-2kg-40,Quickmart
-2026-07-08,wheat flour,Ajab Home Baking Flour 1Kg,KES 90.00,No discount,https://www.quickmart.co.ke/ajab-home-baking-flour-1kg-50,Quickmart
-2026-07-08,wheat flour,210 Home Baking Flour 2Kg,KES 164.00,No discount,https://www.quickmart.co.ke/210-home-baking-flour-2kg-58,Quickmart
-2026-07-08,wheat flour,Pembe Home Baking Flour 1Kg,KES 97.00,No discount,https://www.quickmart.co.ke/pembe-home-baking-flour-1kg-39,Quickmart
-2026-07-08,wheat flour,Ndovu Home Baking Flour 1Kg,KES 86.00,No discount,https://www.quickmart.co.ke/ndovu-home-baking-flour-1kg-31,Quickmart
-2026-07-08,wheat flour,Elliots Home Baking Flour 2Kg,KES 175.00,No discount,https://www.quickmart.co.ke/elliots-home-baking-flour-2kg-67,Quickmart
-2026-07-08,wheat flour,Pembe Maize Flour 2Kg,KES 161.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-2kg-56,Quickmart
-2026-07-08,wheat flour,Soko Maize Flour 2Kg,KES 165.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-2kg-45,Quickmart
-2026-07-08,wheat flour,Amaize Flour 2Kg,KES 202.00,No discount,https://www.quickmart.co.ke/amaize-flour-2kg-46,Quickmart
-2026-07-08,wheat flour,Exe All Purpose Flour 2Kg,KES 174.00,No discount,https://www.quickmart.co.ke/exe-all-purpose-flour-2kg-22,Quickmart
-2026-07-08,wheat flour,Chapa Mandashi Baking 100G,KES 35.00,No discount,https://www.quickmart.co.ke/chapa-mandashi-baking-100g-54,Quickmart
-2026-07-08,wheat flour,Clovers Baking Powder 90G,KES 27.00,No discount,https://www.quickmart.co.ke/clovers-baking-powder-90g-63,Quickmart
-2026-07-08,wheat flour,Exe Self Raising Flour 2Kg,KES 191.00,No discount,https://www.quickmart.co.ke/exe-self-raising-flour-2kg-54,Quickmart
-2026-07-08,wheat flour,Clovers Baking Powder 90Gms,KES 27.00,No discount,https://www.quickmart.co.ke/clovers-baking-powder-90gms-16,Quickmart
-2026-07-08,wheat flour,Exe All Purpose Flour 1Kg,KES 89.00,No discount,https://www.quickmart.co.ke/exe-all-purpose-flour-1kg-41,Quickmart
-2026-07-08,wheat flour,Soko Maize Flour 5Kg,KES 418.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-5kg-59,Quickmart
-2026-07-08,wheat flour,Pembe Maize Flour 5Kg,KES 415.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-5kg-66,Quickmart
-2026-07-08,wheat flour,Soko Maize Flour 10Kg,KES 825.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-10kg-48,Quickmart
-2026-07-08,wheat flour,Hostess Maize Flour 2Kg,KES 199.00,No discount,https://www.quickmart.co.ke/hostess-maize-flour-2kg-57,Quickmart
-2026-07-08,wheat flour,Fay Baking Paper 38Cmx10M,KES 350.00,No discount,https://www.quickmart.co.ke/fay-baking-paper-38cmx10m-63,Quickmart
-2026-07-08,wheat flour,Pendo 2Kg Wheat Flour,KES 149.00,KES 161.00,https://www.quickmart.co.ke/pendo-2kg-wheat-flour-40,Quickmart
-2026-07-08,wheat flour,Soko Maize Flour 1Kg,KES 84.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-1kg-12,Quickmart
-2026-07-08,wheat flour,Jogoo Maize Meal 2Kg,KES 168.00,No discount,https://www.quickmart.co.ke/jogoo-maize-meal-2kg-53,Quickmart
-2026-07-08,wheat flour,Soko Afya Wimbi/Cassava Flour 1Kg,KES 128.00,No discount,https://www.quickmart.co.ke/soko-afya-wimbi/cassava-flour-1kg-26,Quickmart
-2026-07-08,wheat flour,Dola All Purpose Flour 2Kg,KES 168.00,No discount,https://www.quickmart.co.ke/dola-all-purpose-flour-2kg-58,Quickmart
-2026-07-08,wheat flour,210 Sifted Maize Flour 2Kg,KES 151.00,KES 164.00,https://www.quickmart.co.ke/210-sifted-maize-flour-2kg-52,Quickmart
-2026-07-08,wheat flour,Kabras Sugar White 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/kabras-sugar-white-1kg-52,Quickmart
-2026-07-08,wheat flour,Zesta Corn Flour 250G,KES 85.00,No discount,https://www.quickmart.co.ke/zesta-corn-flour-250g-39,Quickmart
-2026-07-08,wheat flour,Kensalt Premium Iodated Table Salt 1Kg,KES 47.00,No discount,https://www.quickmart.co.ke/kensalt-premium-iodated-table-salt-1kg-63,Quickmart
-2026-07-08,wheat flour,Exe Chapati Flour 1Kg,KES 89.00,No discount,https://www.quickmart.co.ke/exe-chapati-flour-1kg-22,Quickmart
-2026-07-08,wheat flour,Grainmill Oat Flour 500G,KES 285.00,No discount,https://www.quickmart.co.ke/grainmill-oat-flour-500g-27,Quickmart
-2026-07-08,wheat flour,Jogoo Maize Flour 5Kg,KES 436.00,No discount,https://www.quickmart.co.ke/jogoo-maize-flour-5kg-26,Quickmart
-2026-07-08,wheat flour,Grainmill Oat Flour 1Kg,KES 499.00,No discount,https://www.quickmart.co.ke/grainmill-oat-flour-1kg-27,Quickmart
-2026-07-08,wheat flour,Pembe Maize Flour 1Kg,KES 88.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-1kg-60,Quickmart
-2026-07-08,wheat flour,Jogoo Maize Flour 10Kg,KES 860.00,No discount,https://www.quickmart.co.ke/jogoo-maize-flour-10kg-30,Quickmart
-2026-07-08,wheat flour,Pembe Mandazi Flour 2Kg,KES 183.00,No discount,https://www.quickmart.co.ke/pembe-mandazi-flour-2kg-66,Quickmart
-2026-07-08,wheat flour,High Quality Cassava Flour 1Kg,KES 355.00,No discount,https://www.quickmart.co.ke/high-quality-cassava-flour-1kg-60,Quickmart
-2026-07-08,wheat flour,Nutrameal Natural Wholesome Cane Sugar 2Kg,KES 305.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-2kg-63,Quickmart
-2026-07-08,wheat flour,Dola Maize Meal 2Kg,KES 164.00,No discount,https://www.quickmart.co.ke/dola-maize-meal-2kg-52,Quickmart
-2026-07-08,wheat flour,Ajab Fortified Self Raising Flour 2Kg,KES 174.00,No discount,https://www.quickmart.co.ke/ajab-fortified-self-raising-flour-2kg-50,Quickmart
-2026-07-08,wheat flour,Clovers Cornflour 400G,KES 87.00,KES 97.00,https://www.quickmart.co.ke/clovers-cornflour-400g-27,Quickmart
-2026-07-08,wheat flour,Kensalt Premium Iodated Table Salt 500G,KES 25.00,No discount,https://www.quickmart.co.ke/kensalt-premium-iodated-table-salt-500g-63,Quickmart
-2026-07-08,wheat flour,Ndovu Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/ndovu-maize-flour-2kg-23,Quickmart
-2026-07-08,wheat flour,Kensalt Premium Iodated Edible Table Salt 2Kg,KES 95.00,No discount,https://www.quickmart.co.ke/kensalt-premium-iodated-edible-table-salt-2kg-63,Quickmart
-2026-07-08,wheat flour,Mumias Sugar 2 Kg,KES 305.00,No discount,https://www.quickmart.co.ke/mumias-sugar-2-kg-47,Quickmart
-2026-07-08,wheat flour,Joymax Maize Meal 5Kg,KES 345.00,No discount,https://www.quickmart.co.ke/joymax-maize-meal-5kg-28,Quickmart
-2026-07-08,wheat flour,Soko Homebaking Flour 2Kg,KES 171.00,No discount,https://www.quickmart.co.ke/soko-homebaking-flour-2kg-60,Quickmart
-2026-07-08,wheat flour,Ajab Fortified Atta Mark1 Flour 2Kg,KES 174.00,No discount,https://www.quickmart.co.ke/ajab-fortified-atta-mark1-flour-2kg-57,Quickmart
-2026-07-08,wheat flour,Famila Uji Mix 500G,KES 82.00,No discount,https://www.quickmart.co.ke/famila-uji-mix-500g-60,Quickmart
-2026-07-08,wheat flour,Soko Homebaking Flour 1Kg,KES 88.00,No discount,https://www.quickmart.co.ke/soko-homebaking-flour-1kg-53,Quickmart
-2026-07-08,wheat flour,Famila Ujimix Sour 1Kg,KES 165.00,No discount,https://www.quickmart.co.ke/famila-ujimix-sour-1kg-53,Quickmart
-2026-07-08,wheat flour,Exe Chapati Flour 2Kg,KES 176.00,No discount,https://www.quickmart.co.ke/exe-chapati-flour-2kg-58,Quickmart
-2026-07-08,wheat flour,Winnie Toto Afya 1Kg,KES 333.00,No discount,https://www.quickmart.co.ke/winnie-toto-afya-1kg-28,Quickmart
-2026-07-08,wheat flour,Famila Baby Weaning 500G,KES 86.00,No discount,https://www.quickmart.co.ke/famila-baby-weaning-500g-39,Quickmart
-2026-07-08,wheat flour,Famila Pure Wimbi Porridge 1Kg,KES 183.00,No discount,https://www.quickmart.co.ke/famila-pure-wimbi-porridge-1kg-52,Quickmart
-2026-07-08,wheat flour,Soko Uji Sour Wimbi Mix 1Kg,KES 157.00,No discount,https://www.quickmart.co.ke/soko-uji-sour-wimbi-mix-1kg-16,Quickmart
-2026-07-08,wheat flour,Lea Premium Maize Meal 2Kg,KES 196.00,No discount,https://www.quickmart.co.ke/lea-premium-maize-meal-2kg-28,Quickmart
-2026-07-08,wheat flour,Raha Premium Maize Meal 5 Kg,KES 495.00,No discount,https://www.quickmart.co.ke/raha-premium-maize-meal-5-kg-24,Quickmart
-2026-07-08,wheat flour,Phulka Atta Mark 1 Chapati Flour 2Kg,KES 165.00,No discount,https://www.quickmart.co.ke/phulka-atta-mark-1-chapati-flour-2kg-66,Quickmart
-2026-07-08,wheat flour,Pembe Self Raising 2Kg,KES 183.00,No discount,https://www.quickmart.co.ke/pembe-self-raising-2kg-27,Quickmart
-2026-07-08,wheat flour,Kamili's Top Chef Table Salt 500G,KES 65.00,No discount,https://www.quickmart.co.ke/kamili's-top-chef-table-salt-500g-63,Quickmart
-2026-07-08,wheat flour,Joymax Maize Meal 2Kg,KES 140.00,No discount,https://www.quickmart.co.ke/joymax-maize-meal-2kg-35,Quickmart
-2026-07-08,wheat flour,Pembe Atta Mark 1 2Kg,KES 183.00,No discount,https://www.quickmart.co.ke/pembe-atta-mark-1-2kg-58,Quickmart
-2026-07-08,wheat flour,Exe Mandazi Flour 2Kg,KES 191.00,No discount,https://www.quickmart.co.ke/exe-mandazi-flour-2kg-54,Quickmart
-2026-07-08,wheat flour,Elliots Mandazi 1Kg,KES 95.00,No discount,https://www.quickmart.co.ke/elliots-mandazi-1kg-63,Quickmart
-2026-07-08,wheat flour,Winnie Pure Wimbi Afya 1Kg,KES 214.00,No discount,https://www.quickmart.co.ke/winnie-pure-wimbi-afya-1kg-61,Quickmart
-2026-07-08,wheat flour,Blue Band Instant Porridge 500G,KES 80.00,KES 160.00,https://www.quickmart.co.ke/blue-band-instant-porridge-500g-9,Quickmart
-2026-07-08,wheat flour,Naturalli Himalayan Pink Fine Salt 150Gms,KES 99.00,No discount,https://www.quickmart.co.ke/naturalli-himalayan-pink-fine-salt-150gms-63,Quickmart
-2026-07-08,wheat flour,Ajab Fortified Mandazi Flour 2Kg,KES 174.00,No discount,https://www.quickmart.co.ke/ajab-fortified-mandazi-flour-2kg-8,Quickmart
-2026-07-08,wheat flour,Famila Pure Wimbi Porridge 500G,KES 93.00,No discount,https://www.quickmart.co.ke/famila-pure-wimbi-porridge-500g-58,Quickmart
-2026-07-08,wheat flour,Famila Nutri Health Uji 1 Kg,KES 172.00,No discount,https://www.quickmart.co.ke/famila-nutri-health-uji-1-kg-61,Quickmart
-2026-07-08,wheat flour,Swan Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/swan-maize-flour-2kg-41,Quickmart
-2026-07-08,wheat flour,Winnie Ugali Afya 1Kg,KES 154.00,No discount,https://www.quickmart.co.ke/winnie-ugali-afya-1kg-31,Quickmart
-2026-07-08,wheat flour,Soko Pure Wimbi Uji 1Kg,KES 172.00,No discount,https://www.quickmart.co.ke/soko-pure-wimbi-uji-1kg-39,Quickmart
-2026-07-08,wheat flour,Winnie Uji Afya 1Kg,KES 179.00,No discount,https://www.quickmart.co.ke/winnie-uji-afya-1kg-25,Quickmart
-2026-07-08,wheat flour,Jogoo Wimbi 2Kg,KES 276.00,No discount,https://www.quickmart.co.ke/jogoo-wimbi-2kg-47,Quickmart
-2026-07-08,wheat flour,Pembe Maize Meal 10Kg,KES 830.00,No discount,https://www.quickmart.co.ke/pembe-maize-meal-10kg-29,Quickmart
-2026-07-08,wheat flour,Kamili's Top Chef Table Salt 1Kg,KES 126.00,No discount,https://www.quickmart.co.ke/kamili's-top-chef-table-salt-1kg-63,Quickmart
-2026-07-08,wheat flour,Oryx Premium Maize Meal 2Kg,KES 169.00,No discount,https://www.quickmart.co.ke/oryx-premium-maize-meal-2kg-40,Quickmart
-2026-07-08,wheat flour,Pembe Pure Wimbi Porrdge 1Kg,KES 179.00,No discount,https://www.quickmart.co.ke/pembe-pure-wimbi-porrdge-1kg-61,Quickmart
-2026-07-08,wheat flour,Winnie Atta Mark 1 2Kg,KES 277.00,No discount,https://www.quickmart.co.ke/winnie-atta-mark-1-2kg-12,Quickmart
-2026-07-08,wheat flour,Pendo 2Kg Wheat Flour-Bale,"KES 1,932.00",No discount,https://www.quickmart.co.ke/pendo-2kg-wheat-flour-bale-26,Quickmart
-2026-07-08,wheat flour,Soko Afya Whole Grain Maize 2Kg,KES 203.00,No discount,https://www.quickmart.co.ke/soko-afya-whole-grain-maize-2kg-26,Quickmart
-2026-07-08,wheat flour,Mama Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/mama-maize-flour-2kg-32,Quickmart
-2026-07-08,wheat flour,Cereal Box Peanut Flour Per 500G,KES 632.50,No discount,https://www.quickmart.co.ke/cereal-box-peanut-flour-per-500g,Quickmart
-2026-07-08,wheat flour,Cereal Box Finger Millet Flour 500G,KES 130.00,No discount,https://www.quickmart.co.ke/cereal-box-finger-millet-flour-500g,Quickmart
-2026-07-08,wheat flour,Cereal Box Cassava Flour Per 500G,KES 102.50,No discount,https://www.quickmart.co.ke/cereal-box-cassava-flour-per-500g,Quickmart
-2026-07-08,wheat flour,Grainmill Oat Flour 250G,KES 165.00,No discount,https://www.quickmart.co.ke/grainmill-oat-flour-250g-22,Quickmart
+2026-07-09,milk,Quick Choice Esl Milk 500Ml,KES 47.00,KES 50.00,https://www.quickmart.co.ke/quick-choice-esl-milk-500ml-63,Quickmart
+2026-07-09,milk,Tuzo Uht Fino Whole Milk 500Ml,KES 55.00,KES 61.00,https://www.quickmart.co.ke/tuzo-uht-fino-whole-milk-500ml-63,Quickmart
+2026-07-09,milk,Tuzo Esl Milk 450Ml,KES 49.00,KES 54.00,https://www.quickmart.co.ke/tuzo-esl-milk-450ml-58,Quickmart
+2026-07-09,milk,Molo Uht Milk Pouch 500Ml,KES 51.00,KES 57.00,https://www.quickmart.co.ke/molo-uht-milk-pouch-500ml-63,Quickmart
+2026-07-09,milk,Daima Fino Bora Milk Pouch 500Ml,KES 49.00,KES 60.00,https://www.quickmart.co.ke/daima-fino-bora-milk-pouch-500ml-63,Quickmart
+2026-07-09,milk,Kcc Goldcrown Fresh Milk Tfa 500Ml,KES 56.00,No discount,https://www.quickmart.co.ke/kcc-goldcrown-fresh-milk-tfa-500ml-63,Quickmart
+2026-07-09,milk,Fresha Fresh Whole Milk 500Ml,KES 58.00,No discount,https://www.quickmart.co.ke/fresha-fresh-whole-milk-500ml-63,Quickmart
+2026-07-09,milk,Lato Milk Esl Pouch 500Ml,KES 50.00,KES 59.00,https://www.quickmart.co.ke/lato-milk-esl-pouch-500ml-63,Quickmart
+2026-07-09,milk,Brookside Uht Whole Milk 250Ml,KES 43.00,No discount,https://www.quickmart.co.ke/brookside-uht-whole-milk-250ml-66,Quickmart
+2026-07-09,milk,Daima Fino Bora Milk 200Ml,KES 24.00,KES 30.00,https://www.quickmart.co.ke/daima-fino-bora-milk-200ml-63,Quickmart
+2026-07-09,milk,Fresha Zito Long Life Milk 250Ml,KES 30.00,No discount,https://www.quickmart.co.ke/fresha-zito-long-life-milk-250ml-40,Quickmart
+2026-07-09,milk,Kinangop Fresh Pouch Milk 500Ml -Fresh Milk,KES 53.00,No discount,https://www.quickmart.co.ke/kinangop-fresh-pouch-milk-500ml-fresh-milk-63,Quickmart
+2026-07-09,milk,Tuzo Uht Whole Milk 250Ml,KES 41.00,No discount,https://www.quickmart.co.ke/tuzo-uht-whole-milk-250ml-45,Quickmart
+2026-07-09,milk,Mount Kenya Uht Milk Esl 500Ml,KES 60.00,No discount,https://www.quickmart.co.ke/mount-kenya-uht-milk-esl-500ml-63,Quickmart
+2026-07-09,milk,Geisha Coconut Milk & Honey Soap 200G,KES 110.00,No discount,https://www.quickmart.co.ke/geisha-coconut-milk-honey-soap-200g-62,Quickmart
+2026-07-09,milk,Ilara Fresh Full Cream Whole Milk 1L,KES 119.00,No discount,https://www.quickmart.co.ke/ilara-fresh-full-cream-whole-milk-1l-63,Quickmart
+2026-07-09,milk,Arimis Milking Jelly - 200G,KES 139.00,No discount,https://www.quickmart.co.ke/arimis-milking-jelly-200g-50,Quickmart
+2026-07-09,milk,Brookside Lactose Free Milk Fino 500Ml - Long Life,KES 77.00,No discount,https://www.quickmart.co.ke/brookside-lactose-free-milk-fino-500ml-long-life-63,Quickmart
+2026-07-09,milk,Daima Vanilla Milk 480Ml,KES 92.00,KES 100.00,https://www.quickmart.co.ke/daima-vanilla-milk-480ml-63,Quickmart
+2026-07-09,milk,Mill Bakers Daz Milk Flavour 200Gms,KES 52.00,No discount,https://www.quickmart.co.ke/mill-bakers-daz-milk-flavour-200gms-49,Quickmart
+2026-07-09,milk,Sawa Milking Jelly - 200Ml,KES 120.00,No discount,https://www.quickmart.co.ke/sawa-milking-jelly-200ml-67,Quickmart
+2026-07-09,milk,Brookide Disney Strawberry Flavoured Milk 200Ml,KES 60.00,No discount,https://www.quickmart.co.ke/brookide-disney-strawberry-flavoured-milk-200ml-29,Quickmart
+2026-07-09,milk,Dairyland Chocolart Real Milk 20G,KES 55.00,No discount,https://www.quickmart.co.ke/dairyland-chocolart-real-milk-20g-66,Quickmart
+2026-07-09,milk,Brookside Vanilla 250Ml Flavoured Milk,KES 69.00,No discount,https://www.quickmart.co.ke/brookside-vanilla-250ml-flavoured-milk-40,Quickmart
+2026-07-09,milk,Dairyland Dark Milk Chocolate 80Gm,KES 240.00,No discount,https://www.quickmart.co.ke/dairyland-dark-milk-chocolate-80gm-21,Quickmart
+2026-07-09,milk,Dairyland Real Milk Chocolate 80Gm,KES 240.00,No discount,https://www.quickmart.co.ke/dairyland-real-milk-chocolate-80gm-13,Quickmart
+2026-07-09,milk,Arimis Milking Jelly 90Ml,KES 70.00,No discount,https://www.quickmart.co.ke/arimis-milking-jelly-90ml-60,Quickmart
+2026-07-09,milk,Kcc Gold Crown Fresh Milk Pouch 500Ml,KES 58.00,No discount,https://www.quickmart.co.ke/kcc-gold-crown-fresh-milk-pouch-500ml-63,Quickmart
+2026-07-09,milk,Geisha Soap Coconut Milk & Honey 90G,KES 55.00,No discount,https://www.quickmart.co.ke/geisha-soap-coconut-milk-honey-90g-11,Quickmart
+2026-07-09,milk,Kenafric Lotta Milk Munch 80S,KES 107.00,No discount,https://www.quickmart.co.ke/kenafric-lotta-milk-munch-80s-51,Quickmart
+2026-07-09,milk,Mount Kenya Milk Premium Fino 500Ml,KES 63.00,No discount,https://www.quickmart.co.ke/mount-kenya-milk-premium-fino-500ml-63,Quickmart
+2026-07-09,milk,Lato Milk With Straw Tba 250Ml,KES 40.00,No discount,https://www.quickmart.co.ke/lato-milk-with-straw-tba-250ml-63,Quickmart
+2026-07-09,milk,Alo Lotion Goat Milk - 400Ml,KES 295.00,No discount,https://www.quickmart.co.ke/alo-lotion-goat-milk-400ml-10,Quickmart
+2026-07-09,milk,Amara Body Milk Lotion 400Ml,KES 256.00,KES 285.00,https://www.quickmart.co.ke/amara-body-milk-lotion-400ml-25,Quickmart
+2026-07-09,milk,Kcc Fino Whole Milk 500Ml Green Tfa,KES 59.00,No discount,https://www.quickmart.co.ke/kcc-fino-whole-milk-500ml-green-tfa-61,Quickmart
+2026-07-09,milk,Brookside Uht Whole Milk Tca 200Ml,KES 33.00,No discount,https://www.quickmart.co.ke/brookside-uht-whole-milk-tca-200ml-63,Quickmart
+2026-07-09,milk,Dairyland Real Milk Chocolate 40Gm,KES 120.00,No discount,https://www.quickmart.co.ke/dairyland-real-milk-chocolate-40gm-50,Quickmart
+2026-07-09,milk,Kcc Mala Smooth And Tasty Fermented Milk 500Ml,KES 85.00,No discount,https://www.quickmart.co.ke/kcc-mala-smooth-and-tasty-fermented-milk-500ml-63,Quickmart
+2026-07-09,milk,Daima Strawberry -6Pack Flavour Milk 250Ml,KES 390.00,KES 400.00,https://www.quickmart.co.ke/daima-strawberry-6pack-flavour-milk-250ml-66,Quickmart
+2026-07-09,milk,Daima Assorted - 6Pack Flavoured Milk 250Ml,KES 390.00,KES 400.00,https://www.quickmart.co.ke/daima-assorted-6pack-flavoured-milk-250ml-61,Quickmart
+2026-07-09,milk,Brookside Uht Flavour Choco Milk 250Ml,KES 69.00,No discount,https://www.quickmart.co.ke/brookside-uht-flavour-choco-milk-250ml-63,Quickmart
+2026-07-09,milk,Sawa Milking Jelly - 90Ml,KES 60.00,No discount,https://www.quickmart.co.ke/sawa-milking-jelly-90ml-67,Quickmart
+2026-07-09,milk,Kentaste Coconut Milk 400Ml,KES 297.00,No discount,https://www.quickmart.co.ke/kentaste-coconut-milk-400ml-19,Quickmart
+2026-07-09,milk,Brookside Uht Whole Milk 1L,KES 160.00,No discount,https://www.quickmart.co.ke/brookside-uht-whole-milk-1l-63,Quickmart
+2026-07-09,milk,Kcc Mala Smooth And Tasty Plain Milk 1L,KES 165.00,No discount,https://www.quickmart.co.ke/kcc-mala-smooth-and-tasty-plain-milk-1l-63,Quickmart
+2026-07-09,milk,Arimis Milking Jelly - 50Ml,KES 42.00,No discount,https://www.quickmart.co.ke/arimis-milking-jelly-50ml-39,Quickmart
+2026-07-09,milk,Quick Choice Esl Milk 500Ml Carton,KES 588.00,No discount,https://www.quickmart.co.ke/quick-choice-esl-milk-500ml-carton-23,Quickmart
+2026-07-09,milk,Daima Esl Long Life Milk 500Ml,KES 52.00,KES 59.00,https://www.quickmart.co.ke/daima-esl-long-life-milk-500ml-63,Quickmart
+2026-07-09,milk,Daima Chocolate-6Packflv Milk 250Ml,KES 390.00,KES 400.00,https://www.quickmart.co.ke/daima-chocolate-6packflv-milk-250ml-8,Quickmart
+2026-07-09,milk,Brookside Uht Flavour Coffee Milk 250Ml,KES 69.00,No discount,https://www.quickmart.co.ke/brookside-uht-flavour-coffee-milk-250ml-63,Quickmart
+2026-07-09,milk,Valon Body Milk Lotion - 400Ml,KES 260.00,No discount,https://www.quickmart.co.ke/valon-body-milk-lotion-400ml-16,Quickmart
+2026-07-09,milk,Bd Coffee / Milk Cup 1113 Coloured,KES 125.00,KES 165.00,https://www.quickmart.co.ke/bd-coffee-/-milk-cup-1113-coloured-23,Quickmart
+2026-07-09,milk,Bd Coffee/Milk Cup Sycup 1001,KES 125.00,KES 185.00,https://www.quickmart.co.ke/bd-coffee/milk-cup-sycup-1001-32,Quickmart
+2026-07-09,milk,Cadbury Ps Creme Milk Choco 48G,KES 179.00,No discount,https://www.quickmart.co.ke/cadbury-ps-creme-milk-choco-48g-39,Quickmart
+2026-07-09,milk,Nestle Kitkat 4 Finger Milk 41.5G,KES 140.00,No discount,https://www.quickmart.co.ke/nestle-kitkat-4-finger-milk-41.5g-62,Quickmart
+2026-07-09,milk,Brookside Disney Vanilla Flavoured Milk 200Ml,KES 60.00,No discount,https://www.quickmart.co.ke/brookside-disney-vanilla-flavoured-milk-200ml-32,Quickmart
+2026-07-09,milk,Hom Milk Star Bic 200G,KES 93.00,No discount,https://www.quickmart.co.ke/hom-milk-star-bic-200g-48,Quickmart
+2026-07-09,milk,Zoe Body Lotion Milk Dry Skin 400Ml,KES 265.00,No discount,https://www.quickmart.co.ke/zoe-body-lotion-milk-dry-skin-400ml-63,Quickmart
+2026-07-09,milk,Ballet Baby Milk Soap - 100G,KES 86.00,No discount,https://www.quickmart.co.ke/ballet-baby-milk-soap-100g-29,Quickmart
+2026-07-09,milk,Milk Star 40G,KES 20.00,No discount,https://www.quickmart.co.ke/milk-star-40g-66,Quickmart
+2026-07-09,milk,Nestle Nan Optipro Infant Formula Milk Powder 400G,"KES 1,960.00",No discount,https://www.quickmart.co.ke/nestle-nan-optipro-infant-formula-milk-powder-400g-63,Quickmart
+2026-07-09,milk,Treatos Milk 105G,KES 50.00,No discount,https://www.quickmart.co.ke/treatos-milk-105g-12,Quickmart
+2026-07-09,milk,Tuzo Whole Milk 500Ml,KES 59.00,No discount,https://www.quickmart.co.ke/tuzo-whole-milk-500ml-63,Quickmart
+2026-07-09,milk,Tuzo Uht Whole Milk 1Ltr,KES 149.00,No discount,https://www.quickmart.co.ke/tuzo-uht-whole-milk-1ltr-33,Quickmart
+2026-07-09,milk,Milk Star 72Pkts*4Pcsx16G,KES 430.00,No discount,https://www.quickmart.co.ke/milk-star-72pkts*4pcsx16g-26,Quickmart
+2026-07-09,milk,Nuziwa Oat Milk Orignal1L,KES 480.00,No discount,https://www.quickmart.co.ke/nuziwa-oat-milk-orignal1l-63,Quickmart
+2026-07-09,milk,Yego Milk Biscuit 60*5Pcs/65*4Pcs,KES 325.00,No discount,https://www.quickmart.co.ke/yego-milk-biscuit-60*5pcs/65*4pcs-12,Quickmart
+2026-07-09,milk,Bounty Milk Double 57G,KES 183.00,KES 215.00,https://www.quickmart.co.ke/bounty-milk-double-57g-28,Quickmart
+2026-07-09,milk,Aryuva Coconut Milk 400Ml,KES 305.00,No discount,https://www.quickmart.co.ke/aryuva-coconut-milk-400ml-30,Quickmart
+2026-07-09,milk,Nivea Nourishing Milk - 200Ml,KES 360.00,No discount,https://www.quickmart.co.ke/nivea-nourishing-milk-200ml-18,Quickmart
+2026-07-09,milk,Fresha Milk Esl Pouch 500Ml,KES 58.00,No discount,https://www.quickmart.co.ke/fresha-milk-esl-pouch-500ml-63,Quickmart
+2026-07-09,milk,Flamingo Soap Coconut Milk & Honey - 200G,KES 95.00,No discount,https://www.quickmart.co.ke/flamingo-soap-coconut-milk-honey-200g-25,Quickmart
+2026-07-09,milk,Brookside Lactose Free Milk 1L,KES 160.00,No discount,https://www.quickmart.co.ke/brookside-lactose-free-milk-1l-36,Quickmart
+2026-07-09,milk,Sawa Milking Jelly - 50Ml,KES 35.00,No discount,https://www.quickmart.co.ke/sawa-milking-jelly-50ml-61,Quickmart
+2026-07-09,milk,Dairyland Milk Compound Chocolate 500G,KES 600.00,No discount,https://www.quickmart.co.ke/dairyland-milk-compound-chocolate-500g-27,Quickmart
+2026-07-09,milk,Parle Milk Power Choco 360G,KES 185.00,No discount,https://www.quickmart.co.ke/parle-milk-power-choco-360g-62,Quickmart
+2026-07-09,milk,Parle Milk Power Biscuit 382.5G,KES 176.00,No discount,https://www.quickmart.co.ke/parle-milk-power-biscuit-382.5g-12,Quickmart
+2026-07-09,milk,Brookside Almond Unsweeted Milk 1000Ml,KES 455.00,No discount,https://www.quickmart.co.ke/brookside-almond-unsweeted-milk-1000ml-21,Quickmart
+2026-07-09,milk,Manji Duos Milk Cream Filled Sandwich Biscuit 60G,KES 70.00,No discount,https://www.quickmart.co.ke/manji-duos-milk-cream-filled-sandwich-biscuit-60g-63,Quickmart
+2026-07-09,milk,Parle Milk Power 750G/765G,KES 355.00,No discount,https://www.quickmart.co.ke/parle-milk-power-750g/765g-25,Quickmart
+2026-07-09,milk,Alo Lotion Goat Milk - 200Ml,KES 175.00,No discount,https://www.quickmart.co.ke/alo-lotion-goat-milk-200ml-29,Quickmart
+2026-07-09,milk,Zito Aseptic Life Milk 500Ml,KES 57.00,No discount,https://www.quickmart.co.ke/zito-aseptic-life-milk-500ml-67,Quickmart
+2026-07-09,milk,Nice & Lovely Milk Lotion - 600Ml,KES 470.00,No discount,https://www.quickmart.co.ke/nice-lovely-milk-lotion-600ml-27,Quickmart
+2026-07-09,milk,Nuvita Energy Milk Soya 75Gms,KES 35.00,No discount,https://www.quickmart.co.ke/nuvita-energy-milk-soya-75gms-55,Quickmart
+2026-07-09,milk,Brit Gbk Milk 294G+50Prcnt Free,KES 179.00,KES 199.00,https://www.quickmart.co.ke/brit-gbk-milk-294g-50prcnt-free-46,Quickmart
+2026-07-09,milk,Ilara Mazila Maziwa Lala Milk 500Ml,KES 95.00,No discount,https://www.quickmart.co.ke/ilara-mazila-maziwa-lala-milk-500ml-63,Quickmart
+2026-07-09,milk,Parle Milk Power 72.25G/64G,KES 30.00,No discount,https://www.quickmart.co.ke/parle-milk-power-72.25g/64g-43,Quickmart
+2026-07-09,milk,Fresha Zito Tfa Milk 500Ml,KES 58.00,No discount,https://www.quickmart.co.ke/fresha-zito-tfa-milk-500ml-18,Quickmart
+2026-07-09,milk,Alo Lotion Milk & Honey 400Ml,KES 295.00,No discount,https://www.quickmart.co.ke/alo-lotion-milk-honey-400ml-46,Quickmart
+2026-07-09,sugar,Kabras Sugar White 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/kabras-sugar-white-1kg-52,Quickmart
+2026-07-09,sugar,Quick Choice Sugar 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/quick-choice-sugar-1kg-12,Quickmart
+2026-07-09,sugar,Mumias Sugar 2 Kg,KES 305.00,No discount,https://www.quickmart.co.ke/mumias-sugar-2-kg-47,Quickmart
+2026-07-09,sugar,Kabras Sugar White 2Kg,KES 305.00,No discount,https://www.quickmart.co.ke/kabras-sugar-white-2kg-9,Quickmart
+2026-07-09,sugar,Quick Choice Sugar 2Kg,KES 305.00,No discount,https://www.quickmart.co.ke/quick-choice-sugar-2kg-15,Quickmart
+2026-07-09,sugar,Nutrameal Natural Wholesome Cane Sugar 2Kg,KES 305.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-2kg-63,Quickmart
+2026-07-09,sugar,Nutrameal Natural Wholesome Cane Sugar 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-1kg-63,Quickmart
+2026-07-09,sugar,Mumias Sugar 1 Kg,KES 155.00,No discount,https://www.quickmart.co.ke/mumias-sugar-1-kg-4,Quickmart
+2026-07-09,sugar,Valley Sugar Brown 2Kg,KES 309.00,No discount,https://www.quickmart.co.ke/valley-sugar-brown-2kg-21,Quickmart
+2026-07-09,sugar,Clovers Extra Fine Icing Sugar 500G,KES 132.00,KES 142.00,https://www.quickmart.co.ke/clovers-extra-fine-icing-sugar-500g-63,Quickmart
+2026-07-09,sugar,Bass Sugar Dish Bead,KES 540.00,No discount,https://www.quickmart.co.ke/bass-sugar-dish-bead-26,Quickmart
+2026-07-09,sugar,Valley Sugar Brown 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/valley-sugar-brown-1kg-21,Quickmart
+2026-07-09,sugar,Nutrameal Natural Wholesome Cane Sugar 5Kg,KES 765.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-5kg-62,Quickmart
+2026-07-09,sugar,Wow Sugared Snacks Puffs 500G,KES 210.00,No discount,https://www.quickmart.co.ke/wow-sugared-snacks-puffs-500g-63,Quickmart
+2026-07-09,sugar,Kakira Light Brown Sugar 1Kg,KES 160.00,No discount,https://www.quickmart.co.ke/kakira-light-brown-sugar-1kg-63,Quickmart
+2026-07-09,sugar,Sugar Dish 107,KES 210.00,No discount,https://www.quickmart.co.ke/sugar-dish-107-66,Quickmart
+2026-07-09,sugar,Butali Sugar 2Kg,KES 329.00,No discount,https://www.quickmart.co.ke/butali-sugar-2kg-10,Quickmart
+2026-07-09,sugar,Transmara Sugar 1Kg,KES 175.00,No discount,https://www.quickmart.co.ke/transmara-sugar-1kg-27,Quickmart
+2026-07-09,sugar,Bass Sugar Dish Bronze,KES 905.00,No discount,https://www.quickmart.co.ke/bass-sugar-dish-bronze-26,Quickmart
+2026-07-09,sugar,Wow Sugared Snacks 100G,KES 72.00,No discount,https://www.quickmart.co.ke/wow-sugared-snacks-100g-63,Quickmart
+2026-07-09,sugar,Kenafric Icing Sugar Box 500G,KES 145.00,No discount,https://www.quickmart.co.ke/kenafric-icing-sugar-box-500g-31,Quickmart
+2026-07-09,sugar,Bass Sugar Dish Clear Crystal,KES 755.00,No discount,https://www.quickmart.co.ke/bass-sugar-dish-clear-crystal-26,Quickmart
+2026-07-09,sugar,Multi Purpose Sugar/Spice Jar,KES 530.00,No discount,https://www.quickmart.co.ke/multi-purpose-sugar/spice-jar-18,Quickmart
+2026-07-09,sugar,Alicafe No Sugar Tongkat 4-In-1 12G,KES 65.00,No discount,https://www.quickmart.co.ke/alicafe-no-sugar-tongkat-4-in-1-12g-28,Quickmart
+2026-07-09,sugar,Qsoko-Kabras Sugar White 1Kg Bale,"KES 3,295.00",No discount,https://www.quickmart.co.ke/qsoko-kabras-sugar-white-1kg-bale-45,Quickmart
+2026-07-09,sugar,Qsoko-Kabras Sugar White 2Kg Bale,"KES 3,295.00",No discount,https://www.quickmart.co.ke/qsoko-kabras-sugar-white-2kg-bale-51,Quickmart
+2026-07-09,sugar,Red Bull Energy Drink Sugar Free 250Ml,KES 235.00,No discount,https://www.quickmart.co.ke/red-bull-energy-drink-sugar-free-250ml-63,Quickmart
+2026-07-09,sugar,Peptang Sugar Free Peanut Butter 800G,KES 645.00,No discount,https://www.quickmart.co.ke/peptang-sugar-free-peanut-butter-800g-66,Quickmart
+2026-07-09,sugar,Nuvita Shortcake Sugarfree 100Gm,KES 100.00,No discount,https://www.quickmart.co.ke/nuvita-shortcake-sugarfree-100gm-63,Quickmart
+2026-07-09,sugar,Sugarcane Per Pc,KES 65.00,No discount,https://www.quickmart.co.ke/sugarcane-per-pc-22,Quickmart
+2026-07-09,sugar,Orbit Spearmint Sugarfree Gum 14G,KES 70.00,No discount,https://www.quickmart.co.ke/orbit-spearmint-sugarfree-gum-14g-39,Quickmart
+2026-07-09,sugar,Mt.kenya Lala Sweetened 1 Litre,KES 178.00,No discount,https://www.quickmart.co.ke/mt.kenya-lala-sweetened-1-litre-22,Quickmart
+2026-07-09,sugar,Prestige Margarine 1Kg,KES 436.00,KES 495.00,https://www.quickmart.co.ke/prestige-margarine-1kg-12,Quickmart
+2026-07-09,sugar,Ugali & Beef Combo Per Pc,KES 149.00,KES 159.00,https://www.quickmart.co.ke/ugali-beef-combo-per-pc-30,Quickmart
+2026-07-09,sugar,Winnie Ugali Afya 1Kg,KES 154.00,No discount,https://www.quickmart.co.ke/winnie-ugali-afya-1kg-31,Quickmart
+2026-07-09,sugar,Zesta White Vinegar 700Ml,KES 86.00,No discount,https://www.quickmart.co.ke/zesta-white-vinegar-700ml-12,Quickmart
+2026-07-09,sugar,Snow Garlic Pack 4Pack,KES 169.00,No discount,https://www.quickmart.co.ke/snow-garlic-pack-4pack-28,Quickmart
+2026-07-09,sugar,Eden The Finest Garden Soft Pack Tea 500G,KES 215.00,No discount,https://www.quickmart.co.ke/eden-the-finest-garden-soft-pack-tea-500g-63,Quickmart
+2026-07-09,sugar,Onja Margarine 1Kg,KES 500.00,No discount,https://www.quickmart.co.ke/onja-margarine-1kg-23,Quickmart
+2026-07-09,sugar,Prestige Original Margarine 500G,KES 242.00,KES 275.00,https://www.quickmart.co.ke/prestige-original-margarine-500g-63,Quickmart
+2026-07-09,sugar,Prestige Vanilla Margarine 250G,KES 141.00,KES 160.00,https://www.quickmart.co.ke/prestige-vanilla-margarine-250g-63,Quickmart
+2026-07-09,sugar,Prestige Vanilla Margarine 500G,KES 242.00,KES 275.00,https://www.quickmart.co.ke/prestige-vanilla-margarine-500g-63,Quickmart
+2026-07-09,sugar,Pkt Garden Pea 250G,KES 329.00,No discount,https://www.quickmart.co.ke/pkt-garden-pea-250g-24,Quickmart
+2026-07-09,sugar,Garnier Super Uv Serum B30Ml,"KES 1,250.00","KES 1,450.00",https://www.quickmart.co.ke/garnier-super-uv-serum-b30ml-63,Quickmart
+2026-07-09,sugar,Royco Garlic Ground Spice 50G,KES 130.00,No discount,https://www.quickmart.co.ke/royco-garlic-ground-spice-50g-52,Quickmart
+2026-07-09,sugar,Clovers White Vinegar 700Ml,KES 75.00,KES 85.00,https://www.quickmart.co.ke/clovers-white-vinegar-700ml-17,Quickmart
+2026-07-09,sugar,Imported Garlic Per Kg,KES 699.00,No discount,https://www.quickmart.co.ke/imported-garlic-per-kg-57,Quickmart
+2026-07-09,sugar,Local Garlic Per Kg,KES 689.00,No discount,https://www.quickmart.co.ke/local-garlic-per-kg-29,Quickmart
+2026-07-09,sugar,Goldband Margarine 250G,KES 122.00,No discount,https://www.quickmart.co.ke/goldband-margarine-250g-63,Quickmart
+2026-07-09,sugar,Jumbo Garlic Powder 50G Jar,KES 90.00,No discount,https://www.quickmart.co.ke/jumbo-garlic-powder-50g-jar-49,Quickmart
+2026-07-09,sugar,Tropical Heat Snacks Waves Salt & Vinegar Potato Crisps 30G,KES 45.00,No discount,https://www.quickmart.co.ke/tropical-heat-snacks-waves-salt-vinegar-potato-crisps-30g-63,Quickmart
+2026-07-09,sugar,Jumbo Garlic Powder 100G Jar,KES 170.00,No discount,https://www.quickmart.co.ke/jumbo-garlic-powder-100g-jar-33,Quickmart
+2026-07-09,sugar,Tropical Heat Garam Masala 45G,KES 135.00,No discount,https://www.quickmart.co.ke/tropical-heat-garam-masala-45g-63,Quickmart
+2026-07-09,sugar,Bake Rolz Salt Vinegar Snack 50G,KES 60.00,No discount,https://www.quickmart.co.ke/bake-rolz-salt-vinegar-snack-50g-63,Quickmart
+2026-07-09,sugar,Peptang Vinegar White 700Ml,KES 69.00,KES 95.00,https://www.quickmart.co.ke/peptang-vinegar-white-700ml-14,Quickmart
+2026-07-09,sugar,Prestige Vanilla Margarine 1Kg,KES 436.00,KES 495.00,https://www.quickmart.co.ke/prestige-vanilla-margarine-1kg-63,Quickmart
+2026-07-09,sugar,Gold Band Band Margarine 500G,KES 223.00,No discount,https://www.quickmart.co.ke/gold-band-band-margarine-500g-63,Quickmart
+2026-07-09,sugar,Tropical Heat Garlic Powder 45G,KES 125.00,No discount,https://www.quickmart.co.ke/tropical-heat-garlic-powder-45g-63,Quickmart
+2026-07-09,sugar,Hungarian Choma Sausage Per Pc,KES 55.00,No discount,https://www.quickmart.co.ke/hungarian-choma-sausage-per-pc-10,Quickmart
+2026-07-09,sugar,Top Food Garam Masala 50Gm,KES 130.00,No discount,https://www.quickmart.co.ke/top-food-garam-masala-50gm-6,Quickmart
+2026-07-09,sugar,Aaa-Peeled Garlic 200G,KES 429.00,No discount,https://www.quickmart.co.ke/aaa-peeled-garlic-200g-45,Quickmart
+2026-07-09,sugar,Prestige Original Margarine 250G,KES 141.00,KES 160.00,https://www.quickmart.co.ke/prestige-original-margarine-250g-63,Quickmart
+2026-07-09,sugar,Cereal Box Garlic Powder Per 100G,KES 146.50,No discount,https://www.quickmart.co.ke/cereal-box-garlic-powder-per-100g,Quickmart
+2026-07-09,sugar,Fresh Chapati Hungarian Roll P/Pc,KES 85.00,No discount,https://www.quickmart.co.ke/fresh-chapati-hungarian-roll-p/pc-20,Quickmart
+2026-07-09,sugar,Onga Garlic Onion And Ginger Mchuzi Mix 200G,KES 150.00,No discount,https://www.quickmart.co.ke/onga-garlic-onion-and-ginger-mchuzi-mix-200g-63,Quickmart
+2026-07-09,sugar,Decent Garlic Press,KES 610.00,No discount,https://www.quickmart.co.ke/decent-garlic-press-30,Quickmart
+2026-07-09,sugar,Onja Margarine 250G,KES 150.00,No discount,https://www.quickmart.co.ke/onja-margarine-250g-16,Quickmart
+2026-07-09,sugar,Onja Margarine 500G,KES 255.00,No discount,https://www.quickmart.co.ke/onja-margarine-500g-50,Quickmart
+2026-07-09,sugar,Shelled Garden Peas Per Kg,KES 699.00,No discount,https://www.quickmart.co.ke/shelled-garden-peas-per-kg-23,Quickmart
+2026-07-09,sugar,Clovers White Vinegar 400Ml,KES 58.00,KES 68.00,https://www.quickmart.co.ke/clovers-white-vinegar-400ml-22,Quickmart
+2026-07-09,sugar,Prestige Margarine 100G,KES 65.00,No discount,https://www.quickmart.co.ke/prestige-margarine-100g-53,Quickmart
+2026-07-09,sugar,Lyons Vinegar Substitute 700Ml,KES 80.75,KES 95.00,https://www.quickmart.co.ke/lyons-vinegar-substitute-700ml-25,Quickmart
+2026-07-09,sugar,Garnier Roll-On Mineral Women Abs Dry - 50Ml,KES 365.00,No discount,https://www.quickmart.co.ke/garnier-roll-on-mineral-women-abs-dry-50ml-16,Quickmart
+2026-07-09,sugar,Gold Band Band Margarine 1Kg,KES 412.00,No discount,https://www.quickmart.co.ke/gold-band-band-margarine-1kg-63,Quickmart
+2026-07-09,sugar,Lays Salt & Vinegar Crisps 97G,KES 220.00,No discount,https://www.quickmart.co.ke/lays-salt-vinegar-crisps-97g-51,Quickmart
+2026-07-09,sugar,Garnier Vitamin C Even & Bright Glow Jelly 50Ml,"KES 1,189.00","KES 1,450.00",https://www.quickmart.co.ke/garnier-vitamin-c-even-bright-glow-jelly-50ml-63,Quickmart
+2026-07-09,sugar,Garnier Skin Active Charcoal Serum 30Ml,"KES 1,550.00","KES 1,850.00",https://www.quickmart.co.ke/garnier-skin-active-charcoal-serum-30ml-63,Quickmart
+2026-07-09,sugar,Tropical Heat Salt & Vinegar Potato Crisps Snacks 20G,KES 30.00,No discount,https://www.quickmart.co.ke/tropical-heat-salt-vinegar-potato-crisps-snacks-20g-65,Quickmart
+2026-07-09,sugar,Zesta White Vinegar 300Ml,KES 48.00,No discount,https://www.quickmart.co.ke/zesta-white-vinegar-300ml-48,Quickmart
+2026-07-09,sugar,Garnier Min Roll-On Men Abs Dry50Ml,KES 365.00,No discount,https://www.quickmart.co.ke/garnier-min-roll-on-men-abs-dry50ml-63,Quickmart
+2026-07-09,sugar,Simba Mbili Garam Masala 100G,KES 255.00,No discount,https://www.quickmart.co.ke/simba-mbili-garam-masala-100g-63,Quickmart
+2026-07-09,sugar,Tropical Heat Snacks Salt & Vinegar Potato Crisps 100G,KES 115.00,No discount,https://www.quickmart.co.ke/tropical-heat-snacks-salt-vinegar-potato-crisps-100g-63,Quickmart
+2026-07-09,sugar,Natures Own Garam Masala 100G,KES 300.00,No discount,https://www.quickmart.co.ke/natures-own-garam-masala-100g-65,Quickmart
+2026-07-09,sugar,Santa Maria Red Wine Vinegar 500M,KES 439.00,No discount,https://www.quickmart.co.ke/santa-maria-red-wine-vinegar-500m-31,Quickmart
+2026-07-09,sugar,Sai Kangaroo Staple Pin 24/6 5000S,KES 275.00,No discount,https://www.quickmart.co.ke/sai-kangaroo-staple-pin-24/6-5000s-28,Quickmart
+2026-07-09,sugar,Garnier Mineral Even Roll On 50Ml,KES 365.00,No discount,https://www.quickmart.co.ke/garnier-mineral-even-roll-on-50ml-63,Quickmart
+2026-07-09,sugar,Krackles Zingy Salt And Vinegar Potato Chips 30G,KES 50.00,No discount,https://www.quickmart.co.ke/krackles-zingy-salt-and-vinegar-potato-chips-30g-63,Quickmart
+2026-07-09,sugar,Royco Garlic Ground Spice 100G,KES 265.00,No discount,https://www.quickmart.co.ke/royco-garlic-ground-spice-100g-62,Quickmart
+2026-07-09,sugar,Blue Band Croma Margarine 10Kg,"KES 3,395.00",No discount,https://www.quickmart.co.ke/blue-band-croma-margarine-10kg-37,Quickmart
+2026-07-09,sugar,Brag Apple Cider Vinegar 946Ml,"KES 2,299.00",No discount,https://www.quickmart.co.ke/brag-apple-cider-vinegar-946ml-29,Quickmart
+2026-07-09,bread,Budget Bread White(600Gm),KES 70.00,KES 89.00,https://www.quickmart.co.ke/budget-bread-white(600gm)-40,Quickmart
+2026-07-09,bread,Budget Bread Brown(800Gm),KES 109.00,KES 119.00,https://www.quickmart.co.ke/budget-bread-brown(800gm)-1,Quickmart
+2026-07-09,bread,Budget Bread White(800Gm),KES 109.00,KES 119.00,https://www.quickmart.co.ke/budget-bread-white(800gm)-48,Quickmart
+2026-07-09,bread,Budget Bread Brown(600Gm),KES 70.00,KES 89.00,https://www.quickmart.co.ke/budget-bread-brown(600gm)-60,Quickmart
+2026-07-09,bread,Budget White Bread(1.5Kg),KES 205.00,No discount,https://www.quickmart.co.ke/budget-white-bread(1.5kg)-16,Quickmart
+2026-07-09,bread,Festive Nature Gold W/Bread 600G,KES 100.00,No discount,https://www.quickmart.co.ke/festive-nature-gold-w/bread-600g-16,Quickmart
+2026-07-09,bread,Sweet Bread(400Gm),KES 65.00,No discount,https://www.quickmart.co.ke/sweet-bread(400gm)-42,Quickmart
+2026-07-09,bread,Blueband Low Fat Spread For Bread 500G,KES 180.00,KES 200.00,https://www.quickmart.co.ke/blueband-low-fat-spread-for-bread-500g-63,Quickmart
+2026-07-09,bread,Sweet Bread(600Gm),KES 95.00,No discount,https://www.quickmart.co.ke/sweet-bread(600gm)-35,Quickmart
+2026-07-09,bread,Fresh Banana Bread(800Gm),KES 140.00,No discount,https://www.quickmart.co.ke/fresh-banana-bread(800gm)-11,Quickmart
+2026-07-09,bread,Budget Bread White(200Gm),KES 30.00,No discount,https://www.quickmart.co.ke/budget-bread-white(200gm)-49,Quickmart
+2026-07-09,bread,Broadway Brown Sandwich Sliced Bread 600G,KES 98.00,No discount,https://www.quickmart.co.ke/broadway-brown-sandwich-sliced-bread-600g-50,Quickmart
+2026-07-09,bread,Budget Bread Brown(400Gm),KES 56.00,No discount,https://www.quickmart.co.ke/budget-bread-brown(400gm)-9,Quickmart
+2026-07-09,bread,Supa Loaf Butter Toast Bread 400G,KES 65.00,No discount,https://www.quickmart.co.ke/supa-loaf-butter-toast-bread-400g-63,Quickmart
+2026-07-09,bread,Supa Loaf Butter Toast Bread 800G,KES 130.00,No discount,https://www.quickmart.co.ke/supa-loaf-butter-toast-bread-800g-47,Quickmart
+2026-07-09,bread,Bread Crumbs 500G,KES 240.00,No discount,https://www.quickmart.co.ke/bread-crumbs-500g-53,Quickmart
+2026-07-09,bread,Broadways Premium Sliced Bread 400G,KES 65.00,No discount,https://www.quickmart.co.ke/broadways-premium-sliced-bread-400g-67,Quickmart
+2026-07-09,bread,Budget Bread White(400Gm),KES 56.00,No discount,https://www.quickmart.co.ke/budget-bread-white(400gm)-45,Quickmart
+2026-07-09,bread,Broadways White Unsliced Bread 200G,KES 33.00,No discount,https://www.quickmart.co.ke/broadways-white-unsliced-bread-200g-47,Quickmart
+2026-07-09,bread,Supa Loaf Butter Toast Bread 600G,KES 100.00,No discount,https://www.quickmart.co.ke/supa-loaf-butter-toast-bread-600g-63,Quickmart
+2026-07-09,bread,Budget Brown Bread(1.5Kg),KES 205.00,No discount,https://www.quickmart.co.ke/budget-brown-bread(1.5kg)-14,Quickmart
+2026-07-09,bread,Bread Crumbs 250G,KES 126.00,No discount,https://www.quickmart.co.ke/bread-crumbs-250g-66,Quickmart
+2026-07-09,bread,Supa Loaf White Sliced Sandwich Bread 800G,KES 130.00,No discount,https://www.quickmart.co.ke/supa-loaf-white-sliced-sandwich-bread-800g-63,Quickmart
+2026-07-09,bread,Kingsmil Milky White Bread 600G,KES 100.00,No discount,https://www.quickmart.co.ke/kingsmil-milky-white-bread-600g-63,Quickmart
+2026-07-09,bread,Kingsmil Sandwich White Bread 400G,KES 65.00,No discount,https://www.quickmart.co.ke/kingsmil-sandwich-white-bread-400g-24,Quickmart
+2026-07-09,bread,Broadways Brown Sliced Bread 400G,KES 65.00,No discount,https://www.quickmart.co.ke/broadways-brown-sliced-bread-400g-67,Quickmart
+2026-07-09,bread,Festive Nature Gold W/Bread 400G,KES 65.00,No discount,https://www.quickmart.co.ke/festive-nature-gold-w/bread-400g-19,Quickmart
+2026-07-09,bread,Supa Loaf Butter Toast Bread 1.5Kg,KES 240.00,No discount,https://www.quickmart.co.ke/supa-loaf-butter-toast-bread-1.5kg-63,Quickmart
+2026-07-09,bread,Sats Rich Bread 250Gms,KES 91.00,No discount,https://www.quickmart.co.ke/sats-rich-bread-250gms-16,Quickmart
+2026-07-09,bread,Festive Finest Super Seeded Bread 400G,KES 130.00,No discount,https://www.quickmart.co.ke/festive-finest-super-seeded-bread-400g-63,Quickmart
+2026-07-09,bread,Broadways White Sandwich Sliced Bread 800G,KES 130.00,No discount,https://www.quickmart.co.ke/broadways-white-sandwich-sliced-bread-800g-58,Quickmart
+2026-07-09,bread,Broadways White Sandwich Sliced Bread 600G,KES 98.00,No discount,https://www.quickmart.co.ke/broadways-white-sandwich-sliced-bread-600g-29,Quickmart
+2026-07-09,bread,Fresh Health Bread(600Gm),KES 120.00,No discount,https://www.quickmart.co.ke/fresh-health-bread(600gm)-53,Quickmart
+2026-07-09,bread,Supa Bread Crumbs-Regural 400G,KES 210.00,No discount,https://www.quickmart.co.ke/supa-bread-crumbs-regural-400g-16,Quickmart
+2026-07-09,bread,Festive Supreme Whole Meal Bread 800G,KES 130.00,No discount,https://www.quickmart.co.ke/festive-supreme-whole-meal-bread-800g-62,Quickmart
+2026-07-09,bread,Fresh Budget Bread White(400G)G.o.g,KES 50.00,No discount,https://www.quickmart.co.ke/fresh-budget-bread-white(400g)g.o.g-48,Quickmart
+2026-07-09,bread,Festive Asili White Bread 400G Sliced,KES 65.00,No discount,https://www.quickmart.co.ke/festive-asili-white-bread-400g-sliced-21,Quickmart
+2026-07-09,bread,Mill Bakers Fresh Premium Bread White(800Gm),KES 125.00,No discount,https://www.quickmart.co.ke/mill-bakers-fresh-premium-bread-white(800gm)-1,Quickmart
+2026-07-09,bread,Mill Bakers Fresh Premium Bread Brown(400Gm),KES 65.00,No discount,https://www.quickmart.co.ke/mill-bakers-fresh-premium-bread-brown(400gm)-59,Quickmart
+2026-07-09,bread,Festive Whole Meal Brown Sliced Bread 1.5Kg,KES 240.00,No discount,https://www.quickmart.co.ke/festive-whole-meal-brown-sliced-bread-1.5kg-63,Quickmart
+2026-07-09,bread,Mill Bakers Fresh Premium Bread Brown(600Gm),KES 95.00,No discount,https://www.quickmart.co.ke/mill-bakers-fresh-premium-bread-brown(600gm)-56,Quickmart
+2026-07-09,bread,Mill Bakers Fresh Premium Bread White(400Gm),KES 65.00,No discount,https://www.quickmart.co.ke/mill-bakers-fresh-premium-bread-white(400gm)-10,Quickmart
+2026-07-09,bread,Mill Bakers Fresh Premium Bread White(600Gm),KES 95.00,No discount,https://www.quickmart.co.ke/mill-bakers-fresh-premium-bread-white(600gm)-11,Quickmart
+2026-07-09,bread,Joy Super Bakers Queen Cake 350G (12 Pieces),KES 155.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-queen-cake-350g-(12-pieces)-63,Quickmart
+2026-07-09,bread,Blue Band Low Fat Spread 1Kg,KES 330.00,KES 370.00,https://www.quickmart.co.ke/blue-band-low-fat-spread-1kg-63,Quickmart
+2026-07-09,bread,Joy Fruit Cake 500G,KES 165.00,No discount,https://www.quickmart.co.ke/joy-fruit-cake-500g-65,Quickmart
+2026-07-09,bread,Joy Sweet Heart Cake 150Gms,KES 58.00,No discount,https://www.quickmart.co.ke/joy-sweet-heart-cake-150gms-61,Quickmart
+2026-07-09,bread,Joy Super Mandazi 180Gms,KES 50.00,No discount,https://www.quickmart.co.ke/joy-super-mandazi-180gms-66,Quickmart
+2026-07-09,bread,Joy Bakers Family Cake 750G,KES 235.00,No discount,https://www.quickmart.co.ke/joy-bakers-family-cake-750g-63,Quickmart
+2026-07-09,bread,Joy Super Bakers Little Heart Maderia 300G,KES 109.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-little-heart-maderia-300g-63,Quickmart
+2026-07-09,bread,Joy Super Bakers Queen Cake 180G (6 Pieces),KES 71.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-queen-cake-180g-(6-pieces)-63,Quickmart
+2026-07-09,bread,Joy Super Bakers Mini Maderia 350G,KES 132.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-mini-maderia-350g-63,Quickmart
+2026-07-09,bread,Mill Bakers Daz Milk Flavour 200Gms,KES 52.00,No discount,https://www.quickmart.co.ke/mill-bakers-daz-milk-flavour-200gms-49,Quickmart
+2026-07-09,bread,Joy Super Bakers Muffins 400G (8 Pieces),KES 165.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-muffins-400g-(8-pieces)-63,Quickmart
+2026-07-09,bread,Festive Poundcake Vanilla 400G,KES 215.00,No discount,https://www.quickmart.co.ke/festive-poundcake-vanilla-400g-63,Quickmart
+2026-07-09,bread,Joy Super Bakers Small Maderia 250G,KES 88.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-small-maderia-250g-63,Quickmart
+2026-07-09,bread,Millbakers Queen Cupcakes 200G,KES 90.00,No discount,https://www.quickmart.co.ke/millbakers-queen-cupcakes-200g-63,Quickmart
+2026-07-09,bread,Festive Premium Sesame Seeds Sliced Burger Buns 300G,KES 145.00,No discount,https://www.quickmart.co.ke/festive-premium-sesame-seeds-sliced-burger-buns-300g-63,Quickmart
+2026-07-09,bread,Supa Loaf White Barrel 400G,KES 65.00,No discount,https://www.quickmart.co.ke/supa-loaf-white-barrel-400g-14,Quickmart
+2026-07-09,bread,Festive Half Poundcake-200Gms(Sliced)Van,KES 93.00,No discount,https://www.quickmart.co.ke/festive-half-poundcake-200gms(sliced)van-47,Quickmart
+2026-07-09,bread,Millbakers Queen Cupcakes 260G,KES 105.00,No discount,https://www.quickmart.co.ke/millbakers-queen-cupcakes-260g-63,Quickmart
+2026-07-09,bread,Joy Super Bakers Queen Cake 135G (4 Pieces),KES 57.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-queen-cake-135g-(4-pieces)-63,Quickmart
+2026-07-09,bread,Festive Poundcake Chocolate 400G,KES 215.00,No discount,https://www.quickmart.co.ke/festive-poundcake-chocolate-400g-63,Quickmart
+2026-07-09,bread,Festive Poundcake Blueberry 400G,KES 215.00,No discount,https://www.quickmart.co.ke/festive-poundcake-blueberry-400g-63,Quickmart
+2026-07-09,bread,Mill Bakers Marble Slice 150Gms,KES 75.00,No discount,https://www.quickmart.co.ke/mill-bakers-marble-slice-150gms-14,Quickmart
+2026-07-09,bread,Festive Cream Roll 70G With Caramel,KES 45.00,No discount,https://www.quickmart.co.ke/festive-cream-roll-70g-with-caramel-64,Quickmart
+2026-07-09,bread,"Festive- Tortilla Wrap - 8""",KES 300.00,No discount,https://www.quickmart.co.ke/festive-tortilla-wrap-8-15,Quickmart
+2026-07-09,bread,Mibisco Supa Scones 500G,KES 121.00,No discount,https://www.quickmart.co.ke/mibisco-supa-scones-500g-55,Quickmart
+2026-07-09,bread,Millbakers Fruit Cake 350G,KES 169.00,No discount,https://www.quickmart.co.ke/millbakers-fruit-cake-350g-63,Quickmart
+2026-07-09,bread,Mill Bakers Daz Honey Flavour 200Gms,KES 52.00,No discount,https://www.quickmart.co.ke/mill-bakers-daz-honey-flavour-200gms-66,Quickmart
+2026-07-09,bread,Millbakers Family Madeira Cake 750G,KES 240.00,No discount,https://www.quickmart.co.ke/millbakers-family-madeira-cake-750g-63,Quickmart
+2026-07-09,bread,Festive Burger Buns W/Out Sesame 300G,KES 130.00,No discount,https://www.quickmart.co.ke/festive-burger-buns-w/out-sesame-300g-18,Quickmart
+2026-07-09,bread,Millbakers Heart Deli Cake 750G,KES 235.00,No discount,https://www.quickmart.co.ke/millbakers-heart-deli-cake-750g-63,Quickmart
+2026-07-09,bread,Millbakers English Muffins 300G,KES 139.00,No discount,https://www.quickmart.co.ke/millbakers-english-muffins-300g-63,Quickmart
+2026-07-09,bread,Joy Super Bakers Plain Muffins 300G (6 Pieces),KES 138.00,No discount,https://www.quickmart.co.ke/joy-super-bakers-plain-muffins-300g-(6-pieces)-63,Quickmart
+2026-07-09,bread,Millbakers Chocolate Cupcakes 300G,KES 139.00,No discount,https://www.quickmart.co.ke/millbakers-chocolate-cupcakes-300g-63,Quickmart
+2026-07-09,bread,Festive Ciambella Orange 280G,KES 180.00,No discount,https://www.quickmart.co.ke/festive-ciambella-orange-280g-46,Quickmart
+2026-07-09,bread,Mill Bakers Daz Lemon Flavour 200Gms,KES 52.00,No discount,https://www.quickmart.co.ke/mill-bakers-daz-lemon-flavour-200gms-38,Quickmart
+2026-07-09,bread,Festivita 800 White,KES 130.00,No discount,https://www.quickmart.co.ke/festivita-800-white-23,Quickmart
+2026-07-09,bread,Fresh Mahamri 4Pack,KES 65.00,No discount,https://www.quickmart.co.ke/fresh-mahamri-4pack-51,Quickmart
+2026-07-09,bread,Festive Ciambella Blueberry 280G,KES 180.00,No discount,https://www.quickmart.co.ke/festive-ciambella-blueberry-280g-5,Quickmart
+2026-07-09,bread,Festive Half Pound Cake Marble Sliced Chocolate & Mint,KES 120.00,No discount,https://www.quickmart.co.ke/festive-half-pound-cake-marble-sliced-chocolate-mint-19,Quickmart
+2026-07-09,rice,Guru Premium Blended Pishori Rice 5Kg,KES 999.00,No discount,https://www.quickmart.co.ke/guru-premium-blended-pishori-rice-5kg-36,Quickmart
+2026-07-09,rice,Daawat Long Grain Rice 5Kg,KES 799.00,KES 855.00,https://www.quickmart.co.ke/daawat-long-grain-rice-5kg-20,Quickmart
+2026-07-09,rice,Cil Aromatic Pishori Rice 2Kg,KES 605.00,No discount,https://www.quickmart.co.ke/cil-aromatic-pishori-rice-2kg-10,Quickmart
+2026-07-09,rice,Quick Choice Long Grain Rice 2Kg,KES 355.00,No discount,https://www.quickmart.co.ke/quick-choice-long-grain-rice-2kg-95,Quickmart
+2026-07-09,rice,Sunrice Long Grain Rice 1Kg,KES 193.00,No discount,https://www.quickmart.co.ke/sunrice-long-grain-rice-1kg-32,Quickmart
+2026-07-09,rice,Cil Pishori Rice 5Kg,"KES 1,499.00",No discount,https://www.quickmart.co.ke/cil-pishori-rice-5kg-23,Quickmart
+2026-07-09,rice,Fresh Pilau Rice Per 400G,KES 319.60,No discount,https://www.quickmart.co.ke/fresh-pilau-rice-per-400g-46,Quickmart
+2026-07-09,rice,Ajab Rice 25 Kg,"KES 2,450.00",No discount,https://www.quickmart.co.ke/ajab-rice-25-kg-21,Quickmart
+2026-07-09,rice,Topdog Rice 10Kg,"KES 2,069.00","KES 2,225.00",https://www.quickmart.co.ke/topdog-rice-10kg-63,Quickmart
+2026-07-09,rice,Topdog Rice 2Kg,KES 423.00,KES 455.00,https://www.quickmart.co.ke/topdog-rice-2kg-63,Quickmart
+2026-07-09,rice,Pearl Rice Pishori Long 5Kg,"KES 1,600.00",No discount,https://www.quickmart.co.ke/pearl-rice-pishori-long-5kg-58,Quickmart
+2026-07-09,rice,Cil Blended Rice 1Kg,KES 185.00,No discount,https://www.quickmart.co.ke/cil-blended-rice-1kg-26,Quickmart
+2026-07-09,rice,Cil Blended Rice 2Kg,KES 365.00,No discount,https://www.quickmart.co.ke/cil-blended-rice-2kg-10,Quickmart
+2026-07-09,rice,Pearl Rice Pishori L/G 2Kg,KES 644.00,No discount,https://www.quickmart.co.ke/pearl-rice-pishori-l/g-2kg-13,Quickmart
+2026-07-09,rice,S&S Mwea Pishori Rice 1Kg,KES 302.00,No discount,https://www.quickmart.co.ke/s-s-mwea-pishori-rice-1kg-37,Quickmart
+2026-07-09,rice,Baraka Pishori Rice 2Kg,KES 328.00,No discount,https://www.quickmart.co.ke/baraka-pishori-rice-2kg-39,Quickmart
+2026-07-09,rice,Topdog Puppy Rice & Fish 2Kg,KES 809.00,KES 870.00,https://www.quickmart.co.ke/topdog-puppy-rice-fish-2kg-28,Quickmart
+2026-07-09,rice,Topdog Puppy Rice & Fish 5Kg,"KES 1,963.00","KES 2,110.00",https://www.quickmart.co.ke/topdog-puppy-rice-fish-5kg-27,Quickmart
+2026-07-09,rice,Daawat Aromatic Rice 2Kg,KES 594.00,No discount,https://www.quickmart.co.ke/daawat-aromatic-rice-2kg-19,Quickmart
+2026-07-09,rice,Pearl Super Basmati Rice 2Kg,KES 786.00,No discount,https://www.quickmart.co.ke/pearl-super-basmati-rice-2kg-23,Quickmart
+2026-07-09,rice,Kpl Long Grain Rice 5Kg,KES 721.00,KES 800.00,https://www.quickmart.co.ke/kpl-long-grain-rice-5kg-46,Quickmart
+2026-07-09,rice,Falcon Himalayan Basmati Rice 5Kg,"KES 1,376.00","KES 1,725.00",https://www.quickmart.co.ke/falcon-himalayan-basmati-rice-5kg-29,Quickmart
+2026-07-09,rice,Sunrice Basmati Rice 2Kg,KES 767.00,No discount,https://www.quickmart.co.ke/sunrice-basmati-rice-2kg-30,Quickmart
+2026-07-09,rice,Merry's Gold Pure Pishori Rice 5Kg,"KES 1,172.00",No discount,https://www.quickmart.co.ke/merry's-gold-pure-pishori-rice-5kg-24,Quickmart
+2026-07-09,rice,Pearl Super Basmati Rice 1Kg,KES 395.00,No discount,https://www.quickmart.co.ke/pearl-super-basmati-rice-1kg-24,Quickmart
+2026-07-09,rice,Fresh Chicken Chinese Rice Per 400G,KES 287.60,No discount,https://www.quickmart.co.ke/fresh-chicken-chinese-rice-per-400g-53,Quickmart
+2026-07-09,rice,Cil Brown Rice 1Kg,KES 349.00,No discount,https://www.quickmart.co.ke/cil-brown-rice-1kg-47,Quickmart
+2026-07-09,rice,Daawat Biryani Rice 5Kg,"KES 1,359.00",No discount,https://www.quickmart.co.ke/daawat-biryani-rice-5kg-25,Quickmart
+2026-07-09,rice,Sunrice Biryani Rice 1Kg,KES 254.00,No discount,https://www.quickmart.co.ke/sunrice-biryani-rice-1kg-27,Quickmart
+2026-07-09,rice,Daawat Biryani Rice 1Kg,KES 279.00,No discount,https://www.quickmart.co.ke/daawat-biryani-rice-1kg-58,Quickmart
+2026-07-09,rice,Daawat Biryani Rice 2Kg,KES 549.00,No discount,https://www.quickmart.co.ke/daawat-biryani-rice-2kg-21,Quickmart
+2026-07-09,rice,Topdog Rice 5Kg,"KES 1,112.00","KES 1,120.00",https://www.quickmart.co.ke/topdog-rice-5kg-63,Quickmart
+2026-07-09,rice,Morning Harvest Choco Rice Breakfast Cereal 250G,KES 349.00,No discount,https://www.quickmart.co.ke/morning-harvest-choco-rice-breakfast-cereal-250g-63,Quickmart
+2026-07-09,rice,Winnies Brown Rice 1Kg,KES 395.00,No discount,https://www.quickmart.co.ke/winnies-brown-rice-1kg-19,Quickmart
+2026-07-09,rice,Sunrice Long Grain Rice 2Kg,KES 386.00,No discount,https://www.quickmart.co.ke/sunrice-long-grain-rice-2kg-35,Quickmart
+2026-07-09,rice,Ranee Long Grain Rice 5Kg,KES 842.00,No discount,https://www.quickmart.co.ke/ranee-long-grain-rice-5kg-35,Quickmart
+2026-07-09,rice,Jamii Pishori Rice 2Kg,KES 515.00,No discount,https://www.quickmart.co.ke/jamii-pishori-rice-2kg-21,Quickmart
+2026-07-09,rice,Asanta Rice Blended 1Kg,KES 197.00,No discount,https://www.quickmart.co.ke/asanta-rice-blended-1kg-22,Quickmart
+2026-07-09,rice,Daawat Brown Rice 1Kg,KES 329.00,KES 360.00,https://www.quickmart.co.ke/daawat-brown-rice-1kg-24,Quickmart
+2026-07-09,rice,224 Aromatic Rice 5Kg,"KES 1,118.00",No discount,https://www.quickmart.co.ke/224-aromatic-rice-5kg-59,Quickmart
+2026-07-09,rice,Sunrice Biryani Rice 5Kg,"KES 1,254.00",No discount,https://www.quickmart.co.ke/sunrice-biryani-rice-5kg-35,Quickmart
+2026-07-09,rice,Sunrice Biryani Rice 2Kg,KES 508.00,No discount,https://www.quickmart.co.ke/sunrice-biryani-rice-2kg-26,Quickmart
+2026-07-09,rice,Scooby Dog Rice 2Kg,KES 460.00,No discount,https://www.quickmart.co.ke/scooby-dog-rice-2kg-28,Quickmart
+2026-07-09,rice,Ranee Rice Long Grain 2Kg Everyday,KES 340.00,No discount,https://www.quickmart.co.ke/ranee-rice-long-grain-2kg-everyday-63,Quickmart
+2026-07-09,rice,Kcl Mrpp Mwea Variety Rice 5Kg,"KES 1,047.00",No discount,https://www.quickmart.co.ke/kcl-mrpp-mwea-variety-rice-5kg-35,Quickmart
+2026-07-09,rice,S&S Mwea Pishori Rice 5Kg,"KES 1,474.00",No discount,https://www.quickmart.co.ke/s-s-mwea-pishori-rice-5kg-67,Quickmart
+2026-07-09,rice,Kcl Mrpp Mwea Variety Rice 2Kg,KES 434.00,No discount,https://www.quickmart.co.ke/kcl-mrpp-mwea-variety-rice-2kg-30,Quickmart
+2026-07-09,rice,Pearl Super Basmati Rice 5Kg,"KES 1,955.00",No discount,https://www.quickmart.co.ke/pearl-super-basmati-rice-5kg-29,Quickmart
+2026-07-09,rice,Family Taste Basmati Rice 5Kg,"KES 1,179.00",No discount,https://www.quickmart.co.ke/family-taste-basmati-rice-5kg-30,Quickmart
+2026-07-09,rice,224 Long Grain Rice 1Kg,KES 162.00,No discount,https://www.quickmart.co.ke/224-long-grain-rice-1kg-38,Quickmart
+2026-07-09,rice,Fresh Cashewnut Rice Per 400G,KES 223.60,No discount,https://www.quickmart.co.ke/fresh-cashewnut-rice-per-400g-57,Quickmart
+2026-07-09,rice,Fresh Vegetable Rice Per 400G,KES 219.60,No discount,https://www.quickmart.co.ke/fresh-vegetable-rice-per-400g-51,Quickmart
+2026-07-09,rice,Pearl Pishori Rice Long Grain 1Kg,KES 324.00,No discount,https://www.quickmart.co.ke/pearl-pishori-rice-long-grain-1kg-61,Quickmart
+2026-07-09,rice,Quick Choice Long Grain Rice 1Kg,KES 170.00,No discount,https://www.quickmart.co.ke/quick-choice-long-grain-rice-1kg-24,Quickmart
+2026-07-09,rice,Quick Choice White Basmatic Rice 2Kg,KES 478.00,No discount,https://www.quickmart.co.ke/quick-choice-white-basmatic-rice-2kg-30,Quickmart
+2026-07-09,rice,Bonnie Lamb And Rice Adult Cat Food 1.5Kg,"KES 1,840.00",No discount,https://www.quickmart.co.ke/bonnie-lamb-and-rice-adult-cat-food-1.5kg-63,Quickmart
+2026-07-09,rice,Rel-Nrc Long Grain Blended Rice 1Kg,KES 198.00,No discount,https://www.quickmart.co.ke/rel-nrc-long-grain-blended-rice-1kg-42,Quickmart
+2026-07-09,rice,Cereal Box Sindano Rice Per 500G,KES 115.00,No discount,https://www.quickmart.co.ke/cereal-box-sindano-rice-per-500g-1,Quickmart
+2026-07-09,rice,Stargift Nylon Rice Laddle S/Handle,KES 425.00,No discount,https://www.quickmart.co.ke/stargift-nylon-rice-laddle-s/handle-64,Quickmart
+2026-07-09,rice,Rel-Nrc Long Grain Blended Rice 5Kg,KES 948.00,No discount,https://www.quickmart.co.ke/rel-nrc-long-grain-blended-rice-5kg-22,Quickmart
+2026-07-09,rice,Morning Harvest Choco Rice Breakfast Cereal 450G,KES 579.00,No discount,https://www.quickmart.co.ke/morning-harvest-choco-rice-breakfast-cereal-450g-63,Quickmart
+2026-07-09,rice,Cereal Box Brown Rice Dmc Per 500G,KES 142.50,No discount,https://www.quickmart.co.ke/cereal-box-brown-rice-dmc-per-500g,Quickmart
+2026-07-09,rice,Cereal Box Mwea Pishori Rice Dmc Per 500G,KES 132.50,No discount,https://www.quickmart.co.ke/cereal-box-mwea-pishori-rice-dmc-per-500g-1,Quickmart
+2026-07-09,rice,Morning Harvest Cereal Cornflakes Value Pack 500G,KES 332.00,KES 415.00,https://www.quickmart.co.ke/morning-harvest-cereal-cornflakes-value-pack-500g-63,Quickmart
+2026-07-09,rice,Daawat Pulses Green Grams 500G,KES 117.00,No discount,https://www.quickmart.co.ke/daawat-pulses-green-grams-500g-63,Quickmart
+2026-07-09,rice,Weetabix Wholegrain Cereals 210G,KES 205.00,No discount,https://www.quickmart.co.ke/weetabix-wholegrain-cereals-210g-63,Quickmart
+2026-07-09,rice,Nutrameal Imported Popcorn Kernels 1Kg,KES 350.00,No discount,https://www.quickmart.co.ke/nutrameal-imported-popcorn-kernels-1kg-63,Quickmart
+2026-07-09,rice,Daawat Lentils Kamande 1Kg,KES 349.00,KES 405.00,https://www.quickmart.co.ke/daawat-lentils-kamande-1kg-63,Quickmart
+2026-07-09,rice,Morning Harvest Corn Flakes Cereal 250G,KES 207.00,KES 259.00,https://www.quickmart.co.ke/morning-harvest-corn-flakes-cereal-250g-63,Quickmart
+2026-07-09,rice,Nutrameal Green Lentils 1Kg,KES 398.00,KES 430.00,https://www.quickmart.co.ke/nutrameal-green-lentils-1kg-63,Quickmart
+2026-07-09,rice,Pearl Polished Green Grams 500G,KES 124.00,No discount,https://www.quickmart.co.ke/pearl-polished-green-grams-500g-63,Quickmart
+2026-07-09,rice,Butterfly Grains Polished Green Grams 1Kg,KES 253.00,KES 281.00,https://www.quickmart.co.ke/butterfly-grains-polished-green-grams-1kg-63,Quickmart
+2026-07-09,rice,Butterfly Grains Polished Green Grams 500G,KES 147.00,No discount,https://www.quickmart.co.ke/butterfly-grains-polished-green-grams-500g-63,Quickmart
+2026-07-09,rice,Daawat Imported Popcorn 1Kg,KES 263.00,KES 378.00,https://www.quickmart.co.ke/daawat-imported-popcorn-1kg-63,Quickmart
+2026-07-09,rice,Elbbin Shapies Choco Hoops 350G,KES 400.00,No discount,https://www.quickmart.co.ke/elbbin-shapies-choco-hoops-350g-63,Quickmart
+2026-07-09,rice,Elbbin Shapies Choco Hoops 500G,KES 510.00,No discount,https://www.quickmart.co.ke/elbbin-shapies-choco-hoops-500g-63,Quickmart
+2026-07-09,rice,Yankee Dates-250Gms,KES 227.00,No discount,https://www.quickmart.co.ke/yankee-dates-250gms-29,Quickmart
+2026-07-09,rice,Elbbin Shapies Honey Hoops 350G,KES 480.00,No discount,https://www.quickmart.co.ke/elbbin-shapies-honey-hoops-350g-63,Quickmart
+2026-07-09,rice,Morning Harvest Jumbo Oats 500G Bag,KES 249.00,No discount,https://www.quickmart.co.ke/morning-harvest-jumbo-oats-500g-bag-57,Quickmart
+2026-07-09,rice,Butterfly Green Lentils 1Kg,KES 466.00,No discount,https://www.quickmart.co.ke/butterfly-green-lentils-1kg-63,Quickmart
+2026-07-09,rice,Shapies Chocolate Pillows 35G,KES 35.00,No discount,https://www.quickmart.co.ke/shapies-chocolate-pillows-35g-20,Quickmart
+2026-07-09,rice,Daawat Long Grain 1Kg,KES 172.00,No discount,https://www.quickmart.co.ke/daawat-long-grain-1kg-64,Quickmart
+2026-07-09,rice,Naturalli Chia Seeds 100G,KES 179.00,No discount,https://www.quickmart.co.ke/naturalli-chia-seeds-100g-27,Quickmart
+2026-07-09,rice,Nutrameal Black Njahi Beans 1Kg,KES 255.00,KES 275.00,https://www.quickmart.co.ke/nutrameal-black-njahi-beans-1kg-63,Quickmart
+2026-07-09,rice,Weetabix Wholegrain Cereal 850G,KES 710.00,No discount,https://www.quickmart.co.ke/weetabix-wholegrain-cereal-850g-63,Quickmart
+2026-07-09,rice,Daawat Yellow Beans 1Kg,KES 249.00,KES 288.00,https://www.quickmart.co.ke/daawat-yellow-beans-1kg-62,Quickmart
+2026-07-09,rice,Pearl Njahi Black Beans 1Kg,KES 290.00,No discount,https://www.quickmart.co.ke/pearl-njahi-black-beans-1kg-63,Quickmart
+2026-07-09,rice,Butterfly Pulses Green Lentils 500G,KES 235.00,No discount,https://www.quickmart.co.ke/butterfly-pulses-green-lentils-500g-63,Quickmart
+2026-07-09,rice,Grainmill Jumbo Oats 500G,KES 265.00,No discount,https://www.quickmart.co.ke/grainmill-jumbo-oats-500g-21,Quickmart
+2026-07-09,cooking oil,Rina Vegetable Cooking Oil 5L,"KES 1,399.00",No discount,https://www.quickmart.co.ke/rina-vegetable-cooking-oil-5l-63,Quickmart
+2026-07-09,cooking oil,Golden Fry Vegetable Cooking Oil 5L,"KES 1,616.00",No discount,https://www.quickmart.co.ke/golden-fry-vegetable-cooking-oil-5l-63,Quickmart
+2026-07-09,cooking oil,Top Fry Vegetable Cooking Oil 5L,"KES 1,279.00","KES 1,457.00",https://www.quickmart.co.ke/top-fry-vegetable-cooking-oil-5l-63,Quickmart
+2026-07-09,cooking oil,Top Fry Vegetable Cooking Oil 3L,KES 829.00,KES 889.00,https://www.quickmart.co.ke/top-fry-vegetable-cooking-oil-3l-63,Quickmart
+2026-07-09,cooking oil,Golden Fry Cooking Oil 2L,KES 690.00,No discount,https://www.quickmart.co.ke/golden-fry-cooking-oil-2l-7,Quickmart
+2026-07-09,cooking oil,Rina Vegetable Cooking Oil 3L,KES 976.00,No discount,https://www.quickmart.co.ke/rina-vegetable-cooking-oil-3l-63,Quickmart
+2026-07-09,cooking oil,Rina Vegetable Cooking Oil 1L,KES 315.00,KES 360.00,https://www.quickmart.co.ke/rina-vegetable-cooking-oil-1l-63,Quickmart
+2026-07-09,cooking oil,Top Fry Vegetable Cooking Oil 2L,KES 595.00,No discount,https://www.quickmart.co.ke/top-fry-vegetable-cooking-oil-2l-63,Quickmart
+2026-07-09,cooking oil,Golden Fry Vegetable Cooking Oil 1L,KES 358.00,No discount,https://www.quickmart.co.ke/golden-fry-vegetable-cooking-oil-1l-63,Quickmart
+2026-07-09,cooking oil,Golden Fry Vegetable Cooking Oil 3L,"KES 1,050.00",No discount,https://www.quickmart.co.ke/golden-fry-vegetable-cooking-oil-3l-63,Quickmart
+2026-07-09,cooking oil,Kasuku Pure White Cooking Fat 1Kg,KES 349.00,KES 430.00,https://www.quickmart.co.ke/kasuku-pure-white-cooking-fat-1kg-63,Quickmart
+2026-07-09,cooking oil,Kasuku Pure White Cooking Fat 500G,KES 176.00,KES 220.00,https://www.quickmart.co.ke/kasuku-pure-white-cooking-fat-500g-63,Quickmart
+2026-07-09,cooking oil,Cowboy Spesheli Cooking Fat 2Kg,KES 738.00,No discount,https://www.quickmart.co.ke/cowboy-spesheli-cooking-fat-2kg-63,Quickmart
+2026-07-09,cooking oil,Cowboy Spesheli Cooking Fat 1Kg,KES 377.00,No discount,https://www.quickmart.co.ke/cowboy-spesheli-cooking-fat-1kg-63,Quickmart
+2026-07-09,cooking oil,Rina Vegetable Oil 2Ltrs,KES 629.00,No discount,https://www.quickmart.co.ke/rina-vegetable-oil-2ltrs-40,Quickmart
+2026-07-09,cooking oil,Fresh Fri Vegetable Oil 5L,"KES 1,600.00",No discount,https://www.quickmart.co.ke/fresh-fri-vegetable-oil-5l-63,Quickmart
+2026-07-09,cooking oil,Pb Cooking Set 099/082,KES 865.00,No discount,https://www.quickmart.co.ke/pb-cooking-set-099/082-21,Quickmart
+2026-07-09,cooking oil,Bidco Chipsy Pure Yellow Vegetable Cooking Fat 500G,KES 192.00,No discount,https://www.quickmart.co.ke/bidco-chipsy-pure-yellow-vegetable-cooking-fat-500g-63,Quickmart
+2026-07-09,cooking oil,Fresh Fri Vegetable Oil 1L,KES 350.00,No discount,https://www.quickmart.co.ke/fresh-fri-vegetable-oil-1l-63,Quickmart
+2026-07-09,cooking oil,Bidco Chipsy Pure Yellow Vegetable Cooking Fat 1Kg,KES 377.00,No discount,https://www.quickmart.co.ke/bidco-chipsy-pure-yellow-vegetable-cooking-fat-1kg-63,Quickmart
+2026-07-09,cooking oil,Oilyssa Extra Virgin Olive Oil 250Ml,KES 790.00,No discount,https://www.quickmart.co.ke/oilyssa-extra-virgin-olive-oil-250ml-63,Quickmart
+2026-07-09,cooking oil,Rinsun Sunflower Oil 5L,"KES 1,859.00","KES 2,065.00",https://www.quickmart.co.ke/rinsun-sunflower-oil-5l-63,Quickmart
+2026-07-09,cooking oil,Rinsun 100% Sunflower Oil 1L,KES 441.00,KES 490.00,https://www.quickmart.co.ke/rinsun-100-sunflower-oil-1l-63,Quickmart
+2026-07-09,cooking oil,Rinsun 100% Sunflower Oil 2L,KES 860.00,KES 955.00,https://www.quickmart.co.ke/rinsun-100-sunflower-oil-2l-63,Quickmart
+2026-07-09,cooking oil,Cooking Bananas Matoke Per Kg,KES 159.00,No discount,https://www.quickmart.co.ke/cooking-bananas-matoke-per-kg-23,Quickmart
+2026-07-09,cooking oil,Han Wooden Kitchen Cooking Set,KES 550.00,No discount,https://www.quickmart.co.ke/han-wooden-kitchen-cooking-set-24,Quickmart
+2026-07-09,cooking oil,Santa Maria Extra Virgin Olive Oil 250Ml,KES 825.00,KES 925.00,https://www.quickmart.co.ke/santa-maria-extra-virgin-olive-oil-250ml-63,Quickmart
+2026-07-09,cooking oil,Brookside Farm Fresh Cooking Cream Cup 230Ml,KES 205.00,No discount,https://www.quickmart.co.ke/brookside-farm-fresh-cooking-cream-cup-230ml-63,Quickmart
+2026-07-09,cooking oil,Avena Veg Oil 3L,"KES 1,075.00",No discount,https://www.quickmart.co.ke/avena-veg-oil-3l-24,Quickmart
+2026-07-09,cooking oil,Han Silicon Kitchen Cooking Brush,KES 360.00,No discount,https://www.quickmart.co.ke/han-silicon-kitchen-cooking-brush-23,Quickmart
+2026-07-09,cooking oil,Fresh Fri Vegetable Oil 3L,"KES 1,060.00",No discount,https://www.quickmart.co.ke/fresh-fri-vegetable-oil-3l-63,Quickmart
+2026-07-09,cooking oil,Han Wooden Cooking Mwiko Small Hardwo,KES 174.00,No discount,https://www.quickmart.co.ke/han-wooden-cooking-mwiko-small-hardwo-24,Quickmart
+2026-07-09,cooking oil,Brookside Farm Fresh Cooking Cream Cup 400Ml,KES 345.00,No discount,https://www.quickmart.co.ke/brookside-farm-fresh-cooking-cream-cup-400ml-63,Quickmart
+2026-07-09,cooking oil,Avena Veg Oil 2L,KES 690.00,No discount,https://www.quickmart.co.ke/avena-veg-oil-2l-27,Quickmart
+2026-07-09,cooking oil,Elianto Corn Oil 3L,"KES 1,692.00",No discount,https://www.quickmart.co.ke/elianto-corn-oil-3l-26,Quickmart
+2026-07-09,cooking oil,Elianto Corn Oil 2Lt,"KES 1,197.00",No discount,https://www.quickmart.co.ke/elianto-corn-oil-2lt-19,Quickmart
+2026-07-09,cooking oil,Rinsun 100% Sunflower Oil 750Ml,KES 375.00,No discount,https://www.quickmart.co.ke/rinsun-100-sunflower-oil-750ml-63,Quickmart
+2026-07-09,cooking oil,Rinsun 100% Sunflower Oil 500Ml,KES 245.00,No discount,https://www.quickmart.co.ke/rinsun-100-sunflower-oil-500ml-63,Quickmart
+2026-07-09,cooking oil,Sun Gold Seed Oil 3L,"KES 1,221.00",No discount,https://www.quickmart.co.ke/sun-gold-seed-oil-3l-37,Quickmart
+2026-07-09,cooking oil,Pure Mountain Pure Canola Oil 5L,"KES 2,191.00",No discount,https://www.quickmart.co.ke/pure-mountain-pure-canola-oil-5l-63,Quickmart
+2026-07-09,cooking oil,Sun Gold Seed Oil 1L,KES 425.00,No discount,https://www.quickmart.co.ke/sun-gold-seed-oil-1l-33,Quickmart
+2026-07-09,cooking oil,Kentaste Coconut Oil 400Ml,KES 704.00,No discount,https://www.quickmart.co.ke/kentaste-coconut-oil-400ml-55,Quickmart
+2026-07-09,cooking oil,Avena Veg Oil 5L,"KES 1,610.00",No discount,https://www.quickmart.co.ke/avena-veg-oil-5l-46,Quickmart
+2026-07-09,cooking oil,Rinsun Sunflower Oil 3L,"KES 1,247.00","KES 1,385.00",https://www.quickmart.co.ke/rinsun-sunflower-oil-3l-49,Quickmart
+2026-07-09,cooking oil,Cussons Baby Soft And Smooth Massage Oil 100Ml,KES 235.00,No discount,https://www.quickmart.co.ke/cussons-baby-soft-and-smooth-massage-oil-100ml-63,Quickmart
+2026-07-09,cooking oil,Ors Olive Oil Sheen Spray - 250Ml,KES 350.00,No discount,https://www.quickmart.co.ke/ors-olive-oil-sheen-spray-250ml-22,Quickmart
+2026-07-09,cooking oil,Nice And Lovely New Flawless Bio Body Oil 100Ml,KES 750.00,No discount,https://www.quickmart.co.ke/nice-and-lovely-new-flawless-bio-body-oil-100ml-63,Quickmart
+2026-07-09,cooking oil,Bass Oil Dispenser Small,KES 755.00,No discount,https://www.quickmart.co.ke/bass-oil-dispenser-small-26,Quickmart
+2026-07-09,cooking oil,Fresh Fri Oil 2L,KES 680.00,No discount,https://www.quickmart.co.ke/fresh-fri-oil-2l-40,Quickmart
+2026-07-09,cooking oil,Kentaste Coconut Oil 200Ml/250Ml,KES 419.00,No discount,https://www.quickmart.co.ke/kentaste-coconut-oil-200ml/250ml-23,Quickmart
+2026-07-09,cooking oil,Alo Lotion Shea Butter & Macadamia Oil - 200Ml,KES 175.00,No discount,https://www.quickmart.co.ke/alo-lotion-shea-butter-macadamia-oil-200ml-59,Quickmart
+2026-07-09,cooking oil,Elianto Corn Oil 5L,"KES 2,623.00",No discount,https://www.quickmart.co.ke/elianto-corn-oil-5l-26,Quickmart
+2026-07-09,cooking oil,Flamingo Soap 90G X 3 Marula Oil,KES 155.00,No discount,https://www.quickmart.co.ke/flamingo-soap-90g-x-3-marula-oil-24,Quickmart
+2026-07-09,cooking oil,Blue King Olive Oil Esse. B/W500Ml,KES 540.00,No discount,https://www.quickmart.co.ke/blue-king-olive-oil-esse.-b/w500ml-63,Quickmart
+2026-07-09,cooking oil,Fa Sg Cream&Oil Cocoa Butter 250Ml,KES 529.00,No discount,https://www.quickmart.co.ke/fa-sg-cream-oil-cocoa-butter-250ml-63,Quickmart
+2026-07-09,cooking oil,Ideal Olive Oil - 25Ml,KES 125.00,No discount,https://www.quickmart.co.ke/ideal-olive-oil-25ml-14,Quickmart
+2026-07-09,cooking oil,Kimbo Premium Oil 2L,KES 790.00,No discount,https://www.quickmart.co.ke/kimbo-premium-oil-2l-28,Quickmart
+2026-07-09,cooking oil,Ballet Baby Oil 125Ml,KES 173.00,No discount,https://www.quickmart.co.ke/ballet-baby-oil-125ml-12,Quickmart
+2026-07-09,cooking oil,Famrico Castor Oil - 65Ml,KES 190.00,No discount,https://www.quickmart.co.ke/famrico-castor-oil-65ml-28,Quickmart
+2026-07-09,cooking oil,Famrico Extra Virgin Coconut Oil - 65Ml,KES 100.00,No discount,https://www.quickmart.co.ke/famrico-extra-virgin-coconut-oil-65ml-51,Quickmart
+2026-07-09,cooking oil,Cussons Baby Mild And Gentle Massage Oil 50Ml,KES 150.00,No discount,https://www.quickmart.co.ke/cussons-baby-mild-and-gentle-massage-oil-50ml-63,Quickmart
+2026-07-09,cooking oil,Elianto Corn Oil 1L,KES 599.00,No discount,https://www.quickmart.co.ke/elianto-corn-oil-1l-24,Quickmart
+2026-07-09,cooking oil,Angelique Massage Oil Cool Mint - 300Ml,KES 350.00,No discount,https://www.quickmart.co.ke/angelique-massage-oil-cool-mint-300ml-16,Quickmart
+2026-07-09,cooking oil,Angelique Massage Oil Cool Mint - 500Ml,KES 526.00,No discount,https://www.quickmart.co.ke/angelique-massage-oil-cool-mint-500ml-16,Quickmart
+2026-07-09,cooking oil,Pika Veg Oil 20L,"KES 5,650.00",No discount,https://www.quickmart.co.ke/pika-veg-oil-20l-26,Quickmart
+2026-07-09,cooking oil,Avena Veg Oil 10L,"KES 2,935.00",No discount,https://www.quickmart.co.ke/avena-veg-oil-10l-26,Quickmart
+2026-07-09,cooking oil,Tcb Argan Oil - 236Ml,KES 410.00,No discount,https://www.quickmart.co.ke/tcb-argan-oil-236ml-26,Quickmart
+2026-07-09,cooking oil,Ballet Baby Oil 230Ml,KES 289.00,No discount,https://www.quickmart.co.ke/ballet-baby-oil-230ml-39,Quickmart
+2026-07-09,cooking oil,Tcb Coconut Oil - 236Ml,KES 410.00,No discount,https://www.quickmart.co.ke/tcb-coconut-oil-236ml-28,Quickmart
+2026-07-09,cooking oil,Ideal Castor Oil - 25Ml,KES 91.00,No discount,https://www.quickmart.co.ke/ideal-castor-oil-25ml-16,Quickmart
+2026-07-09,cooking oil,Ideal Castor Oil 100Ml,KES 260.00,No discount,https://www.quickmart.co.ke/ideal-castor-oil-100ml-63,Quickmart
+2026-07-09,cooking oil,Ideal Castor Oil - 200Ml,KES 430.00,No discount,https://www.quickmart.co.ke/ideal-castor-oil-200ml-64,Quickmart
+2026-07-09,cooking oil,J&J Baby Oil 125Ml,KES 590.00,No discount,https://www.quickmart.co.ke/j-j-baby-oil-125ml-63,Quickmart
+2026-07-09,cooking oil,Tania Coconut Oil - 120Ml,KES 175.00,No discount,https://www.quickmart.co.ke/tania-coconut-oil-120ml-31,Quickmart
+2026-07-09,cooking oil,Famrico Castor Oil 250Ml,KES 480.00,No discount,https://www.quickmart.co.ke/famrico-castor-oil-250ml-32,Quickmart
+2026-07-09,cooking oil,Power Eagle 80 Penetrating Oil 120Ml,KES 170.00,No discount,https://www.quickmart.co.ke/power-eagle-80-penetrating-oil-120ml-2,Quickmart
+2026-07-09,cooking oil,Tania Eucalyptus Oil - 25Ml,KES 195.00,No discount,https://www.quickmart.co.ke/tania-eucalyptus-oil-25ml-11,Quickmart
+2026-07-09,cooking oil,Kentaste Coconut Oil 60Ml,KES 104.00,No discount,https://www.quickmart.co.ke/kentaste-coconut-oil-60ml-50,Quickmart
+2026-07-09,cooking oil,N&L Avocado Oil 40Ml,KES 120.00,No discount,https://www.quickmart.co.ke/n-l-avocado-oil-40ml-16,Quickmart
+2026-07-09,cooking oil,Tropical Coconut Oil 150Ml,KES 200.00,No discount,https://www.quickmart.co.ke/tropical-coconut-oil-150ml-23,Quickmart
+2026-07-09,cooking oil,Angelique Oil Almond 300Ml,KES 350.00,No discount,https://www.quickmart.co.ke/angelique-oil-almond-300ml-61,Quickmart
+2026-07-09,cooking oil,Tropical Coconut Oil 250Ml,KES 320.00,No discount,https://www.quickmart.co.ke/tropical-coconut-oil-250ml-23,Quickmart
+2026-07-09,cooking oil,Luron Maws Baby Oil 125Ml,KES 185.00,No discount,https://www.quickmart.co.ke/luron-maws-baby-oil-125ml-63,Quickmart
+2026-07-09,cooking oil,Vaseline Daily Brightening Body Oil - 200Ml,"KES 1,595.00",No discount,https://www.quickmart.co.ke/vaseline-daily-brightening-body-oil-200ml-58,Quickmart
+2026-07-09,cooking oil,Tania Pure Castor Oil - 100Ml,KES 170.00,No discount,https://www.quickmart.co.ke/tania-pure-castor-oil-100ml-9,Quickmart
+2026-07-09,cooking oil,Vitahealth Cod Liver Oil 200Ml,"KES 1,450.00",No discount,https://www.quickmart.co.ke/vitahealth-cod-liver-oil-200ml-18,Quickmart
+2026-07-09,cooking oil,Bass Oil Dispenser Spray/Brush,KES 510.00,No discount,https://www.quickmart.co.ke/bass-oil-dispenser-spray/brush-15,Quickmart
+2026-07-09,cooking oil,Nice & Lovely Bio Body Oil - 50Ml,KES 450.00,No discount,https://www.quickmart.co.ke/nice-lovely-bio-body-oil-50ml-28,Quickmart
+2026-07-09,cooking oil,Famrico Liquid Paraffin Oil - 50Ml,KES 80.00,No discount,https://www.quickmart.co.ke/famrico-liquid-paraffin-oil-50ml-27,Quickmart
+2026-07-09,maize flour,Jogoo Maize Meal 2Kg,KES 168.00,No discount,https://www.quickmart.co.ke/jogoo-maize-meal-2kg-53,Quickmart
+2026-07-09,maize flour,Dola Maize Meal 2Kg,KES 164.00,No discount,https://www.quickmart.co.ke/dola-maize-meal-2kg-52,Quickmart
+2026-07-09,maize flour,Ajab Premium Fortified Sifted Maize Meal 2Kg,KES 162.00,KES 177.00,https://www.quickmart.co.ke/ajab-premium-fortified-sifted-maize-meal-2kg-43,Quickmart
+2026-07-09,maize flour,Joymax Maize Meal 5Kg,KES 345.00,No discount,https://www.quickmart.co.ke/joymax-maize-meal-5kg-28,Quickmart
+2026-07-09,maize flour,Raha Premium Maize Meal 2 Kg,KES 197.00,No discount,https://www.quickmart.co.ke/raha-premium-maize-meal-2-kg-11,Quickmart
+2026-07-09,maize flour,Mfalme 2Kg Sifted Maize Meal,KES 156.00,KES 161.00,https://www.quickmart.co.ke/mfalme-2kg-sifted-maize-meal-40,Quickmart
+2026-07-09,maize flour,Lea Premium Maize Meal 2Kg,KES 196.00,No discount,https://www.quickmart.co.ke/lea-premium-maize-meal-2kg-28,Quickmart
+2026-07-09,maize flour,Spenza Premium Maize Meal 2Kg,KES 194.00,KES 202.00,https://www.quickmart.co.ke/spenza-premium-maize-meal-2kg-57,Quickmart
+2026-07-09,maize flour,Raha Premium Maize Meal 5 Kg,KES 495.00,No discount,https://www.quickmart.co.ke/raha-premium-maize-meal-5-kg-24,Quickmart
+2026-07-09,maize flour,Joymax Maize Meal 2Kg,KES 140.00,No discount,https://www.quickmart.co.ke/joymax-maize-meal-2kg-35,Quickmart
+2026-07-09,maize flour,Ndovu Maize Meal 1Kg,KES 78.00,No discount,https://www.quickmart.co.ke/ndovu-maize-meal-1kg-12,Quickmart
+2026-07-09,maize flour,Pembe Maize Meal 10Kg,KES 830.00,No discount,https://www.quickmart.co.ke/pembe-maize-meal-10kg-29,Quickmart
+2026-07-09,maize flour,Lea Premium Maize Meal 1Kg,KES 99.00,No discount,https://www.quickmart.co.ke/lea-premium-maize-meal-1kg-28,Quickmart
+2026-07-09,maize flour,Oryx Premium Maize Meal 2Kg,KES 169.00,No discount,https://www.quickmart.co.ke/oryx-premium-maize-meal-2kg-40,Quickmart
+2026-07-09,maize flour,Spenza Premium Maize Meal 1Kg,KES 99.00,KES 103.00,https://www.quickmart.co.ke/spenza-premium-maize-meal-1kg-66,Quickmart
+2026-07-09,maize flour,Pembe Maize Flour 2Kg,KES 161.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-2kg-56,Quickmart
+2026-07-09,maize flour,Soko Maize Flour 2Kg,KES 165.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-2kg-45,Quickmart
+2026-07-09,maize flour,210 Sifted Maize Flour 2Kg,KES 151.00,KES 164.00,https://www.quickmart.co.ke/210-sifted-maize-flour-2kg-52,Quickmart
+2026-07-09,maize flour,Ndovu Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/ndovu-maize-flour-2kg-23,Quickmart
+2026-07-09,maize flour,Soko Maize Flour 5Kg,KES 418.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-5kg-59,Quickmart
+2026-07-09,maize flour,Pembe Maize Flour 5Kg,KES 415.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-5kg-66,Quickmart
+2026-07-09,maize flour,Soko Maize Flour 10Kg,KES 825.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-10kg-48,Quickmart
+2026-07-09,maize flour,Hostess Maize Flour 2Kg,KES 199.00,No discount,https://www.quickmart.co.ke/hostess-maize-flour-2kg-57,Quickmart
+2026-07-09,maize flour,Swan Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/swan-maize-flour-2kg-41,Quickmart
+2026-07-09,maize flour,Soko Maize Flour 1Kg,KES 84.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-1kg-12,Quickmart
+2026-07-09,maize flour,Shelled Maize Per Kg,KES 329.00,No discount,https://www.quickmart.co.ke/shelled-maize-per-kg-23,Quickmart
+2026-07-09,maize flour,Mama Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/mama-maize-flour-2kg-32,Quickmart
+2026-07-09,maize flour,Pembe Maize Flour 1Kg,KES 88.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-1kg-60,Quickmart
+2026-07-09,maize flour,Jogoo Maize Flour 5Kg,KES 436.00,No discount,https://www.quickmart.co.ke/jogoo-maize-flour-5kg-26,Quickmart
+2026-07-09,maize flour,Green Maize Corn Per Pc,KES 50.00,No discount,https://www.quickmart.co.ke/green-maize-corn-per-pc-88,Quickmart
+2026-07-09,maize flour,Jogoo Maize Flour 10Kg,KES 860.00,No discount,https://www.quickmart.co.ke/jogoo-maize-flour-10kg-30,Quickmart
+2026-07-09,maize flour,Soko Afya Whole Grain Maize 2Kg,KES 203.00,No discount,https://www.quickmart.co.ke/soko-afya-whole-grain-maize-2kg-26,Quickmart
+2026-07-09,maize flour,Festive Whole Meal Brown 400G,KES 65.00,No discount,https://www.quickmart.co.ke/festive-whole-meal-brown-400g-14,Quickmart
+2026-07-09,maize flour,Festive Supreme Whole Meal Bread 800G,KES 130.00,No discount,https://www.quickmart.co.ke/festive-supreme-whole-meal-bread-800g-62,Quickmart
+2026-07-09,maize flour,Supa Meal Soya M/Roast 250G Tangawizi,KES 145.00,No discount,https://www.quickmart.co.ke/supa-meal-soya-m/roast-250g-tangawizi-19,Quickmart
+2026-07-09,maize flour,Festive Whole Meal Brown Sliced Bread 1.5Kg,KES 240.00,No discount,https://www.quickmart.co.ke/festive-whole-meal-brown-sliced-bread-1.5kg-63,Quickmart
+2026-07-09,maize flour,Amaize Flour 2Kg,KES 202.00,No discount,https://www.quickmart.co.ke/amaize-flour-2kg-46,Quickmart
+2026-07-09,maize flour,Nutrameal Natural Wholesome Cane Sugar 2Kg,KES 305.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-2kg-63,Quickmart
+2026-07-09,maize flour,Regular Minced Meat Per 500G,KES 499.50,No discount,https://www.quickmart.co.ke/regular-minced-meat-per-500g-41,Quickmart
+2026-07-09,maize flour,Meat On Bone Per 500G,KES 449.50,No discount,https://www.quickmart.co.ke/meat-on-bone-per-500g-96,Quickmart
+2026-07-09,maize flour,Nutrameal Green Lentils 1Kg,KES 398.00,KES 430.00,https://www.quickmart.co.ke/nutrameal-green-lentils-1kg-63,Quickmart
+2026-07-09,maize flour,Nutrameal Nyayo Beans 1Kg,KES 269.00,KES 290.00,https://www.quickmart.co.ke/nutrameal-nyayo-beans-1kg-24,Quickmart
+2026-07-09,maize flour,Nutrameal Natural Wholesome Cane Sugar 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-1kg-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Enigma White Mini Ice Cream 80Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-white-mini-ice-cream-80ml-63,Quickmart
+2026-07-09,maize flour,Minute Maid Apple Juice 1L,KES 160.00,No discount,https://www.quickmart.co.ke/minute-maid-apple-juice-1l-63,Quickmart
+2026-07-09,maize flour,Choice Meats Meaty Beef Sausage 500G,KES 328.00,No discount,https://www.quickmart.co.ke/choice-meats-meaty-beef-sausage-500g-63,Quickmart
+2026-07-09,maize flour,Nutrameal Black Njahi Beans 1Kg,KES 255.00,KES 275.00,https://www.quickmart.co.ke/nutrameal-black-njahi-beans-1kg-63,Quickmart
+2026-07-09,maize flour,Choice Meats Beef Sausage 1Kg,KES 605.00,No discount,https://www.quickmart.co.ke/choice-meats-beef-sausage-1kg-63,Quickmart
+2026-07-09,maize flour,Minute Maid Delight Tropical1Lbtl,KES 160.00,No discount,https://www.quickmart.co.ke/minute-maid-delight-tropical1lbtl-48,Quickmart
+2026-07-09,maize flour,Lyons Maid Enigma Dark Mini Ice Cream 80Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-dark-mini-ice-cream-80ml-63,Quickmart
+2026-07-09,maize flour,Minute Maid Mango Juice 1L,KES 160.00,No discount,https://www.quickmart.co.ke/minute-maid-mango-juice-1l-63,Quickmart
+2026-07-09,maize flour,Nutrameal Imported Popcorn Kernels 1Kg,KES 350.00,No discount,https://www.quickmart.co.ke/nutrameal-imported-popcorn-kernels-1kg-63,Quickmart
+2026-07-09,maize flour,Nutrameal Chana Dal 1Kg,KES 330.00,No discount,https://www.quickmart.co.ke/nutrameal-chana-dal-1kg-28,Quickmart
+2026-07-09,maize flour,Cereos Oatmeal Cereals 375G.,KES 297.00,No discount,https://www.quickmart.co.ke/cereos-oatmeal-cereals-375g.-35,Quickmart
+2026-07-09,maize flour,Nutrameal Natural Wholesome Cane Sugar 5Kg,KES 765.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-5kg-62,Quickmart
+2026-07-09,maize flour,Lyons Maid Enigma Salted Caramel Ice Cream 80Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-salted-caramel-ice-cream-80ml-63,Quickmart
+2026-07-09,maize flour,Minute Maid Delight/Pulpy 4Pk 1L,KES 599.00,No discount,https://www.quickmart.co.ke/minute-maid-delight/pulpy-4pk-1l-28,Quickmart
+2026-07-09,maize flour,Lyons Maid Real Orange Lolly Ice Cream 55Ml,KES 41.00,No discount,https://www.quickmart.co.ke/lyons-maid-real-orange-lolly-ice-cream-55ml-63,Quickmart
+2026-07-09,maize flour,Goat Meat Per 500G,KES 549.50,No discount,https://www.quickmart.co.ke/goat-meat-per-500g-51,Quickmart
+2026-07-09,maize flour,Lyons Maid Enigma Classic Ice Cream 110Ml,KES 100.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-classic-ice-cream-110ml-62,Quickmart
+2026-07-09,maize flour,Lyons Maid Enigma Salted Caraml Ice Cream 110Ml,KES 100.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-salted-caraml-ice-cream-110ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Enigma Classic Mini Ice Cream 80Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-classic-mini-ice-cream-80ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Enigma Death By Chocolate 80Ml,KES 75.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-death-by-chocolate-80ml-25,Quickmart
+2026-07-09,maize flour,Minute Maid Delight Tropical 400M,KES 85.00,No discount,https://www.quickmart.co.ke/minute-maid-delight-tropical-400m-53,Quickmart
+2026-07-09,maize flour,Minute Maid Apple Pulpy Juice 400Ml,KES 85.00,No discount,https://www.quickmart.co.ke/minute-maid-apple-pulpy-juice-400ml-63,Quickmart
+2026-07-09,maize flour,Minute Maid Pulpy Orange 400Ml,KES 85.00,No discount,https://www.quickmart.co.ke/minute-maid-pulpy-orange-400ml-56,Quickmart
+2026-07-09,maize flour,Lyons Maid Chocochips 500Ml,KES 295.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocochips-500ml-46,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Lemon & Lime 55Ml,KES 41.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-lemon-lime-55ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Vanilla Pack 1L,KES 620.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla-pack-1l-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Vanilla 250Ml,KES 110.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla-250ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Chocolate Ripple 500Ml,KES 295.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocolate-ripple-500ml-34,Quickmart
+2026-07-09,maize flour,Minute Maid Mango Pulpy Juice 400Ml,KES 85.00,No discount,https://www.quickmart.co.ke/minute-maid-mango-pulpy-juice-400ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Devil Lolly 55Ml,KES 41.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-devil-lolly-55ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Choconut Special 500Ml,KES 295.00,No discount,https://www.quickmart.co.ke/lyons-maid-choconut-special-500ml-26,Quickmart
+2026-07-09,maize flour,Lyons Maid Strawberry Ripple 500Ml,KES 295.00,No discount,https://www.quickmart.co.ke/lyons-maid-strawberry-ripple-500ml-27,Quickmart
+2026-07-09,maize flour,Lyons Maid Vanilla Cup Ice Cream 130 Ml,KES 62.00,No discount,https://www.quickmart.co.ke/lyons-maid-vanilla-cup-ice-cream-130-ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Enigma Cookie Delight 80Ml,KES 75.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-cookie-delight-80ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Toto Vanilla Cup Ice Cream 80Ml,KES 40.00,No discount,https://www.quickmart.co.ke/lyons-maid-toto-vanilla-cup-ice-cream-80ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Strawberry Pack 1L,KES 620.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-strawberry-pack-1l-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Enigma Almond Mini Ice Cream 80Ml,KES 75.00,No discount,https://www.quickmart.co.ke/lyons-maid-enigma-almond-mini-ice-cream-80ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Chocolate & Banana 60Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-chocolate-banana-60ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Strawberry Cup 130Ml,KES 62.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-strawberry-cup-130ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Chocomania Chocolate Spread 250G,KES 360.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocomania-chocolate-spread-250g-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Vanilla Chocolate 250Ml,KES 110.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla-chocolate-250ml-25,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Vanilla Strawberry 250Ml,KES 110.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla-strawberry-250ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Chocomania Chocolate Spread 500G,KES 595.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocomania-chocolate-spread-500g-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Toffee & Chocolate With Nuts 60Ml,KES 70.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-toffee-chocolate-with-nuts-60ml-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Ice Cream Vanilla/Strawberry Pack 1L,KES 620.00,No discount,https://www.quickmart.co.ke/lyons-maid-ice-cream-vanilla/strawberry-pack-1l-63,Quickmart
+2026-07-09,maize flour,Lyons Maid Chocotella Hazelnut & Cocoa Spread 500G,KES 750.00,No discount,https://www.quickmart.co.ke/lyons-maid-chocotella-hazelnut-cocoa-spread-500g-63,Quickmart
+2026-07-09,wheat flour,Lotus Home Baking Flour 2Kg,KES 149.00,KES 160.00,https://www.quickmart.co.ke/lotus-home-baking-flour-2kg-49,Quickmart
+2026-07-09,wheat flour,Ajab Home Baking Flour 2Kg,KES 172.00,No discount,https://www.quickmart.co.ke/ajab-home-baking-flour-2kg-41,Quickmart
+2026-07-09,wheat flour,Pembe Home Baking Flour 2Kg,KES 183.00,No discount,https://www.quickmart.co.ke/pembe-home-baking-flour-2kg-40,Quickmart
+2026-07-09,wheat flour,Ajab Home Baking Flour 1Kg,KES 90.00,No discount,https://www.quickmart.co.ke/ajab-home-baking-flour-1kg-50,Quickmart
+2026-07-09,wheat flour,210 Home Baking Flour 2Kg,KES 164.00,No discount,https://www.quickmart.co.ke/210-home-baking-flour-2kg-58,Quickmart
+2026-07-09,wheat flour,Ndovu Home Baking Flour 1Kg,KES 86.00,No discount,https://www.quickmart.co.ke/ndovu-home-baking-flour-1kg-31,Quickmart
+2026-07-09,wheat flour,Ndovu Home Baking Flour 2Kg,KES 166.00,No discount,https://www.quickmart.co.ke/ndovu-home-baking-flour-2kg-53,Quickmart
+2026-07-09,wheat flour,Elliots Home Baking Flour 2Kg,KES 175.00,No discount,https://www.quickmart.co.ke/elliots-home-baking-flour-2kg-67,Quickmart
+2026-07-09,wheat flour,Pembe Maize Flour 2Kg,KES 161.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-2kg-56,Quickmart
+2026-07-09,wheat flour,Soko Maize Flour 2Kg,KES 165.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-2kg-45,Quickmart
+2026-07-09,wheat flour,Amaize Flour 2Kg,KES 202.00,No discount,https://www.quickmart.co.ke/amaize-flour-2kg-46,Quickmart
+2026-07-09,wheat flour,Exe All Purpose Flour 2Kg,KES 174.00,No discount,https://www.quickmart.co.ke/exe-all-purpose-flour-2kg-22,Quickmart
+2026-07-09,wheat flour,Chapa Mandashi Baking 100G,KES 35.00,No discount,https://www.quickmart.co.ke/chapa-mandashi-baking-100g-54,Quickmart
+2026-07-09,wheat flour,Clovers Baking Powder 90G,KES 27.00,No discount,https://www.quickmart.co.ke/clovers-baking-powder-90g-63,Quickmart
+2026-07-09,wheat flour,Exe Self Raising Flour 2Kg,KES 191.00,No discount,https://www.quickmart.co.ke/exe-self-raising-flour-2kg-54,Quickmart
+2026-07-09,wheat flour,Soko Maize Flour 5Kg,KES 418.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-5kg-59,Quickmart
+2026-07-09,wheat flour,Clovers Baking Powder 90Gms,KES 27.00,No discount,https://www.quickmart.co.ke/clovers-baking-powder-90gms-16,Quickmart
+2026-07-09,wheat flour,Exe All Purpose Flour 1Kg,KES 89.00,No discount,https://www.quickmart.co.ke/exe-all-purpose-flour-1kg-41,Quickmart
+2026-07-09,wheat flour,Pembe Maize Flour 5Kg,KES 415.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-5kg-66,Quickmart
+2026-07-09,wheat flour,Soko Maize Flour 10Kg,KES 825.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-10kg-48,Quickmart
+2026-07-09,wheat flour,Hostess Maize Flour 2Kg,KES 199.00,No discount,https://www.quickmart.co.ke/hostess-maize-flour-2kg-57,Quickmart
+2026-07-09,wheat flour,Pendo 2Kg Wheat Flour,KES 149.00,KES 161.00,https://www.quickmart.co.ke/pendo-2kg-wheat-flour-40,Quickmart
+2026-07-09,wheat flour,Fay Baking Paper 38Cmx10M,KES 350.00,No discount,https://www.quickmart.co.ke/fay-baking-paper-38cmx10m-63,Quickmart
+2026-07-09,wheat flour,Soko Maize Flour 1Kg,KES 84.00,No discount,https://www.quickmart.co.ke/soko-maize-flour-1kg-12,Quickmart
+2026-07-09,wheat flour,Jogoo Maize Meal 2Kg,KES 168.00,No discount,https://www.quickmart.co.ke/jogoo-maize-meal-2kg-53,Quickmart
+2026-07-09,wheat flour,Soko Afya Wimbi/Cassava Flour 1Kg,KES 128.00,No discount,https://www.quickmart.co.ke/soko-afya-wimbi/cassava-flour-1kg-26,Quickmart
+2026-07-09,wheat flour,Dola All Purpose Flour 2Kg,KES 168.00,No discount,https://www.quickmart.co.ke/dola-all-purpose-flour-2kg-58,Quickmart
+2026-07-09,wheat flour,210 Sifted Maize Flour 2Kg,KES 151.00,KES 164.00,https://www.quickmart.co.ke/210-sifted-maize-flour-2kg-52,Quickmart
+2026-07-09,wheat flour,Kabras Sugar White 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/kabras-sugar-white-1kg-52,Quickmart
+2026-07-09,wheat flour,Zesta Corn Flour 250G,KES 85.00,No discount,https://www.quickmart.co.ke/zesta-corn-flour-250g-39,Quickmart
+2026-07-09,wheat flour,Exe Chapati Flour 1Kg,KES 89.00,No discount,https://www.quickmart.co.ke/exe-chapati-flour-1kg-22,Quickmart
+2026-07-09,wheat flour,Kensalt Premium Iodated Table Salt 1Kg,KES 47.00,No discount,https://www.quickmart.co.ke/kensalt-premium-iodated-table-salt-1kg-63,Quickmart
+2026-07-09,wheat flour,Grainmill Oat Flour 1Kg,KES 499.00,No discount,https://www.quickmart.co.ke/grainmill-oat-flour-1kg-27,Quickmart
+2026-07-09,wheat flour,Pembe Maize Flour 1Kg,KES 88.00,No discount,https://www.quickmart.co.ke/pembe-maize-flour-1kg-60,Quickmart
+2026-07-09,wheat flour,Grainmill Oat Flour 500G,KES 285.00,No discount,https://www.quickmart.co.ke/grainmill-oat-flour-500g-27,Quickmart
+2026-07-09,wheat flour,Jogoo Maize Flour 5Kg,KES 436.00,No discount,https://www.quickmart.co.ke/jogoo-maize-flour-5kg-26,Quickmart
+2026-07-09,wheat flour,Pembe Mandazi Flour 2Kg,KES 183.00,No discount,https://www.quickmart.co.ke/pembe-mandazi-flour-2kg-66,Quickmart
+2026-07-09,wheat flour,Jogoo Maize Flour 10Kg,KES 860.00,No discount,https://www.quickmart.co.ke/jogoo-maize-flour-10kg-30,Quickmart
+2026-07-09,wheat flour,High Quality Cassava Flour 1Kg,KES 355.00,No discount,https://www.quickmart.co.ke/high-quality-cassava-flour-1kg-60,Quickmart
+2026-07-09,wheat flour,Nutrameal Natural Wholesome Cane Sugar 2Kg,KES 305.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-2kg-63,Quickmart
+2026-07-09,wheat flour,Dola Maize Meal 2Kg,KES 164.00,No discount,https://www.quickmart.co.ke/dola-maize-meal-2kg-52,Quickmart
+2026-07-09,wheat flour,Clovers Cornflour 400G,KES 87.00,KES 97.00,https://www.quickmart.co.ke/clovers-cornflour-400g-27,Quickmart
+2026-07-09,wheat flour,Ajab Fortified Self Raising Flour 2Kg,KES 174.00,No discount,https://www.quickmart.co.ke/ajab-fortified-self-raising-flour-2kg-50,Quickmart
+2026-07-09,wheat flour,Kensalt Premium Iodated Table Salt 500G,KES 25.00,No discount,https://www.quickmart.co.ke/kensalt-premium-iodated-table-salt-500g-63,Quickmart
+2026-07-09,wheat flour,Ndovu Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/ndovu-maize-flour-2kg-23,Quickmart
+2026-07-09,wheat flour,Kensalt Premium Iodated Edible Table Salt 2Kg,KES 95.00,No discount,https://www.quickmart.co.ke/kensalt-premium-iodated-edible-table-salt-2kg-63,Quickmart
+2026-07-09,wheat flour,Nutrameal Natural Wholesome Cane Sugar 1Kg,KES 155.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-1kg-63,Quickmart
+2026-07-09,wheat flour,Joymax Maize Meal 5Kg,KES 345.00,No discount,https://www.quickmart.co.ke/joymax-maize-meal-5kg-28,Quickmart
+2026-07-09,wheat flour,Mumias Sugar 2 Kg,KES 305.00,No discount,https://www.quickmart.co.ke/mumias-sugar-2-kg-47,Quickmart
+2026-07-09,wheat flour,Soko Homebaking Flour 2Kg,KES 171.00,No discount,https://www.quickmart.co.ke/soko-homebaking-flour-2kg-60,Quickmart
+2026-07-09,wheat flour,Ajab Fortified Atta Mark1 Flour 2Kg,KES 174.00,No discount,https://www.quickmart.co.ke/ajab-fortified-atta-mark1-flour-2kg-57,Quickmart
+2026-07-09,wheat flour,Famila Uji Mix 500G,KES 82.00,No discount,https://www.quickmart.co.ke/famila-uji-mix-500g-60,Quickmart
+2026-07-09,wheat flour,Soko Homebaking Flour 1Kg,KES 88.00,No discount,https://www.quickmart.co.ke/soko-homebaking-flour-1kg-53,Quickmart
+2026-07-09,wheat flour,Famila Ujimix Sour 1Kg,KES 165.00,No discount,https://www.quickmart.co.ke/famila-ujimix-sour-1kg-53,Quickmart
+2026-07-09,wheat flour,Nutrameal Natural Wholesome Cane Sugar 5Kg,KES 765.00,No discount,https://www.quickmart.co.ke/nutrameal-natural-wholesome-cane-sugar-5kg-62,Quickmart
+2026-07-09,wheat flour,Exe Chapati Flour 2Kg,KES 176.00,No discount,https://www.quickmart.co.ke/exe-chapati-flour-2kg-58,Quickmart
+2026-07-09,wheat flour,Winnie Toto Afya 1Kg,KES 333.00,No discount,https://www.quickmart.co.ke/winnie-toto-afya-1kg-28,Quickmart
+2026-07-09,wheat flour,Famila Baby Weaning 500G,KES 86.00,No discount,https://www.quickmart.co.ke/famila-baby-weaning-500g-39,Quickmart
+2026-07-09,wheat flour,Soko Uji Sour Wimbi Mix 1Kg,KES 157.00,No discount,https://www.quickmart.co.ke/soko-uji-sour-wimbi-mix-1kg-16,Quickmart
+2026-07-09,wheat flour,Famila Pure Wimbi Porridge 1Kg,KES 183.00,No discount,https://www.quickmart.co.ke/famila-pure-wimbi-porridge-1kg-52,Quickmart
+2026-07-09,wheat flour,Lea Premium Maize Meal 2Kg,KES 196.00,No discount,https://www.quickmart.co.ke/lea-premium-maize-meal-2kg-28,Quickmart
+2026-07-09,wheat flour,Raha Premium Maize Meal 5 Kg,KES 495.00,No discount,https://www.quickmart.co.ke/raha-premium-maize-meal-5-kg-24,Quickmart
+2026-07-09,wheat flour,Phulka Atta Mark 1 Chapati Flour 2Kg,KES 165.00,No discount,https://www.quickmart.co.ke/phulka-atta-mark-1-chapati-flour-2kg-66,Quickmart
+2026-07-09,wheat flour,Pembe Self Raising 2Kg,KES 183.00,No discount,https://www.quickmart.co.ke/pembe-self-raising-2kg-27,Quickmart
+2026-07-09,wheat flour,Kamili's Top Chef Table Salt 500G,KES 65.00,No discount,https://www.quickmart.co.ke/kamili's-top-chef-table-salt-500g-63,Quickmart
+2026-07-09,wheat flour,Joymax Maize Meal 2Kg,KES 140.00,No discount,https://www.quickmart.co.ke/joymax-maize-meal-2kg-35,Quickmart
+2026-07-09,wheat flour,Pembe Atta Mark 1 2Kg,KES 183.00,No discount,https://www.quickmart.co.ke/pembe-atta-mark-1-2kg-58,Quickmart
+2026-07-09,wheat flour,Elliots Mandazi 1Kg,KES 95.00,No discount,https://www.quickmart.co.ke/elliots-mandazi-1kg-63,Quickmart
+2026-07-09,wheat flour,Exe Mandazi Flour 2Kg,KES 191.00,No discount,https://www.quickmart.co.ke/exe-mandazi-flour-2kg-54,Quickmart
+2026-07-09,wheat flour,Blue Band Instant Porridge 500G,KES 80.00,KES 160.00,https://www.quickmart.co.ke/blue-band-instant-porridge-500g-9,Quickmart
+2026-07-09,wheat flour,Winnie Pure Wimbi Afya 1Kg,KES 214.00,No discount,https://www.quickmart.co.ke/winnie-pure-wimbi-afya-1kg-61,Quickmart
+2026-07-09,wheat flour,Naturalli Himalayan Pink Fine Salt 150Gms,KES 99.00,No discount,https://www.quickmart.co.ke/naturalli-himalayan-pink-fine-salt-150gms-63,Quickmart
+2026-07-09,wheat flour,Ajab Fortified Mandazi Flour 2Kg,KES 174.00,No discount,https://www.quickmart.co.ke/ajab-fortified-mandazi-flour-2kg-8,Quickmart
+2026-07-09,wheat flour,Famila Pure Wimbi Porridge 500G,KES 93.00,No discount,https://www.quickmart.co.ke/famila-pure-wimbi-porridge-500g-58,Quickmart
+2026-07-09,wheat flour,Famila Nutri Health Uji 1 Kg,KES 172.00,No discount,https://www.quickmart.co.ke/famila-nutri-health-uji-1-kg-61,Quickmart
+2026-07-09,wheat flour,Swan Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/swan-maize-flour-2kg-41,Quickmart
+2026-07-09,wheat flour,Winnie Uji Afya 1Kg,KES 179.00,No discount,https://www.quickmart.co.ke/winnie-uji-afya-1kg-25,Quickmart
+2026-07-09,wheat flour,Winnie Ugali Afya 1Kg,KES 154.00,No discount,https://www.quickmart.co.ke/winnie-ugali-afya-1kg-31,Quickmart
+2026-07-09,wheat flour,Soko Pure Wimbi Uji 1Kg,KES 172.00,No discount,https://www.quickmart.co.ke/soko-pure-wimbi-uji-1kg-39,Quickmart
+2026-07-09,wheat flour,Jogoo Wimbi 2Kg,KES 276.00,No discount,https://www.quickmart.co.ke/jogoo-wimbi-2kg-47,Quickmart
+2026-07-09,wheat flour,Pembe Maize Meal 10Kg,KES 830.00,No discount,https://www.quickmart.co.ke/pembe-maize-meal-10kg-29,Quickmart
+2026-07-09,wheat flour,Kamili's Top Chef Table Salt 1Kg,KES 126.00,No discount,https://www.quickmart.co.ke/kamili's-top-chef-table-salt-1kg-63,Quickmart
+2026-07-09,wheat flour,Oryx Premium Maize Meal 2Kg,KES 169.00,No discount,https://www.quickmart.co.ke/oryx-premium-maize-meal-2kg-40,Quickmart
+2026-07-09,wheat flour,Winnie Atta Mark 1 2Kg,KES 277.00,No discount,https://www.quickmart.co.ke/winnie-atta-mark-1-2kg-12,Quickmart
+2026-07-09,wheat flour,Pembe Pure Wimbi Porrdge 1Kg,KES 179.00,No discount,https://www.quickmart.co.ke/pembe-pure-wimbi-porrdge-1kg-61,Quickmart
+2026-07-09,wheat flour,Pendo 2Kg Wheat Flour-Bale,"KES 1,932.00",No discount,https://www.quickmart.co.ke/pendo-2kg-wheat-flour-bale-26,Quickmart
+2026-07-09,wheat flour,Soko Afya Whole Grain Maize 2Kg,KES 203.00,No discount,https://www.quickmart.co.ke/soko-afya-whole-grain-maize-2kg-26,Quickmart
+2026-07-09,wheat flour,Mama Maize Flour 2Kg,KES 150.00,No discount,https://www.quickmart.co.ke/mama-maize-flour-2kg-32,Quickmart
+2026-07-09,wheat flour,Cereal Box Peanut Flour Per 500G,KES 632.50,No discount,https://www.quickmart.co.ke/cereal-box-peanut-flour-per-500g,Quickmart
