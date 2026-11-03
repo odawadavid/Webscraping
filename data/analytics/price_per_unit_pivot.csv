@@ -1,26 +1,31 @@
 sku,E-Mart,Naivas,Quickmart
 Bread200g,1400.0,550.0,175.0
 Bread400g,162.5,162.5,162.5
-Bread5kg,49.3,48.0,44.5
+Bread5kg,49.3,48.0,48.0
 Bread600g,166.66666666666669,166.66666666666669,166.66666666666669
 Bread800g,162.5,162.5,162.5
 Cooking Oil10l,312.45,291.5,292.75
-Cooking Oil1l,399.0,355.0,433.0
+Cooking Oil1l,399.0,355.0,425.0
 Cooking Oil20l,289.225,291.35,282.5
 Cooking Oil2l,375.0,337.5,395.0
 Cooking Oil3l,383.3333333333333,340.0,355.8333333333333
+Cooking Oil500ml,439.0,380.0,604.0
 Cooking Oil5l,330.0,321.8,322.0
-Maize Meal10kg,86.0,82.5,72.7
-Maize Meal2kg,88.75,76.0,80.5
-Maize Meal5kg,88.0,83.0,80.9
+Maize Meal10kg,86.0,81.5,80.9
+Maize Meal1kg,90.0,84.0,99.0
+Maize Meal2kg,96.0,79.0,79.5
+Maize Meal5kg,88.0,82.0,87.2
+MilkBrookside1l,167.5,175.0,172.0
+MilkBrookside250ml,280.0,212.0,296.0
+MilkBrookside500ml,132.0,166.0,170.0
+MilkFresha500ml,116.0,146.0,144.0
 Rice250g,5196.0,1404.0,1396.0
-Rice2kg,290.0,245.0,246.5
-Rice400g,1125.0,1168.75,639.0
-Rice5kg,315.0,259.8,255.3
-Sugar200g,1300.0,995.0,650.0
+Rice2kg,290.0,244.75,246.5
+Rice5kg,300.0,234.9,255.3
+Sugar200g,1300.0,797.5,650.0
 Sugar2kg,182.5,149.5,147.5
-Sugar500g,300.0,324.0,318.0
+Sugar500g,300.0,330.0,318.0
 Sugar5kg,174.0,147.0,153.0
-Wheat Flour1kg,210.0,101.0,170.0
-Wheat Flour2kg,92.5,92.0,97.25
-Wheat Flour500g,370.0,1020.0,205.0
+Wheat Flour1kg,195.0,130.5,153.0
+Wheat Flour2kg,92.5,93.75,98.0
+Wheat Flour500g,370.0,475.0,387.5
